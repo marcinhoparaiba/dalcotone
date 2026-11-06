@@ -53,31 +53,60 @@
       "productId": "0362c5b04fc5ffb5",
       "name": "Force Life Must Use 250 mL",
       "actives": [
+        "Pantenol",
+        "Ômegas 3, 5 e 6",
+        "Queratina",
         "Nano Link",
         "Semi di Lino",
-        "Blend de silicones"
+        "Silicones especiais"
       ],
       "activeDetails": [
         {
-          "name": "Nano Link + Semi di Lino + Blend de silicones",
-          "role": "O conjunto é descrito como formador de filme selante e protetor dos fios, com ação antifrizz; a página não separa a função de cada componente no fluido."
+          "name": "Pantenol",
+          "role": null
+        },
+        {
+          "name": "Ômegas 3, 5 e 6",
+          "role": null
+        },
+        {
+          "name": "Queratina",
+          "role": null
+        },
+        {
+          "name": "Nano Link",
+          "role": null
+        },
+        {
+          "name": "Semi di Lino",
+          "role": null
+        },
+        {
+          "name": "Silicones especiais",
+          "role": null
         }
       ],
       "benefits": [
-        "Ação antifrizz",
-        "Filme selante e proteção dos fios"
+        "Nutrição",
+        "Controle do frizz",
+        "Flexibilidade",
+        "Elasticidade",
+        "Brilho",
+        "Proteção térmica",
+        "Penteabilidade"
       ],
-      "indication": "Todos os tipos de cabelo, conforme rótulo.",
+      "indication": "Todos os tipos de cabelos; uso diário, especialmente antes de secador, prancha e modelador.",
       "occasions": [
         "Finalização após a rotina Force Life"
       ],
       "use": "Borrife nos fios limpos e úmidos, massageando da raiz às pontas. Pode ser usado com ou sem enxágue, conforme o catálogo.",
       "declaredPH": "3,0–4,0",
-      "sourcePage": 27,
+      "sourcePage": 28,
       "notes": [
         "Não confundir Must Use com Necessity Use nem com pH Control.",
         "Faixa de pH transcrita do rótulo na imagem da página.",
-        "A fórmula do fluido é apresentada separadamente dos ativos da linha Force Life: não transferir Capilmax, Bambu e Jaborandi ao Must Use."
+        "A fórmula do fluido é apresentada separadamente dos ativos da linha Force Life: não transferir Capilmax, Bambu e Jaborandi ao Must Use.",
+        "A p27 cita só parte dos ativos; a p28 complementa. Não são ativos do Necessity Use."
       ]
     },
     {
@@ -812,6 +841,392 @@
       "sourcePage": 35,
       "notes": [
         "Dados técnicos do catálogo 2025 fornecido pelo usuário; conferência visual da página e rótulo. Ativos destacados não são INCI completo."
+      ]
+    },
+    {
+      "productId": "01183f9d468921d6",
+      "name": "Shampoo Power Curls 1 L",
+      "actives": [
+        "D’Pantenol (Provitamina B5)",
+        "Coco"
+      ],
+      "indication": "Cabelos cacheados, ondulados e crespos, especialmente os que necessitam de modelagem.",
+      "use": "Aplicar nos cabelos molhados e massagear até formar espuma. Enxaguar completamente e repetir se necessário.",
+      "declaredPH": "4,5–5,5",
+      "sourcePage": 17,
+      "notes": [
+        "Ativos apresentados em bloco da linha na mesma página que exibe esta embalagem."
+      ],
+      "activeDetails": [
+        {
+          "name": "D’Pantenol (Provitamina B5)",
+          "role": null
+        },
+        {
+          "name": "Coco",
+          "role": null
+        }
+      ]
+    },
+    {
+      "productId": "d7d4d08e9715ef3e",
+      "name": "Shampoo Power Curls 300 mL",
+      "actives": [
+        "D’Pantenol (Provitamina B5)",
+        "Coco"
+      ],
+      "indication": "Cabelos cacheados, ondulados e crespos, especialmente os que necessitam de modelagem.",
+      "use": "Aplicar nos cabelos molhados e massagear até formar espuma. Enxaguar completamente e repetir se necessário.",
+      "declaredPH": "4,5–5,5",
+      "sourcePage": 19,
+      "notes": [
+        "Ativos apresentados em bloco da linha na mesma página que exibe esta embalagem."
+      ],
+      "activeDetails": [
+        {
+          "name": "D’Pantenol (Provitamina B5)",
+          "role": null
+        },
+        {
+          "name": "Coco",
+          "role": null
+        }
+      ]
+    },
+    {
+      "productId": "03bcd497b08d00bb",
+      "name": "Shampoo S.O.S Detox 1 L",
+      "indication": "Todos os tipos de cabelo: oleosos, secos, mistos ou quimicamente tratados.",
+      "benefits": [
+        "Limpeza profunda",
+        "Remoção de impurezas",
+        "Preparação do couro cabeludo para tratamentos",
+        "Maciez e revitalização"
+      ],
+      "use": "Aplicar nos cabelos molhados, massagear o couro cabeludo até espumar e enxaguar. Repetir se necessário.",
+      "declaredPH": "6,0–7,0",
+      "sourcePage": 23,
+      "notes": [
+        "A p23 não lista os ativos. Café verde/Fiber Detox/cártamo estão na p24 Home Care: não copiar para 1L como confirmação individual.",
+        "A p23 não determina pausa para shampoo; não importar os 5–10min da p24."
+      ],
+      "activeDetails": []
+    },
+    {
+      "productId": "e95975619b537972",
+      "name": "Condicionador Power Repair 1 L",
+      "indication": "Cabelos secos, ressecados e com frizz.",
+      "benefits": [
+        "Hidratação",
+        "Fortalecimento",
+        "Maciez",
+        "Brilho",
+        "Proteção da cor"
+      ],
+      "use": "Após a máscara, aplicar em toda a extensão dos fios, massagear e deixar agir aproximadamente 3 minutos antes de enxaguar bem.",
+      "declaredPH": "3,0–4,0",
+      "sourcePage": 20,
+      "notes": [
+        "A p20 profissional não lista Frulix/ceramidas; esses ativos são publicados na p21 Home Care. Não transferir silenciosamente ao condicionador1L."
+      ],
+      "activeDetails": []
+    },
+    {
+      "productId": "6f9f4653036c50d2",
+      "name": "Shampoo Blond Up Premium 1 L",
+      "actives": [
+        "Creatina",
+        "Ácido Violeta 43",
+        "Manteiga de abacate",
+        "Silicone e quaternários"
+      ],
+      "indication": "Cabelos loiros, grisalhos ou com mechas.",
+      "benefits": [
+        "Neutralização de tons amarelados",
+        "Brilho",
+        "Hidratação",
+        "Proteção e fortalecimento"
+      ],
+      "declaredPH": "4,5–5,5",
+      "sourcePage": 10,
+      "notes": [
+        "Lista dos ativos atribuída à linha na própria página. O rótulo profissional diz Extrato de Violeta; o quadro diz Ácido Violeta43. Não declarar estes nomes equivalentes nem transformar isso em INCI.",
+        "A p10 não publica modo de uso; não importar automaticamente o protocolo da embalagem300mL."
+      ],
+      "activeDetails": [
+        {
+          "name": "Creatina",
+          "role": null
+        },
+        {
+          "name": "Ácido Violeta 43",
+          "role": null
+        },
+        {
+          "name": "Manteiga de abacate",
+          "role": null
+        },
+        {
+          "name": "Silicone e quaternários",
+          "role": null
+        }
+      ]
+    },
+    {
+      "productId": "a9a848c44de789fb",
+      "name": "Máscara Blond Up Premium 1 kg",
+      "actives": [
+        "Creatina",
+        "Ácido Violeta 43",
+        "Manteiga de abacate",
+        "Silicone e quaternários"
+      ],
+      "indication": "Cabelos loiros, grisalhos ou com mechas.",
+      "benefits": [
+        "Neutralização de tons amarelados",
+        "Brilho",
+        "Hidratação",
+        "Proteção e fortalecimento"
+      ],
+      "sourcePage": 10,
+      "notes": [
+        "Lista dos ativos atribuída à linha na própria página. O rótulo profissional diz Extrato de Violeta; o quadro diz Ácido Violeta43. Não declarar estes nomes equivalentes nem transformar isso em INCI.",
+        "A p10 não publica modo de uso; não importar automaticamente o protocolo da embalagem300mL."
+      ],
+      "activeDetails": [
+        {
+          "name": "Creatina",
+          "role": null
+        },
+        {
+          "name": "Ácido Violeta 43",
+          "role": null
+        },
+        {
+          "name": "Manteiga de abacate",
+          "role": null
+        },
+        {
+          "name": "Silicone e quaternários",
+          "role": null
+        }
+      ]
+    },
+    {
+      "productId": "ad696ecbb8523b00",
+      "name": "Máscara Blond Up 300 g",
+      "actives": [
+        "Creatina",
+        "Ácido Violeta 43",
+        "Manteiga de abacate",
+        "Silicone e quaternários"
+      ],
+      "indication": "Cabelos loiros, grisalhos ou com mechas.",
+      "benefits": [
+        "Neutralização de tons amarelados",
+        "Brilho",
+        "Hidratação",
+        "Proteção e fortalecimento"
+      ],
+      "declaredPH": "3,5–4,5",
+      "use": "Após lavar, aplicar a máscara em toda a extensão, massagear, acompanhar o tom: menor tempo em fios mais claros e maior em amarelados. Enxaguar completamente.",
+      "sourcePage": 11,
+      "notes": [
+        "Lista dos ativos atribuída à linha na própria página. O rótulo profissional diz Extrato de Violeta; o quadro diz Ácido Violeta43. Não declarar estes nomes equivalentes nem transformar isso em INCI.",
+        "A p10 não publica modo de uso; não importar automaticamente o protocolo da embalagem300mL."
+      ],
+      "activeDetails": [
+        {
+          "name": "Creatina",
+          "role": null
+        },
+        {
+          "name": "Ácido Violeta 43",
+          "role": null
+        },
+        {
+          "name": "Manteiga de abacate",
+          "role": null
+        },
+        {
+          "name": "Silicone e quaternários",
+          "role": null
+        }
+      ]
+    },
+    {
+      "productId": "847ff96acdc5f26b",
+      "name": "Shampoo Blond Up 300 mL",
+      "actives": [
+        "Creatina",
+        "Ácido Violeta 43",
+        "Manteiga de abacate",
+        "Silicone e quaternários"
+      ],
+      "indication": "Cabelos loiros, grisalhos ou com mechas.",
+      "benefits": [
+        "Neutralização de tons amarelados",
+        "Brilho",
+        "Hidratação",
+        "Proteção e fortalecimento"
+      ],
+      "declaredPH": "4,5–5,5",
+      "use": "Aplicar nos cabelos molhados, massagear até espumar, ajustar o tempo conforme o tom: menos nos mais claros, mais nos amarelados. Enxaguar e repetir se necessário.",
+      "sourcePage": 11,
+      "notes": [
+        "Lista dos ativos atribuída à linha na própria página. O rótulo profissional diz Extrato de Violeta; o quadro diz Ácido Violeta43. Não declarar estes nomes equivalentes nem transformar isso em INCI.",
+        "A p10 não publica modo de uso; não importar automaticamente o protocolo da embalagem300mL."
+      ],
+      "activeDetails": [
+        {
+          "name": "Creatina",
+          "role": null
+        },
+        {
+          "name": "Ácido Violeta 43",
+          "role": null
+        },
+        {
+          "name": "Manteiga de abacate",
+          "role": null
+        },
+        {
+          "name": "Silicone e quaternários",
+          "role": null
+        }
+      ]
+    },
+    {
+      "productId": "008a07353d60761c",
+      "name": "Kit Blond Up Home Care",
+      "actives": [
+        "Creatina",
+        "Ácido Violeta 43",
+        "Manteiga de abacate",
+        "Silicone e quaternários"
+      ],
+      "indication": "Cabelos loiros, grisalhos ou com mechas.",
+      "use": "Lavar com shampoo, ajustando o tempo ao tom dos fios e enxaguar; repetir se necessário. Aplicar máscara em toda extensão, massagear, ajustar ação ao tom e enxaguar completamente.",
+      "sourcePage": 11,
+      "notes": [
+        "Kit Home Care mostrado com shampoo300mL e máscara300g; não resolve composição comercial atual sem loja."
+      ],
+      "activeDetails": [
+        {
+          "name": "Creatina",
+          "role": null
+        },
+        {
+          "name": "Ácido Violeta 43",
+          "role": null
+        },
+        {
+          "name": "Manteiga de abacate",
+          "role": null
+        },
+        {
+          "name": "Silicone e quaternários",
+          "role": null
+        }
+      ]
+    },
+    {
+      "productId": "d6c72aac411c5ca5",
+      "name": "Reparador de Pontas Argan Oil Premium 30 mL",
+      "actives": [
+        "Óleo de argan"
+      ],
+      "benefits": [
+        "Controle do frizz",
+        "Brilho",
+        "Maciez",
+        "Revitalização",
+        "Proteção antioxidante"
+      ],
+      "indication": "Fios que necessitam de maciez, brilho e controle de frizz.",
+      "use": "Espalhar algumas gotas nas mãos e distribuir uniformemente nas pontas. Pode ser usado antes ou após escova ou prancha.",
+      "sourcePage": 16,
+      "notes": [
+        "Volume30mL visível na própria página."
+      ],
+      "activeDetails": [
+        {
+          "name": "Óleo de argan",
+          "role": null
+        }
+      ]
+    },
+    {
+      "productId": "bc1e3e2b94dc6780",
+      "name": "Perfume Capilar L'amour Nutritivo 100ml",
+      "actives": [
+        "Extrato de morango",
+        "Vitaminas e nutrientes não discriminados"
+      ],
+      "use": "Borrifar a15cm, por toda extensão dos fios, evitando a raiz. Não enxaguar.",
+      "indication": "Cabelos opacos, desnutridos e sem brilho.",
+      "occasions": [
+        "Uso diário",
+        "Tratamento hidratante intensivo à noite"
+      ],
+      "sourcePage": 32,
+      "notes": [],
+      "activeDetails": [
+        {
+          "name": "Extrato de morango",
+          "role": null
+        },
+        {
+          "name": "Vitaminas e nutrientes não discriminados",
+          "role": null
+        }
+      ]
+    },
+    {
+      "productId": "288400afe5f54ed1",
+      "name": "Máscara Monovin 300 g",
+      "actives": [
+        "Vitamina Pro A",
+        "Vitamina Pro B5"
+      ],
+      "indication": "Todos os tipos de cabelo, especialmente fios fragilizados.",
+      "use": "Após o shampoo, aplicar nos fios, deixar agir10–15min e enxaguar completamente. O catálogo sugere duas vezes por semana ou quando necessário.",
+      "sourcePage": 33,
+      "notes": [
+        "Ativos do bloco da linha na página da embalagem300g; não interpretar ProA como concentração ou INCI."
+      ],
+      "activeDetails": [
+        {
+          "name": "Vitamina Pro A",
+          "role": null
+        },
+        {
+          "name": "Vitamina Pro B5",
+          "role": null
+        }
+      ]
+    },
+    {
+      "productId": "cefb5c7098b88e45",
+      "name": "Kit de Ampolas Vitamínicas Nutritivas 4 x 15 mL",
+      "actives": [
+        "Complexo de vitaminas não discriminadas",
+        "Capilmax"
+      ],
+      "use": "Nos cabelos limpos, aplicar da raiz às pontas, ou adicionar à máscara DalCotone. Deixar agir5min e enxaguar.",
+      "sourcePage": 43,
+      "notes": [
+        "Página mostra ampola15mL; o conjunto4x15mL é formato de venda da loja, não publicado nesta página."
+      ],
+      "activeDetails": [
+        {
+          "name": "Complexo de vitaminas não discriminadas",
+          "role": null
+        },
+        {
+          "name": "Capilmax",
+          "role": null
+        }
       ]
     }
   ],

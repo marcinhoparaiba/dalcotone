@@ -5,12 +5,12 @@ Aplicativo pessoal para estudar a marca, os produtos e as linhas e preparar conv
 ## Conteúdo
 
 - Navegação por categoria de tratamento, linha, kits e produtos avulsos.
-- 109 entradas de estudo, reunindo a loja pública, o catálogo profissional2025 e uma montagem de Kit24K informada pelo consultor. Não representa estoque atual.
+- 110 entradas de estudo, reunindo a loja pública e o catálogo profissional2025. O exemplo de Kit24K não foi tratado como produto real.
 - Ativos divulgados e suas funções cosméticas de referência, ocasiões de uso, ficha técnica, diferenciais, protocolos e INCI quando disponível.
-- 26 conjuntos conferidos no material e uma montagem do consultor; volumes ou componentes não confirmados ficam explícitos.
+- 26 conjuntos conferidos no material; volumes ou componentes não confirmados ficam explícitos.
 - Roteiros de conversa para as28 linhas e para cada item, além da apresentação institucional e seus argumentos. Fabricação própria não é apresentada como prova automática de qualidade de todos os lotes ou de superioridade frente a concorrentes.
 - pHControl500mL revisado na página25 do PDF: NanoLink e LunaMatrix; pré-química, pós-química e blindagem têm orientações distintas. A página não publica uma faixa numérica depH. O item aparece normalmente, sem destaque especial.
-- 108 entradas com foto:85 referências da loja e23 fotografias extraídas doPDF enviado pelo consultor. A montagem não confirmada de Kit24K não recebe uma foto inventada.
+- 110 entradas com imagem referenciada:71 fotografias doPDF verificadas e empacotadas localmente;39 referências oficiais ainda dependem do download no aparelho. Não se afirma que esses39arquivos remotos tenham sido validados neste ambiente.
 
 ## Fotos e fontes
 
@@ -44,3 +44,11 @@ Em outro terminal, `node scripts/browser-check.mjs` valida a interface comChromi
 A configuração de hospedagem está em `.openai/hosting.json`. A audiência doSite permanece privada. Este repositório contém código e material de referência público, sem notas pessoais, tokens ou senhas.
 
 Destino Expo informado: `@marcinhopb/dal-lcotone`. A integração nativa foi adiada para terminar primeiro o material de estudo, conforme solicitado. NenhumAPK foi gerado e não se afirma vinculação autenticada comExpo.
+
+## Revisão integral do PDF e demonstrações
+
+As51páginas foram confrontadas com as fichas. A auditoria acrescentou ShampooL’Amour300mL e WomanCaps60cápsulas, corrigiu17fichas e separou divergências doPDF2025 e das páginas da loja. Nuances e corretores ColorCreams estão estruturados. Campos não divulgados continuam identificados. Evidências e pendências por produto: `research/release-audit.json`.
+
+A aba Demonstrações permite importar arquivos de vídeo por produto, filtrar, reproduzir e excluir offline. Os arquivos ficam em IndexedDB neste aparelho; não são enviados ao GitHub. O teste de importação/reload/reprodução/busca temporal/exclusão usa uma fixture sintética fora do app, nunca como demonstração comercial. Nenhum vídeo real de aplicação foi obtido para empacotar nesta revisão. A página oficial encontrada está identificada como online; não é apresentada como vídeo offline. Resultados reais e materiais oficiais ainda dependem de arquivos acessíveis.
+
+Animações discretas respeitam `prefers-reduced-motion`. Favoritos e notas anteriores são preservados. Para dados profissionais ou reformulações divergentes, consultar o rótulo específico; o app não preenche parâmetros ausentes com outra embalagem.

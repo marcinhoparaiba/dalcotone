@@ -1,0 +1,412 @@
+{
+  "queriedAt": "2026-11-06",
+  "images": [
+    {
+      "productId": "0362c5b04fc5ffb5",
+      "name": "Force Life Must Use 250 mL",
+      "page": 28,
+      "xref": 394,
+      "verifiedSKU": true,
+      "verifiedVolume": "250 ml",
+      "path": "/workspace/work/dalcotone-pdf/audit-assets-b/0362c5b04fc5ffb5.webp",
+      "sourceKind": "official_pdf",
+      "cropBox": null,
+      "notes": "Rótulo conferido visualmente. Foto extraída do PDF oficial, com alfa original e sem composição artificial."
+    },
+    {
+      "productId": "85e6ca2844f6803d",
+      "name": "Shampoo Force Life 300 mL",
+      "page": 27,
+      "xref": 375,
+      "verifiedSKU": true,
+      "verifiedVolume": "300 ml",
+      "path": "/workspace/work/dalcotone-pdf/audit-assets-b/85e6ca2844f6803d.webp",
+      "sourceKind": "official_pdf",
+      "cropBox": [
+        240,
+        165,
+        442,
+        980
+      ],
+      "notes": "Rótulo conferido visualmente. Foto extraída do PDF oficial, com alfa original e sem composição artificial."
+    },
+    {
+      "productId": "2bce03643a5eb89e",
+      "name": "Condicionador Force Life 300 mL",
+      "page": 27,
+      "xref": 375,
+      "verifiedSKU": true,
+      "verifiedVolume": "300 ml",
+      "path": "/workspace/work/dalcotone-pdf/audit-assets-b/2bce03643a5eb89e.webp",
+      "sourceKind": "official_pdf",
+      "cropBox": [
+        444,
+        165,
+        648,
+        980
+      ],
+      "notes": "Rótulo conferido visualmente. Foto extraída do PDF oficial, com alfa original e sem composição artificial."
+    },
+    {
+      "productId": "23691f31ecfc8833",
+      "name": "Máscara Force Life 300 g",
+      "page": 27,
+      "xref": 375,
+      "verifiedSKU": true,
+      "verifiedVolume": "300 g",
+      "path": "/workspace/work/dalcotone-pdf/audit-assets-b/23691f31ecfc8833.webp",
+      "sourceKind": "official_pdf",
+      "cropBox": [
+        650,
+        648,
+        1125,
+        990
+      ],
+      "notes": "Rótulo conferido visualmente. Foto extraída do PDF oficial, com alfa original e sem composição artificial."
+    },
+    {
+      "productId": "3e67b66612b7f633",
+      "name": "Kit Force Life + Must Use",
+      "page": 27,
+      "xref": 375,
+      "verifiedSKU": true,
+      "verifiedVolume": "300 ml +300 ml +300 g +250 ml",
+      "path": "/workspace/work/dalcotone-pdf/audit-assets-b/3e67b66612b7f633.webp",
+      "sourceKind": "official_pdf",
+      "cropBox": null,
+      "notes": "Rótulo conferido visualmente. Foto extraída do PDF oficial, com alfa original e sem composição artificial."
+    },
+    {
+      "productId": "9297bd616196f4df",
+      "name": "Kit Force Life",
+      "page": 27,
+      "xref": 375,
+      "verifiedSKU": true,
+      "verifiedVolume": "300 ml +300 ml +300 g",
+      "path": "/workspace/work/dalcotone-pdf/audit-assets-b/9297bd616196f4df.webp",
+      "sourceKind": "official_pdf",
+      "cropBox": [
+        240,
+        165,
+        1125,
+        990
+      ],
+      "notes": "Recorte contínuo dos3componentes do kit base, sem o MustUse; nenhum frasco foi adicionado ou remontado."
+    },
+    {
+      "productId": "48678d0216074934",
+      "name": "Shampoo Hydra Ceramides Hidratação e Antioxidante 300ml",
+      "page": 29,
+      "xref": 399,
+      "verifiedSKU": true,
+      "verifiedVolume": "300 ml",
+      "path": "/workspace/work/dalcotone-pdf/audit-assets-b/48678d0216074934.webp",
+      "sourceKind": "official_pdf",
+      "cropBox": [
+        285,
+        105,
+        515,
+        1058
+      ],
+      "notes": "Rótulo conferido visualmente. Foto extraída do PDF oficial, com alfa original e sem composição artificial."
+    },
+    {
+      "productId": "28860487c0334cd1",
+      "name": "Máscara Capilar Hydra Ceramides Hidratação e Antioxidante 300g",
+      "page": 29,
+      "xref": 399,
+      "verifiedSKU": true,
+      "verifiedVolume": "300 g",
+      "path": "/workspace/work/dalcotone-pdf/audit-assets-b/28860487c0334cd1.webp",
+      "sourceKind": "official_pdf",
+      "cropBox": [
+        520,
+        665,
+        1045,
+        1065
+      ],
+      "notes": "Rótulo conferido visualmente. Foto extraída do PDF oficial, com alfa original e sem composição artificial."
+    },
+    {
+      "productId": "c80795eeb384b531",
+      "name": "Óleo Spray Golden Premium Doador de Brilho 60ml",
+      "page": 30,
+      "xref": 409,
+      "verifiedSKU": true,
+      "verifiedVolume": "60 ml",
+      "path": "/workspace/work/dalcotone-pdf/audit-assets-b/c80795eeb384b531.webp",
+      "sourceKind": "official_pdf",
+      "cropBox": null,
+      "notes": "Rótulo conferido visualmente. Foto extraída do PDF oficial, com alfa original e sem composição artificial."
+    },
+    {
+      "productId": "fdf9be752a8c216a",
+      "name": "Kit Hydra Ceramides + Óleo Spray Golden Premium",
+      "page": 29,
+      "xref": 399,
+      "verifiedSKU": true,
+      "verifiedVolume": "300 ml +300 g +60 ml",
+      "path": "/workspace/work/dalcotone-pdf/audit-assets-b/fdf9be752a8c216a.webp",
+      "sourceKind": "official_pdf",
+      "cropBox": null,
+      "notes": "Rótulo conferido visualmente. Foto extraída do PDF oficial, com alfa original e sem composição artificial."
+    },
+    {
+      "productId": "6ecaab3b560f58fd",
+      "name": "Kit Hydra Ceramides",
+      "page": 29,
+      "xref": 399,
+      "verifiedSKU": true,
+      "verifiedVolume": "300 ml +300 g",
+      "path": "/workspace/work/dalcotone-pdf/audit-assets-b/6ecaab3b560f58fd.webp",
+      "sourceKind": "official_pdf",
+      "cropBox": [
+        285,
+        105,
+        1045,
+        1065
+      ],
+      "notes": "Recorte contínuo dos doisprodutosHydraCeramides da foto original, semGolden; sem montagem."
+    },
+    {
+      "productId": "f663762decc4c6b9",
+      "name": "Máscara L'Amour 300 g",
+      "page": 31,
+      "xref": 416,
+      "verifiedSKU": true,
+      "verifiedVolume": "300 g",
+      "path": "/workspace/work/dalcotone-pdf/audit-assets-b/f663762decc4c6b9.webp",
+      "sourceKind": "official_pdf",
+      "cropBox": [
+        490,
+        620,
+        955,
+        940
+      ],
+      "notes": "Rótulo conferido visualmente. Foto extraída do PDF oficial, com alfa original e sem composição artificial."
+    },
+    {
+      "productId": "bc1e3e2b94dc6780",
+      "name": "Perfume Capilar L'amour Nutritivo 100ml",
+      "page": 31,
+      "xref": 416,
+      "verifiedSKU": true,
+      "verifiedVolume": "100 ml",
+      "path": "/workspace/work/dalcotone-pdf/audit-assets-b/bc1e3e2b94dc6780.webp",
+      "sourceKind": "official_pdf",
+      "cropBox": [
+        105,
+        355,
+        280,
+        930
+      ],
+      "notes": "Rótulo conferido visualmente. Foto extraída do PDF oficial, com alfa original e sem composição artificial."
+    },
+    {
+      "productId": "559fb7f1ea51cc24",
+      "name": "Kit L'Amour Home Care + Perfume Capilar L'Amour",
+      "page": 31,
+      "xref": 416,
+      "verifiedSKU": true,
+      "verifiedVolume": "300 ml +300 g +100 ml",
+      "path": "/workspace/work/dalcotone-pdf/audit-assets-b/559fb7f1ea51cc24.webp",
+      "sourceKind": "official_pdf",
+      "cropBox": null,
+      "notes": "Rótulo conferido visualmente. Foto extraída do PDF oficial, com alfa original e sem composição artificial."
+    },
+    {
+      "productId": "daff3cb1e87f8b2f",
+      "name": "Shampoo Monovin 300ml",
+      "page": 33,
+      "xref": 430,
+      "verifiedSKU": true,
+      "verifiedVolume": "300 ml",
+      "path": "/workspace/work/dalcotone-pdf/audit-assets-b/daff3cb1e87f8b2f.webp",
+      "sourceKind": "official_pdf",
+      "cropBox": [
+        245,
+        85,
+        444,
+        890
+      ],
+      "notes": "Rótulo conferido visualmente. Foto extraída do PDF oficial, com alfa original e sem composição artificial."
+    },
+    {
+      "productId": "288400afe5f54ed1",
+      "name": "Máscara Monovin 300 g",
+      "page": 33,
+      "xref": 430,
+      "verifiedSKU": true,
+      "verifiedVolume": "300 g",
+      "path": "/workspace/work/dalcotone-pdf/audit-assets-b/288400afe5f54ed1.webp",
+      "sourceKind": "official_pdf",
+      "cropBox": [
+        447,
+        570,
+        920,
+        890
+      ],
+      "notes": "Rótulo conferido visualmente. Foto extraída do PDF oficial, com alfa original e sem composição artificial."
+    },
+    {
+      "productId": "e5f603736ab7da3a",
+      "name": "Tônico Capilar Dal Cotone Monovin Crescimento Acelerado 120ml",
+      "page": 33,
+      "xref": 430,
+      "verifiedSKU": true,
+      "verifiedVolume": "120 ml",
+      "path": "/workspace/work/dalcotone-pdf/audit-assets-b/e5f603736ab7da3a.webp",
+      "sourceKind": "official_pdf",
+      "cropBox": [
+        40,
+        325,
+        243,
+        885
+      ],
+      "notes": "Rótulo conferido visualmente. Foto extraída do PDF oficial, com alfa original e sem composição artificial."
+    },
+    {
+      "productId": "99b3b3196433752a",
+      "name": "Kit Monovin",
+      "page": 33,
+      "xref": 430,
+      "verifiedSKU": true,
+      "verifiedVolume": "300 ml +300 g +120 ml",
+      "path": "/workspace/work/dalcotone-pdf/audit-assets-b/99b3b3196433752a.webp",
+      "sourceKind": "official_pdf",
+      "cropBox": null,
+      "notes": "Rótulo conferido visualmente. Foto extraída do PDF oficial, com alfa original e sem composição artificial."
+    },
+    {
+      "productId": "4d656c72af8742ad",
+      "name": "Kit Cronograma Capilar – 3 Máscaras de 250 g",
+      "page": 37,
+      "xref": 491,
+      "verifiedSKU": true,
+      "verifiedVolume": "3 x250 g",
+      "path": "/workspace/work/dalcotone-pdf/audit-assets-b/4d656c72af8742ad.webp",
+      "sourceKind": "official_pdf",
+      "cropBox": null,
+      "notes": "Rótulo conferido visualmente. Foto extraída do PDF oficial, com alfa original e sem composição artificial."
+    },
+    {
+      "productId": "011793544db6c402",
+      "name": "Máscara Banana e Mel Efeito Teia 500 g",
+      "page": 38,
+      "xref": 506,
+      "verifiedSKU": true,
+      "verifiedVolume": "500 g",
+      "path": "/workspace/work/dalcotone-pdf/audit-assets-b/011793544db6c402.webp",
+      "sourceKind": "official_pdf",
+      "cropBox": null,
+      "notes": "Rótulo conferido visualmente. Foto extraída do PDF oficial, com alfa original e sem composição artificial."
+    },
+    {
+      "productId": "0942eb44018494cd",
+      "name": "Máscara Full Recover Efeito Teia 500 g",
+      "page": 39,
+      "xref": 531,
+      "verifiedSKU": true,
+      "verifiedVolume": "500 g",
+      "path": "/workspace/work/dalcotone-pdf/audit-assets-b/0942eb44018494cd.webp",
+      "sourceKind": "official_pdf",
+      "cropBox": null,
+      "notes": "Rótulo conferido visualmente. Foto extraída do PDF oficial, com alfa original e sem composição artificial."
+    },
+    {
+      "productId": "893194e3fcaf8648",
+      "name": "Máscara Reconstrutor Efeito Teia 500 g",
+      "page": 40,
+      "xref": 545,
+      "verifiedSKU": true,
+      "verifiedVolume": "500 g",
+      "path": "/workspace/work/dalcotone-pdf/audit-assets-b/893194e3fcaf8648.webp",
+      "sourceKind": "official_pdf",
+      "cropBox": null,
+      "notes": "Rótulo conferido visualmente. Foto extraída do PDF oficial, com alfa original e sem composição artificial."
+    },
+    {
+      "productId": "pdf-lamour-shampoo-300",
+      "name": "Shampoo L’Amour300mL",
+      "page": 31,
+      "xref": 416,
+      "verifiedSKU": true,
+      "verifiedVolume": "300 ml",
+      "path": "/workspace/work/dalcotone-pdf/audit-assets-b/pdf-lamour-shampoo-300.webp",
+      "sourceKind": "official_pdf",
+      "cropBox": [
+        281,
+        110,
+        489,
+        940
+      ],
+      "notes": "Recorteexato do shampoo na fotografia doPDF. Nenhum componente dekit foi adicionado."
+    },
+    {
+      "productId": "pdf-woman-caps",
+      "name": "Woman Caps — ácido pantotênico",
+      "page": 34,
+      "xref": 452,
+      "verifiedSKU": true,
+      "verifiedVolume": "60 cápsulas",
+      "path": "/workspace/work/dalcotone-pdf/audit-assets-b/pdf-woman-caps.webp",
+      "sourceKind": "official_pdf",
+      "cropBox": [
+        145,
+        590,
+        475,
+        1060
+      ],
+      "notes": "Fotooriginal mostra frasco60cápsulas/500mg nas mãosdamodelo. Recorte preserva dedos e fundo reais; não houve remoção/reconstrução de regiões encobertas."
+    }
+  ],
+  "findings": [
+    "PDF físico27–50 conferido. Não contém perfumescorporais/body splashes2026 nem EauDeParfum; requerem fontes oficiais online e download fiel.",
+    "CronoPlus página41: fotos dos quatrofrascos individuais indicam15ml cada. Fichaweb diz18ml. Não usar imagem15ml como confirmaçãoKit18ml.",
+    "Página36 máscarasVerniz/NutriProtein/Restore está em artecomposta contínua com blocos coloridos, sem objetos de imagens individuais; poderia recortardocumento, mas não extrair do frasco comfundo transparente sem editar conteúdo.",
+    "A fotoUltraMagic da página42 é segurada pormodelo, sem frascoindividual extraível comalfa; não inventarretirada de mão ou conteúdo do kit4ampolas.",
+    "Fontes atuais podem diferir da ediçãoPDF2025; preservar apresentação que corresponde ao registroexato."
+  ],
+  "reviewedPages": [
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42,
+    43,
+    44,
+    45,
+    46,
+    47,
+    48,
+    49,
+    50
+  ],
+  "unresolved": [
+    {
+      "productId": "a2d935f4e04f38b2",
+      "reason": "O PDF mostra shampoo300ml e máscara300g, mas não confirma que ofertaKitLAmourMorango atual é exatamente esse par. Recorte candidato existe, não aprovado como kitexato."
+    }
+  ],
+  "existingLocalAudit": {
+    "count": 23,
+    "contactSheet": "/workspace/work/dalcotone-pdf/audit-assets-b/existing-local.jpg",
+    "findings": [
+      "23fotos atuais conferidas em contact sheet: sem trocaóbvia de família ou volume nas legendas.",
+      "Os12assetsprofissionais do manifesto photos-b foram anteriormenteconferidos em alta resolução e conferem com SKU/volumes.",
+      "PHControlusa foto real do frascosegurado por mão; não foi removida artificialmente.",
+      "Os11mapeamentos adicionais de páginas1–26 devem receber conferência detalhada de rótulo pelo agente dessas páginas; contact sheet sozinho não prova dados técnicos."
+    ]
+  }
+}

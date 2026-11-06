@@ -1,0 +1,331 @@
+{
+  "01183f9d468921d6": [
+    {
+      "name": "D’Pantenol (Provitamina B5)",
+      "role": "Hidratação profunda, fortalecimento e redução da quebra, com brilho e maciez.",
+      "sourcePage": 17,
+      "evidence": "Hidrata profundamente, fortalece os fios, reduz a quebra e promove brilho e maciez.",
+      "scope": "individual"
+    },
+    {
+      "name": "Coco",
+      "role": "Nutrição, controle do frizz, brilho, maciez e auxílio na definição dos cachos.",
+      "sourcePage": 17,
+      "evidence": "Nutre intensamente, controla o frizz, proporciona brilho e maciez, e ajuda na definição dos cachos.",
+      "scope": "individual"
+    }
+  ],
+  "d7d4d08e9715ef3e": [
+    {
+      "name": "D’Pantenol (Provitamina B5)",
+      "role": "Hidratação profunda, fortalecimento e redução da quebra, com brilho e maciez.",
+      "sourcePage": 19,
+      "evidence": "Hidrata profundamente, fortalece os fios, reduz a quebra e promove brilho e maciez.",
+      "scope": "individual"
+    },
+    {
+      "name": "Coco",
+      "role": "Nutrição, controle do frizz, brilho, maciez e auxílio na definição dos cachos.",
+      "sourcePage": 19,
+      "evidence": "Nutre intensamente, controla o frizz, proporciona brilho e maciez, e ajuda na definição dos cachos.",
+      "scope": "individual"
+    }
+  ],
+  "6f9f4653036c50d2": [
+    {
+      "name": "Creatina",
+      "role": "Fortalecimento, reparação de danos, hidratação, elasticidade e proteção contra quebra.",
+      "sourcePage": 10,
+      "evidence": "fortalece os fios, repara danos, hidrata, melhora a elasticidade e protege contra quebras.",
+      "scope": "individual"
+    },
+    {
+      "name": "Ácido Violeta 43",
+      "role": "Neutralização dos tons amarelados e realce da cor e do brilho dos fios loiros e grisalhos.",
+      "sourcePage": 10,
+      "evidence": "Neutraliza os tons amarelados, realçando a cor e o brilho dos fios loiros e grisalhos.",
+      "scope": "individual"
+    },
+    {
+      "name": "Manteiga de abacate",
+      "role": "Hidratação profunda para maciez e sedosidade.",
+      "sourcePage": 10,
+      "evidence": "Hidrata profundamente, promovendo maciez e sedosidade.",
+      "scope": "individual"
+    },
+    {
+      "name": "Silicone e quaternários",
+      "role": "A combinação é descrita para brilho, controle do frizz e proteção contra danos externos.",
+      "sourcePage": 10,
+      "evidence": "Proporcionam brilho intenso, controle do frizz e proteção contra danos externos.",
+      "scope": "blend"
+    }
+  ],
+  "a9a848c44de789fb": [
+    {
+      "name": "Creatina",
+      "role": "Fortalecimento, reparação de danos, hidratação, elasticidade e proteção contra quebra.",
+      "sourcePage": 10,
+      "evidence": "fortalece os fios, repara danos, hidrata, melhora a elasticidade e protege contra quebras.",
+      "scope": "individual"
+    },
+    {
+      "name": "Ácido Violeta 43",
+      "role": "Neutralização dos tons amarelados e realce da cor e do brilho dos fios loiros e grisalhos.",
+      "sourcePage": 10,
+      "evidence": "Neutraliza os tons amarelados, realçando a cor e o brilho dos fios loiros e grisalhos.",
+      "scope": "individual"
+    },
+    {
+      "name": "Manteiga de abacate",
+      "role": "Hidratação profunda para maciez e sedosidade.",
+      "sourcePage": 10,
+      "evidence": "Hidrata profundamente, promovendo maciez e sedosidade.",
+      "scope": "individual"
+    },
+    {
+      "name": "Silicone e quaternários",
+      "role": "A combinação é descrita para brilho, controle do frizz e proteção contra danos externos.",
+      "sourcePage": 10,
+      "evidence": "Proporcionam brilho intenso, controle do frizz e proteção contra danos externos.",
+      "scope": "blend"
+    }
+  ],
+  "ad696ecbb8523b00": [
+    {
+      "name": "Creatina",
+      "role": "Fortalecimento, reparação de danos, hidratação, elasticidade e proteção contra quebra.",
+      "sourcePage": 11,
+      "evidence": "fortalece os fios, repara danos, hidrata, melhora a elasticidade e protege contra quebras.",
+      "scope": "individual"
+    },
+    {
+      "name": "Ácido Violeta 43",
+      "role": "Neutralização dos tons amarelados e realce da cor e do brilho dos fios loiros e grisalhos.",
+      "sourcePage": 11,
+      "evidence": "Neutraliza os tons amarelados, realçando a cor e o brilho dos fios loiros e grisalhos.",
+      "scope": "individual"
+    },
+    {
+      "name": "Manteiga de abacate",
+      "role": "Hidratação profunda para maciez e sedosidade.",
+      "sourcePage": 11,
+      "evidence": "Hidrata profundamente, promovendo maciez e sedosidade.",
+      "scope": "individual"
+    },
+    {
+      "name": "Silicone e quaternários",
+      "role": "A combinação é descrita para brilho, controle do frizz e proteção contra danos externos.",
+      "sourcePage": 11,
+      "evidence": "Proporcionam brilho intenso, controle do frizz e proteção contra danos externos.",
+      "scope": "blend"
+    }
+  ],
+  "847ff96acdc5f26b": [
+    {
+      "name": "Creatina",
+      "role": "Fortalecimento, reparação de danos, hidratação, elasticidade e proteção contra quebra.",
+      "sourcePage": 11,
+      "evidence": "fortalece os fios, repara danos, hidrata, melhora a elasticidade e protege contra quebras.",
+      "scope": "individual"
+    },
+    {
+      "name": "Ácido Violeta 43",
+      "role": "Neutralização dos tons amarelados e realce da cor e do brilho dos fios loiros e grisalhos.",
+      "sourcePage": 11,
+      "evidence": "Neutraliza os tons amarelados, realçando a cor e o brilho dos fios loiros e grisalhos.",
+      "scope": "individual"
+    },
+    {
+      "name": "Manteiga de abacate",
+      "role": "Hidratação profunda para maciez e sedosidade.",
+      "sourcePage": 11,
+      "evidence": "Hidrata profundamente, promovendo maciez e sedosidade.",
+      "scope": "individual"
+    },
+    {
+      "name": "Silicone e quaternários",
+      "role": "A combinação é descrita para brilho, controle do frizz e proteção contra danos externos.",
+      "sourcePage": 11,
+      "evidence": "Proporcionam brilho intenso, controle do frizz e proteção contra danos externos.",
+      "scope": "blend"
+    }
+  ],
+  "008a07353d60761c": [
+    {
+      "name": "Creatina",
+      "role": "Fortalecimento, reparação de danos, hidratação, elasticidade e proteção contra quebra.",
+      "sourcePage": 11,
+      "evidence": "fortalece os fios, repara danos, hidrata, melhora a elasticidade e protege contra quebras.",
+      "scope": "individual"
+    },
+    {
+      "name": "Ácido Violeta 43",
+      "role": "Neutralização dos tons amarelados e realce da cor e do brilho dos fios loiros e grisalhos.",
+      "sourcePage": 11,
+      "evidence": "Neutraliza os tons amarelados, realçando a cor e o brilho dos fios loiros e grisalhos.",
+      "scope": "individual"
+    },
+    {
+      "name": "Manteiga de abacate",
+      "role": "Hidratação profunda para maciez e sedosidade.",
+      "sourcePage": 11,
+      "evidence": "Hidrata profundamente, promovendo maciez e sedosidade.",
+      "scope": "individual"
+    },
+    {
+      "name": "Silicone e quaternários",
+      "role": "A combinação é descrita para brilho, controle do frizz e proteção contra danos externos.",
+      "sourcePage": 11,
+      "evidence": "Proporcionam brilho intenso, controle do frizz e proteção contra danos externos.",
+      "scope": "blend"
+    }
+  ],
+  "d6c72aac411c5ca5": [
+    {
+      "name": "Óleo de argan",
+      "role": "Hidratação, melhora da elasticidade, reparação de danos, controle do frizz, brilho e proteção antioxidante.",
+      "sourcePage": 16,
+      "evidence": "hidrata profundamente os fios, melhora a elasticidade, reparando danos causados por agentes externos e processos químicos",
+      "scope": "individual"
+    }
+  ],
+  "288400afe5f54ed1": [
+    {
+      "name": "Vitamina Pro A",
+      "role": "Fortalecimento da fibra capilar; o catálogo também declara estímulo ao crescimento saudável.",
+      "sourcePage": 33,
+      "evidence": "Estimula o crescimento saudável dos fios e fortalece a fibra capilar.",
+      "scope": "individual"
+    },
+    {
+      "name": "Vitamina Pro B5",
+      "role": "Hidratação profunda, melhora da elasticidade e redução da quebra.",
+      "sourcePage": 33,
+      "evidence": "Hidrata profundamente, melhora a elasticidade e combate a quebra.",
+      "scope": "individual"
+    }
+  ],
+  "0362c5b04fc5ffb5": [
+    {
+      "name": "Pantenol",
+      "role": "Na combinação com ômegas e queratina, é associado a flexibilidade, elasticidade, brilho e proteção térmica; função individual não separada no texto.",
+      "sourcePage": 28,
+      "evidence": "Pantenol, Ômegas 3, 5 e 6, e Queratina, que oferecem flexibilidade, elasticidade, brilho e proteção térmica.",
+      "scope": "blend"
+    },
+    {
+      "name": "Ômegas 3, 5 e 6",
+      "role": "Na combinação com pantenol e queratina, são associados a flexibilidade, elasticidade, brilho e proteção térmica; função individual não separada.",
+      "sourcePage": 28,
+      "evidence": "Pantenol, Ômegas 3, 5 e 6, e Queratina, que oferecem flexibilidade, elasticidade, brilho e proteção térmica.",
+      "scope": "blend"
+    },
+    {
+      "name": "Queratina",
+      "role": "Na combinação com pantenol e ômegas, é associada a flexibilidade, elasticidade, brilho e proteção térmica; função individual não separada.",
+      "sourcePage": 28,
+      "evidence": "Pantenol, Ômegas 3, 5 e 6, e Queratina, que oferecem flexibilidade, elasticidade, brilho e proteção térmica.",
+      "scope": "blend"
+    },
+    {
+      "name": "Nano Link",
+      "role": "Complexo de aminoácidos essenciais descrito para nutrição, fortalecimento e restauração da fibra desde o interior.",
+      "sourcePage": 28,
+      "evidence": "Complexo de aminoácidos essenciais que nutre, fortalece e restaura a fibra capilar desde o interior do fio.",
+      "scope": "individual"
+    },
+    {
+      "name": "Semi di Lino",
+      "role": "Leveza, brilho, maciez, redução do frizz e melhora da penteabilidade.",
+      "sourcePage": 28,
+      "evidence": "Confere leveza, brilho e maciez aos cabelos, com alta performance na redução do frizz e melhora da penteabilidade.",
+      "scope": "individual"
+    },
+    {
+      "name": "Silicones especiais",
+      "role": "Formação de filme selante e antifrizz para proteção e controle dos fios.",
+      "sourcePage": 28,
+      "evidence": "Formadores de filme com ação selante e anti-frizz, que protegem e controlam os fios.",
+      "scope": "individual"
+    }
+  ],
+  "cefb5c7098b88e45": [
+    {
+      "name": "Complexo de vitaminas não discriminadas",
+      "role": "Fortalecimento, revitalização e nutrição intensiva; vitaminas individuais não identificadas.",
+      "sourcePage": 43,
+      "evidence": "fortalecer e revitalizar os fios. Promove nutrição intensiva",
+      "scope": "blend"
+    },
+    {
+      "name": "Capilmax",
+      "role": "Ativo de plantas e aminoácidos descrito para fortalecimento da estrutura e aumento da espessura dos fios; o fabricante também declara ação no bulbo e crescimento.",
+      "sourcePage": 43,
+      "evidence": "revitaliza o cabelo da raiz e fortalece sua estrutura, aumentando a espessura",
+      "scope": "individual"
+    }
+  ],
+  "48678d0216074934": [
+    {
+      "name": "Ceramidas",
+      "role": "Reparação e fortalecimento da barreira natural, com hidratação e proteção duradouras.",
+      "sourcePage": 29,
+      "evidence": "Reparam e fortalecem a barreira natural dos fios, promovendo hidratação e proteção duradouras.",
+      "scope": "individual"
+    },
+    {
+      "name": "Proteínas hidrolisadas",
+      "role": "Reconstrução da fibra, melhora da elasticidade e fortalecimento.",
+      "sourcePage": 29,
+      "evidence": "Reconstroem a fibra capilar, melhoram a elasticidade e fortalecem os cabelos.",
+      "scope": "individual"
+    },
+    {
+      "name": "Vitamina E",
+      "role": "Proteção antioxidante contra danos externos e brilho.",
+      "sourcePage": 29,
+      "evidence": "Ação antioxidante que protege contra danos externos, promovendo brilho e saúde aos fios.",
+      "scope": "individual"
+    }
+  ],
+  "28860487c0334cd1": [
+    {
+      "name": "Ceramidas",
+      "role": "Reparação e fortalecimento da barreira natural, com hidratação e proteção duradouras.",
+      "sourcePage": 29,
+      "evidence": "Reparam e fortalecem a barreira natural dos fios, promovendo hidratação e proteção duradouras.",
+      "scope": "individual"
+    },
+    {
+      "name": "Proteínas hidrolisadas",
+      "role": "Reconstrução da fibra, melhora da elasticidade e fortalecimento.",
+      "sourcePage": 29,
+      "evidence": "Reconstroem a fibra capilar, melhoram a elasticidade e fortalecem os cabelos.",
+      "scope": "individual"
+    },
+    {
+      "name": "Vitamina E",
+      "role": "Proteção antioxidante contra danos externos e brilho.",
+      "sourcePage": 29,
+      "evidence": "Ação antioxidante que protege contra danos externos, promovendo brilho e saúde aos fios.",
+      "scope": "individual"
+    }
+  ],
+  "bc1e3e2b94dc6780": [
+    {
+      "name": "Extrato de morango",
+      "role": "Brilho, suavidade e leveza.",
+      "sourcePage": 32,
+      "evidence": "Proporciona brilho, suavidade e leveza aos fios.",
+      "scope": "individual"
+    },
+    {
+      "name": "Vitaminas e nutrientes não discriminados",
+      "role": "Fortalecimento da fibra e revitalização; vitaminas e nutrientes individuais não especificados.",
+      "sourcePage": 32,
+      "evidence": "Fortalecem a fibra capilar, promovendo saúde e revitalização dos cabelos.",
+      "scope": "blend"
+    }
+  ]
+}

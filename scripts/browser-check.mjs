@@ -1,4 +1,4 @@
-import {spawn} from 'node:child_process';
+import {spawn,spawnSync} from 'node:child_process';
 import {mkdtemp,rm} from 'node:fs/promises';
 import assert from 'node:assert/strict';
 const directory=await mkdtemp('/tmp/dc-browser-');
@@ -21,11 +21,10 @@ try{
  await evaluate("document.querySelector('.line-card[href*=\"/24K\"]').click()");await waitFor("document.getElementById('page-title').textContent==='Linha 24K'");
  assert.equal(await evaluate("[...document.querySelectorAll('.card-title')].some(x=>x.textContent.includes('Spray'))"),false); await evaluate("document.querySelector('.line-presentation summary').click()");assert.ok(await evaluate("document.getElementById('line-script').innerText.includes('Lisselini')"));assert.ok(await evaluate("document.querySelector('[data-copy-script=line-script]')!==null"));
 
- await evaluate("location.hash='linhas/24K'");await waitFor("document.querySelectorAll('.product-card').length===4");
- await evaluate("document.querySelector('[data-open=consultor-kit-24k]').click();document.querySelector('[data-tab=kit]').click()");
- assert.equal(await evaluate("document.querySelectorAll('.kit-components li').length"),3);
- assert.ok(await evaluate("document.querySelector('.kit-status').textContent.includes('consultor')"));
- await evaluate("document.getElementById('product-dialog').close();location.hash='linhas/pH%20Control'");await waitFor("document.querySelectorAll('.product-card').length===1");
+ await evaluate("location.hash='linhas/24K'");await waitFor("document.querySelectorAll('.product-card').length===3");
+ assert.equal(await evaluate("document.querySelector('[data-open=consultor-kit-24k]')"),null);
+ await waitFor("document.querySelector('[data-open=pro-24k-mask-mask] img').naturalWidth>0");
+ await evaluate("location.hash='linhas/pH%20Control'");await waitFor("document.querySelectorAll('.product-card').length===1");
  assert.equal(await evaluate("document.querySelector('.card-title').textContent"),'pH Control 500 mL');await waitFor("document.querySelector('.product-photo img').complete&&document.querySelector('.product-photo img').naturalWidth>0");
  assert.equal(await evaluate("document.getElementById('hero').hidden"),true);
  await evaluate("location.hash='estudar/24K'");await waitFor("document.querySelector('.study-card')!==null");
@@ -61,6 +60,16 @@ try{
  await evaluate("document.getElementById('product-dialog').close();location.hash='linhas/pH%20Control'");await waitFor("document.querySelectorAll('.product-card').length===1");await waitFor("document.querySelector('.product-photo img').naturalWidth>0");assert.ok(await evaluate("document.querySelector('.product-photo img').src.includes('/assets/products/consultor-ph-control.webp')"));
  await evaluate("document.getElementById('product-dialog').close();location.hash='pesquisa'");
  await waitFor("document.getElementById('search')!==null");await evaluate("const q=document.getElementById('search');q.value='ceramidas';q.dispatchEvent(new Event('input',{bubbles:true}))");assert.ok(await evaluate("document.querySelectorAll('.product-card').length>0"));
+ await evaluate("location.hash='videos'");await waitFor("document.getElementById('video-import')!==null");
+ assert.ok(await evaluate("document.getElementById('video-library').textContent.includes('Nenhum vídeo salvo')"));
+ const fixture=directory+'/video-check.mp4';const generated=spawnSync('ffmpeg',['-loglevel','error','-f','lavfi','-i','color=c=green:s=160x120:d=2','-c:v','libx264','-pix_fmt','yuv420p',fixture]);assert.equal(generated.status,0,'Generate a synthetic QA fixture, never a product demonstration');
+ await cdp('DOM.enable');const doc=await cdp('DOM.getDocument');const field=await cdp('DOM.querySelector',{nodeId:doc.root.nodeId,selector:'#video-import input[type=file]'});await cdp('DOM.setFileInputFiles',{nodeId:field.nodeId,files:[fixture]});
+ await evaluate("const form=document.getElementById('video-import');form.elements.title.value='Teste técnico offline';form.elements.product.value='pro-24k-mask-mask';form.elements.author.value='Fixture sintética de QA';form.requestSubmit()");
+ await waitFor("document.querySelector('.video-card video')!==null");await waitFor("document.querySelector('.video-card video').readyState>=1");
+ await cdp('Page.reload');await waitFor("document.querySelector('.video-card video')?.readyState>=1");
+ await evaluate("document.querySelector('.video-card video').muted=true;document.querySelector('.video-card video').play()");await waitFor("document.querySelector('.video-card video').currentTime>.2");
+ await evaluate("document.querySelector('.video-card video').currentTime=1");await waitFor("document.querySelector('.video-card video').currentTime>=1");
+ await evaluate("document.querySelector('[data-remove-video]').click()");await waitFor("document.querySelector('.video-card')===null");
  assert.deepEqual(exceptions,[]);
- console.log('PASS categories/lines/kit contents, pH Control as regular entry, study cards, technical/source details, responsive 1440/390/320, search, favorites, comparison, notes and offline persistence. Official external photo downloads were not verified in this restricted network.');
+ console.log('PASS categories/lines/kit contents, pH Control as regular entry, study cards, technical/source details, responsive 1440/390/320, search, favorites, comparison, notes, offline persistence and imported video playback/seeking/deletion after offline reload. Official external photo downloads were not verified in this restricted network.');
 }finally{socket?.close();browser.kill('SIGTERM');await new Promise(r=>setTimeout(r,300));await rm(directory,{recursive:true,force:true});}

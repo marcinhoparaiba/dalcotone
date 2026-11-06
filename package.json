@@ -4,7 +4,7 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "check": "node --check dist/app.js && node --check dist/core.js && node --check dist/sw.js && node --check dist/study.js",
+    "check": "node --check dist/app.js && node --check dist/core.js && node --check dist/sw.js && node --check dist/study.js && node --check dist/media.js",
     "test": "node --test tests/*.mjs"
   }
 }

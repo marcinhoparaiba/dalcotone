@@ -1,0 +1,175 @@
+{
+  "queriedAt": "2026-11-06",
+  "corrections": [
+    {
+      "productId": "e95975619b537972",
+      "name": "Condicionador Power Repair 1 L",
+      "fields": {
+        "price": 137,
+        "volume": "1 L"
+      },
+      "sourceUrl": "https://dalcotone.com.br/collections/linha-power-repair",
+      "evidence": {
+        "price": "Coleção oficial apresenta Condicionador Power Repair 1 L por R$137,00.",
+        "volume": "Título do SKU na mesma coleção:1 L."
+      },
+      "directProductUrl": null,
+      "status": "collection_only",
+      "notes": [
+        "Ficha de produto individual não validada. Não herdar ativos ou protocolo de outra apresentação."
+      ]
+    },
+    {
+      "productId": "01183f9d468921d6",
+      "name": "Shampoo Power Curls 1 L",
+      "fields": {
+        "price": 86.58,
+        "volume": "1 L"
+      },
+      "sourceUrl": "https://dalcotone.com.br/collections/linha-power-curls",
+      "evidence": {
+        "price": "Coleção oficial lista Shampoo Power Curls 1 L por R$86.58.",
+        "volume": "Título do SKU declara1 L."
+      },
+      "directProductUrl": null,
+      "status": "collection_only",
+      "notes": [
+        "Ficha de produto individual não validada. Não herdar ativos ou protocolo de outra apresentação."
+      ]
+    },
+    {
+      "productId": "d7d4d08e9715ef3e",
+      "name": "Shampoo Power Curls 300 mL",
+      "fields": {
+        "price": 59.39,
+        "volume": "300 ml"
+      },
+      "sourceUrl": "https://dalcotone.com.br/collections/linha-power-curls",
+      "evidence": {
+        "price": "Coleção oficial lista Shampoo Power Curls 300 ml por R$59.39.",
+        "volume": "Título do SKU declara300 ml."
+      },
+      "directProductUrl": null,
+      "status": "collection_only",
+      "notes": [
+        "Ficha de produto individual não validada. Não herdar ativos ou protocolo de outra apresentação."
+      ]
+    },
+    {
+      "productId": "03bcd497b08d00bb",
+      "name": "Shampoo S.O.S Detox 1 L",
+      "fields": {
+        "price": 148.41,
+        "volume": "1 L"
+      },
+      "sourceUrl": "https://dalcotone.com.br/collections/desintoxicante",
+      "evidence": {
+        "price": "Coleção Desintoxicante lista shampoo1 L por R$148,41.",
+        "volume": "Título declara1 L."
+      },
+      "directProductUrl": null,
+      "status": "collection_only",
+      "notes": [
+        "Ficha de produto individual não validada. Não herdar ativos ou protocolo de outra apresentação."
+      ]
+    },
+    {
+      "productId": "ad696ecbb8523b00",
+      "name": "Máscara Blond Up 300 g",
+      "fields": {
+        "price": 110.34,
+        "volume": "300 g"
+      },
+      "sourceUrl": "https://dalcotone.com.br/collections/linha-blond-up",
+      "evidence": {
+        "price": "Coleção BlondUp lista máscara300g por R$110,34.",
+        "volume": "Título declara300g."
+      },
+      "directProductUrl": null,
+      "status": "collection_only",
+      "notes": [
+        "Ficha de produto individual não validada. Não herdar ativos ou protocolo de outra apresentação."
+      ]
+    },
+    {
+      "productId": "008a07353d60761c",
+      "name": "Kit Blond Up Home Care",
+      "fields": {
+        "price": 162.63
+      },
+      "sourceUrl": "https://dalcotone.com.br/collections/linha-blond-up",
+      "evidence": {
+        "price": "Coleção BlondUp apresenta KitBlondUpHomeCare por R$162,63."
+      },
+      "directProductUrl": null,
+      "status": "collection_only",
+      "notes": [
+        "Itens/volumes não confirmados na página acessível. Não substituir pela lista do kitProfissional."
+      ]
+    },
+    {
+      "productId": "a2d935f4e04f38b2",
+      "name": "Kit L'Amour Morango",
+      "fields": {
+        "price": 159.76
+      },
+      "sourceUrl": "https://dalcotone.com.br/collections/kits",
+      "evidence": {
+        "price": "ColeçãoKits apresenta KitLAmourMorango por R$159,76."
+      },
+      "directProductUrl": null,
+      "status": "collection_only",
+      "notes": [
+        "Não usar composição do kitcomPerfume para o kitbase. Lista do kitbase continua pendente."
+      ]
+    },
+    {
+      "productId": "d6c72aac411c5ca5",
+      "name": "Reparador de Pontas Argan Oil Premium 30 mL",
+      "fields": {
+        "price": 71.91,
+        "volume": "30 ml"
+      },
+      "sourceUrl": "https://dalcotone.com.br/collections/finalizacao-1",
+      "evidence": {
+        "price": "ColeçãoFinalização apresenta ReparadorArganOilPremium30mL por R$71,91.",
+        "volume": "Título declara30mL."
+      },
+      "directProductUrl": null,
+      "status": "collection_only",
+      "notes": [
+        "O slug /products/argan-oil-premium-30ml é PowerLuminousOil, com óleoDEAÇAÍ. Não atribuir essa ficha ao ReparadorArgan: são dois produtos separados na coleção."
+      ]
+    },
+    {
+      "productId": "4418a4ee99e8320b",
+      "name": "Eau de Parfum Kesia Carmo 100 mL",
+      "fields": {},
+      "sourceUrl": "https://dalcotone.com.br/collections/perfumes",
+      "evidence": {},
+      "directProductUrl": null,
+      "status": "unresolved",
+      "notes": [
+        "ColeçãoPerfumes aberta hoje indica2itens, mas parser não expõe seuscards/nome/descrição. Buscas por Kesia/Raphael não encontraram fichaindividual oficial. Nenhuma notaolfativa, modo deuso ou INCI inferida."
+      ]
+    },
+    {
+      "productId": "60e03232e7b79d05",
+      "name": "Eau de Parfum Raphael Borba 100 mL",
+      "fields": {},
+      "sourceUrl": "https://dalcotone.com.br/collections/perfumes",
+      "evidence": {},
+      "directProductUrl": null,
+      "status": "unresolved",
+      "notes": [
+        "ColeçãoPerfumes aberta hoje indica2itens, mas parser não expõe seuscards/nome/descrição. Buscas por Kesia/Raphael não encontraram fichaindividual oficial. Nenhuma notaolfativa, modo deuso ou INCI inferida."
+      ]
+    }
+  ],
+  "limitations": [
+    "Não foi possível validar nenhuma URLindividualnova dos10alvos. URLs candidatas abertas falharam; não constam como fontes confirmadas.",
+    "Pesquisa de sitemap, productsJSON e busca interna inacessível pela ferramenta. Coleções oficiais continuam referências verificáveis.",
+    "Sem alterações no checkout."
+  ],
+  "importantCorrection": "ReparadorArganOilPremium30ml e PowerLuminousOil30ml sãoSKUs separados. Não confundir pelo slug legadoargan-oil-premium-30ml."
+}

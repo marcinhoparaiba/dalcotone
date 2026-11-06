@@ -1,6 +1,6 @@
-const VERSION='dc-guide-v5-update-refresh';
+const VERSION='dc-guide-v6-audit-media';
 const SHELL=VERSION+'-shell',PHOTOS='dc-guide-photos';
-const ASSETS=['./','index.html','styles.css?v=20261106-5','app.js?v=20261106-5','core.js?v=20261106-5','study.js?v=20261106-5','study.css?v=20261106-5','catalog.json','manifest.webmanifest','icon.svg','icon-192.png','icon-512.png','assets-manifest.json'];
+const ASSETS=['./','index.html','styles.css?v=20261106-6','app.js?v=20261106-6','core.js?v=20261106-6','study.js?v=20261106-6','media.js?v=20261106-6','study.css?v=20261106-6','catalog.json','manifest.webmanifest','icon.svg','icon-192.png','icon-512.png','assets-manifest.json'];
 self.addEventListener('install',event=>{event.waitUntil(caches.open(SHELL).then(async cache=>{const files=await fetch('assets-manifest.json',{cache:'no-store'}).then(r=>r.json());await cache.addAll([...ASSETS,...files].map(path=>new Request(new URL(path,self.registration.scope),{cache:'reload'})));}));self.skipWaiting();});
 self.addEventListener('activate',event=>{event.waitUntil((async()=>{const photos=await caches.open(PHOTOS);for(const key of await caches.keys()){if(key.startsWith('dc-guide-')&&key.endsWith('-photos')&&key!==PHOTOS){const old=await caches.open(key);for(const request of await old.keys())if(!await photos.match(request)){const response=await old.match(request);if(response)await photos.put(request,response);}}if(key.startsWith('dc-guide-')&&key!==SHELL&&key!==PHOTOS)await caches.delete(key);}await self.clients.claim();})());});
 const localImage=url=>url.origin===self.location.origin&&/^\/assets\/products\/[a-z0-9-]+\.webp$/.test(url.pathname);

@@ -1,0 +1,1374 @@
+{
+  "source": "Catálogo Dal Cotone 2025 fornecido pelo usuário",
+  "sourceDate": "2025",
+  "auditDate": "2026-11-06",
+  "products": [
+    {
+      "productId": "01183f9d468921d6",
+      "name": "Shampoo Power Curls 1 L",
+      "fields": {
+        "actives": [
+          "D’Pantenol (Provitamina B5)",
+          "Coco"
+        ],
+        "indication": "Cabelos cacheados, ondulados e crespos, especialmente os que necessitam de modelagem.",
+        "use": "Aplicar nos cabelos molhados e massagear até formar espuma. Enxaguar completamente e repetir se necessário.",
+        "declaredPH": "4,5–5,5"
+      },
+      "page": 17,
+      "exactEvidence": [
+        "D’Pantenol (Provitamina B5)",
+        "Coco",
+        "CABELOS CACHEADOS, ONDULADOS E CRESPOS"
+      ],
+      "unresolvedFields": [],
+      "notes": [
+        "Ativos apresentados em bloco da linha na mesma página que exibe esta embalagem."
+      ],
+      "sourceVersion": "PDF2025",
+      "visualVerified": true
+    },
+    {
+      "productId": "d7d4d08e9715ef3e",
+      "name": "Shampoo Power Curls 300 mL",
+      "fields": {
+        "actives": [
+          "D’Pantenol (Provitamina B5)",
+          "Coco"
+        ],
+        "indication": "Cabelos cacheados, ondulados e crespos, especialmente os que necessitam de modelagem.",
+        "use": "Aplicar nos cabelos molhados e massagear até formar espuma. Enxaguar completamente e repetir se necessário.",
+        "declaredPH": "4,5–5,5"
+      },
+      "page": 19,
+      "exactEvidence": [
+        "D’Pantenol (Provitamina B5)",
+        "Coco",
+        "CABELOS CACHEADOS, ONDULADOS E CRESPOS"
+      ],
+      "unresolvedFields": [],
+      "notes": [
+        "Ativos apresentados em bloco da linha na mesma página que exibe esta embalagem."
+      ],
+      "sourceVersion": "PDF2025",
+      "visualVerified": true
+    },
+    {
+      "productId": "03bcd497b08d00bb",
+      "name": "Shampoo S.O.S Detox 1 L",
+      "fields": {
+        "indication": "Todos os tipos de cabelo: oleosos, secos, mistos ou quimicamente tratados.",
+        "benefits": [
+          "Limpeza profunda",
+          "Remoção de impurezas",
+          "Preparação do couro cabeludo para tratamentos",
+          "Maciez e revitalização"
+        ],
+        "use": "Aplicar nos cabelos molhados, massagear o couro cabeludo até espumar e enxaguar. Repetir se necessário.",
+        "declaredPH": "6,0–7,0"
+      },
+      "page": 23,
+      "exactEvidence": [
+        "TODOS OS TIPOS DE CABELOS",
+        "Aplique o shampoo nos cabelos molhados, massageando o couro cabeludo suavemente até formar espuma, e enxágue bem."
+      ],
+      "unresolvedFields": [
+        "actives",
+        "INCI"
+      ],
+      "notes": [
+        "A p23 não lista os ativos. Café verde/Fiber Detox/cártamo estão na p24 Home Care: não copiar para 1L como confirmação individual.",
+        "A p23 não determina pausa para shampoo; não importar os 5–10min da p24."
+      ],
+      "sourceVersion": "PDF2025",
+      "visualVerified": true
+    },
+    {
+      "productId": "e95975619b537972",
+      "name": "Condicionador Power Repair 1 L",
+      "fields": {
+        "indication": "Cabelos secos, ressecados e com frizz.",
+        "benefits": [
+          "Hidratação",
+          "Fortalecimento",
+          "Maciez",
+          "Brilho",
+          "Proteção da cor"
+        ],
+        "use": "Após a máscara, aplicar em toda a extensão dos fios, massagear e deixar agir aproximadamente 3 minutos antes de enxaguar bem.",
+        "declaredPH": "3,0–4,0"
+      },
+      "page": 20,
+      "exactEvidence": [
+        "INDICADA PARA CABELOS SECOS, RESSECADOS E COM FRIZZ.",
+        "deixe agir por aproximadamente 3 minutos antes de enxaguar bem."
+      ],
+      "unresolvedFields": [
+        "actives",
+        "INCI"
+      ],
+      "notes": [
+        "A p20 profissional não lista Frulix/ceramidas; esses ativos são publicados na p21 Home Care. Não transferir silenciosamente ao condicionador1L."
+      ],
+      "sourceVersion": "PDF2025",
+      "visualVerified": true
+    },
+    {
+      "productId": "6f9f4653036c50d2",
+      "name": "Shampoo Blond Up Premium 1 L",
+      "fields": {
+        "actives": [
+          "Creatina",
+          "Ácido Violeta 43",
+          "Manteiga de abacate",
+          "Silicone e quaternários"
+        ],
+        "indication": "Cabelos loiros, grisalhos ou com mechas.",
+        "benefits": [
+          "Neutralização de tons amarelados",
+          "Brilho",
+          "Hidratação",
+          "Proteção e fortalecimento"
+        ],
+        "declaredPH": "4,5–5,5"
+      },
+      "page": 10,
+      "exactEvidence": [
+        "Creatina",
+        "Ácido Violeta 43",
+        "Manteiga de Abacate",
+        "Silicone e Quaternários"
+      ],
+      "unresolvedFields": [
+        "use específico profissional",
+        "INCI"
+      ],
+      "notes": [
+        "Lista dos ativos atribuída à linha na própria página. O rótulo profissional diz Extrato de Violeta; o quadro diz Ácido Violeta43. Não declarar estes nomes equivalentes nem transformar isso em INCI.",
+        "A p10 não publica modo de uso; não importar automaticamente o protocolo da embalagem300mL."
+      ],
+      "sourceVersion": "PDF2025",
+      "visualVerified": true
+    },
+    {
+      "productId": "a9a848c44de789fb",
+      "name": "Máscara Blond Up Premium 1 kg",
+      "fields": {
+        "actives": [
+          "Creatina",
+          "Ácido Violeta 43",
+          "Manteiga de abacate",
+          "Silicone e quaternários"
+        ],
+        "indication": "Cabelos loiros, grisalhos ou com mechas.",
+        "benefits": [
+          "Neutralização de tons amarelados",
+          "Brilho",
+          "Hidratação",
+          "Proteção e fortalecimento"
+        ]
+      },
+      "page": 10,
+      "exactEvidence": [
+        "Creatina",
+        "Ácido Violeta 43",
+        "Manteiga de Abacate",
+        "Silicone e Quaternários"
+      ],
+      "unresolvedFields": [
+        "use específico profissional",
+        "INCI"
+      ],
+      "notes": [
+        "Lista dos ativos atribuída à linha na própria página. O rótulo profissional diz Extrato de Violeta; o quadro diz Ácido Violeta43. Não declarar estes nomes equivalentes nem transformar isso em INCI.",
+        "A p10 não publica modo de uso; não importar automaticamente o protocolo da embalagem300mL."
+      ],
+      "sourceVersion": "PDF2025",
+      "visualVerified": true
+    },
+    {
+      "productId": "ad696ecbb8523b00",
+      "name": "Máscara Blond Up 300 g",
+      "fields": {
+        "actives": [
+          "Creatina",
+          "Ácido Violeta 43",
+          "Manteiga de abacate",
+          "Silicone e quaternários"
+        ],
+        "indication": "Cabelos loiros, grisalhos ou com mechas.",
+        "benefits": [
+          "Neutralização de tons amarelados",
+          "Brilho",
+          "Hidratação",
+          "Proteção e fortalecimento"
+        ],
+        "declaredPH": "3,5–4,5",
+        "use": "Após lavar, aplicar a máscara em toda a extensão, massagear, acompanhar o tom: menor tempo em fios mais claros e maior em amarelados. Enxaguar completamente."
+      },
+      "page": 11,
+      "exactEvidence": [
+        "Creatina",
+        "Ácido Violeta 43",
+        "Manteiga de Abacate",
+        "Silicone e Quaternários"
+      ],
+      "unresolvedFields": [
+        "INCI"
+      ],
+      "notes": [
+        "Lista dos ativos atribuída à linha na própria página. O rótulo profissional diz Extrato de Violeta; o quadro diz Ácido Violeta43. Não declarar estes nomes equivalentes nem transformar isso em INCI.",
+        "A p10 não publica modo de uso; não importar automaticamente o protocolo da embalagem300mL."
+      ],
+      "sourceVersion": "PDF2025",
+      "visualVerified": true
+    },
+    {
+      "productId": "847ff96acdc5f26b",
+      "name": "Shampoo Blond Up 300 mL",
+      "fields": {
+        "actives": [
+          "Creatina",
+          "Ácido Violeta 43",
+          "Manteiga de abacate",
+          "Silicone e quaternários"
+        ],
+        "indication": "Cabelos loiros, grisalhos ou com mechas.",
+        "benefits": [
+          "Neutralização de tons amarelados",
+          "Brilho",
+          "Hidratação",
+          "Proteção e fortalecimento"
+        ],
+        "declaredPH": "4,5–5,5",
+        "use": "Aplicar nos cabelos molhados, massagear até espumar, ajustar o tempo conforme o tom: menos nos mais claros, mais nos amarelados. Enxaguar e repetir se necessário."
+      },
+      "page": 11,
+      "exactEvidence": [
+        "Creatina",
+        "Ácido Violeta 43",
+        "Manteiga de Abacate",
+        "Silicone e Quaternários"
+      ],
+      "unresolvedFields": [
+        "INCI"
+      ],
+      "notes": [
+        "Lista dos ativos atribuída à linha na própria página. O rótulo profissional diz Extrato de Violeta; o quadro diz Ácido Violeta43. Não declarar estes nomes equivalentes nem transformar isso em INCI.",
+        "A p10 não publica modo de uso; não importar automaticamente o protocolo da embalagem300mL."
+      ],
+      "sourceVersion": "PDF2025",
+      "visualVerified": true
+    },
+    {
+      "productId": "008a07353d60761c",
+      "name": "Kit Blond Up Home Care",
+      "fields": {
+        "actives": [
+          "Creatina",
+          "Ácido Violeta 43",
+          "Manteiga de abacate",
+          "Silicone e quaternários"
+        ],
+        "indication": "Cabelos loiros, grisalhos ou com mechas.",
+        "use": "Lavar com shampoo, ajustando o tempo ao tom dos fios e enxaguar; repetir se necessário. Aplicar máscara em toda extensão, massagear, ajustar ação ao tom e enxaguar completamente."
+      },
+      "page": 11,
+      "exactEvidence": [
+        "deixe menos tempo para cabelos mais claros e mais tempo para fios amarelados."
+      ],
+      "unresolvedFields": [
+        "INCI"
+      ],
+      "notes": [
+        "Kit Home Care mostrado com shampoo300mL e máscara300g; não resolve composição comercial atual sem loja."
+      ],
+      "sourceVersion": "PDF2025",
+      "visualVerified": true
+    },
+    {
+      "productId": "d6c72aac411c5ca5",
+      "name": "Reparador de Pontas Argan Oil Premium 30 mL",
+      "fields": {
+        "actives": [
+          "Óleo de argan"
+        ],
+        "benefits": [
+          "Controle do frizz",
+          "Brilho",
+          "Maciez",
+          "Revitalização",
+          "Proteção antioxidante"
+        ],
+        "indication": "Fios que necessitam de maciez, brilho e controle de frizz.",
+        "use": "Espalhar algumas gotas nas mãos e distribuir uniformemente nas pontas. Pode ser usado antes ou após escova ou prancha."
+      },
+      "page": 16,
+      "exactEvidence": [
+        "Óleo de Argan",
+        "Aplique algumas gotas na palma das mãos e espalhe uniformemente nas pontas dos fios."
+      ],
+      "unresolvedFields": [
+        "INCI",
+        "pH"
+      ],
+      "notes": [
+        "Volume30mL visível na própria página."
+      ],
+      "sourceVersion": "PDF2025",
+      "visualVerified": true
+    },
+    {
+      "productId": "0362c5b04fc5ffb5",
+      "name": "Force Life Must Use 250 mL",
+      "fields": {
+        "actives": [
+          "Pantenol",
+          "Ômegas 3, 5 e 6",
+          "Queratina",
+          "Nano Link",
+          "Semi di Lino",
+          "Silicones especiais"
+        ],
+        "benefits": [
+          "Nutrição",
+          "Controle do frizz",
+          "Flexibilidade",
+          "Elasticidade",
+          "Brilho",
+          "Proteção térmica",
+          "Penteabilidade"
+        ],
+        "indication": "Todos os tipos de cabelos; uso diário, especialmente antes de secador, prancha e modelador."
+      },
+      "page": 28,
+      "exactEvidence": [
+        "Sua fórmula é enriquecida com Pantenol, Ômegas 3, 5 e 6, e Queratina",
+        "OUTRAS TECNOLOGIAS / ATIVOS",
+        "Nano Link",
+        "Semi Di Lino",
+        "Silicones Especiais"
+      ],
+      "unresolvedFields": [
+        "INCI"
+      ],
+      "notes": [
+        "A p27 cita só parte dos ativos; a p28 complementa. Não são ativos do Necessity Use."
+      ],
+      "sourceVersion": "PDF2025",
+      "visualVerified": true
+    },
+    {
+      "productId": "48678d0216074934",
+      "name": "Shampoo Hydra Ceramides Hidratação e Antioxidante 300ml",
+      "fields": {
+        "actives": [
+          "Ceramidas",
+          "Proteínas hidrolisadas",
+          "Vitamina E"
+        ],
+        "indication": "Cabelos danificados, ressecados ou quimicamente tratados."
+      },
+      "page": 29,
+      "exactEvidence": [
+        "Ceramidas",
+        "Proteínas Hidrolisadas",
+        "Vitamina E"
+      ],
+      "unresolvedFields": [
+        "INCI"
+      ],
+      "notes": [
+        "Conflito de fonte: loja atual declara alho/bioceramidas; PDF2025 declara ceramidas/proteínas hidrolisadas/vitE. Manter ambas por origem, não apresentar como INCI único nem remover silenciosamente alho."
+      ],
+      "sourceVersion": "PDF2025",
+      "visualVerified": true
+    },
+    {
+      "productId": "28860487c0334cd1",
+      "name": "Máscara Capilar Hydra Ceramides Hidratação e Antioxidante 300g",
+      "fields": {
+        "actives": [
+          "Ceramidas",
+          "Proteínas hidrolisadas",
+          "Vitamina E"
+        ],
+        "indication": "Cabelos danificados, ressecados ou quimicamente tratados."
+      },
+      "page": 29,
+      "exactEvidence": [
+        "Ceramidas",
+        "Proteínas Hidrolisadas",
+        "Vitamina E"
+      ],
+      "unresolvedFields": [
+        "INCI"
+      ],
+      "notes": [
+        "Conflito de fonte: loja atual declara alho/bioceramidas; PDF2025 declara ceramidas/proteínas hidrolisadas/vitE. Manter ambas por origem, não apresentar como INCI único nem remover silenciosamente alho."
+      ],
+      "sourceVersion": "PDF2025",
+      "visualVerified": true
+    },
+    {
+      "productId": "bc1e3e2b94dc6780",
+      "name": "Perfume Capilar L'amour Nutritivo 100ml",
+      "fields": {
+        "actives": [
+          "Extrato de morango",
+          "Vitaminas e nutrientes não discriminados"
+        ],
+        "use": "Borrifar a15cm, por toda extensão dos fios, evitando a raiz. Não enxaguar.",
+        "indication": "Cabelos opacos, desnutridos e sem brilho.",
+        "occasions": [
+          "Uso diário",
+          "Tratamento hidratante intensivo à noite"
+        ]
+      },
+      "page": 32,
+      "exactEvidence": [
+        "Extrato de Morango",
+        "Vitaminas e Nutrientes",
+        "Ideal para uso diário ou como tratamento hidratante intensivo à noite."
+      ],
+      "unresolvedFields": [
+        "INCI",
+        "Vitaminas individuais"
+      ],
+      "notes": [],
+      "sourceVersion": "PDF2025",
+      "visualVerified": true
+    },
+    {
+      "productId": "288400afe5f54ed1",
+      "name": "Máscara Monovin 300 g",
+      "fields": {
+        "actives": [
+          "Vitamina Pro A",
+          "Vitamina Pro B5"
+        ],
+        "indication": "Todos os tipos de cabelo, especialmente fios fragilizados.",
+        "use": "Após o shampoo, aplicar nos fios, deixar agir10–15min e enxaguar completamente. O catálogo sugere duas vezes por semana ou quando necessário."
+      },
+      "page": 33,
+      "exactEvidence": [
+        "Vitamina Pro A",
+        "Vitamina Pro B5",
+        "deixe agir por 10 a 15 minutos"
+      ],
+      "unresolvedFields": [
+        "INCI"
+      ],
+      "notes": [
+        "Ativos do bloco da linha na página da embalagem300g; não interpretar ProA como concentração ou INCI."
+      ],
+      "sourceVersion": "PDF2025",
+      "visualVerified": true
+    },
+    {
+      "productId": "cefb5c7098b88e45",
+      "name": "Kit de Ampolas Vitamínicas Nutritivas 4 x 15 mL",
+      "fields": {
+        "actives": [
+          "Complexo de vitaminas não discriminadas",
+          "Capilmax"
+        ],
+        "use": "Nos cabelos limpos, aplicar da raiz às pontas, ou adicionar à máscara DalCotone. Deixar agir5min e enxaguar."
+      },
+      "page": 43,
+      "exactEvidence": [
+        "Complexo de Vitaminas",
+        "Capilmax",
+        "Deixe agir por 5 minutos e enxágue."
+      ],
+      "unresolvedFields": [
+        "INCI",
+        "Vitaminas individuais"
+      ],
+      "notes": [
+        "Página mostra ampola15mL; o conjunto4x15mL é formato de venda da loja, não publicado nesta página."
+      ],
+      "sourceVersion": "PDF2025",
+      "visualVerified": true
+    },
+    {
+      "productId": "244136c3b5dfed21",
+      "name": "Cronograma Capilar em Ampolas - Crono Plus+",
+      "fields": {
+        "use": "Ampola Monovin: aplicar no couro cabeludo limpo, massagear e não enxaguar; pode usar2vezes ao dia. Demais ampolas: agitar, misturar3–5mL em água fria até formar mousse, ou aplicar em fios limpos e molhados, ou adicionar à máscara. Pausa de cerca de5min e enxágue abundante.",
+        "components": [
+          "Monovin Fortalecimento15mL",
+          "L’Amour Nutrição15mL",
+          "Power Repair Hidratação15mL",
+          "Max Force Reconstrução15mL"
+        ]
+      },
+      "page": 41,
+      "exactEvidence": [
+        "Com os cabelos limpos, aplicar o produto diretamente em todo o couro cabeludo. Massagear bem e não enxaguar. Pode ser usada 2x ao dia.",
+        "Agite o produto e após despeje de 3ml a 5ml da ampola em água fria"
+      ],
+      "unresolvedFields": [
+        "INCI",
+        "Ativos por ampola"
+      ],
+      "notes": [
+        "Não chamar ampolaMonovin de tônico120mL. São produtos diferentes. Não aplicar protocolo enxaguável nas4ampolas."
+      ],
+      "sourceVersion": "PDF2025",
+      "visualVerified": true
+    }
+  ],
+  "contradictions": [
+    {
+      "productId": "eef86335c476b86a",
+      "pages": [
+        10,
+        11
+      ],
+      "issue": "O app usa tempos fixos3–5min e10–20min da loja; PDFprofissionalp10 não publica modo; PDFhomecarep11 usa tempo variável conforme tom. Conservar origem distinta.",
+      "sourceVersion": "PDF2025 vs catálogo atual",
+      "resolution": "Exibir origem e ano; não fundir protocolos/fórmulas."
+    },
+    {
+      "productId": "2c7828de22074cce",
+      "pages": [
+        24
+      ],
+      "issue": "ShampooDetox300mL:PDFp24 orienta5–10min; app orienta3min em ficha vinda da loja. Não escolher sem explicitar versão.",
+      "sourceVersion": "PDF2025 vs catálogo atual",
+      "resolution": "Exibir origem e ano; não fundir protocolos/fórmulas."
+    },
+    {
+      "productId": "b72901db8710aa58",
+      "pages": [
+        23,
+        24
+      ],
+      "issue": "PDFp23 profissional recomenda finalizadorsem enxágue;PDFp24homecare dizescovar,pranchar e enxaguar se necessário. Protocolos diferentes dentro doPDF; conservar por tamanho/linha e origem.",
+      "sourceVersion": "PDF2025 vs catálogo atual",
+      "resolution": "Exibir origem e ano; não fundir protocolos/fórmulas."
+    },
+    {
+      "productId": "48678d0216074934",
+      "pages": [
+        29
+      ],
+      "issue": "ShampooHydra app3min da loja;PDFp29 não fixa pausa. Ativos também diferem porfonte.",
+      "sourceVersion": "PDF2025 vs catálogo atual",
+      "resolution": "Exibir origem e ano; não fundir protocolos/fórmulas."
+    },
+    {
+      "productId": "4b0b72183af62db7",
+      "pages": [
+        36,
+        37
+      ],
+      "issue": "Restore500g app7min fonte loja. PDFp36 500g sem modo;PDFp37 kit250g diz10–15min. Não usar tempo do kit como confirmação para500g.",
+      "sourceVersion": "PDF2025 vs catálogo atual",
+      "resolution": "Exibir origem e ano; não fundir protocolos/fórmulas."
+    },
+    {
+      "productId": "3e6b73f994297918",
+      "pages": [
+        17
+      ],
+      "issue": "MáscaraPowerCurls1kg:PDFp17 rótulopH3,5–4,5; loja descreve3,0–4,0. Conservar versões.",
+      "sourceVersion": "PDF2025 vs catálogo atual",
+      "resolution": "Exibir origem e ano; não fundir protocolos/fórmulas."
+    },
+    {
+      "productId": "pro-color-creams-coloracao",
+      "pages": [
+        44,
+        45,
+        46,
+        47,
+        48,
+        49
+      ],
+      "issue": "ColorCreams: appficha genérica semuso/ativos. PDF informa pigmentos/ativoscondicionantes nãoindividualizados, nuances ecorretores, massemproporção oupausa. Nãoinferir comOX.",
+      "sourceVersion": "PDF2025 vs catálogo atual",
+      "resolution": "Exibir origem e ano; não fundir protocolos/fórmulas."
+    }
+  ],
+  "missingProducts": [
+    {
+      "productId": "pdf-lamour-shampoo-300",
+      "name": "Shampoo L’Amour Strawberry300mL",
+      "page": 31,
+      "fields": {
+        "actives": [
+          "Vitamina A",
+          "Vitamina D",
+          "Pantenol",
+          "Extrato de morango"
+        ],
+        "indication": "Cabelos opacos, desnutridos e sem brilho.",
+        "use": "Aplicar nos cabelos úmidos e massagear até espumar; enxaguar e repetir se necessário.",
+        "declaredPH": "4,5–5,5"
+      },
+      "exactEvidence": [
+        "SHAMPOO NUTRITIVO",
+        "300mL",
+        "Vitamina A",
+        "Vitamina D",
+        "Pantenol",
+        "Extrato de Morango"
+      ],
+      "unresolvedFields": [
+        "INCI",
+        "Preço atual"
+      ],
+      "visualVerified": true,
+      "notes": [
+        "Proposta de ID:produto não tem ficha individual no catálogo auditado, embora possa aparecer em kit. FontePDF2025."
+      ]
+    },
+    {
+      "productId": "pdf-woman-caps",
+      "name": "Woman Caps suplemento alimentar60cápsulas",
+      "page": 34,
+      "fields": {
+        "actives": [
+          "Ácido pantotênico(Vitamina B5)",
+          "Vitaminas e minerais não discriminados"
+        ],
+        "indication": "Adultos acima de19anos, conforme fabricante.",
+        "use": "Segundo a embalagem do catálogo,1cápsula ao dia. Não exceder a recomendação diária do rótulo.",
+        "category": "Suplemento alimentar"
+      },
+      "exactEvidence": [
+        "SUGESTÃO DE USO: Ingerir 1 Cápsula Ao Dia",
+        "Ácido Pantotênico (Vitamina B5)",
+        "Produto indicado para o grupo populacional acima de 19 anos."
+      ],
+      "unresolvedFields": [
+        "Tabela nutricional",
+        "Concentrações",
+        "Composição completa",
+        "Preço atual"
+      ],
+      "visualVerified": true,
+      "notes": [
+        "Proposta de ID:produto não tem ficha individual no catálogo auditado, embora possa aparecer em kit. FontePDF2025."
+      ]
+    }
+  ],
+  "unresolved": [
+    {
+      "productId": "95ac184d2698139f",
+      "name": "Body Splash - Provoke Shimmer 200ml - 8% de essência.",
+      "fields": [
+        "actives"
+      ],
+      "resolution": "Ver correção doPDF se existir; caso contrário não localizado conclusivamente noPDF. Fragrâncias têm notas olfativas em vez de ativos capilares."
+    },
+    {
+      "productId": "a319416672d1d7ec",
+      "name": "Body Splash Fresh Skin Shimmer 200ml - 8% de essência.",
+      "fields": [
+        "actives"
+      ],
+      "resolution": "Ver correção doPDF se existir; caso contrário não localizado conclusivamente noPDF. Fragrâncias têm notas olfativas em vez de ativos capilares."
+    },
+    {
+      "productId": "367610b6c0d2e6ae",
+      "name": "Body Splash Luxy Shimmer 200ml - 8% de essência.",
+      "fields": [
+        "actives"
+      ],
+      "resolution": "Ver correção doPDF se existir; caso contrário não localizado conclusivamente noPDF. Fragrâncias têm notas olfativas em vez de ativos capilares."
+    },
+    {
+      "productId": "03a95054ec272dd3",
+      "name": "Body Splash Masculino Auren Intense Dal Cotone 200ml",
+      "fields": [
+        "actives"
+      ],
+      "resolution": "Ver correção doPDF se existir; caso contrário não localizado conclusivamente noPDF. Fragrâncias têm notas olfativas em vez de ativos capilares."
+    },
+    {
+      "productId": "1dbf9af98657271e",
+      "name": "Body Splash Masculino Iconi Pure Dal Cotone 200ml",
+      "fields": [
+        "actives"
+      ],
+      "resolution": "Ver correção doPDF se existir; caso contrário não localizado conclusivamente noPDF. Fragrâncias têm notas olfativas em vez de ativos capilares."
+    },
+    {
+      "productId": "23b1481f6d874914",
+      "name": "Body Splash Sweet Crush Shimmer 200ml - 8% de essência.",
+      "fields": [
+        "actives"
+      ],
+      "resolution": "Ver correção doPDF se existir; caso contrário não localizado conclusivamente noPDF. Fragrâncias têm notas olfativas em vez de ativos capilares."
+    },
+    {
+      "productId": "pro-color-creams-coloracao",
+      "name": "Color Creams — Coloração Permanente 60 g",
+      "fields": [
+        "actives",
+        "use",
+        "indication"
+      ],
+      "resolution": "Ver correção doPDF se existir; caso contrário não localizado conclusivamente noPDF. Fragrâncias têm notas olfativas em vez de ativos capilares."
+    },
+    {
+      "productId": "e95975619b537972",
+      "name": "Condicionador Power Repair 1 L",
+      "fields": [
+        "actives",
+        "use",
+        "indication"
+      ],
+      "resolution": "Ver correção doPDF se existir; caso contrário não localizado conclusivamente noPDF. Fragrâncias têm notas olfativas em vez de ativos capilares."
+    },
+    {
+      "productId": "pro-washing-condicionador",
+      "name": "Condicionador Purificante Washing 2,5 L",
+      "fields": [
+        "actives"
+      ],
+      "resolution": "Ver correção doPDF se existir; caso contrário não localizado conclusivamente noPDF. Fragrâncias têm notas olfativas em vez de ativos capilares."
+    },
+    {
+      "productId": "244136c3b5dfed21",
+      "name": "Cronograma Capilar em Ampolas - Crono Plus+",
+      "fields": [
+        "actives"
+      ],
+      "resolution": "Ver correção doPDF se existir; caso contrário não localizado conclusivamente noPDF. Fragrâncias têm notas olfativas em vez de ativos capilares."
+    },
+    {
+      "productId": "4418a4ee99e8320b",
+      "name": "Eau de Parfum Kesia Carmo 100 mL",
+      "fields": [
+        "actives",
+        "use"
+      ],
+      "resolution": "Ver correção doPDF se existir; caso contrário não localizado conclusivamente noPDF. Fragrâncias têm notas olfativas em vez de ativos capilares."
+    },
+    {
+      "productId": "60e03232e7b79d05",
+      "name": "Eau de Parfum Raphael Borba 100 mL",
+      "fields": [
+        "actives",
+        "use"
+      ],
+      "resolution": "Ver correção doPDF se existir; caso contrário não localizado conclusivamente noPDF. Fragrâncias têm notas olfativas em vez de ativos capilares."
+    },
+    {
+      "productId": "pro-bleached-ox-05",
+      "name": "Emulsão Reveladora Cremosa Bleached 05 volumes 900 mL",
+      "fields": [
+        "actives"
+      ],
+      "resolution": "Ver correção doPDF se existir; caso contrário não localizado conclusivamente noPDF. Fragrâncias têm notas olfativas em vez de ativos capilares."
+    },
+    {
+      "productId": "pro-bleached-ox-10",
+      "name": "Emulsão Reveladora Cremosa Bleached 10 volumes 900 mL",
+      "fields": [
+        "actives"
+      ],
+      "resolution": "Ver correção doPDF se existir; caso contrário não localizado conclusivamente noPDF. Fragrâncias têm notas olfativas em vez de ativos capilares."
+    },
+    {
+      "productId": "pro-bleached-ox-20",
+      "name": "Emulsão Reveladora Cremosa Bleached 20 volumes 900 mL",
+      "fields": [
+        "actives"
+      ],
+      "resolution": "Ver correção doPDF se existir; caso contrário não localizado conclusivamente noPDF. Fragrâncias têm notas olfativas em vez de ativos capilares."
+    },
+    {
+      "productId": "pro-bleached-ox-30",
+      "name": "Emulsão Reveladora Cremosa Bleached 30 volumes 900 mL",
+      "fields": [
+        "actives"
+      ],
+      "resolution": "Ver correção doPDF se existir; caso contrário não localizado conclusivamente noPDF. Fragrâncias têm notas olfativas em vez de ativos capilares."
+    },
+    {
+      "productId": "008a07353d60761c",
+      "name": "Kit Blond Up Home Care",
+      "fields": [
+        "actives",
+        "use",
+        "indication"
+      ],
+      "resolution": "Ver correção doPDF se existir; caso contrário não localizado conclusivamente noPDF. Fragrâncias têm notas olfativas em vez de ativos capilares."
+    },
+    {
+      "productId": "eef86335c476b86a",
+      "name": "Kit Blond Up Profissional",
+      "fields": [
+        "actives"
+      ],
+      "resolution": "Ver correção doPDF se existir; caso contrário não localizado conclusivamente noPDF. Fragrâncias têm notas olfativas em vez de ativos capilares."
+    },
+    {
+      "productId": "798eb9de5d73bf86",
+      "name": "Kit Body Splash Shimmer Dal Cotone - 4 Fragrâncias 200ml - 8% de essência.",
+      "fields": [
+        "actives"
+      ],
+      "resolution": "Ver correção doPDF se existir; caso contrário não localizado conclusivamente noPDF. Fragrâncias têm notas olfativas em vez de ativos capilares."
+    },
+    {
+      "productId": "bb946e7d15bc1e95",
+      "name": "Kit de Ampolas Ultra Magic 4 x 15 mL",
+      "fields": [
+        "indication"
+      ],
+      "resolution": "Ver correção doPDF se existir; caso contrário não localizado conclusivamente noPDF. Fragrâncias têm notas olfativas em vez de ativos capilares."
+    },
+    {
+      "productId": "3e67b66612b7f633",
+      "name": "Kit Force Life + Must Use",
+      "fields": [
+        "actives",
+        "use",
+        "indication"
+      ],
+      "resolution": "Ver correção doPDF se existir; caso contrário não localizado conclusivamente noPDF. Fragrâncias têm notas olfativas em vez de ativos capilares."
+    },
+    {
+      "productId": "a2d935f4e04f38b2",
+      "name": "Kit L'Amour Morango",
+      "fields": [
+        "actives",
+        "use",
+        "indication"
+      ],
+      "resolution": "Ver correção doPDF se existir; caso contrário não localizado conclusivamente noPDF. Fragrâncias têm notas olfativas em vez de ativos capilares."
+    },
+    {
+      "productId": "99b3b3196433752a",
+      "name": "Kit Monovin",
+      "fields": [
+        "actives"
+      ],
+      "resolution": "Ver correção doPDF se existir; caso contrário não localizado conclusivamente noPDF. Fragrâncias têm notas olfativas em vez de ativos capilares."
+    },
+    {
+      "productId": "060dbd1588f6e3af",
+      "name": "Kit Monovin + Woman Caps",
+      "fields": [
+        "actives"
+      ],
+      "resolution": "Ver correção doPDF se existir; caso contrário não localizado conclusivamente noPDF. Fragrâncias têm notas olfativas em vez de ativos capilares."
+    },
+    {
+      "productId": "ad696ecbb8523b00",
+      "name": "Máscara Blond Up 300 g",
+      "fields": [
+        "actives",
+        "use",
+        "indication"
+      ],
+      "resolution": "Ver correção doPDF se existir; caso contrário não localizado conclusivamente noPDF. Fragrâncias têm notas olfativas em vez de ativos capilares."
+    },
+    {
+      "productId": "288400afe5f54ed1",
+      "name": "Máscara Monovin 300 g",
+      "fields": [
+        "indication"
+      ],
+      "resolution": "Ver correção doPDF se existir; caso contrário não localizado conclusivamente noPDF. Fragrâncias têm notas olfativas em vez de ativos capilares."
+    },
+    {
+      "productId": "c80795eeb384b531",
+      "name": "Óleo Spray Golden Premium Doador de Brilho 60ml",
+      "fields": [
+        "actives"
+      ],
+      "resolution": "Ver correção doPDF se existir; caso contrário não localizado conclusivamente noPDF. Fragrâncias têm notas olfativas em vez de ativos capilares."
+    },
+    {
+      "productId": "pro-bleached-powder-blue",
+      "name": "Pó Descolorante Bleached Blue 500 g",
+      "fields": [
+        "actives"
+      ],
+      "resolution": "Ver correção doPDF se existir; caso contrário não localizado conclusivamente noPDF. Fragrâncias têm notas olfativas em vez de ativos capilares."
+    },
+    {
+      "productId": "pro-bleached-powder-white",
+      "name": "Pó Descolorante Bleached White 500 g",
+      "fields": [
+        "actives"
+      ],
+      "resolution": "Ver correção doPDF se existir; caso contrário não localizado conclusivamente noPDF. Fragrâncias têm notas olfativas em vez de ativos capilares."
+    },
+    {
+      "productId": "d6c72aac411c5ca5",
+      "name": "Reparador de Pontas Argan Oil Premium 30 mL",
+      "fields": [
+        "actives",
+        "use",
+        "indication"
+      ],
+      "resolution": "Ver correção doPDF se existir; caso contrário não localizado conclusivamente noPDF. Fragrâncias têm notas olfativas em vez de ativos capilares."
+    },
+    {
+      "productId": "pro-silk-fiber-regular",
+      "name": "Retexturizador Silk Fiber 1 kg",
+      "fields": [
+        "actives"
+      ],
+      "resolution": "Ver correção doPDF se existir; caso contrário não localizado conclusivamente noPDF. Fragrâncias têm notas olfativas em vez de ativos capilares."
+    },
+    {
+      "productId": "pro-silk-fiber-blond",
+      "name": "Retexturizador Silk Fiber Blond 1 kg",
+      "fields": [
+        "actives"
+      ],
+      "resolution": "Ver correção doPDF se existir; caso contrário não localizado conclusivamente noPDF. Fragrâncias têm notas olfativas em vez de ativos capilares."
+    },
+    {
+      "productId": "6f9f4653036c50d2",
+      "name": "Shampoo Blond Up Premium 1 L",
+      "fields": [
+        "actives",
+        "use",
+        "indication"
+      ],
+      "resolution": "Ver correção doPDF se existir; caso contrário não localizado conclusivamente noPDF. Fragrâncias têm notas olfativas em vez de ativos capilares."
+    },
+    {
+      "productId": "01183f9d468921d6",
+      "name": "Shampoo Power Curls 1 L",
+      "fields": [
+        "actives",
+        "use",
+        "indication"
+      ],
+      "resolution": "Ver correção doPDF se existir; caso contrário não localizado conclusivamente noPDF. Fragrâncias têm notas olfativas em vez de ativos capilares."
+    },
+    {
+      "productId": "d7d4d08e9715ef3e",
+      "name": "Shampoo Power Curls 300 mL",
+      "fields": [
+        "actives",
+        "use",
+        "indication"
+      ],
+      "resolution": "Ver correção doPDF se existir; caso contrário não localizado conclusivamente noPDF. Fragrâncias têm notas olfativas em vez de ativos capilares."
+    },
+    {
+      "productId": "pro-washing-shampoo",
+      "name": "Shampoo Purificante Washing 2,5 L",
+      "fields": [
+        "actives"
+      ],
+      "resolution": "Ver correção doPDF se existir; caso contrário não localizado conclusivamente noPDF. Fragrâncias têm notas olfativas em vez de ativos capilares."
+    },
+    {
+      "productId": "03bcd497b08d00bb",
+      "name": "Shampoo S.O.S Detox 1 L",
+      "fields": [
+        "actives",
+        "use",
+        "indication"
+      ],
+      "resolution": "Ver correção doPDF se existir; caso contrário não localizado conclusivamente noPDF. Fragrâncias têm notas olfativas em vez de ativos capilares."
+    }
+  ],
+  "pageCoverage": [
+    {
+      "page": 0,
+      "visualVerified": true,
+      "topic": "CATÁLOGO PRODUTOS 2025 né dtobáoo df) DAL COTONE : ORGANIC ANTI-FRIZZ SYST MANTEIGA DE KAR",
+      "status": "capa/identidade sem novo produto"
+    },
+    {
+      "page": 1,
+      "visualVerified": true,
+      "topic": "24K PREMIUM TECNOLOGIA E SOFISTICAÇÃO PARA FIOS ALINHADOS E SAUDÁVEIS Com ativos naturais ",
+      "status": "ficha técnica já coberta na revisão anterior"
+    },
+    {
+      "page": 2,
+      "visualVerified": true,
+      "topic": "24K PREMIUM SPRAY ANTI FRIZZ Poderoso finalizador alisante livre de química. Age de forma ",
+      "status": "conteúdo confrontado; sem nova correção conclusiva além dos apontamentos da auditoria"
+    },
+    {
+      "page": 3,
+      "visualVerified": true,
+      "topic": "24K PREMIUM INTENSIVE TREATMENT MASK Botox Reconstrutor com fórmula inovadora que proporci",
+      "status": "ficha técnica já coberta na revisão anterior"
+    },
+    {
+      "page": 4,
+      "visualVerified": true,
+      "topic": "BIO PLASTIA PROFESSIONAL TREATMENT A linha foi desenvolvida para transformar a textura dos",
+      "status": "ficha técnica já coberta na revisão anterior"
+    },
+    {
+      "page": 5,
+      "visualVerified": true,
+      "topic": "HIGH PERFORMANC Desenvolvida para alinhar os fios, eliminar o frizz e proporcionar um toqu",
+      "status": "ficha técnica já coberta na revisão anterior"
+    },
+    {
+      "page": 6,
+      "visualVerified": true,
+      "topic": "SILK FIBER RETEXTURIZADOR Botox capilar modelador que restaura os fios, recupera nutriente",
+      "status": "ficha técnica já coberta na revisão anterior"
+    },
+    {
+      "page": 7,
+      "visualVerified": true,
+      "topic": "NV LOPAMENTO DOS FIOS Desenvolvida para restaurar e reconstruir a fibra capilar, a linha p",
+      "status": "ficha técnica já coberta na revisão anterior"
+    },
+    {
+      "page": 8,
+      "visualVerified": true,
+      "topic": "CLEAN CARE SHAMPOO PREPARADOR Desenvolvido para realizar uma limpeza profunda e preparar o",
+      "status": "ficha técnica já coberta na revisão anterior"
+    },
+    {
+      "page": 9,
+      "visualVerified": true,
+      "topic": "VVASHING CUIDADO DE SALÃO Shampoo e condicionador que proporcionam limpeza suave, hidrataç",
+      "status": "ficha técnica já coberta na revisão anterior"
+    },
+    {
+      "page": 10,
+      "visualVerified": true,
+      "topic": "USO PROFISSIONAL O Kit Blond Up da linha Premium é a solução ideal para realçar o brilho e",
+      "status": "correção/lacuna registrada nesta auditoria"
+    },
+    {
+      "page": 11,
+      "visualVerified": true,
+      "topic": "BLOND UP HOME CARE O Kit Blond Up Home Care foi desenvolvido especialmente para realçar o ",
+      "status": "correção/lacuna registrada nesta auditoria"
+    },
+    {
+      "page": 12,
+      "visualVerified": true,
+      "topic": "BLEACHED EMULSÃO REVELADORA CREMOSA Alinha de Emulsões Reveladoras da Dal Cotone oferece a",
+      "status": "ficha técnica já coberta na revisão anterior"
+    },
+    {
+      "page": 13,
+      "visualVerified": true,
+      "topic": "BLEACHED PÓ DESCOLORANTE WHITE | BLUE O Pó Descolorante da Dal Cotone Cosméticos promove c",
+      "status": "ficha técnica já coberta na revisão anterior"
+    },
+    {
+      "page": 14,
+      "visualVerified": true,
+      "topic": "PROFESSIONAL USE Fórmula avançada para uma reparação profunda aos fios, a linha restaura a",
+      "status": "conteúdo confrontado; sem nova correção conclusiva além dos apontamentos da auditoria"
+    },
+    {
+      "page": 15,
+      "visualVerified": true,
+      "topic": "MAX FORCE HOME CARE Alinha Max Force também conta com uma linha de cuidados home care, des",
+      "status": "conteúdo confrontado; sem nova correção conclusiva além dos apontamentos da auditoria"
+    },
+    {
+      "page": 16,
+      "visualVerified": true,
+      "topic": "Ação Anti-Fri Brilho Intenso: Maciez: Torn: Revitalização: Versatilidade: PREMIUM Com ação",
+      "status": "correção/lacuna registrada nesta auditoria"
+    },
+    {
+      "page": 17,
+      "visualVerified": true,
+      "topic": "POWER CURLS USO PROFISSIONAL Alinha Power Curls foi especialmente desenvolvida para atende",
+      "status": "correção/lacuna registrada nesta auditoria"
+    },
+    {
+      "page": 18,
+      "visualVerified": true,
+      "topic": "GELEIA ATIVADORA DO DE Com os cabelos úmidos ou secos, aplique uma quantidade adequada da ",
+      "status": "conteúdo confrontado; sem nova correção conclusiva além dos apontamentos da auditoria"
+    },
+    {
+      "page": 19,
+      "visualVerified": true,
+      "topic": "POWER CURLS HOME CARE Alinha Home Care Power Curis foi especialmente desenvolvida para cui",
+      "status": "correção/lacuna registrada nesta auditoria"
+    },
+    {
+      "page": 20,
+      "visualVerified": true,
+      "topic": "USO PROFISSIONAL A linha promove limpeza suave, hidratação intensa e fortalecimento dos fi",
+      "status": "correção/lacuna registrada nesta auditoria"
+    },
+    {
+      "page": 21,
+      "visualVerified": true,
+      "topic": "POWER REPAIR HOME CARE A linha Home Care Power Repair promove limpeza suave, hidratação in",
+      "status": "conteúdo confrontado; sem nova correção conclusiva além dos apontamentos da auditoria"
+    },
+    {
+      "page": 22,
+      "visualVerified": true,
+      "topic": "| L) Lo O óleo capilar de açaí Power Luminous Oil possui L. ação antioxidante, deixando os",
+      "status": "conteúdo confrontado; sem nova correção conclusiva além dos apontamentos da auditoria"
+    },
+    {
+      "page": 23,
+      "visualVerified": true,
+      "topic": "SOS USO PR A linha SOS Detox Profissional Dal Co desintoxicando o couro cabeludo e restaur",
+      "status": "correção/lacuna registrada nesta auditoria"
+    },
+    {
+      "page": 24,
+      "visualVerified": true,
+      "topic": "SOS DETOX HOME CARE A linha SOS Detox Home Care foi desenvolvida para desintoxicar e prote",
+      "status": "conteúdo confrontado; sem nova correção conclusiva além dos apontamentos da auditoria"
+    },
+    {
+      "page": 25,
+      "visualVerified": true,
+      "topic": "pH CONTROL Desenvolvido para equilibrar o pH, neutralizar resíduos químicos, reconstruir e",
+      "status": "ficha técnica já coberta na revisão anterior"
+    },
+    {
+      "page": 26,
+      "visualVerified": true,
+      "topic": "NECESSIIY USE O Necessity Use é um reconstrutor que nutre, elimina o frizz e proporciona a",
+      "status": "conteúdo confrontado; sem nova correção conclusiva além dos apontamentos da auditoria"
+    },
+    {
+      "page": 27,
+      "visualVerified": true,
+      "topic": "FORCE LIFE HOME CARE Desenvolvida para oferecer cuidado completo aos cabelos, com limpeza ",
+      "status": "ficha técnica já coberta na revisão anterior"
+    },
+    {
+      "page": 28,
+      "visualVerified": true,
+      "topic": "MUSTUSE FLUIDO RECONSTRUTOR Fluido reconstrutor que nutre o cabelo e elimina o frizz, prop",
+      "status": "correção/lacuna registrada nesta auditoria"
+    },
+    {
+      "page": 29,
+      "visualVerified": true,
+      "topic": "HYDRA CERAMIDES A linha foi desenvolvida para combater o envelhecimento precoce dos fios, ",
+      "status": "correção/lacuna registrada nesta auditoria"
+    },
+    {
+      "page": 30,
+      "visualVerified": true,
+      "topic": "GOLD EN PREMIUM GOLD HAIR OIL O óleo capilar líquido Golden Premium possui ação anti-frizz",
+      "status": "conteúdo confrontado; sem nova correção conclusiva além dos apontamentos da auditoria"
+    },
+    {
+      "page": 31,
+      "visualVerified": true,
+      "topic": "LAMOUR HOME CARE O shampoo e a máscara foram desenvolvidos para proporcionar limpeza delic",
+      "status": "correção/lacuna registrada nesta auditoria"
+    },
+    {
+      "page": 32,
+      "visualVerified": true,
+      "topic": "LAMOUR PERFUME CAPILAR O perfume capilar proporciona uma fragrância suave, devolve o brilh",
+      "status": "correção/lacuna registrada nesta auditoria"
+    },
+    {
+      "page": 33,
+      "visualVerified": true,
+      "topic": ", A M |] ESTIMULANTE DE CRESCIMENTO CAPILAR Alinha proporciona fortalecimento capilar, est",
+      "status": "correção/lacuna registrada nesta auditoria"
+    },
+    {
+      "page": 34,
+      "visualVerified": true,
+      "topic": "SUGESTÃO DE USO: Ingerir 1 Cápsula Ao Dia CUIDADOS DE CONSERVAÇÃO: - Conservar ao abrigo d",
+      "status": "correção/lacuna registrada nesta auditoria"
+    },
+    {
+      "page": 35,
+      "visualVerified": true,
+      "topic": "QUERATINA HIDROLISA Tratamento desenvolvido para restaurar a fibra capilar, reconstruindo ",
+      "status": "ficha técnica já coberta na revisão anterior"
+    },
+    {
+      "page": 36,
+      "visualVerified": true,
+      "topic": "Desenvolvida para nutrir intensamente cabelos fracos e desvitalizados, a máscara fortalece",
+      "status": "conteúdo confrontado; sem nova correção conclusiva além dos apontamentos da auditoria"
+    },
+    {
+      "page": 37,
+      "visualVerified": true,
+      "topic": "KIT MÁSCARAS CRONOGRAMA NUTRI PROTEIN, VERNIZ INTENSE E RESTORE TRATAMENTO COMPLETO PARA T",
+      "status": "conteúdo confrontado; sem nova correção conclusiva além dos apontamentos da auditoria"
+    },
+    {
+      "page": 38,
+      "visualVerified": true,
+      "topic": "BANANA E MEI MÁSCARA CAPILAR A máscara capilar efeito teia é um tratamento intensivo que r",
+      "status": "conteúdo confrontado; sem nova correção conclusiva além dos apontamentos da auditoria"
+    },
+    {
+      "page": 39,
+      "visualVerified": true,
+      "topic": "FULL RECOVER MÁSCARA CAPILAR Máscara capilar efeito teia que repara e hidrata profundament",
+      "status": "conteúdo confrontado; sem nova correção conclusiva além dos apontamentos da auditoria"
+    },
+    {
+      "page": 40,
+      "visualVerified": true,
+      "topic": "RECONSTRUTOR MÁSCARA CAPILAR Máscara capilar efeito teia que repara danos severos, fortale",
+      "status": "conteúdo confrontado; sem nova correção conclusiva além dos apontamentos da auditoria"
+    },
+    {
+      "page": 41,
+      "visualVerified": true,
+      "topic": "AMPOLAS POTENCIALIZADORAS Transforme o cuidado diário com o poder deste cronograma exclusi",
+      "status": "correção/lacuna registrada nesta auditoria"
+    },
+    {
+      "page": 42,
+      "visualVerified": true,
+      "topic": "ULTRA MAGIC AMPOLA RESTAURADORA A Ultra Magic Ampola Restauradora da Dal Cotone é um trata",
+      "status": "conteúdo confrontado; sem nova correção conclusiva além dos apontamentos da auditoria"
+    },
+    {
+      "page": 43,
+      "visualVerified": true,
+      "topic": "/ VITAMÍNICA PREMIUM A Vitamínica Premium Dal Cotone é um tratamento inovador que combina ",
+      "status": "correção/lacuna registrada nesta auditoria"
+    },
+    {
+      "page": 44,
+      "visualVerified": true,
+      "topic": "a E SE COLORAÇÃO <a Coloração creme permanente Dal Cotone com baixíssimo teor de amônia, e",
+      "status": "conteúdo confrontado; sem nova correção conclusiva além dos apontamentos da auditoria"
+    },
+    {
+      "page": 45,
+      "visualVerified": true,
+      "topic": "No NA LO MORENA 10 20 30 40 50 117 Preto Preto Castanho Castanho Castanho Marrom Azulado E",
+      "status": "nuances estruturadas nesta auditoria"
+    },
+    {
+      "page": 46,
+      "visualVerified": true,
+      "topic": "COLORAÇÃO RUIVA 7.66 844 Loiro Médio Loiro Claro 8.26 Vermelho Intenso Cobre Intenso Marsa",
+      "status": "nuances estruturadas nesta auditoria"
+    },
+    {
+      "page": 47,
+      "visualVerified": true,
+      "topic": "COLORAÇÃO LOIRO 6.7 8n 8.75 Loiro 731 77 Loiro Claro Loiro Claro 60 Marrom Loiro Médio Loi",
+      "status": "nuances estruturadas nesta auditoria"
+    },
+    {
+      "page": 48,
+      "visualVerified": true,
+      "topic": "COLORAÇÃO SUPER CLAREADORES 8.31 931 9.81 101 10.89 12.81 121 Loiro Claro Médio Loiro Muit",
+      "status": "nuances estruturadas nesta auditoria"
+    },
+    {
+      "page": 49,
+      "visualVerified": true,
+      "topic": "CORRETOR Cinza 0.1 Neutralizar tons cobres indesejados, tanto na coloração como em mechas ",
+      "status": "nuances estruturadas nesta auditoria"
+    },
+    {
+      "page": 50,
+      "visualVerified": true,
+      "topic": "DAL COTONE 00 DALCOTONEOFICIAL",
+      "status": "capa/identidade sem novo produto"
+    }
+  ],
+  "notes": [
+    "Todas as 51 páginas foram inspecionadas visualmente; OCR usado somente como apoio.",
+    "As correções são uma camada do PDF2025, não confirmação de fórmula, preços, embalagem ou kits atuais.",
+    "Não substituir dados atuais da loja silenciosamente. Conservar fonte/ano por campo e explicar divergências.",
+    "Em nenhuma ficha os ativos destacados equivalem a INCI completo. Não foram inferidas concentrações.",
+    "Variantes sem lista de ativos na própria página não herdam automaticamente a composição de outra embalagem."
+  ],
+  "missingVariants": [
+    {
+      "productId": "pro-color-creams-coloracao",
+      "page": 45,
+      "group": "Morena",
+      "variants": [
+        "1.0 Preto",
+        "2.0 Preto Azulado",
+        "3.0 Castanho Escuro",
+        "4.0 Castanho Médio",
+        "5.0 Castanho Claro",
+        "7.77 Marrom Intenso"
+      ],
+      "notes": "Não presentes como variantes estruturadas na ficha genérica auditada; não há proporção ou tempo de uso noPDF."
+    },
+    {
+      "productId": "pro-color-creams-coloracao",
+      "page": 46,
+      "group": "Ruiva",
+      "variants": [
+        "7.66 Loiro Médio Vermelho Intenso",
+        "8.44 Loiro Claro Cobre Intenso",
+        "8.26 Marsala"
+      ],
+      "notes": "Não presentes como variantes estruturadas na ficha genérica auditada; não há proporção ou tempo de uso noPDF."
+    },
+    {
+      "productId": "pro-color-creams-coloracao",
+      "page": 47,
+      "group": "Loiro",
+      "variants": [
+        "6.0 Loiro Escuro",
+        "6.7 Loiro Marrom Chocolate",
+        "7.31 Loiro Médio Bege",
+        "7.7 Loiro Médio Marrom",
+        "8.71 Loiro Claro Marrom Acinzentado",
+        "8.73 Loiro Claro Marrom Dourado"
+      ],
+      "notes": "Não presentes como variantes estruturadas na ficha genérica auditada; não há proporção ou tempo de uso noPDF."
+    },
+    {
+      "productId": "pro-color-creams-coloracao",
+      "page": 48,
+      "group": "Super clareadores",
+      "variants": [
+        "8.31 Loiro Claro Médio Acinzentado Iluminador",
+        "9.31 Loiro Muito Claro Bege",
+        "9.81 Loiro Perolado",
+        "10.1 Loiro Claríssimo Acinzentado",
+        "10.89 Loiro Claríssimo Pérola",
+        "12.81 Loiro Perolado Especial",
+        "12.11 Loiro Perolado Azul Acinzentado"
+      ],
+      "notes": "Não presentes como variantes estruturadas na ficha genérica auditada; não há proporção ou tempo de uso noPDF."
+    },
+    {
+      "productId": "pro-color-creams-coloracao",
+      "page": 49,
+      "group": "Corretores",
+      "variants": [
+        "Cinza0.1",
+        "Azul0.12",
+        "Verde0.13",
+        "0SP Reforçador de clareamento"
+      ],
+      "notes": "Não presentes como variantes estruturadas na ficha genérica auditada; não há proporção ou tempo de uso noPDF."
+    }
+  ],
+  "globalUnresolved": [
+    "INCI completo não fornecido pelo catálogo técnico.",
+    "Preços públicos atuais não constam noPDF2025.",
+    "Taxas/concentrações individuais não devem ser deduzidas das alegações.",
+    "Datas de reformulação e equivalência das fórmulas2025/loja atual não confirmadas.",
+    "GoldenPremium não publica ingredientes individuais;p30.",
+    "SilkFiber não publica lista deativos;p6.",
+    "Washing não publica lista deativos;p9.",
+    "ColorCreams não publica diluição nemtempo;p44–49.",
+    "PowerRepairprofissionalp20 eDetoxprofissionalp23 não publicamlista deativos individual; preservara pendência das variantes1L atéfonteprópria."
+  ]
+}

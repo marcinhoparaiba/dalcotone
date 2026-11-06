@@ -14,7 +14,7 @@ test('treatments, lines and all audited kits remain distinct and traceable',()=>
  for(const p of catalog.products){assert.ok(p.categories.length);assert.ok(catalog.lines.some(l=>l.name===p.line&&l.productIds.includes(p.id)));}
  assert.equal(catalog.kitAudit.total,26);assert.equal(catalog.products.filter(p=>p.type==='Kits'&&p.sourceKind!=='consultor').length,26);
  const spray=catalog.products.find(p=>p.line==='24K'&&p.name.includes('Spray'));assert.ok(spray.categories.includes('Finalização'));assert.ok(!spray.categories.includes('Selagem'));
- const reference=catalog.products.find(p=>p.id==='consultor-kit-24k');assert.equal(reference.sourceKind,'consultor');assert.equal(reference.price,null);assert.equal(reference.kitItems.length,3);assert.equal(reference.kitItems[0].productId,null);
+ assert.equal(catalog.products.some(p=>p.id==='consultor-kit-24k'),false);
  const ph=catalog.products.find(p=>p.id==='consultor-ph-control');assert.ok(ph);assert.deepEqual(ph.actives,['Nano Link','LunaMatrix']);assert.equal(ph.price,null);
  assert.ok(filterProducts(catalog.products,{category:'Selagem',line:'24K'}).every(p=>p.line==='24K'&&p.categories.includes('Selagem')));
 });
@@ -56,8 +56,20 @@ test('every line and product has a complete, scoped conversation guide',()=>{
 
 test('PDF photographs are bundled, verified and preserve SKU identities',async()=>{
  const photos=JSON.parse(await readFile(new URL('../research/pdf-photos.json',import.meta.url)));
- assert.equal(photos.images.length,23);
+ assert.ok(photos.images.length>=70);
  for(const photo of photos.images){const p=catalog.products.find(p=>p.id===photo.productId);assert.ok(p);assert.equal(photo.verifiedPresentation,true);assert.equal(p.imageUrl,photo.imageUrl);assert.ok(safeUrl(p.imageUrl));assert.ok((await readFile(new URL('../dist'+p.imageUrl,import.meta.url))).length>100);}
- assert.ok(!catalog.products.find(p=>p.id==='consultor-kit-24k').imageUrl);
+
  const ph=catalog.products.find(p=>p.id==='consultor-ph-control');assert.ok(ph.name.includes('500 mL'));assert.ok(ph.use.includes('blindagem'));assert.ok(ph.occasions.length===3);
+});
+
+test('full PDF audit covers every page, removes example kit and preserves conflicting versions',async()=>{
+ const audit=JSON.parse(await readFile(new URL('../research/full-technical-audit.json',import.meta.url)));
+ assert.deepEqual(audit.pageCoverage.map(p=>p.page),Array.from({length:51},(_,i)=>i));
+ assert.equal(catalog.products.some(p=>p.id==='consultor-kit-24k'),false);
+ assert.ok(catalog.products.find(p=>p.id==='pdf-lamour-shampoo-300').imageUrl.startsWith('/assets/'));
+ assert.ok(catalog.products.find(p=>p.id==='pdf-woman-caps').presentation.scope.includes('não é'));
+ for(const id of ['01183f9d468921d6','d7d4d08e9715ef3e','ad696ecbb8523b00','d6c72aac411c5ca5']){const p=catalog.products.find(p=>p.id===id);assert.ok(p.use);assert.ok(p.indication);assert.ok(p.actives.length);}
+ const hydra=catalog.products.find(p=>p.id==='48678d0216074934');assert.ok(hydra.historicalFields[0].fields.actives.includes('Vitamina E'));assert.ok(hydra.sourceDifferences.length);
+ const kit=catalog.products.find(p=>p.id==='3e67b66612b7f633');assert.equal(kit.kitItems.length,3);assert.deepEqual(kit.kitItems.map(p=>p.volume),['300 mL','300 g','250 mL']);
+ const color=catalog.products.find(p=>p.id==='pro-color-creams-coloracao');assert.equal(color.variants.length,5);assert.ok(color.variants.some(g=>g.group==='Corretores'));assert.equal(color.use,null);
 });

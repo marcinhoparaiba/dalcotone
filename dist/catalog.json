@@ -18,7 +18,7 @@
       "priceSource": "https://dalcotone.com.br/collections/linha-power-curls",
       "price": 129.78,
       "regularPrice": 144.2,
-      "imageUrl": "https://dalcotone.com.br/cdn/shop/files/power_curls_ativador_de_cachos_250ml_3327_1_267a13b24fbf1e4587aea85a1cdb6932.png?v=1770119948&width=600",
+      "imageUrl": "/assets/products/4d9dff105dbdfa72.webp",
       "actives": [
         "Óleo de coco",
         "D-pantenol"
@@ -45,7 +45,7 @@
         "Cachos",
         "Frizz"
       ],
-      "imageSource": "https://dalcotone.com.br/cdn/shop/files/power_curls_ativador_de_cachos_250ml_3327_1_267a13b24fbf1e4587aea85a1cdb6932.png?v=1770119948&width=1946",
+      "imageSource": "https://dalcotone.com.br/products/ativador-de-cachos-perfect-curls-300ml",
       "sourceKind": "official-page",
       "categories": [
         "Cachos"
@@ -68,6 +68,8 @@
           "sourceUrl": "https://dalcotone.com.br/products/creme-de-modelagem-cachos-power-curls-300ml"
         }
       ],
+      "imageOrigin": "Foto extraída do catálogo oficial 2025",
+      "imagePage": 19,
       "technical": {
         "line": "Power Curls",
         "productType": "Finalizadores",
@@ -78,6 +80,9 @@
         "sourceKind": "official-page",
         "sourcePage": null
       },
+      "sourceDifferences": [],
+      "historicalFields": [],
+      "variants": [],
       "differentials": [
         {
           "title": "Ativos destacados na formulação",
@@ -164,6 +169,9 @@
         "sourceKind": "official-page",
         "sourcePage": null
       },
+      "sourceDifferences": [],
+      "historicalFields": [],
+      "variants": [],
       "differentials": [
         {
           "title": "Proposta e função do produto",
@@ -232,6 +240,9 @@
         "sourceKind": "official-page",
         "sourcePage": null
       },
+      "sourceDifferences": [],
+      "historicalFields": [],
+      "variants": [],
       "differentials": [
         {
           "title": "Proposta e função do produto",
@@ -311,6 +322,9 @@
         "sourceKind": "official-page",
         "sourcePage": null
       },
+      "sourceDifferences": [],
+      "historicalFields": [],
+      "variants": [],
       "differentials": [
         {
           "title": "Proposta e função do produto",
@@ -394,6 +408,9 @@
         "sourceKind": "official-page",
         "sourcePage": null
       },
+      "sourceDifferences": [],
+      "historicalFields": [],
+      "variants": [],
       "differentials": [
         {
           "title": "Proposta e função do produto",
@@ -473,6 +490,9 @@
         "sourceKind": "official-page",
         "sourcePage": null
       },
+      "sourceDifferences": [],
+      "historicalFields": [],
+      "variants": [],
       "differentials": [
         {
           "title": "Proposta e função do produto",
@@ -541,6 +561,9 @@
         "sourceKind": "official-page",
         "sourcePage": null
       },
+      "sourceDifferences": [],
+      "historicalFields": [],
+      "variants": [],
       "differentials": [
         {
           "title": "Proposta e função do produto",
@@ -571,13 +594,14 @@
       "benefits": [
         "Coloração profissional"
       ],
-      "indication": null,
+      "indication": "Coloração permanente de uso profissional; seleção de nuance conforme avaliação do colorista.",
       "use": null,
       "inci": null,
       "contents": null,
       "notes": [
         "Ficha de consulta comercial; não inclui protocolo de aplicação química.",
-        "Identificado no catálogo oficial 2025; disponibilidade atual não confirmada."
+        "Identificado no catálogo oficial 2025; disponibilidade atual não confirmada.",
+        "O catálogo não publica proporção de mistura ou tempo de pausa. Conferir a instrução da embalagem desta versão antes do procedimento."
       ],
       "detailLevel": "partial",
       "type": "Produtos profissionais",
@@ -606,6 +630,92 @@
         "sourceKind": "official-catalog",
         "sourcePage": 44
       },
+      "sourceDifferences": [
+        {
+          "productId": "pro-color-creams-coloracao",
+          "pages": [
+            44,
+            45,
+            46,
+            47,
+            48,
+            49
+          ],
+          "issue": "ColorCreams: appficha genérica semuso/ativos. PDF informa pigmentos/ativoscondicionantes nãoindividualizados, nuances ecorretores, massemproporção oupausa. Nãoinferir comOX.",
+          "sourceVersion": "PDF2025 vs catálogo atual",
+          "resolution": "Exibir origem e ano; não fundir protocolos/fórmulas.",
+          "description": "O catálogo publica nuances e corretores, mas não fornece proporção de mistura ou tempo de pausa. Consulte a instrução da embalagem."
+        }
+      ],
+      "historicalFields": [],
+      "variants": [
+        {
+          "productId": "pro-color-creams-coloracao",
+          "page": 45,
+          "group": "Morena",
+          "variants": [
+            "1.0 Preto",
+            "2.0 Preto Azulado",
+            "3.0 Castanho Escuro",
+            "4.0 Castanho Médio",
+            "5.0 Castanho Claro",
+            "7.77 Marrom Intenso"
+          ],
+          "notes": "Não presentes como variantes estruturadas na ficha genérica auditada; não há proporção ou tempo de uso noPDF."
+        },
+        {
+          "productId": "pro-color-creams-coloracao",
+          "page": 46,
+          "group": "Ruiva",
+          "variants": [
+            "7.66 Loiro Médio Vermelho Intenso",
+            "8.44 Loiro Claro Cobre Intenso",
+            "8.26 Marsala"
+          ],
+          "notes": "Não presentes como variantes estruturadas na ficha genérica auditada; não há proporção ou tempo de uso noPDF."
+        },
+        {
+          "productId": "pro-color-creams-coloracao",
+          "page": 47,
+          "group": "Loiro",
+          "variants": [
+            "6.0 Loiro Escuro",
+            "6.7 Loiro Marrom Chocolate",
+            "7.31 Loiro Médio Bege",
+            "7.7 Loiro Médio Marrom",
+            "8.71 Loiro Claro Marrom Acinzentado",
+            "8.73 Loiro Claro Marrom Dourado"
+          ],
+          "notes": "Não presentes como variantes estruturadas na ficha genérica auditada; não há proporção ou tempo de uso noPDF."
+        },
+        {
+          "productId": "pro-color-creams-coloracao",
+          "page": 48,
+          "group": "Super clareadores",
+          "variants": [
+            "8.31 Loiro Claro Médio Acinzentado Iluminador",
+            "9.31 Loiro Muito Claro Bege",
+            "9.81 Loiro Perolado",
+            "10.1 Loiro Claríssimo Acinzentado",
+            "10.89 Loiro Claríssimo Pérola",
+            "12.81 Loiro Perolado Especial",
+            "12.11 Loiro Perolado Azul Acinzentado"
+          ],
+          "notes": "Não presentes como variantes estruturadas na ficha genérica auditada; não há proporção ou tempo de uso noPDF."
+        },
+        {
+          "productId": "pro-color-creams-coloracao",
+          "page": 49,
+          "group": "Corretores",
+          "variants": [
+            "Cinza0.1",
+            "Azul0.12",
+            "Verde0.13",
+            "0SP Reforçador de clareamento"
+          ],
+          "notes": "Não presentes como variantes estruturadas na ficha genérica auditada; não há proporção ou tempo de uso noPDF."
+        }
+      ],
       "differentials": [
         {
           "title": "Proposta e função do produto",
@@ -704,6 +814,9 @@
         "sourceKind": "official-catalog",
         "sourcePage": 27
       },
+      "sourceDifferences": [],
+      "historicalFields": [],
+      "variants": [],
       "differentials": [
         {
           "title": "Ativos destacados na formulação",
@@ -793,6 +906,9 @@
         "sourceKind": "official-page",
         "sourcePage": null
       },
+      "sourceDifferences": [],
+      "historicalFields": [],
+      "variants": [],
       "differentials": [
         {
           "title": "Ativos destacados na formulação",
@@ -882,6 +998,9 @@
         "sourceKind": "official-page",
         "sourcePage": null
       },
+      "sourceDifferences": [],
+      "historicalFields": [],
+      "variants": [],
       "differentials": [
         {
           "title": "Ativos destacados na formulação",
@@ -908,21 +1027,28 @@
     {
       "id": "e95975619b537972",
       "name": "Condicionador Power Repair 1 L",
-      "url": "https://dalcotone.com.br/collections/all",
+      "url": "https://usedalcotone.com/links/%5B%20DIGITAL%20%5D%20CAT%C3%81LOGO%20-%20DAL%20COTONE%202025-min.pdf",
       "priceSource": "https://dalcotone.com.br/collections/all",
       "price": 137.0,
       "regularPrice": 137,
       "imageUrl": "https://dalcotone.com.br/cdn/shop/files/condicionador_power_repair_1l_3311_1_97c1115cc502419ccd1b43fd8ac7e8be.png?v=1770120018&width=600",
       "actives": [],
-      "benefits": [],
-      "indication": null,
-      "use": null,
+      "benefits": [
+        "Hidratação",
+        "Fortalecimento",
+        "Maciez",
+        "Brilho",
+        "Proteção da cor"
+      ],
+      "indication": "Cabelos secos, ressecados e com frizz.",
+      "use": "Após a máscara, aplicar em toda a extensão dos fios, massagear e deixar agir aproximadamente 3 minutos antes de enxaguar bem.",
       "inci": null,
       "contents": null,
       "notes": [
         "Preço oficial indexado. Link individual pendente.",
         "Registro parcial: produto e preço em fonte oficial; ficha detalhada não localizada na pesquisa. Não inferir informações a partir de outros volumes ou da linha.",
-        "Lista INCI não localizada."
+        "Lista INCI não localizada.",
+        "A p20 profissional não lista Frulix/ceramidas; esses ativos são publicados na p21 Home Care. Não transferir silenciosamente ao condicionador1L."
       ],
       "priceNote": "Preço capturado em página oficial; pode variar com promoções. Confirme online antes de apresentar uma proposta.",
       "detailLevel": "partial",
@@ -938,26 +1064,37 @@
         "Hidratação",
         "Proteção da cor"
       ],
-      "sourceKind": "official-page",
+      "sourceKind": "official-catalog",
       "primaryCategory": "Hidratação",
       "occasions": [],
       "activeDetails": [],
+      "sourcePage": 20,
       "technical": {
         "line": "Power Repair",
         "productType": "Condicionadores",
         "presentation": "1 L",
-        "declaredPH": null,
+        "declaredPH": "3,0–4,0",
         "concentrations": null,
         "fullFormulaAvailable": false,
-        "sourceKind": "official-page",
-        "sourcePage": null
+        "sourceKind": "official-catalog",
+        "sourcePage": 20
       },
-      "differentials": [],
-      "commercialSummary": null,
+      "sourceDifferences": [],
+      "historicalFields": [],
+      "variants": [],
+      "differentials": [
+        {
+          "title": "Proposta e função do produto",
+          "text": "Hidratação; Fortalecimento; Maciez; Brilho; Proteção da cor",
+          "evidence": "Benefícios declarados pela marca, não um ensaio comparativo independente.",
+          "sourceUrl": "https://usedalcotone.com/links/%5B%20DIGITAL%20%5D%20CAT%C3%81LOGO%20-%20DAL%20COTONE%202025-min.pdf"
+        }
+      ],
+      "commercialSummary": "Proposta descrita pela marca: Hidratação; Fortalecimento; Maciez.",
       "competitiveEvidence": null,
       "presentation": {
         "question": "Você quer conhecer uma rotina de hidratação e cuidado de fios com química ou coloração, conforme a indicação da linha?",
-        "opening": "Este é o Condicionador Power Repair 1 L. A ficha técnica ainda tem informações a confirmar; prefiro verificá-las antes de atribuir um resultado específico ao produto.",
+        "opening": "Este é o Condicionador Power Repair 1 L. A proposta descrita pela marca inclui Hidratação; Fortalecimento; Maciez.",
         "nextStep": "Posso mostrar a ficha e conferir se essa proposta faz sentido para a necessidade que você me contou?",
         "scope": "Sugestão de fala baseada nos campos catalogados; não é um depoimento ou garantia de resultado."
       }
@@ -969,7 +1106,7 @@
       "priceSource": "https://dalcotone.com.br/products/condicionador-power-repair-300ml",
       "price": 69.21,
       "regularPrice": 76.9,
-      "imageUrl": "https://dalcotone.com.br/cdn/shop/files/condicionador_power_repair_300ml_3303_1_b30458e77ee526dce9029c78528ae393.png?v=1770120032&width=600",
+      "imageUrl": "/assets/products/430708f89a10e318.webp",
       "actives": [
         "Frulix de açaí",
         "Ceramidas"
@@ -994,7 +1131,7 @@
       "needs": [
         "Hidratação"
       ],
-      "imageSource": "https://dalcotone.com.br/cdn/shop/files/condicionador_power_repair_300ml_3303_1_b30458e77ee526dce9029c78528ae393.png?v=1770120032&width=1946",
+      "imageSource": "https://dalcotone.com.br/products/condicionador-power-repair-300ml",
       "sourceKind": "official-page",
       "categories": [
         "Hidratação"
@@ -1017,6 +1154,8 @@
           "sourceUrl": "https://dalcotone.com.br/products/kit-power-repair-home-care-c-power-luminous-oil"
         }
       ],
+      "imageOrigin": "Foto extraída do catálogo oficial 2025",
+      "imagePage": 21,
       "technical": {
         "line": "Power Repair",
         "productType": "Condicionadores",
@@ -1027,6 +1166,9 @@
         "sourceKind": "official-page",
         "sourcePage": null
       },
+      "sourceDifferences": [],
+      "historicalFields": [],
+      "variants": [],
       "differentials": [
         {
           "title": "Ativos destacados na formulação",
@@ -1108,6 +1250,9 @@
         "sourceKind": "official-catalog",
         "sourcePage": 9
       },
+      "sourceDifferences": [],
+      "historicalFields": [],
+      "variants": [],
       "differentials": [
         {
           "title": "Proposta e função do produto",
@@ -1132,7 +1277,7 @@
       "priceSource": "https://dalcotone.com.br/products/condicionador-s-o-s-detox-300ml",
       "price": 73.8,
       "regularPrice": 82,
-      "imageUrl": "https://dalcotone.com.br/cdn/shop/files/condicionador_s_o_s_detox_300ml_3291_1_4b048d2f099b14a2a620430ef115b342.png?v=1770119939&width=600",
+      "imageUrl": "/assets/products/a30244f1f975388f.webp",
       "actives": [
         "Café verde",
         "Fiber Detox",
@@ -1158,7 +1303,7 @@
       "needs": [
         "Detox"
       ],
-      "imageSource": "https://dalcotone.com.br/cdn/shop/files/condicionador_s_o_s_detox_300ml_3291_1_4b048d2f099b14a2a620430ef115b342.png?v=1770119939&width=1946",
+      "imageSource": "https://dalcotone.com.br/products/condicionador-s-o-s-detox-300ml",
       "sourceKind": "official-page",
       "categories": [
         "Detox"
@@ -1187,6 +1332,8 @@
           "sourceUrl": "https://dalcotone.com.br/products/condicionador-s-o-s-detox-300ml"
         }
       ],
+      "imageOrigin": "Foto extraída do catálogo oficial 2025",
+      "imagePage": 24,
       "technical": {
         "line": "S.O.S Detox",
         "productType": "Condicionadores",
@@ -1197,6 +1344,9 @@
         "sourceKind": "official-page",
         "sourcePage": null
       },
+      "sourceDifferences": [],
+      "historicalFields": [],
+      "variants": [],
       "differentials": [
         {
           "title": "Ativos destacados na formulação",
@@ -1290,6 +1440,9 @@
         "sourceKind": "official-page",
         "sourcePage": null
       },
+      "sourceDifferences": [],
+      "historicalFields": [],
+      "variants": [],
       "differentials": [
         {
           "title": "Ativos destacados na formulação",
@@ -1320,7 +1473,7 @@
       "priceSource": "https://dalcotone.com.br/products/creme-de-modelagem-cachos-power-curls-300ml",
       "price": 86.58,
       "regularPrice": 96.2,
-      "imageUrl": "https://dalcotone.com.br/cdn/shop/files/creme_de_modelagem_cachos_power_curls_300ml_3377_1_66a1fafc92f02a278d2f0db74149516e.png?v=1770119972&width=600",
+      "imageUrl": "/assets/products/4a924f8c36b7f317.webp",
       "actives": [
         "Óleo de coco",
         "D-pantenol"
@@ -1347,7 +1500,7 @@
         "Cachos",
         "Frizz"
       ],
-      "imageSource": "https://dalcotone.com.br/cdn/shop/files/creme_de_modelagem_cachos_power_curls_300ml_3377_1_66a1fafc92f02a278d2f0db74149516e.png?v=1770119972&width=1946",
+      "imageSource": "https://dalcotone.com.br/products/creme-de-modelagem-cachos-power-curls-300ml",
       "sourceKind": "official-page",
       "categories": [
         "Cachos"
@@ -1370,6 +1523,8 @@
           "sourceUrl": "https://dalcotone.com.br/products/creme-de-modelagem-cachos-power-curls-300ml"
         }
       ],
+      "imageOrigin": "Foto extraída do catálogo oficial 2025",
+      "imagePage": 19,
       "technical": {
         "line": "Power Curls",
         "productType": "Finalizadores",
@@ -1380,6 +1535,9 @@
         "sourceKind": "official-page",
         "sourcePage": null
       },
+      "sourceDifferences": [],
+      "historicalFields": [],
+      "variants": [],
       "differentials": [
         {
           "title": "Ativos destacados na formulação",
@@ -1422,7 +1580,8 @@
       "contents": "4 ampolas de 18 ml; o anúncio apresenta etapa de reconstrução e tônico",
       "notes": [
         "Preço de página indexada; pode variar na compra.",
-        "Lista INCI completa não publicada na fonte consultada."
+        "Lista INCI completa não publicada na fonte consultada.",
+        "Divergência de apresentação: catálogo2025 mostra quatro ampolas de15mL; ficha da loja menciona18mL. Não tratar como a mesma apresentação confirmada."
       ],
       "priceNote": "Preço capturado em página oficial; pode variar com promoções. Confirme online antes de apresentar uma proposta.",
       "detailLevel": "detailed",
@@ -1473,6 +1632,23 @@
         "sourceKind": "official-page",
         "sourcePage": null
       },
+      "sourceDifferences": [],
+      "historicalFields": [
+        {
+          "source": "Catálogo oficial 2025",
+          "page": 41,
+          "fields": {
+            "use": "Ampola Monovin: aplicar no couro cabeludo limpo, massagear e não enxaguar; pode usar2vezes ao dia. Demais ampolas: agitar, misturar3–5mL em água fria até formar mousse, ou aplicar em fios limpos e molhados, ou adicionar à máscara. Pausa de cerca de5min e enxágue abundante.",
+            "components": [
+              "Monovin Fortalecimento15mL",
+              "L’Amour Nutrição15mL",
+              "Power Repair Hidratação15mL",
+              "Max Force Reconstrução15mL"
+            ]
+          }
+        }
+      ],
+      "variants": [],
       "differentials": [
         {
           "title": "Proposta e função do produto",
@@ -1545,6 +1721,9 @@
         "sourceKind": "official-page",
         "sourcePage": null
       },
+      "sourceDifferences": [],
+      "historicalFields": [],
+      "variants": [],
       "differentials": [
         {
           "title": "Proposta e função do produto",
@@ -1611,6 +1790,9 @@
         "sourceKind": "official-page",
         "sourcePage": null
       },
+      "sourceDifferences": [],
+      "historicalFields": [],
+      "variants": [],
       "differentials": [
         {
           "title": "Proposta e função do produto",
@@ -1683,6 +1865,9 @@
         "sourceKind": "official-catalog",
         "sourcePage": 12
       },
+      "sourceDifferences": [],
+      "historicalFields": [],
+      "variants": [],
       "differentials": [
         {
           "title": "Proposta e função do produto",
@@ -1755,6 +1940,9 @@
         "sourceKind": "official-catalog",
         "sourcePage": 12
       },
+      "sourceDifferences": [],
+      "historicalFields": [],
+      "variants": [],
       "differentials": [
         {
           "title": "Proposta e função do produto",
@@ -1827,6 +2015,9 @@
         "sourceKind": "official-catalog",
         "sourcePage": 12
       },
+      "sourceDifferences": [],
+      "historicalFields": [],
+      "variants": [],
       "differentials": [
         {
           "title": "Proposta e função do produto",
@@ -1899,6 +2090,9 @@
         "sourceKind": "official-catalog",
         "sourcePage": 12
       },
+      "sourceDifferences": [],
+      "historicalFields": [],
+      "variants": [],
       "differentials": [
         {
           "title": "Proposta e função do produto",
@@ -1994,6 +2188,9 @@
         "sourceKind": "official-catalog",
         "sourcePage": 7
       },
+      "sourceDifferences": [],
+      "historicalFields": [],
+      "variants": [],
       "differentials": [
         {
           "title": "Ativos destacados na formulação",
@@ -2024,7 +2221,7 @@
       "priceSource": "https://dalcotone.com.br/products/finalizador-s-o-s-detox-300ml",
       "price": 71.57,
       "regularPrice": 84.2,
-      "imageUrl": "https://dalcotone.com.br/cdn/shop/files/finalizador_s_o_s_detox_300ml_3293_1_e36e3f65a05f5f40dbc19d4077b9a6d0.png?v=1770120032&width=600",
+      "imageUrl": "/assets/products/b72901db8710aa58.webp",
       "actives": [
         "Café verde",
         "Fiber Detox",
@@ -2051,7 +2248,7 @@
       "needs": [
         "Detox"
       ],
-      "imageSource": "https://dalcotone.com.br/cdn/shop/files/finalizador_s_o_s_detox_300ml_3293_1_e36e3f65a05f5f40dbc19d4077b9a6d0.png?v=1770120032&width=1946",
+      "imageSource": "https://dalcotone.com.br/products/finalizador-s-o-s-detox-300ml",
       "sourceKind": "official-page",
       "categories": [
         "Detox"
@@ -2080,6 +2277,8 @@
           "sourceUrl": "https://dalcotone.com.br/products/condicionador-s-o-s-detox-300ml"
         }
       ],
+      "imageOrigin": "Foto extraída do catálogo oficial 2025",
+      "imagePage": 24,
       "technical": {
         "line": "S.O.S Detox",
         "productType": "Finalizadores",
@@ -2090,6 +2289,21 @@
         "sourceKind": "official-page",
         "sourcePage": null
       },
+      "sourceDifferences": [
+        {
+          "productId": "b72901db8710aa58",
+          "pages": [
+            23,
+            24
+          ],
+          "issue": "PDFp23 profissional recomenda finalizadorsem enxágue;PDFp24homecare dizescovar,pranchar e enxaguar se necessário. Protocolos diferentes dentro doPDF; conservar por tamanho/linha e origem.",
+          "sourceVersion": "PDF2025 vs catálogo atual",
+          "resolution": "Exibir origem e ano; não fundir protocolos/fórmulas.",
+          "description": "As páginas profissional e Home Care do catálogo2025 apresentam instruções distintas de acabamento e enxágue. Confira a apresentação de300mL."
+        }
+      ],
+      "historicalFields": [],
+      "variants": [],
       "differentials": [
         {
           "title": "Ativos destacados na formulação",
@@ -2120,17 +2334,25 @@
       "priceSource": "https://dalcotone.com.br/products/indispensavel-finalizador-250ml",
       "price": 169.9,
       "regularPrice": 199.9,
-      "imageUrl": "https://dalcotone.com.br/cdn/shop/files/force_life_must_use_250ml_3183_1_3da81be3dbb15b1907e61e5dcd2b64dd.png?v=1770119922&width=600",
+      "imageUrl": "/assets/products/0362c5b04fc5ffb5.webp",
       "actives": [
+        "Pantenol",
+        "Ômegas 3, 5 e 6",
+        "Queratina",
         "Nano Link",
         "Semi di Lino",
-        "Blend de silicones"
+        "Silicones especiais"
       ],
       "benefits": [
-        "Ação antifrizz",
-        "Filme selante e proteção dos fios"
+        "Nutrição",
+        "Controle do frizz",
+        "Flexibilidade",
+        "Elasticidade",
+        "Brilho",
+        "Proteção térmica",
+        "Penteabilidade"
       ],
-      "indication": "Todos os tipos de cabelo, conforme rótulo.",
+      "indication": "Todos os tipos de cabelos; uso diário, especialmente antes de secador, prancha e modelador.",
       "use": "Borrife nos fios limpos e úmidos, massageando da raiz às pontas. Pode ser usado com ou sem enxágue, conforme o catálogo.",
       "inci": null,
       "contents": null,
@@ -2140,7 +2362,8 @@
         "A página apresenta destaques da formulação, sem lista INCI completa.",
         "Não confundir Must Use com Necessity Use nem com pH Control.",
         "Faixa de pH transcrita do rótulo na imagem da página.",
-        "A fórmula do fluido é apresentada separadamente dos ativos da linha Force Life: não transferir Capilmax, Bambu e Jaborandi ao Must Use."
+        "A fórmula do fluido é apresentada separadamente dos ativos da linha Force Life: não transferir Capilmax, Bambu e Jaborandi ao Must Use.",
+        "A p27 cita só parte dos ativos; a p28 complementa. Não são ativos do Necessity Use."
       ],
       "priceNote": "Preço capturado em página oficial; pode variar com promoções. Confirme online antes de apresentar uma proposta.",
       "detailLevel": "detailed",
@@ -2152,7 +2375,7 @@
         "Frizz",
         "Controle de oleosidade"
       ],
-      "imageSource": "https://dalcotone.com.br/cdn/shop/files/force_life_must_use_250ml_3183_1_3da81be3dbb15b1907e61e5dcd2b64dd.png?v=1770119922&width=1946",
+      "imageSource": "https://usedalcotone.com/links/%5B%20DIGITAL%20%5D%20CAT%C3%81LOGO%20-%20DAL%20COTONE%202025-min.pdf",
       "sourceKind": "official-catalog",
       "categories": [
         "Controle de oleosidade"
@@ -2163,13 +2386,51 @@
       ],
       "activeDetails": [
         {
-          "name": "Nano Link + Semi di Lino + Blend de silicones",
-          "role": "O conjunto é descrito como formador de filme selante e protetor dos fios, com ação antifrizz; a página não separa a função de cada componente no fluido.",
+          "name": "Pantenol",
+          "role": "Na combinação com ômegas e queratina, é associado a flexibilidade, elasticidade, brilho e proteção térmica; função individual não separada no texto.",
           "sourceUrl": "https://usedalcotone.com/links/%5B%20DIGITAL%20%5D%20CAT%C3%81LOGO%20-%20DAL%20COTONE%202025-min.pdf",
-          "scope": "manufacturer-claim"
+          "scope": "blend",
+          "sourcePage": 28
+        },
+        {
+          "name": "Ômegas 3, 5 e 6",
+          "role": "Na combinação com pantenol e queratina, são associados a flexibilidade, elasticidade, brilho e proteção térmica; função individual não separada.",
+          "sourceUrl": "https://usedalcotone.com/links/%5B%20DIGITAL%20%5D%20CAT%C3%81LOGO%20-%20DAL%20COTONE%202025-min.pdf",
+          "scope": "blend",
+          "sourcePage": 28
+        },
+        {
+          "name": "Queratina",
+          "role": "Na combinação com pantenol e ômegas, é associada a flexibilidade, elasticidade, brilho e proteção térmica; função individual não separada.",
+          "sourceUrl": "https://usedalcotone.com/links/%5B%20DIGITAL%20%5D%20CAT%C3%81LOGO%20-%20DAL%20COTONE%202025-min.pdf",
+          "scope": "blend",
+          "sourcePage": 28
+        },
+        {
+          "name": "Nano Link",
+          "role": "Complexo de aminoácidos essenciais descrito para nutrição, fortalecimento e restauração da fibra desde o interior.",
+          "sourceUrl": "https://usedalcotone.com/links/%5B%20DIGITAL%20%5D%20CAT%C3%81LOGO%20-%20DAL%20COTONE%202025-min.pdf",
+          "scope": "manufacturer-claim",
+          "sourcePage": 28
+        },
+        {
+          "name": "Semi di Lino",
+          "role": "Leveza, brilho, maciez, redução do frizz e melhora da penteabilidade.",
+          "sourceUrl": "https://usedalcotone.com/links/%5B%20DIGITAL%20%5D%20CAT%C3%81LOGO%20-%20DAL%20COTONE%202025-min.pdf",
+          "scope": "manufacturer-claim",
+          "sourcePage": 28
+        },
+        {
+          "name": "Silicones especiais",
+          "role": "Formação de filme selante e antifrizz para proteção e controle dos fios.",
+          "sourceUrl": "https://usedalcotone.com/links/%5B%20DIGITAL%20%5D%20CAT%C3%81LOGO%20-%20DAL%20COTONE%202025-min.pdf",
+          "scope": "manufacturer-claim",
+          "sourcePage": 28
         }
       ],
-      "sourcePage": 27,
+      "sourcePage": 28,
+      "imageOrigin": "Foto extraída do catálogo oficial 2025",
+      "imagePage": 28,
       "technical": {
         "line": "Force Life",
         "productType": "Finalizadores",
@@ -2178,27 +2439,30 @@
         "concentrations": null,
         "fullFormulaAvailable": false,
         "sourceKind": "official-catalog",
-        "sourcePage": 27
+        "sourcePage": 28
       },
+      "sourceDifferences": [],
+      "historicalFields": [],
+      "variants": [],
       "differentials": [
         {
           "title": "Ativos destacados na formulação",
-          "text": "Nano Link; Semi di Lino; Blend de silicones",
+          "text": "Pantenol; Ômegas 3, 5 e 6; Queratina; Nano Link; Semi di Lino; Silicones especiais",
           "evidence": "Ativos divulgados na fonte desta ficha; concentração e efeito isolado não confirmados.",
           "sourceUrl": "https://usedalcotone.com/links/%5B%20DIGITAL%20%5D%20CAT%C3%81LOGO%20-%20DAL%20COTONE%202025-min.pdf"
         },
         {
           "title": "Proposta e função do produto",
-          "text": "Ação antifrizz; Filme selante e proteção dos fios",
+          "text": "Nutrição; Controle do frizz; Flexibilidade; Elasticidade; Brilho; Proteção térmica; Penteabilidade",
           "evidence": "Benefícios declarados pela marca, não um ensaio comparativo independente.",
           "sourceUrl": "https://usedalcotone.com/links/%5B%20DIGITAL%20%5D%20CAT%C3%81LOGO%20-%20DAL%20COTONE%202025-min.pdf"
         }
       ],
-      "commercialSummary": "Proposta descrita pela marca: Ação antifrizz; Filme selante e proteção dos fios.",
+      "commercialSummary": "Proposta descrita pela marca: Nutrição; Controle do frizz; Flexibilidade.",
       "competitiveEvidence": null,
       "presentation": {
         "question": "Você recebe muitas dúvidas sobre a rotina de cuidado de cabelos oleosos ou mistos?",
-        "opening": "Este é o Force Life Must Use 250 mL. A proposta descrita pela marca inclui Ação antifrizz; Filme selante e proteção dos fios. Entre os ativos divulgados estão Nano Link, Semi di Lino, Blend de silicones.",
+        "opening": "Este é o Force Life Must Use 250 mL. A proposta descrita pela marca inclui Nutrição; Controle do frizz; Flexibilidade. Entre os ativos divulgados estão Pantenol, Ômegas 3, 5 e 6, Queratina, Nano Link, Semi di Lino, Silicones especiais.",
         "nextStep": "Posso mostrar a ficha e conferir se essa proposta faz sentido para a necessidade que você me contou?",
         "scope": "Sugestão de fala baseada nos campos catalogados; não é um depoimento ou garantia de resultado."
       }
@@ -2269,6 +2533,9 @@
         "sourceKind": "official-page",
         "sourcePage": null
       },
+      "sourceDifferences": [],
+      "historicalFields": [],
+      "variants": [],
       "differentials": [
         {
           "title": "Ativos destacados na formulação",
@@ -2375,6 +2642,9 @@
         "sourceKind": "official-catalog",
         "sourcePage": 3
       },
+      "sourceDifferences": [],
+      "historicalFields": [],
+      "variants": [],
       "differentials": [
         {
           "title": "Ativos destacados na formulação",
@@ -2399,110 +2669,30 @@
       }
     },
     {
-      "id": "consultor-kit-24k",
-      "name": "Kit 24K — shampoo, selagem e máscara",
-      "line": "24K",
-      "primaryCategory": "Selagem",
-      "categories": [
-        "Selagem",
-        "Botox"
-      ],
-      "url": "https://dalcotone.com.br/",
-      "priceSource": "https://dalcotone.com.br/",
-      "price": null,
-      "priceNote": "Kit informado pelo consultor; preço público oficial não confirmado.",
-      "imageUrl": null,
-      "actives": [],
-      "activeDetails": [],
-      "benefits": [],
-      "indication": null,
-      "occasions": [],
-      "use": null,
-      "inci": null,
-      "contents": null,
-      "notes": [
-        "Composição informada pelo consultor: shampoo, selagem e máscara. O catálogo oficial identifica a selagem e a máscara 24K, mas não confirma o nome/apresentação do shampoo deste kit. Não é o Spray 24K."
-      ],
-      "detailLevel": "partial",
-      "type": "Kits",
-      "needs": [
-        "Selagem",
-        "Botox"
-      ],
-      "sourceKind": "consultor",
-      "kitItems": [
-        {
-          "name": "Shampoo do Kit 24K",
-          "quantity": 1,
-          "volume": null,
-          "productId": null
-        },
-        {
-          "name": "Selagem 24K Premium",
-          "quantity": 1,
-          "volume": null,
-          "productId": "pro-24k-premium-selagem"
-        },
-        {
-          "name": "Máscara 24K Premium / Intensive Treatment Mask",
-          "quantity": 1,
-          "volume": null,
-          "productId": "pro-24k-mask-mask"
-        }
-      ],
-      "kitReview": {
-        "status": "consultor",
-        "sourceUrls": [],
-        "notes": [
-          "Montagem informada pelo consultor; detalhes comerciais ainda não confirmados."
-        ]
-      },
-      "technical": {
-        "line": "24K",
-        "productType": "Kits",
-        "presentation": null,
-        "declaredPH": null,
-        "concentrations": null,
-        "fullFormulaAvailable": false,
-        "sourceKind": "consultor",
-        "sourcePage": null
-      },
-      "differentials": [
-        {
-          "title": "Composição desta versão do kit",
-          "text": "Shampoo do Kit 24K; Selagem 24K Premium; Máscara 24K Premium / Intensive Treatment Mask",
-          "evidence": "Itens conferidos conforme o status do kit; montagens do consultor estão identificadas.",
-          "sourceUrl": "https://dalcotone.com.br/"
-        }
-      ],
-      "commercialSummary": null,
-      "competitiveEvidence": null,
-      "presentation": {
-        "question": "Quando você pensa em 24K, procura uma opção de finalização ou quer conhecer a linha profissional?",
-        "opening": "Este é o Kit 24K — shampoo, selagem e máscara. A ficha técnica ainda tem informações a confirmar; prefiro verificá-las antes de atribuir um resultado específico ao produto.",
-        "nextStep": "Posso mostrar a ficha e conferir se essa proposta faz sentido para a necessidade que você me contou?",
-        "scope": "Sugestão de fala baseada nos campos catalogados; não é um depoimento ou garantia de resultado."
-      }
-    },
-    {
       "id": "008a07353d60761c",
       "name": "Kit Blond Up Home Care",
-      "url": "https://dalcotone.com.br/collections/kits",
+      "url": "https://usedalcotone.com/links/%5B%20DIGITAL%20%5D%20CAT%C3%81LOGO%20-%20DAL%20COTONE%202025-min.pdf",
       "priceSource": "https://dalcotone.com.br/collections/kits",
       "price": 162.63,
       "regularPrice": 181.81,
       "imageUrl": "https://dalcotone.com.br/cdn/shop/files/kitdal20.webp?v=1774356636&width=600",
-      "actives": [],
+      "actives": [
+        "Creatina",
+        "Ácido Violeta 43",
+        "Manteiga de abacate",
+        "Silicone e quaternários"
+      ],
       "benefits": [],
-      "indication": null,
-      "use": null,
+      "indication": "Cabelos loiros, grisalhos ou com mechas.",
+      "use": "Lavar com shampoo, ajustando o tempo ao tom dos fios e enxaguar; repetir se necessário. Aplicar máscara em toda extensão, massagear, ajustar ação ao tom e enxaguar completamente.",
       "inci": null,
       "contents": null,
       "notes": [
         "Nome e preço confirmados em coleção oficial; link individual pendente.",
         "Registro parcial: produto e preço em fonte oficial; ficha detalhada não localizada na pesquisa. Não inferir informações a partir de outros volumes ou da linha.",
         "Lista INCI não localizada.",
-        "Kit localizado em coleção oficial, sem lista de componentes acessível."
+        "Kit localizado em coleção oficial, sem lista de componentes acessível.",
+        "Kit Home Care mostrado com shampoo300mL e máscara300g; não resolve composição comercial atual sem loja."
       ],
       "priceNote": "Preço capturado em página oficial; pode variar com promoções. Confirme online antes de apresentar uma proposta.",
       "detailLevel": "partial",
@@ -2513,13 +2703,42 @@
         "Matização"
       ],
       "imageSource": "https://dalcotone.com.br/cdn/shop/files/kitdal20.webp?v=1774356636&width=1946",
-      "sourceKind": "official-page",
+      "sourceKind": "official-catalog",
       "categories": [
         "Matização"
       ],
       "primaryCategory": "Matização",
       "occasions": [],
-      "activeDetails": [],
+      "activeDetails": [
+        {
+          "name": "Creatina",
+          "role": "Fortalecimento, reparação de danos, hidratação, elasticidade e proteção contra quebra.",
+          "sourceUrl": "https://usedalcotone.com/links/%5B%20DIGITAL%20%5D%20CAT%C3%81LOGO%20-%20DAL%20COTONE%202025-min.pdf",
+          "scope": "manufacturer-claim",
+          "sourcePage": 11
+        },
+        {
+          "name": "Ácido Violeta 43",
+          "role": "Neutralização dos tons amarelados e realce da cor e do brilho dos fios loiros e grisalhos.",
+          "sourceUrl": "https://usedalcotone.com/links/%5B%20DIGITAL%20%5D%20CAT%C3%81LOGO%20-%20DAL%20COTONE%202025-min.pdf",
+          "scope": "manufacturer-claim",
+          "sourcePage": 11
+        },
+        {
+          "name": "Manteiga de abacate",
+          "role": "Hidratação profunda para maciez e sedosidade.",
+          "sourceUrl": "https://usedalcotone.com/links/%5B%20DIGITAL%20%5D%20CAT%C3%81LOGO%20-%20DAL%20COTONE%202025-min.pdf",
+          "scope": "manufacturer-claim",
+          "sourcePage": 11
+        },
+        {
+          "name": "Silicone e quaternários",
+          "role": "A combinação é descrita para brilho, controle do frizz e proteção contra danos externos.",
+          "sourceUrl": "https://usedalcotone.com/links/%5B%20DIGITAL%20%5D%20CAT%C3%81LOGO%20-%20DAL%20COTONE%202025-min.pdf",
+          "scope": "blend",
+          "sourcePage": 11
+        }
+      ],
       "kitReview": {
         "productId": "008a07353d60761c",
         "name": "Kit Blond Up Home Care",
@@ -2535,6 +2754,7 @@
         "mainCategory": "Matização"
       },
       "kitItems": [],
+      "sourcePage": 11,
       "technical": {
         "line": "Blond Up",
         "productType": "Kits",
@@ -2542,15 +2762,25 @@
         "declaredPH": null,
         "concentrations": null,
         "fullFormulaAvailable": false,
-        "sourceKind": "official-page",
-        "sourcePage": null
+        "sourceKind": "official-catalog",
+        "sourcePage": 11
       },
-      "differentials": [],
+      "sourceDifferences": [],
+      "historicalFields": [],
+      "variants": [],
+      "differentials": [
+        {
+          "title": "Ativos destacados na formulação",
+          "text": "Creatina; Ácido Violeta 43; Manteiga de abacate; Silicone e quaternários",
+          "evidence": "Ativos divulgados na fonte desta ficha; concentração e efeito isolado não confirmados.",
+          "sourceUrl": "https://usedalcotone.com/links/%5B%20DIGITAL%20%5D%20CAT%C3%81LOGO%20-%20DAL%20COTONE%202025-min.pdf"
+        }
+      ],
       "commercialSummary": null,
       "competitiveEvidence": null,
       "presentation": {
         "question": "Quais necessidades de cuidado dos loiros e descoloridos aparecem com mais frequência no seu salão?",
-        "opening": "Este é o Kit Blond Up Home Care. A ficha técnica ainda tem informações a confirmar; prefiro verificá-las antes de atribuir um resultado específico ao produto.",
+        "opening": "Este é o Kit Blond Up Home Care. A ficha técnica ainda tem informações a confirmar; prefiro verificá-las antes de atribuir um resultado específico ao produto. Entre os ativos divulgados estão Creatina, Ácido Violeta 43, Manteiga de abacate, Silicone e quaternários.",
         "nextStep": "Posso mostrar a ficha e conferir se essa proposta faz sentido para a necessidade que você me contou?",
         "scope": "Sugestão de fala baseada nos campos catalogados; não é um depoimento ou garantia de resultado."
       }
@@ -2649,6 +2879,21 @@
         "sourceKind": "official-page",
         "sourcePage": null
       },
+      "sourceDifferences": [
+        {
+          "productId": "eef86335c476b86a",
+          "pages": [
+            10,
+            11
+          ],
+          "issue": "O app usa tempos fixos3–5min e10–20min da loja; PDFprofissionalp10 não publica modo; PDFhomecarep11 usa tempo variável conforme tom. Conservar origem distinta.",
+          "sourceVersion": "PDF2025 vs catálogo atual",
+          "resolution": "Exibir origem e ano; não fundir protocolos/fórmulas.",
+          "description": "A página da loja publica pausas de3–5min para shampoo e10–20min para máscara. O catálogo2025 apresenta orientações diferentes para as versões profissional e Home Care."
+        }
+      ],
+      "historicalFields": [],
+      "variants": [],
       "differentials": [
         {
           "title": "Proposta e função do produto",
@@ -2786,6 +3031,9 @@
         "sourceKind": "official-page",
         "sourcePage": null
       },
+      "sourceDifferences": [],
+      "historicalFields": [],
+      "variants": [],
       "differentials": [
         {
           "title": "Proposta e função do produto",
@@ -2816,7 +3064,7 @@
       "priceSource": "https://dalcotone.com.br/collections/kits",
       "price": 329.67,
       "regularPrice": 366.3,
-      "imageUrl": "https://dalcotone.com.br/cdn/shop/files/kit_cronograma_capilar_mscaras_capilares_250g_1_20250829181633_d2a3548e7ade.jpg?v=1774384769&width=600",
+      "imageUrl": "/assets/products/4d656c72af8742ad.webp",
       "actives": [
         "Verniz Intense: proteína da seda e ácido hialurônico",
         "Nutri Protein: nano proteínas",
@@ -2845,7 +3093,7 @@
         "Reconstrução",
         "Cronograma capilar"
       ],
-      "imageSource": "https://dalcotone.com.br/cdn/shop/files/kit_cronograma_capilar_mscaras_capilares_250g_1_20250829181633_d2a3548e7ade.jpg?v=1774384769&width=500",
+      "imageSource": "https://dalcotone.com.br/products/kit-cronograma-capilar-mascaras-capilares-250g",
       "sourceKind": "official-page",
       "categories": [
         "Cronograma capilar"
@@ -2925,6 +3173,8 @@
           "productId": null
         }
       ],
+      "imageOrigin": "Foto extraída do catálogo oficial 2025",
+      "imagePage": 37,
       "technical": {
         "line": "Cronograma",
         "productType": "Kits",
@@ -2935,6 +3185,9 @@
         "sourceKind": "official-page",
         "sourcePage": null
       },
+      "sourceDifferences": [],
+      "historicalFields": [],
+      "variants": [],
       "differentials": [
         {
           "title": "Ativos destacados na formulação",
@@ -2979,8 +3232,8 @@
         "Reconstrução cosmética",
         "Maciez e brilho"
       ],
-      "indication": null,
-      "use": "Misturar em água fria até formar mousse ou aplicar diretamente em cabelos limpos e molhados. Aguardar 5 minutos e enxaguar.",
+      "indication": "Cabelos opacos ou quimicamente tratados que precisam de cuidado restaurador complementar.",
+      "use": "Misturar 3 a 5 mL em água fria até formar mousse, ou aplicar diretamente em cabelos limpos e molhados. A marca também permite adicionar à máscara. Deixar cerca de 5 minutos e enxaguar.",
       "inci": null,
       "contents": "4 ampolas de 15 ml; 60 ml no total",
       "notes": [
@@ -3038,6 +3291,16 @@
           "productId": null
         }
       ],
+      "fieldSources": {
+        "indication": {
+          "label": "Página oficial · consulta06/11/2026",
+          "url": "https://dalcotone.com.br/products/caixa-crono-ultra-magic-3411"
+        },
+        "use": {
+          "label": "Página oficial · consulta06/11/2026",
+          "url": "https://dalcotone.com.br/products/caixa-crono-ultra-magic-3411"
+        }
+      },
       "technical": {
         "line": "Ampolas",
         "productType": "Kits",
@@ -3048,6 +3311,9 @@
         "sourceKind": "official-page",
         "sourcePage": null
       },
+      "sourceDifferences": [],
+      "historicalFields": [],
+      "variants": [],
       "differentials": [
         {
           "title": "Ativos destacados na formulação",
@@ -3080,27 +3346,29 @@
     {
       "id": "cefb5c7098b88e45",
       "name": "Kit de Ampolas Vitamínicas Nutritivas 4 x 15 mL",
-      "url": "https://dalcotone.com.br/products/caixa-crono-ampola-vitaminica",
+      "url": "https://usedalcotone.com/links/%5B%20DIGITAL%20%5D%20CAT%C3%81LOGO%20-%20DAL%20COTONE%202025-min.pdf",
       "priceSource": "https://dalcotone.com.br/products/caixa-crono-ampola-vitaminica",
       "price": 179.91,
       "regularPrice": 199.9,
       "imageUrl": "https://dalcotone.com.br/cdn/shop/files/caixa_crono_ampola_vitaminica_3407_1_1dbca4618d34b3907bef5037ba08a542.jpg?v=1770119970&width=600",
       "actives": [
-        "Complexo de vitaminas não especificadas"
+        "Complexo de vitaminas não discriminadas",
+        "Capilmax"
       ],
       "benefits": [
         "Nutrição",
         "Fortalecimento cosmético"
       ],
       "indication": "Todos os tipos de cabelo.",
-      "use": "Aplicar nos cabelos limpos ou adicionar à máscara Dal Cotone. Deixar 5 minutos e enxaguar.",
+      "use": "Nos cabelos limpos, aplicar da raiz às pontas, ou adicionar à máscara DalCotone. Deixar agir5min e enxaguar.",
       "inci": null,
       "contents": null,
       "notes": [
         "Nome e preço confirmados em coleção oficial; link individual pendente.",
         "Conteúdo total informado: 60 ml.",
         "Vitaminas individuais não discriminadas na ficha.",
-        "A página apresenta destaques da formulação, sem lista INCI completa."
+        "A página apresenta destaques da formulação, sem lista INCI completa.",
+        "Página mostra ampola15mL; o conjunto4x15mL é formato de venda da loja, não publicado nesta página."
       ],
       "priceNote": "Preço capturado em página oficial; pode variar com promoções. Confirme online antes de apresentar uma proposta.",
       "detailLevel": "detailed",
@@ -3113,7 +3381,7 @@
         "Ampolas"
       ],
       "imageSource": "https://dalcotone.com.br/cdn/shop/files/caixa_crono_ampola_vitaminica_3407_1_1dbca4618d34b3907bef5037ba08a542.jpg?v=1770119970&width=1946",
-      "sourceKind": "official-page",
+      "sourceKind": "official-catalog",
       "categories": [
         "Nutrição"
       ],
@@ -3123,10 +3391,18 @@
       ],
       "activeDetails": [
         {
-          "name": "Complexo de vitaminas não especificadas",
-          "role": null,
-          "scope": null,
-          "sourceUrl": null
+          "name": "Complexo de vitaminas não discriminadas",
+          "role": "Fortalecimento, revitalização e nutrição intensiva; vitaminas individuais não identificadas.",
+          "sourceUrl": "https://usedalcotone.com/links/%5B%20DIGITAL%20%5D%20CAT%C3%81LOGO%20-%20DAL%20COTONE%202025-min.pdf",
+          "scope": "blend",
+          "sourcePage": 43
+        },
+        {
+          "name": "Capilmax",
+          "role": "Ativo de plantas e aminoácidos descrito para fortalecimento da estrutura e aumento da espessura dos fios; o fabricante também declara ação no bulbo e crescimento.",
+          "sourceUrl": "https://usedalcotone.com/links/%5B%20DIGITAL%20%5D%20CAT%C3%81LOGO%20-%20DAL%20COTONE%202025-min.pdf",
+          "scope": "manufacturer-claim",
+          "sourcePage": 43
         }
       ],
       "kitReview": {
@@ -3156,6 +3432,7 @@
           "productId": null
         }
       ],
+      "sourcePage": 43,
       "technical": {
         "line": "Ampolas",
         "productType": "Kits",
@@ -3163,34 +3440,37 @@
         "declaredPH": null,
         "concentrations": null,
         "fullFormulaAvailable": false,
-        "sourceKind": "official-page",
-        "sourcePage": null
+        "sourceKind": "official-catalog",
+        "sourcePage": 43
       },
+      "sourceDifferences": [],
+      "historicalFields": [],
+      "variants": [],
       "differentials": [
         {
           "title": "Ativos destacados na formulação",
-          "text": "Complexo de vitaminas não especificadas",
+          "text": "Complexo de vitaminas não discriminadas; Capilmax",
           "evidence": "Ativos divulgados na fonte desta ficha; concentração e efeito isolado não confirmados.",
-          "sourceUrl": "https://dalcotone.com.br/products/caixa-crono-ampola-vitaminica"
+          "sourceUrl": "https://usedalcotone.com/links/%5B%20DIGITAL%20%5D%20CAT%C3%81LOGO%20-%20DAL%20COTONE%202025-min.pdf"
         },
         {
           "title": "Proposta e função do produto",
           "text": "Nutrição; Fortalecimento cosmético",
           "evidence": "Benefícios declarados pela marca, não um ensaio comparativo independente.",
-          "sourceUrl": "https://dalcotone.com.br/products/caixa-crono-ampola-vitaminica"
+          "sourceUrl": "https://usedalcotone.com/links/%5B%20DIGITAL%20%5D%20CAT%C3%81LOGO%20-%20DAL%20COTONE%202025-min.pdf"
         },
         {
           "title": "Composição desta versão do kit",
           "text": "Ampola Vitamínica Nutritiva · 15 ml",
           "evidence": "Itens conferidos conforme o status do kit; montagens do consultor estão identificadas.",
-          "sourceUrl": "https://dalcotone.com.br/products/caixa-crono-ampola-vitaminica"
+          "sourceUrl": "https://usedalcotone.com/links/%5B%20DIGITAL%20%5D%20CAT%C3%81LOGO%20-%20DAL%20COTONE%202025-min.pdf"
         }
       ],
       "commercialSummary": "Proposta descrita pela marca: Nutrição; Fortalecimento cosmético.",
       "competitiveEvidence": null,
       "presentation": {
         "question": "Você procura conhecer um tratamento em ampolas ou uma forma de complementar uma rotina já definida?",
-        "opening": "Este é o Kit de Ampolas Vitamínicas Nutritivas 4 x 15 mL. A proposta descrita pela marca inclui Nutrição; Fortalecimento cosmético. Entre os ativos divulgados estão Complexo de vitaminas não especificadas.",
+        "opening": "Este é o Kit de Ampolas Vitamínicas Nutritivas 4 x 15 mL. A proposta descrita pela marca inclui Nutrição; Fortalecimento cosmético. Entre os ativos divulgados estão Complexo de vitaminas não discriminadas, Capilmax.",
         "nextStep": "Posso mostrar a ficha e conferir se essa proposta faz sentido para a necessidade que você me contou?",
         "scope": "Sugestão de fala baseada nos campos catalogados; não é um depoimento ou garantia de resultado."
       }
@@ -3202,7 +3482,7 @@
       "priceSource": "https://dalcotone.com.br/products/kit-force-life-controle-de-oleosidade-e-hidratacao-dal-cotone",
       "price": 237.32,
       "regularPrice": 252.9,
-      "imageUrl": "https://dalcotone.com.br/cdn/shop/files/kit_force_life.png?v=1791470357&width=600",
+      "imageUrl": "/assets/products/9297bd616196f4df.webp",
       "actives": [
         "Esferas esfoliantes no shampoo"
       ],
@@ -3231,7 +3511,7 @@
         "Oleosidade",
         "Controle de oleosidade"
       ],
-      "imageSource": "https://dalcotone.com.br/cdn/shop/files/kit_force_life.png?v=1791470357&width=1946",
+      "imageSource": "https://dalcotone.com.br/products/kit-force-life-controle-de-oleosidade-e-hidratacao-dal-cotone",
       "sourceKind": "official-page",
       "categories": [
         "Controle de oleosidade"
@@ -3301,6 +3581,8 @@
           "productId": null
         }
       ],
+      "imageOrigin": "Foto extraída do catálogo oficial 2025",
+      "imagePage": 27,
       "technical": {
         "line": "Force Life",
         "productType": "Kits",
@@ -3311,6 +3593,9 @@
         "sourceKind": "official-page",
         "sourcePage": null
       },
+      "sourceDifferences": [],
+      "historicalFields": [],
+      "variants": [],
       "differentials": [
         {
           "title": "Ativos destacados na formulação",
@@ -3347,11 +3632,19 @@
       "priceSource": "https://dalcotone.com.br/products/kit-force-life-finalizador-must-use-controle-de-oleosidade-e-reconstrucao-300g",
       "price": 429.87,
       "regularPrice": 477.63,
-      "imageUrl": "https://dalcotone.com.br/cdn/shop/files/kit_force_life_finalizador.png?v=1791470791&width=600",
-      "actives": [],
-      "benefits": [],
-      "indication": null,
-      "use": null,
+      "imageUrl": "/assets/products/3e67b66612b7f633.webp",
+      "actives": [
+        "Force Life: Capilmax, bambu e jaborandi",
+        "Must Use: pantenol, ômegas 3, 5 e 6, queratina, Nano Link, Semi di Lino e silicones especiais"
+      ],
+      "benefits": [
+        "Controle da oleosidade na raiz",
+        "Hidratação e fortalecimento do comprimento",
+        "Desembaraço e controle do frizz",
+        "Proteção térmica na finalização"
+      ],
+      "indication": "Raiz oleosa ou mista e comprimento que precisa de hidratação, fortalecimento e proteção ao finalizar.",
+      "use": "Shampoo: massagear no couro cabeludo molhado, aguardar 5–10 minutos e enxaguar. Máscara: distribuir no comprimento e pontas, aguardar 10–15 minutos e enxaguar. Must Use: borrifar e distribuir após a lavagem; a página admite uso com ou sem enxágue.",
       "inci": null,
       "contents": null,
       "notes": [
@@ -3368,79 +3661,74 @@
       "needs": [
         "Controle de oleosidade"
       ],
-      "imageSource": "https://dalcotone.com.br/cdn/shop/files/kit_force_life_finalizador.png?v=1791470791&width=1946",
+      "imageSource": "https://dalcotone.com.br/products/kit-force-life-finalizador-must-use-controle-de-oleosidade-e-reconstrucao-300g",
       "sourceKind": "official-page",
       "categories": [
         "Controle de oleosidade"
       ],
       "primaryCategory": "Controle de oleosidade",
       "occasions": [],
-      "activeDetails": [],
+      "activeDetails": [
+        {
+          "name": "Force Life: Capilmax, bambu e jaborandi",
+          "role": null,
+          "sourceUrl": "https://dalcotone.com.br/products/kit-force-life-finalizador-must-use-controle-de-oleosidade-e-reconstrucao-300g"
+        },
+        {
+          "name": "Must Use: pantenol, ômegas 3, 5 e 6, queratina, Nano Link, Semi di Lino e silicones especiais",
+          "role": null,
+          "sourceUrl": "https://dalcotone.com.br/products/kit-force-life-finalizador-must-use-controle-de-oleosidade-e-reconstrucao-300g"
+        }
+      ],
       "kitReview": {
-        "productId": "3e67b66612b7f633",
-        "name": "Kit Force Life + Must Use",
-        "url": "https://dalcotone.com.br/products/kit-force-life-finalizador-must-use-controle-de-oleosidade-e-reconstrucao-300g",
-        "status": "partial",
-        "items": [
-          {
-            "name": "Shampoo esfoliante Force Life",
-            "quantity": 1,
-            "volume": "300 ml",
-            "productId": null
-          },
-          {
-            "name": "Máscara Force Life",
-            "quantity": 1,
-            "volume": "300 g",
-            "productId": "23691f31ecfc8833"
-          },
-          {
-            "name": "Condicionador Force Life",
-            "quantity": 1,
-            "volume": null,
-            "productId": null
-          },
-          {
-            "name": "Finalizador Must Use",
-            "quantity": 1,
-            "volume": null,
-            "productId": null
-          }
-        ],
-        "notes": [
-          "Volumes ausentes na ficha do kit permanecem não confirmados; não usar tamanho do produto avulso como prova."
-        ],
+        "status": "confirmed",
         "sourceUrls": [
           "https://dalcotone.com.br/products/kit-force-life-finalizador-must-use-controle-de-oleosidade-e-reconstrucao-300g"
         ],
-        "mainCategory": "Controle de oleosidade"
+        "notes": [
+          "Componentes e volumes conferidos na descrição atual da página oficial."
+        ]
       },
       "kitItems": [
         {
-          "name": "Shampoo esfoliante Force Life",
+          "name": "Shampoo Esfoliante Force Life",
           "quantity": 1,
-          "volume": "300 ml",
-          "productId": null
+          "volume": "300 mL",
+          "productId": "85e6ca2844f6803d"
         },
         {
-          "name": "Máscara Force Life",
+          "name": "Máscara Revitalizante Force Life",
           "quantity": 1,
           "volume": "300 g",
           "productId": "23691f31ecfc8833"
         },
         {
-          "name": "Condicionador Force Life",
+          "name": "Fluido Reconstrutor Must Use",
           "quantity": 1,
-          "volume": null,
-          "productId": null
-        },
-        {
-          "name": "Finalizador Must Use",
-          "quantity": 1,
-          "volume": null,
-          "productId": null
+          "volume": "250 mL",
+          "productId": "0362c5b04fc5ffb5"
         }
       ],
+      "fieldSources": {
+        "actives": {
+          "label": "Página oficial · consulta06/11/2026",
+          "url": "https://dalcotone.com.br/products/kit-force-life-finalizador-must-use-controle-de-oleosidade-e-reconstrucao-300g"
+        },
+        "benefits": {
+          "label": "Página oficial · consulta06/11/2026",
+          "url": "https://dalcotone.com.br/products/kit-force-life-finalizador-must-use-controle-de-oleosidade-e-reconstrucao-300g"
+        },
+        "indication": {
+          "label": "Página oficial · consulta06/11/2026",
+          "url": "https://dalcotone.com.br/products/kit-force-life-finalizador-must-use-controle-de-oleosidade-e-reconstrucao-300g"
+        },
+        "use": {
+          "label": "Página oficial · consulta06/11/2026",
+          "url": "https://dalcotone.com.br/products/kit-force-life-finalizador-must-use-controle-de-oleosidade-e-reconstrucao-300g"
+        }
+      },
+      "imageOrigin": "Foto extraída do catálogo oficial 2025",
+      "imagePage": 27,
       "technical": {
         "line": "Force Life",
         "productType": "Kits",
@@ -3451,19 +3739,34 @@
         "sourceKind": "official-page",
         "sourcePage": null
       },
+      "sourceDifferences": [],
+      "historicalFields": [],
+      "variants": [],
       "differentials": [
         {
+          "title": "Ativos destacados na formulação",
+          "text": "Force Life: Capilmax, bambu e jaborandi; Must Use: pantenol, ômegas 3, 5 e 6, queratina, Nano Link, Semi di Lino e silicones especiais",
+          "evidence": "Ativos divulgados na fonte desta ficha; concentração e efeito isolado não confirmados.",
+          "sourceUrl": "https://dalcotone.com.br/products/kit-force-life-finalizador-must-use-controle-de-oleosidade-e-reconstrucao-300g"
+        },
+        {
+          "title": "Proposta e função do produto",
+          "text": "Controle da oleosidade na raiz; Hidratação e fortalecimento do comprimento; Desembaraço e controle do frizz; Proteção térmica na finalização",
+          "evidence": "Benefícios declarados pela marca, não um ensaio comparativo independente.",
+          "sourceUrl": "https://dalcotone.com.br/products/kit-force-life-finalizador-must-use-controle-de-oleosidade-e-reconstrucao-300g"
+        },
+        {
           "title": "Composição desta versão do kit",
-          "text": "Shampoo esfoliante Force Life · 300 ml; Máscara Force Life · 300 g; Condicionador Force Life; Finalizador Must Use",
+          "text": "Shampoo Esfoliante Force Life · 300 mL; Máscara Revitalizante Force Life · 300 g; Fluido Reconstrutor Must Use · 250 mL",
           "evidence": "Itens conferidos conforme o status do kit; montagens do consultor estão identificadas.",
           "sourceUrl": "https://dalcotone.com.br/products/kit-force-life-finalizador-must-use-controle-de-oleosidade-e-reconstrucao-300g"
         }
       ],
-      "commercialSummary": null,
+      "commercialSummary": "Proposta descrita pela marca: Controle da oleosidade na raiz; Hidratação e fortalecimento do comprimento; Desembaraço e controle do frizz.",
       "competitiveEvidence": null,
       "presentation": {
         "question": "Você recebe muitas dúvidas sobre a rotina de cuidado de cabelos oleosos ou mistos?",
-        "opening": "Este é o Kit Force Life + Must Use. A ficha técnica ainda tem informações a confirmar; prefiro verificá-las antes de atribuir um resultado específico ao produto.",
+        "opening": "Este é o Kit Force Life + Must Use. A proposta descrita pela marca inclui Controle da oleosidade na raiz; Hidratação e fortalecimento do comprimento; Desembaraço e controle do frizz. Entre os ativos divulgados estão Force Life: Capilmax, bambu e jaborandi, Must Use: pantenol, ômegas 3, 5 e 6, queratina, Nano Link, Semi di Lino e silicones especiais.",
         "nextStep": "Posso mostrar a ficha e conferir se essa proposta faz sentido para a necessidade que você me contou?",
         "scope": "Sugestão de fala baseada nos campos catalogados; não é um depoimento ou garantia de resultado."
       }
@@ -3475,7 +3778,7 @@
       "priceSource": "https://dalcotone.com.br/collections/kits",
       "price": 141.46,
       "regularPrice": 232.9,
-      "imageUrl": "https://dalcotone.com.br/cdn/shop/files/kitdal1.webp?v=1774353979&width=600",
+      "imageUrl": "/assets/products/6ecaab3b560f58fd.webp",
       "actives": [
         "Alho",
         "Ceramidas"
@@ -3502,7 +3805,7 @@
         "Hidratação",
         "Frizz"
       ],
-      "imageSource": "https://dalcotone.com.br/cdn/shop/files/kitdal1.webp?v=1774353979&width=1946",
+      "imageSource": "https://dalcotone.com.br/products/kit-hydra-ceramides-hidratacao-antioxidante-dal-cotone",
       "sourceKind": "official-page",
       "categories": [
         "Hidratação"
@@ -3564,6 +3867,8 @@
           "productId": null
         }
       ],
+      "imageOrigin": "Foto extraída do catálogo oficial 2025",
+      "imagePage": 29,
       "technical": {
         "line": "Hydra Ceramides",
         "productType": "Kits",
@@ -3574,6 +3879,9 @@
         "sourceKind": "official-page",
         "sourcePage": null
       },
+      "sourceDifferences": [],
+      "historicalFields": [],
+      "variants": [],
       "differentials": [
         {
           "title": "Ativos destacados na formulação",
@@ -3610,7 +3918,7 @@
       "priceSource": "https://dalcotone.com.br/products/kit-hydra-ceramides-spray-oleo-golden-premium-hidratacao-e-brilho",
       "price": 179.9,
       "regularPrice": 358.62,
-      "imageUrl": "https://dalcotone.com.br/cdn/shop/files/CERAMIDES-OLEO.png?v=1793809708&width=600",
+      "imageUrl": "/assets/products/fdf9be752a8c216a.webp",
       "actives": [
         "Alho",
         "Ceramidas"
@@ -3637,7 +3945,7 @@
         "Hidratação",
         "Frizz"
       ],
-      "imageSource": "https://dalcotone.com.br/cdn/shop/files/CERAMIDES-OLEO.png?v=1793809708&width=1946",
+      "imageSource": "https://dalcotone.com.br/products/kit-hydra-ceramides-spray-oleo-golden-premium-hidratacao-e-brilho",
       "sourceKind": "official-page",
       "categories": [
         "Hidratação"
@@ -3711,6 +4019,8 @@
           "productId": null
         }
       ],
+      "imageOrigin": "Foto extraída do catálogo oficial 2025",
+      "imagePage": 29,
       "technical": {
         "line": "Hydra Ceramides",
         "productType": "Kits",
@@ -3721,6 +4031,9 @@
         "sourceKind": "official-page",
         "sourcePage": null
       },
+      "sourceDifferences": [],
+      "historicalFields": [],
+      "variants": [],
       "differentials": [
         {
           "title": "Ativos destacados na formulação",
@@ -3757,7 +4070,7 @@
       "priceSource": "https://dalcotone.com.br/products/kit-lamour-perfume-capilar-lamour-morango-nutricao-e-brilho-natural",
       "price": 279.35,
       "regularPrice": 367.57,
-      "imageUrl": "https://dalcotone.com.br/cdn/shop/files/kitdal13.webp?v=1774355697&width=600",
+      "imageUrl": "/assets/products/559fb7f1ea51cc24.webp",
       "actives": [
         "Vitaminas não especificadas",
         "Pantenol"
@@ -3783,7 +4096,7 @@
       "needs": [
         "Nutrição"
       ],
-      "imageSource": "https://dalcotone.com.br/cdn/shop/files/kitdal13.webp?v=1774355697&width=1946",
+      "imageSource": "https://dalcotone.com.br/products/kit-lamour-perfume-capilar-lamour-morango-nutricao-e-brilho-natural",
       "sourceKind": "official-page",
       "categories": [
         "Nutrição"
@@ -3857,6 +4170,8 @@
           "productId": null
         }
       ],
+      "imageOrigin": "Foto extraída do catálogo oficial 2025",
+      "imagePage": 31,
       "technical": {
         "line": "L’Amour",
         "productType": "Kits",
@@ -3867,6 +4182,9 @@
         "sourceKind": "official-page",
         "sourcePage": null
       },
+      "sourceDifferences": [],
+      "historicalFields": [],
+      "variants": [],
       "differentials": [
         {
           "title": "Ativos destacados na formulação",
@@ -3957,6 +4275,9 @@
         "sourceKind": "official-page",
         "sourcePage": null
       },
+      "sourceDifferences": [],
+      "historicalFields": [],
+      "variants": [],
       "differentials": [],
       "commercialSummary": null,
       "competitiveEvidence": null,
@@ -3974,7 +4295,7 @@
       "priceSource": "https://dalcotone.com.br/collections/linha-max-force",
       "price": 261.39,
       "regularPrice": 290.43,
-      "imageUrl": "https://dalcotone.com.br/cdn/shop/files/kitdal14.png?v=1774355859&width=600",
+      "imageUrl": "/assets/products/fb1b2105ce6e43c0.webp",
       "actives": [
         "Óleo de argan",
         "Vitamina A"
@@ -4003,7 +4324,7 @@
         "Reconstrução",
         "Fortalecimento"
       ],
-      "imageSource": "https://dalcotone.com.br/cdn/shop/files/kitdal14.png?v=1774355859&width=1946",
+      "imageSource": "https://dalcotone.com.br/products/kit-max-force-home-care-completo-reconstrucao-capilar-pos-quimica",
       "sourceKind": "official-page",
       "categories": [
         "Reconstrução"
@@ -4079,6 +4400,8 @@
           "productId": null
         }
       ],
+      "imageOrigin": "Foto extraída do catálogo oficial 2025",
+      "imagePage": 15,
       "technical": {
         "line": "Max Force",
         "productType": "Kits",
@@ -4089,6 +4412,9 @@
         "sourceKind": "official-page",
         "sourcePage": null
       },
+      "sourceDifferences": [],
+      "historicalFields": [],
+      "variants": [],
       "differentials": [
         {
           "title": "Ativos destacados na formulação",
@@ -4252,6 +4578,9 @@
         "sourceKind": "official-page",
         "sourcePage": null
       },
+      "sourceDifferences": [],
+      "historicalFields": [],
+      "variants": [],
       "differentials": [
         {
           "title": "Ativos destacados na formulação",
@@ -4288,7 +4617,7 @@
       "priceSource": "https://dalcotone.com.br/collections/kits",
       "price": 397.8,
       "regularPrice": 441.99,
-      "imageUrl": "https://dalcotone.com.br/cdn/shop/files/kitdal17.webp?v=1774356362&width=600",
+      "imageUrl": "/assets/products/7a947ed4065e018c.webp",
       "actives": [
         "Óleo de argan",
         "Vitamina A"
@@ -4317,7 +4646,7 @@
         "Reconstrução",
         "Fortalecimento"
       ],
-      "imageSource": "https://dalcotone.com.br/cdn/shop/files/kitdal17.webp?v=1774356362&width=1946",
+      "imageSource": "https://dalcotone.com.br/products/kit-max-force-profissional-3-em-1-reconstrucao-pos-quimica-completa-1l",
       "sourceKind": "official-page",
       "categories": [
         "Reconstrução"
@@ -4393,6 +4722,8 @@
           "productId": null
         }
       ],
+      "imageOrigin": "Foto extraída do catálogo oficial 2025",
+      "imagePage": 14,
       "technical": {
         "line": "Max Force",
         "productType": "Kits",
@@ -4403,6 +4734,9 @@
         "sourceKind": "official-page",
         "sourcePage": null
       },
+      "sourceDifferences": [],
+      "historicalFields": [],
+      "variants": [],
       "differentials": [
         {
           "title": "Ativos destacados na formulação",
@@ -4439,7 +4773,7 @@
       "priceSource": "https://dalcotone.com.br/products/kit-monovin-fortalecimento-capilar-e-estimulo-ao-crescimento-dos-fios",
       "price": 228.64,
       "regularPrice": 300.84,
-      "imageUrl": "https://dalcotone.com.br/cdn/shop/files/kitdal6.webp?v=1774354764&width=600",
+      "imageUrl": "/assets/products/99b3b3196433752a.webp",
       "actives": [],
       "benefits": [
         "Fortalecimento e hidratação cosmética"
@@ -4463,7 +4797,7 @@
         "Reconstrução",
         "Fortalecimento"
       ],
-      "imageSource": "https://dalcotone.com.br/cdn/shop/files/kitdal6.webp?v=1774354764&width=1946",
+      "imageSource": "https://dalcotone.com.br/products/kit-monovin-fortalecimento-capilar-e-estimulo-ao-crescimento-dos-fios",
       "sourceKind": "official-page",
       "categories": [
         "Fortalecimento"
@@ -4526,6 +4860,8 @@
           "productId": null
         }
       ],
+      "imageOrigin": "Foto extraída do catálogo oficial 2025",
+      "imagePage": 33,
       "technical": {
         "line": "Monovin",
         "productType": "Kits",
@@ -4536,6 +4872,9 @@
         "sourceKind": "official-page",
         "sourcePage": null
       },
+      "sourceDifferences": [],
+      "historicalFields": [],
+      "variants": [],
       "differentials": [
         {
           "title": "Proposta e função do produto",
@@ -4675,6 +5014,9 @@
         "sourceKind": "official-page",
         "sourcePage": null
       },
+      "sourceDifferences": [],
+      "historicalFields": [],
+      "variants": [],
       "differentials": [
         {
           "title": "Proposta e função do produto",
@@ -4705,7 +5047,7 @@
       "priceSource": "https://dalcotone.com.br/collections/kits",
       "price": 247.08,
       "regularPrice": 260.08,
-      "imageUrl": "https://dalcotone.com.br/cdn/shop/files/kitdal8.webp?v=1774355089&width=600",
+      "imageUrl": "/assets/products/a36ced1725166917.webp",
       "actives": [
         "Óleo de coco",
         "D-pantenol"
@@ -4734,7 +5076,7 @@
         "Cachos",
         "Frizz"
       ],
-      "imageSource": "https://dalcotone.com.br/cdn/shop/files/kitdal8.webp?v=1774355089&width=3840",
+      "imageSource": "https://dalcotone.com.br/products/kit-power-curls-home-care-definicao-volume-e-hidratacao",
       "sourceKind": "official-page",
       "categories": [
         "Cachos"
@@ -4810,6 +5152,8 @@
           "productId": null
         }
       ],
+      "imageOrigin": "Foto extraída do catálogo oficial 2025",
+      "imagePage": 19,
       "technical": {
         "line": "Power Curls",
         "productType": "Kits",
@@ -4820,6 +5164,9 @@
         "sourceKind": "official-page",
         "sourcePage": null
       },
+      "sourceDifferences": [],
+      "historicalFields": [],
+      "variants": [],
       "differentials": [
         {
           "title": "Ativos destacados na formulação",
@@ -4856,7 +5203,7 @@
       "priceSource": "https://dalcotone.com.br/collections/kits",
       "price": 376.88,
       "regularPrice": 418.76,
-      "imageUrl": "https://dalcotone.com.br/cdn/shop/files/kitdal18.webp?v=1774356441&width=600",
+      "imageUrl": "/assets/products/7c8bb0613125da45.webp",
       "actives": [
         "Óleo de coco",
         "D-pantenol"
@@ -4885,7 +5232,7 @@
         "Cachos",
         "Frizz"
       ],
-      "imageSource": "https://dalcotone.com.br/cdn/shop/files/kitdal18.webp?v=1774356441&width=3840",
+      "imageSource": "https://dalcotone.com.br/products/kit-power-curls-spray-ativador-de-cachos-definicao-volume-e-hidratacao",
       "sourceKind": "official-page",
       "categories": [
         "Cachos"
@@ -4973,6 +5320,8 @@
           "productId": null
         }
       ],
+      "imageOrigin": "Foto extraída do catálogo oficial 2025",
+      "imagePage": 19,
       "technical": {
         "line": "Power Curls",
         "productType": "Kits",
@@ -4983,6 +5332,9 @@
         "sourceKind": "official-page",
         "sourcePage": null
       },
+      "sourceDifferences": [],
+      "historicalFields": [],
+      "variants": [],
       "differentials": [
         {
           "title": "Ativos destacados na formulação",
@@ -5019,7 +5371,7 @@
       "priceSource": "https://dalcotone.com.br/products/kit-power-curls-profissional-definicao-volume-e-hidratacao-1kg",
       "price": 369.36,
       "regularPrice": 388.8,
-      "imageUrl": "https://dalcotone.com.br/cdn/shop/files/kitdal7.webp?v=1774354977&width=600",
+      "imageUrl": "/assets/products/af2c90a0e5bb3e69.webp",
       "actives": [
         "Óleo de coco",
         "D-pantenol"
@@ -5048,7 +5400,7 @@
         "Cachos",
         "Frizz"
       ],
-      "imageSource": "https://dalcotone.com.br/cdn/shop/files/kitdal7.webp?v=1774354977&width=3840",
+      "imageSource": "https://dalcotone.com.br/products/kit-power-curls-profissional-definicao-volume-e-hidratacao-1kg",
       "sourceKind": "official-page",
       "categories": [
         "Cachos"
@@ -5124,6 +5476,8 @@
           "productId": null
         }
       ],
+      "imageOrigin": "Foto extraída do catálogo oficial 2025",
+      "imagePage": 17,
       "technical": {
         "line": "Power Curls",
         "productType": "Kits",
@@ -5134,6 +5488,9 @@
         "sourceKind": "official-page",
         "sourcePage": null
       },
+      "sourceDifferences": [],
+      "historicalFields": [],
+      "variants": [],
       "differentials": [
         {
           "title": "Ativos destacados na formulação",
@@ -5284,6 +5641,9 @@
         "sourceKind": "official-page",
         "sourcePage": null
       },
+      "sourceDifferences": [],
+      "historicalFields": [],
+      "variants": [],
       "differentials": [
         {
           "title": "Ativos destacados na formulação",
@@ -5446,6 +5806,9 @@
         "sourceKind": "official-page",
         "sourcePage": null
       },
+      "sourceDifferences": [],
+      "historicalFields": [],
+      "variants": [],
       "differentials": [
         {
           "title": "Ativos destacados na formulação",
@@ -5482,7 +5845,7 @@
       "priceSource": "https://dalcotone.com.br/collections/kits",
       "price": 397.8,
       "regularPrice": 441.99,
-      "imageUrl": "https://dalcotone.com.br/cdn/shop/files/kitdal19.webp?v=1774386035&width=600",
+      "imageUrl": "/assets/products/db5efd967f8e7dfe.webp",
       "actives": [
         "Frulix de açaí",
         "Ceramidas"
@@ -5510,7 +5873,7 @@
         "Hidratação",
         "Frizz"
       ],
-      "imageSource": "https://dalcotone.com.br/cdn/shop/files/kitdal19.webp?v=1774386035&width=1946",
+      "imageSource": "https://dalcotone.com.br/products/kit-power-repair-profissional-3-em-1-hidratacao-e-protecao-da-cor-1l",
       "sourceKind": "official-page",
       "categories": [
         "Hidratação"
@@ -5586,6 +5949,8 @@
           "productId": null
         }
       ],
+      "imageOrigin": "Foto extraída do catálogo oficial 2025",
+      "imagePage": 20,
       "technical": {
         "line": "Power Repair",
         "productType": "Kits",
@@ -5596,6 +5961,9 @@
         "sourceKind": "official-page",
         "sourcePage": null
       },
+      "sourceDifferences": [],
+      "historicalFields": [],
+      "variants": [],
       "differentials": [
         {
           "title": "Ativos destacados na formulação",
@@ -5632,7 +6000,7 @@
       "priceSource": "https://dalcotone.com.br/products/kit-sos-detox-home-care-purificacao-revitalizante-com-controle-da-oleosidade",
       "price": 277.56,
       "regularPrice": 292.17,
-      "imageUrl": "https://dalcotone.com.br/cdn/shop/files/kitdal12.webp?v=1774355582&width=600",
+      "imageUrl": "/assets/products/82ac5f089100e9e1.webp",
       "actives": [
         "Café verde",
         "Fiber Detox",
@@ -5663,7 +6031,7 @@
         "Oleosidade",
         "Detox"
       ],
-      "imageSource": "https://dalcotone.com.br/cdn/shop/files/kitdal12.webp?v=1774355582&width=3840",
+      "imageSource": "https://dalcotone.com.br/products/kit-sos-detox-home-care-purificacao-revitalizante-com-controle-da-oleosidade",
       "sourceKind": "official-page",
       "categories": [
         "Detox"
@@ -5757,6 +6125,8 @@
           "productId": null
         }
       ],
+      "imageOrigin": "Foto extraída do catálogo oficial 2025",
+      "imagePage": 24,
       "technical": {
         "line": "S.O.S Detox",
         "productType": "Kits",
@@ -5767,6 +6137,9 @@
         "sourceKind": "official-page",
         "sourcePage": null
       },
+      "sourceDifferences": [],
+      "historicalFields": [],
+      "variants": [],
       "differentials": [
         {
           "title": "Ativos destacados na formulação",
@@ -5914,6 +6287,9 @@
         "sourceKind": "official-page",
         "sourcePage": null
       },
+      "sourceDifferences": [],
+      "historicalFields": [],
+      "variants": [],
       "differentials": [
         {
           "title": "Ativos destacados na formulação",
@@ -5950,7 +6326,7 @@
       "priceSource": "https://dalcotone.com.br/collections/all",
       "price": 109.9,
       "regularPrice": 156.9,
-      "imageUrl": "https://dalcotone.com.br/cdn/shop/files/mascara_banana_e_mel_efeito_teia_500g_3209_1_6eb0cff2fa2b8d7309d97b53743430b8.png?v=1770119926&width=600",
+      "imageUrl": "/assets/products/011793544db6c402.webp",
       "actives": [
         "Banana",
         "Mel",
@@ -5982,7 +6358,7 @@
         "Nutrição",
         "Fortalecimento"
       ],
-      "imageSource": "https://dalcotone.com.br/cdn/shop/files/mascara_banana_e_mel_efeito_teia_500g_3209_1_6eb0cff2fa2b8d7309d97b53743430b8.png?v=1770119926&width=1946",
+      "imageSource": "https://dalcotone.com.br/products/mascara-banana-e-mel-efeito-teia-500g",
       "sourceKind": "official-page",
       "categories": [
         "Hidratação",
@@ -6030,6 +6406,8 @@
           "sourceUrl": "https://dalcotone.com.br/products/mascara-banana-e-mel-efeito-teia-500g"
         }
       ],
+      "imageOrigin": "Foto extraída do catálogo oficial 2025",
+      "imagePage": 38,
       "technical": {
         "line": "Efeito Teia",
         "productType": "Máscaras",
@@ -6040,6 +6418,9 @@
         "sourceKind": "official-page",
         "sourcePage": null
       },
+      "sourceDifferences": [],
+      "historicalFields": [],
+      "variants": [],
       "differentials": [
         {
           "title": "Ativos destacados na formulação",
@@ -6066,21 +6447,33 @@
     {
       "id": "ad696ecbb8523b00",
       "name": "Máscara Blond Up 300 g",
-      "url": "https://dalcotone.com.br/collections/linha-blond-up",
+      "url": "https://usedalcotone.com/links/%5B%20DIGITAL%20%5D%20CAT%C3%81LOGO%20-%20DAL%20COTONE%202025-min.pdf",
       "priceSource": "https://dalcotone.com.br/collections/linha-blond-up",
       "price": 110.34,
       "regularPrice": 122.6,
-      "imageUrl": "https://dalcotone.com.br/cdn/shop/files/mascara_blond_up_300g_3271_1_14e8321e0751a2995e8007f503b4dbaa.png?v=1770119932&width=600",
-      "actives": [],
-      "benefits": [],
-      "indication": null,
-      "use": null,
+      "imageUrl": "/assets/products/ad696ecbb8523b00.webp",
+      "actives": [
+        "Creatina",
+        "Ácido Violeta 43",
+        "Manteiga de abacate",
+        "Silicone e quaternários"
+      ],
+      "benefits": [
+        "Neutralização de tons amarelados",
+        "Brilho",
+        "Hidratação",
+        "Proteção e fortalecimento"
+      ],
+      "indication": "Cabelos loiros, grisalhos ou com mechas.",
+      "use": "Após lavar, aplicar a máscara em toda a extensão, massagear, acompanhar o tom: menor tempo em fios mais claros e maior em amarelados. Enxaguar completamente.",
       "inci": null,
       "contents": null,
       "notes": [
         "Nome e preço confirmados em fonte oficial indexada.",
         "Registro parcial: produto e preço em fonte oficial; ficha detalhada não localizada na pesquisa. Não inferir informações a partir de outros volumes ou da linha.",
-        "Lista INCI não localizada."
+        "Lista INCI não localizada.",
+        "Lista dos ativos atribuída à linha na própria página. O rótulo profissional diz Extrato de Violeta; o quadro diz Ácido Violeta43. Não declarar estes nomes equivalentes nem transformar isso em INCI.",
+        "A p10 não publica modo de uso; não importar automaticamente o protocolo da embalagem300mL."
       ],
       "priceNote": "Preço capturado em página oficial; pode variar com promoções. Confirme online antes de apresentar uma proposta.",
       "detailLevel": "partial",
@@ -6090,30 +6483,78 @@
       "needs": [
         "Matização"
       ],
-      "imageSource": "https://dalcotone.com.br/cdn/shop/files/mascara_blond_up_300g_3271_1_14e8321e0751a2995e8007f503b4dbaa.png?v=1770119932&width=3840",
-      "sourceKind": "official-page",
+      "imageSource": "https://usedalcotone.com/links/%5B%20DIGITAL%20%5D%20CAT%C3%81LOGO%20-%20DAL%20COTONE%202025-min.pdf",
+      "sourceKind": "official-catalog",
       "categories": [
         "Matização"
       ],
       "primaryCategory": "Matização",
       "occasions": [],
-      "activeDetails": [],
+      "activeDetails": [
+        {
+          "name": "Creatina",
+          "role": "Fortalecimento, reparação de danos, hidratação, elasticidade e proteção contra quebra.",
+          "sourceUrl": "https://usedalcotone.com/links/%5B%20DIGITAL%20%5D%20CAT%C3%81LOGO%20-%20DAL%20COTONE%202025-min.pdf",
+          "scope": "manufacturer-claim",
+          "sourcePage": 11
+        },
+        {
+          "name": "Ácido Violeta 43",
+          "role": "Neutralização dos tons amarelados e realce da cor e do brilho dos fios loiros e grisalhos.",
+          "sourceUrl": "https://usedalcotone.com/links/%5B%20DIGITAL%20%5D%20CAT%C3%81LOGO%20-%20DAL%20COTONE%202025-min.pdf",
+          "scope": "manufacturer-claim",
+          "sourcePage": 11
+        },
+        {
+          "name": "Manteiga de abacate",
+          "role": "Hidratação profunda para maciez e sedosidade.",
+          "sourceUrl": "https://usedalcotone.com/links/%5B%20DIGITAL%20%5D%20CAT%C3%81LOGO%20-%20DAL%20COTONE%202025-min.pdf",
+          "scope": "manufacturer-claim",
+          "sourcePage": 11
+        },
+        {
+          "name": "Silicone e quaternários",
+          "role": "A combinação é descrita para brilho, controle do frizz e proteção contra danos externos.",
+          "sourceUrl": "https://usedalcotone.com/links/%5B%20DIGITAL%20%5D%20CAT%C3%81LOGO%20-%20DAL%20COTONE%202025-min.pdf",
+          "scope": "blend",
+          "sourcePage": 11
+        }
+      ],
+      "sourcePage": 11,
+      "imageOrigin": "Foto extraída do catálogo oficial 2025",
+      "imagePage": 11,
       "technical": {
         "line": "Blond Up",
         "productType": "Máscaras",
         "presentation": "300 g",
-        "declaredPH": null,
+        "declaredPH": "3,5–4,5",
         "concentrations": null,
         "fullFormulaAvailable": false,
-        "sourceKind": "official-page",
-        "sourcePage": null
+        "sourceKind": "official-catalog",
+        "sourcePage": 11
       },
-      "differentials": [],
-      "commercialSummary": null,
+      "sourceDifferences": [],
+      "historicalFields": [],
+      "variants": [],
+      "differentials": [
+        {
+          "title": "Ativos destacados na formulação",
+          "text": "Creatina; Ácido Violeta 43; Manteiga de abacate; Silicone e quaternários",
+          "evidence": "Ativos divulgados na fonte desta ficha; concentração e efeito isolado não confirmados.",
+          "sourceUrl": "https://usedalcotone.com/links/%5B%20DIGITAL%20%5D%20CAT%C3%81LOGO%20-%20DAL%20COTONE%202025-min.pdf"
+        },
+        {
+          "title": "Proposta e função do produto",
+          "text": "Neutralização de tons amarelados; Brilho; Hidratação; Proteção e fortalecimento",
+          "evidence": "Benefícios declarados pela marca, não um ensaio comparativo independente.",
+          "sourceUrl": "https://usedalcotone.com/links/%5B%20DIGITAL%20%5D%20CAT%C3%81LOGO%20-%20DAL%20COTONE%202025-min.pdf"
+        }
+      ],
+      "commercialSummary": "Proposta descrita pela marca: Neutralização de tons amarelados; Brilho; Hidratação.",
       "competitiveEvidence": null,
       "presentation": {
         "question": "Quais necessidades de cuidado dos loiros e descoloridos aparecem com mais frequência no seu salão?",
-        "opening": "Este é o Máscara Blond Up 300 g. A ficha técnica ainda tem informações a confirmar; prefiro verificá-las antes de atribuir um resultado específico ao produto.",
+        "opening": "Este é o Máscara Blond Up 300 g. A proposta descrita pela marca inclui Neutralização de tons amarelados; Brilho; Hidratação. Entre os ativos divulgados estão Creatina, Ácido Violeta 43, Manteiga de abacate, Silicone e quaternários.",
         "nextStep": "Posso mostrar a ficha e conferir se essa proposta faz sentido para a necessidade que você me contou?",
         "scope": "Sugestão de fala baseada nos campos catalogados; não é um depoimento ou garantia de resultado."
       }
@@ -6121,26 +6562,32 @@
     {
       "id": "a9a848c44de789fb",
       "name": "Máscara Blond Up Premium 1 kg",
-      "url": "https://dalcotone.com.br/products/mascara-iluminadora-blond-up-premium",
+      "url": "https://usedalcotone.com/links/%5B%20DIGITAL%20%5D%20CAT%C3%81LOGO%20-%20DAL%20COTONE%202025-min.pdf",
       "priceSource": "https://dalcotone.com.br/products/mascara-iluminadora-blond-up-premium",
       "price": 204.21,
       "regularPrice": 226.9,
       "imageUrl": "https://dalcotone.com.br/cdn/shop/files/mascara_iluminadora_blond_up_premium_500g_3275_1_7a1f2f6788046a6bc615d54d22ca1d75.png?v=1770119934&width=600",
       "actives": [
-        "Extrato de violeta",
-        "Creatina"
+        "Creatina",
+        "Ácido Violeta 43",
+        "Manteiga de abacate",
+        "Silicone e quaternários"
       ],
       "benefits": [
-        "Neutralização de tons indesejados",
-        "Hidratação e brilho"
+        "Neutralização de tons amarelados",
+        "Brilho",
+        "Hidratação",
+        "Proteção e fortalecimento"
       ],
-      "indication": "Loiros ou grisalhos.",
+      "indication": "Cabelos loiros, grisalhos ou com mechas.",
       "use": "Após lavar, distribuir no comprimento e acompanhar ação conforme o tom dos fios. Enxaguar. Seguir teste de contato do rótulo.",
       "inci": null,
       "contents": null,
       "notes": [
         "Nome e preço confirmados em fonte oficial indexada.",
-        "Lista INCI completa não publicada na fonte consultada."
+        "Lista INCI completa não publicada na fonte consultada.",
+        "Lista dos ativos atribuída à linha na própria página. O rótulo profissional diz Extrato de Violeta; o quadro diz Ácido Violeta43. Não declarar estes nomes equivalentes nem transformar isso em INCI.",
+        "A p10 não publica modo de uso; não importar automaticamente o protocolo da embalagem300mL."
       ],
       "priceNote": "Preço capturado em página oficial; pode variar com promoções. Confirme online antes de apresentar uma proposta.",
       "detailLevel": "detailed",
@@ -6157,25 +6604,42 @@
         "Matização",
         "Hidratação"
       ],
-      "sourceKind": "official-page",
+      "sourceKind": "official-catalog",
       "primaryCategory": "Matização",
       "occasions": [
         "Loiros ou grisalhos."
       ],
       "activeDetails": [
         {
-          "name": "Extrato de violeta",
-          "role": null,
-          "scope": null,
-          "sourceUrl": null
+          "name": "Creatina",
+          "role": "Fortalecimento, reparação de danos, hidratação, elasticidade e proteção contra quebra.",
+          "sourceUrl": "https://usedalcotone.com/links/%5B%20DIGITAL%20%5D%20CAT%C3%81LOGO%20-%20DAL%20COTONE%202025-min.pdf",
+          "scope": "manufacturer-claim",
+          "sourcePage": 10
         },
         {
-          "name": "Creatina",
-          "role": null,
-          "scope": null,
-          "sourceUrl": null
+          "name": "Ácido Violeta 43",
+          "role": "Neutralização dos tons amarelados e realce da cor e do brilho dos fios loiros e grisalhos.",
+          "sourceUrl": "https://usedalcotone.com/links/%5B%20DIGITAL%20%5D%20CAT%C3%81LOGO%20-%20DAL%20COTONE%202025-min.pdf",
+          "scope": "manufacturer-claim",
+          "sourcePage": 10
+        },
+        {
+          "name": "Manteiga de abacate",
+          "role": "Hidratação profunda para maciez e sedosidade.",
+          "sourceUrl": "https://usedalcotone.com/links/%5B%20DIGITAL%20%5D%20CAT%C3%81LOGO%20-%20DAL%20COTONE%202025-min.pdf",
+          "scope": "manufacturer-claim",
+          "sourcePage": 10
+        },
+        {
+          "name": "Silicone e quaternários",
+          "role": "A combinação é descrita para brilho, controle do frizz e proteção contra danos externos.",
+          "sourceUrl": "https://usedalcotone.com/links/%5B%20DIGITAL%20%5D%20CAT%C3%81LOGO%20-%20DAL%20COTONE%202025-min.pdf",
+          "scope": "blend",
+          "sourcePage": 10
         }
       ],
+      "sourcePage": 10,
       "technical": {
         "line": "Blond Up",
         "productType": "Máscaras",
@@ -6183,28 +6647,31 @@
         "declaredPH": null,
         "concentrations": null,
         "fullFormulaAvailable": false,
-        "sourceKind": "official-page",
-        "sourcePage": null
+        "sourceKind": "official-catalog",
+        "sourcePage": 10
       },
+      "sourceDifferences": [],
+      "historicalFields": [],
+      "variants": [],
       "differentials": [
         {
           "title": "Ativos destacados na formulação",
-          "text": "Extrato de violeta; Creatina",
+          "text": "Creatina; Ácido Violeta 43; Manteiga de abacate; Silicone e quaternários",
           "evidence": "Ativos divulgados na fonte desta ficha; concentração e efeito isolado não confirmados.",
-          "sourceUrl": "https://dalcotone.com.br/products/mascara-iluminadora-blond-up-premium"
+          "sourceUrl": "https://usedalcotone.com/links/%5B%20DIGITAL%20%5D%20CAT%C3%81LOGO%20-%20DAL%20COTONE%202025-min.pdf"
         },
         {
           "title": "Proposta e função do produto",
-          "text": "Neutralização de tons indesejados; Hidratação e brilho",
+          "text": "Neutralização de tons amarelados; Brilho; Hidratação; Proteção e fortalecimento",
           "evidence": "Benefícios declarados pela marca, não um ensaio comparativo independente.",
-          "sourceUrl": "https://dalcotone.com.br/products/mascara-iluminadora-blond-up-premium"
+          "sourceUrl": "https://usedalcotone.com/links/%5B%20DIGITAL%20%5D%20CAT%C3%81LOGO%20-%20DAL%20COTONE%202025-min.pdf"
         }
       ],
-      "commercialSummary": "Proposta descrita pela marca: Neutralização de tons indesejados; Hidratação e brilho.",
+      "commercialSummary": "Proposta descrita pela marca: Neutralização de tons amarelados; Brilho; Hidratação.",
       "competitiveEvidence": null,
       "presentation": {
         "question": "Quais necessidades de cuidado dos loiros e descoloridos aparecem com mais frequência no seu salão?",
-        "opening": "Este é o Máscara Blond Up Premium 1 kg. A proposta descrita pela marca inclui Neutralização de tons indesejados; Hidratação e brilho. Entre os ativos divulgados estão Extrato de violeta, Creatina.",
+        "opening": "Este é o Máscara Blond Up Premium 1 kg. A proposta descrita pela marca inclui Neutralização de tons amarelados; Brilho; Hidratação. Entre os ativos divulgados estão Creatina, Ácido Violeta 43, Manteiga de abacate, Silicone e quaternários.",
         "nextStep": "Posso mostrar a ficha e conferir se essa proposta faz sentido para a necessidade que você me contou?",
         "scope": "Sugestão de fala baseada nos campos catalogados; não é um depoimento ou garantia de resultado."
       }
@@ -6216,7 +6683,7 @@
       "priceSource": "https://dalcotone.com.br/products/mascara-ceramidas-300g",
       "price": 126.81,
       "regularPrice": 140.9,
-      "imageUrl": "https://dalcotone.com.br/cdn/shop/files/mascara_hydra_ceramides_300g_3331_1_c5d68ece382944a52308661116037317.png?v=1770119950&width=600",
+      "imageUrl": "/assets/products/28860487c0334cd1.webp",
       "actives": [
         "Alho",
         "Bioceramidas"
@@ -6242,7 +6709,7 @@
         "Hidratação",
         "Frizz"
       ],
-      "imageSource": "https://dalcotone.com.br/cdn/shop/files/mascara_hydra_ceramides_300g_3331_1_c5d68ece382944a52308661116037317.png?v=1770119950&width=1946",
+      "imageSource": "https://dalcotone.com.br/products/mascara-ceramidas-300g",
       "sourceKind": "official-page",
       "categories": [
         "Hidratação"
@@ -6265,6 +6732,8 @@
           "sourceUrl": "https://dalcotone.com.br/products/shampoo-ceramidas-300ml"
         }
       ],
+      "imageOrigin": "Foto extraída do catálogo oficial 2025",
+      "imagePage": 29,
       "technical": {
         "line": "Hydra Ceramides",
         "productType": "Máscaras",
@@ -6275,6 +6744,22 @@
         "sourceKind": "official-page",
         "sourcePage": null
       },
+      "sourceDifferences": [],
+      "historicalFields": [
+        {
+          "source": "Catálogo oficial 2025",
+          "page": 29,
+          "fields": {
+            "actives": [
+              "Ceramidas",
+              "Proteínas hidrolisadas",
+              "Vitamina E"
+            ],
+            "indication": "Cabelos danificados, ressecados ou quimicamente tratados."
+          }
+        }
+      ],
+      "variants": [],
       "differentials": [
         {
           "title": "Ativos destacados na formulação",
@@ -6305,7 +6790,7 @@
       "priceSource": "https://dalcotone.com.br/collections/linha-force-life",
       "price": 125.01,
       "regularPrice": 138.9,
-      "imageUrl": "https://dalcotone.com.br/cdn/shop/files/force_life_mascara_300g_3339_1_49b123accb2e475825fc8335c9f68688.png?v=1770119953&width=600",
+      "imageUrl": "/assets/products/23691f31ecfc8833.webp",
       "actives": [
         "Capilmax",
         "Bambu",
@@ -6336,7 +6821,7 @@
       "needs": [
         "Controle de oleosidade"
       ],
-      "imageSource": "https://dalcotone.com.br/cdn/shop/files/force_life_mascara_300g_3339_1_49b123accb2e475825fc8335c9f68688.png?v=1770119953&width=1946",
+      "imageSource": "https://usedalcotone.com/links/%5B%20DIGITAL%20%5D%20CAT%C3%81LOGO%20-%20DAL%20COTONE%202025-min.pdf",
       "sourceKind": "official-catalog",
       "categories": [
         "Controle de oleosidade"
@@ -6366,6 +6851,8 @@
         }
       ],
       "sourcePage": 27,
+      "imageOrigin": "Foto extraída do catálogo oficial 2025",
+      "imagePage": 27,
       "technical": {
         "line": "Force Life",
         "productType": "Máscaras",
@@ -6376,6 +6863,9 @@
         "sourceKind": "official-catalog",
         "sourcePage": 27
       },
+      "sourceDifferences": [],
+      "historicalFields": [],
+      "variants": [],
       "differentials": [
         {
           "title": "Ativos destacados na formulação",
@@ -6406,7 +6896,7 @@
       "priceSource": "https://dalcotone.com.br/collections/all",
       "price": 130.14,
       "regularPrice": 144.6,
-      "imageUrl": "https://dalcotone.com.br/cdn/shop/files/mascara_full_recover_efeito_teia_500g_3185_1_3329fb9482f45f4d06f5a713e67d22fb.png?v=1770119991&width=600",
+      "imageUrl": "/assets/products/0942eb44018494cd.webp",
       "actives": [
         "Proteínas",
         "Aminoácidos biocompatíveis"
@@ -6433,7 +6923,7 @@
         "Hidratação",
         "Reconstrução"
       ],
-      "imageSource": "https://dalcotone.com.br/cdn/shop/files/mascara_full_recover_efeito_teia_500g_3185_1_3329fb9482f45f4d06f5a713e67d22fb.png?v=1770119991&width=3840",
+      "imageSource": "https://dalcotone.com.br/products/mascara-capilar-profissional-recovery-500g",
       "sourceKind": "official-page",
       "categories": [
         "Reconstrução"
@@ -6456,6 +6946,8 @@
           "sourceUrl": "https://dalcotone.com.br/products/mascara-capilar-profissional-recovery-500g"
         }
       ],
+      "imageOrigin": "Foto extraída do catálogo oficial 2025",
+      "imagePage": 39,
       "technical": {
         "line": "Efeito Teia",
         "productType": "Máscaras",
@@ -6466,6 +6958,9 @@
         "sourceKind": "official-page",
         "sourcePage": null
       },
+      "sourceDifferences": [],
+      "historicalFields": [],
+      "variants": [],
       "differentials": [
         {
           "title": "Ativos destacados na formulação",
@@ -6496,7 +6991,7 @@
       "priceSource": "https://dalcotone.com.br/collections/linha-lamour",
       "price": 141.29,
       "regularPrice": 156.99,
-      "imageUrl": "https://dalcotone.com.br/cdn/shop/files/mascara_l_amour_300g_3335_1_3a688133cc0f087a72d579580dd61a31.png?v=1770119952&width=600",
+      "imageUrl": "/assets/products/f663762decc4c6b9.webp",
       "actives": [
         "Vitamina A",
         "Vitamina D",
@@ -6524,7 +7019,7 @@
         "Nutrição",
         "Reconstrução"
       ],
-      "imageSource": "https://dalcotone.com.br/cdn/shop/files/mascara_l_amour_300g_3335_1_3a688133cc0f087a72d579580dd61a31.png?v=1770119952&width=1946",
+      "imageSource": "https://dalcotone.com.br/products/mascara-l-amour-300g",
       "sourceKind": "official-page",
       "categories": [
         "Nutrição"
@@ -6559,6 +7054,8 @@
           "sourceUrl": null
         }
       ],
+      "imageOrigin": "Foto extraída do catálogo oficial 2025",
+      "imagePage": 31,
       "technical": {
         "line": "L’Amour",
         "productType": "Máscaras",
@@ -6569,6 +7066,9 @@
         "sourceKind": "official-page",
         "sourcePage": null
       },
+      "sourceDifferences": [],
+      "historicalFields": [],
+      "variants": [],
       "differentials": [
         {
           "title": "Ativos destacados na formulação",
@@ -6659,6 +7159,9 @@
         "sourceKind": "official-page",
         "sourcePage": null
       },
+      "sourceDifferences": [],
+      "historicalFields": [],
+      "variants": [],
       "differentials": [
         {
           "title": "Ativos destacados na formulação",
@@ -6749,6 +7252,9 @@
         "sourceKind": "official-page",
         "sourcePage": null
       },
+      "sourceDifferences": [],
+      "historicalFields": [],
+      "variants": [],
       "differentials": [
         {
           "title": "Ativos destacados na formulação",
@@ -6775,25 +7281,27 @@
     {
       "id": "288400afe5f54ed1",
       "name": "Máscara Monovin 300 g",
-      "url": "https://dalcotone.com.br/products/mascara-monovin-300ml",
+      "url": "https://usedalcotone.com/links/%5B%20DIGITAL%20%5D%20CAT%C3%81LOGO%20-%20DAL%20COTONE%202025-min.pdf",
       "priceSource": "https://dalcotone.com.br/collections/crescimento-e-fortalecimento",
       "price": 110.34,
       "regularPrice": 122.6,
-      "imageUrl": "https://dalcotone.com.br/cdn/shop/files/mascara_monovin_300ml_3365_1_643115f26e0522d41060ff4e35d5fdf3.png?v=1770119964&width=600",
+      "imageUrl": "/assets/products/288400afe5f54ed1.webp",
       "actives": [
-        "Complexo vitamínico não discriminado"
+        "Vitamina Pro A",
+        "Vitamina Pro B5"
       ],
       "benefits": [
         "Fortalecimento cosmético",
         "Brilho e menor quebra"
       ],
-      "indication": null,
-      "use": "Após shampoo, aplicar no comprimento e pontas, massagear, aguardar 10–15 minutos e enxaguar.",
+      "indication": "Todos os tipos de cabelo, especialmente fios fragilizados.",
+      "use": "Após o shampoo, aplicar nos fios, deixar agir10–15min e enxaguar completamente. O catálogo sugere duas vezes por semana ou quando necessário.",
       "inci": null,
       "contents": null,
       "notes": [
         "Nome e preço confirmados em fonte oficial indexada.",
-        "Lista INCI completa não publicada na fonte consultada."
+        "Lista INCI completa não publicada na fonte consultada.",
+        "Ativos do bloco da linha na página da embalagem300g; não interpretar ProA como concentração ou INCI."
       ],
       "priceNote": "Preço capturado em página oficial; pode variar com promoções. Confirme online antes de apresentar uma proposta.",
       "detailLevel": "detailed",
@@ -6803,8 +7311,8 @@
       "needs": [
         "Fortalecimento"
       ],
-      "imageSource": "https://dalcotone.com.br/cdn/shop/files/mascara_monovin_300ml_3365_1_643115f26e0522d41060ff4e35d5fdf3.png?v=1770119964&width=1946",
-      "sourceKind": "official-page",
+      "imageSource": "https://usedalcotone.com/links/%5B%20DIGITAL%20%5D%20CAT%C3%81LOGO%20-%20DAL%20COTONE%202025-min.pdf",
+      "sourceKind": "official-catalog",
       "categories": [
         "Fortalecimento"
       ],
@@ -6812,12 +7320,23 @@
       "occasions": [],
       "activeDetails": [
         {
-          "name": "Complexo vitamínico não discriminado",
-          "role": null,
-          "scope": null,
-          "sourceUrl": null
+          "name": "Vitamina Pro A",
+          "role": "Fortalecimento da fibra capilar; o catálogo também declara estímulo ao crescimento saudável.",
+          "sourceUrl": "https://usedalcotone.com/links/%5B%20DIGITAL%20%5D%20CAT%C3%81LOGO%20-%20DAL%20COTONE%202025-min.pdf",
+          "scope": "manufacturer-claim",
+          "sourcePage": 33
+        },
+        {
+          "name": "Vitamina Pro B5",
+          "role": "Hidratação profunda, melhora da elasticidade e redução da quebra.",
+          "sourceUrl": "https://usedalcotone.com/links/%5B%20DIGITAL%20%5D%20CAT%C3%81LOGO%20-%20DAL%20COTONE%202025-min.pdf",
+          "scope": "manufacturer-claim",
+          "sourcePage": 33
         }
       ],
+      "sourcePage": 33,
+      "imageOrigin": "Foto extraída do catálogo oficial 2025",
+      "imagePage": 33,
       "technical": {
         "line": "Monovin",
         "productType": "Máscaras",
@@ -6825,28 +7344,31 @@
         "declaredPH": null,
         "concentrations": null,
         "fullFormulaAvailable": false,
-        "sourceKind": "official-page",
-        "sourcePage": null
+        "sourceKind": "official-catalog",
+        "sourcePage": 33
       },
+      "sourceDifferences": [],
+      "historicalFields": [],
+      "variants": [],
       "differentials": [
         {
           "title": "Ativos destacados na formulação",
-          "text": "Complexo vitamínico não discriminado",
+          "text": "Vitamina Pro A; Vitamina Pro B5",
           "evidence": "Ativos divulgados na fonte desta ficha; concentração e efeito isolado não confirmados.",
-          "sourceUrl": "https://dalcotone.com.br/products/mascara-monovin-300ml"
+          "sourceUrl": "https://usedalcotone.com/links/%5B%20DIGITAL%20%5D%20CAT%C3%81LOGO%20-%20DAL%20COTONE%202025-min.pdf"
         },
         {
           "title": "Proposta e função do produto",
           "text": "Fortalecimento cosmético; Brilho e menor quebra",
           "evidence": "Benefícios declarados pela marca, não um ensaio comparativo independente.",
-          "sourceUrl": "https://dalcotone.com.br/products/mascara-monovin-300ml"
+          "sourceUrl": "https://usedalcotone.com/links/%5B%20DIGITAL%20%5D%20CAT%C3%81LOGO%20-%20DAL%20COTONE%202025-min.pdf"
         }
       ],
       "commercialSummary": "Proposta descrita pela marca: Fortalecimento cosmético; Brilho e menor quebra.",
       "competitiveEvidence": null,
       "presentation": {
         "question": "Você recebe muitas dúvidas sobre fortalecimento cosmético e cuidado de fios fragilizados?",
-        "opening": "Este é o Máscara Monovin 300 g. A proposta descrita pela marca inclui Fortalecimento cosmético; Brilho e menor quebra. Entre os ativos divulgados estão Complexo vitamínico não discriminado.",
+        "opening": "Este é o Máscara Monovin 300 g. A proposta descrita pela marca inclui Fortalecimento cosmético; Brilho e menor quebra. Entre os ativos divulgados estão Vitamina Pro A, Vitamina Pro B5.",
         "nextStep": "Posso mostrar a ficha e conferir se essa proposta faz sentido para a necessidade que você me contou?",
         "scope": "Sugestão de fala baseada nos campos catalogados; não é um depoimento ou garantia de resultado."
       }
@@ -6909,6 +7431,9 @@
         "sourceKind": "official-page",
         "sourcePage": null
       },
+      "sourceDifferences": [],
+      "historicalFields": [],
+      "variants": [],
       "differentials": [
         {
           "title": "Ativos destacados na formulação",
@@ -7003,6 +7528,20 @@
         "sourceKind": "official-page",
         "sourcePage": null
       },
+      "sourceDifferences": [
+        {
+          "productId": "3e6b73f994297918",
+          "pages": [
+            17
+          ],
+          "issue": "MáscaraPowerCurls1kg:PDFp17 rótulopH3,5–4,5; loja descreve3,0–4,0. Conservar versões.",
+          "sourceVersion": "PDF2025 vs catálogo atual",
+          "resolution": "Exibir origem e ano; não fundir protocolos/fórmulas.",
+          "description": "O rótulo do catálogo2025 mostra pH3,5–4,5; a descrição da loja consultada informa3,0–4,0."
+        }
+      ],
+      "historicalFields": [],
+      "variants": [],
       "differentials": [
         {
           "title": "Ativos destacados na formulação",
@@ -7033,7 +7572,7 @@
       "priceSource": "https://dalcotone.com.br/products/mascara-cachos-perfect-curls-300g",
       "price": 143.01,
       "regularPrice": 158.9,
-      "imageUrl": "https://dalcotone.com.br/cdn/shop/files/mascara_cachos_power_curls_300g_3321_1_6ce2bc02fbe8617b9d52b1dda3c6d2de.png?v=1770119948&width=600",
+      "imageUrl": "/assets/products/f26481e02a5cf2af.webp",
       "actives": [
         "Óleo de coco",
         "D-pantenol"
@@ -7060,7 +7599,7 @@
         "Cachos",
         "Frizz"
       ],
-      "imageSource": "https://dalcotone.com.br/cdn/shop/files/mascara_cachos_power_curls_300g_3321_1_6ce2bc02fbe8617b9d52b1dda3c6d2de.png?v=1770119948&width=3840",
+      "imageSource": "https://dalcotone.com.br/products/mascara-cachos-perfect-curls-300g",
       "sourceKind": "official-page",
       "categories": [
         "Cachos"
@@ -7083,6 +7622,8 @@
           "sourceUrl": "https://dalcotone.com.br/products/creme-de-modelagem-cachos-power-curls-300ml"
         }
       ],
+      "imageOrigin": "Foto extraída do catálogo oficial 2025",
+      "imagePage": 19,
       "technical": {
         "line": "Power Curls",
         "productType": "Máscaras",
@@ -7093,6 +7634,9 @@
         "sourceKind": "official-page",
         "sourcePage": null
       },
+      "sourceDifferences": [],
+      "historicalFields": [],
+      "variants": [],
       "differentials": [
         {
           "title": "Ativos destacados na formulação",
@@ -7184,6 +7728,9 @@
         "sourceKind": "official-page",
         "sourcePage": null
       },
+      "sourceDifferences": [],
+      "historicalFields": [],
+      "variants": [],
       "differentials": [
         {
           "title": "Ativos destacados na formulação",
@@ -7214,7 +7761,7 @@
       "priceSource": "https://dalcotone.com.br/products/mascara-power-repair-300g",
       "price": 155.61,
       "regularPrice": 172.9,
-      "imageUrl": "https://dalcotone.com.br/cdn/shop/files/mascara_power_repair_300g_3301_1_617fba6b63ad9ac8bfefae08e8bdacc4.png?v=1770119943&width=600",
+      "imageUrl": "/assets/products/c1104649da13708c.webp",
       "actives": [
         "Frulix de açaí",
         "Ceramidas"
@@ -7239,7 +7786,7 @@
       "needs": [
         "Hidratação"
       ],
-      "imageSource": "https://dalcotone.com.br/cdn/shop/files/mascara_power_repair_300g_3301_1_617fba6b63ad9ac8bfefae08e8bdacc4.png?v=1770119943&width=1946",
+      "imageSource": "https://dalcotone.com.br/products/mascara-power-repair-300g",
       "sourceKind": "official-page",
       "categories": [
         "Hidratação"
@@ -7262,6 +7809,8 @@
           "sourceUrl": "https://dalcotone.com.br/products/kit-power-repair-home-care-c-power-luminous-oil"
         }
       ],
+      "imageOrigin": "Foto extraída do catálogo oficial 2025",
+      "imagePage": 21,
       "technical": {
         "line": "Power Repair",
         "productType": "Máscaras",
@@ -7272,6 +7821,9 @@
         "sourceKind": "official-page",
         "sourcePage": null
       },
+      "sourceDifferences": [],
+      "historicalFields": [],
+      "variants": [],
       "differentials": [
         {
           "title": "Ativos destacados na formulação",
@@ -7301,7 +7853,7 @@
       "priceSource": "https://dalcotone.com.br/products/mascara-reconstrutor-efeito-teia-500g",
       "price": 109.9,
       "regularPrice": null,
-      "imageUrl": "https://dalcotone.com.br/cdn/shop/files/mascara_reconstrutor_efeito_teia_500g_3211_1_262e00a4ae81ce1650e6da33714d909e.png?v=1770119943&width=600",
+      "imageUrl": "/assets/products/893194e3fcaf8648.webp",
       "notes": [
         "Preço da coleção Reconstrução, capturada ontem; ficha antiga informa R$141,21.",
         "A página apresenta destaques da formulação, sem lista INCI completa."
@@ -7329,7 +7881,7 @@
         "Nutrição",
         "Reconstrução"
       ],
-      "imageSource": "https://dalcotone.com.br/cdn/shop/files/mascara_reconstrutor_efeito_teia_500g_3211_1_262e00a4ae81ce1650e6da33714d909e.png?v=1770119943&width=1946",
+      "imageSource": "https://dalcotone.com.br/products/mascara-reconstrutor-efeito-teia-500g",
       "sourceKind": "official-page",
       "categories": [
         "Reconstrução"
@@ -7358,6 +7910,8 @@
           "sourceUrl": "https://dalcotone.com.br/products/kit-power-repair-home-care-c-power-luminous-oil"
         }
       ],
+      "imageOrigin": "Foto extraída do catálogo oficial 2025",
+      "imagePage": 40,
       "technical": {
         "line": "Efeito Teia",
         "productType": "Máscaras",
@@ -7368,6 +7922,9 @@
         "sourceKind": "official-page",
         "sourcePage": null
       },
+      "sourceDifferences": [],
+      "historicalFields": [],
+      "variants": [],
       "differentials": [
         {
           "title": "Ativos destacados na formulação",
@@ -7457,6 +8014,21 @@
         "sourceKind": "official-page",
         "sourcePage": null
       },
+      "sourceDifferences": [
+        {
+          "productId": "4b0b72183af62db7",
+          "pages": [
+            36,
+            37
+          ],
+          "issue": "Restore500g app7min fonte loja. PDFp36 500g sem modo;PDFp37 kit250g diz10–15min. Não usar tempo do kit como confirmação para500g.",
+          "sourceVersion": "PDF2025 vs catálogo atual",
+          "resolution": "Exibir origem e ano; não fundir protocolos/fórmulas.",
+          "description": "A loja publica pausa de7min para Restore500g. O tempo de10–15min do kit250g não deve ser aplicado automaticamente à embalagem500g."
+        }
+      ],
+      "historicalFields": [],
+      "variants": [],
       "differentials": [
         {
           "title": "Ativos destacados na formulação",
@@ -7487,7 +8059,7 @@
       "priceSource": "https://dalcotone.com.br/products/mascara-s-o-s-detox-1kg",
       "price": 204.21,
       "regularPrice": 226.9,
-      "imageUrl": "https://dalcotone.com.br/cdn/shop/files/mascara_s_o_s_detox_1kg_3297_1_49dfe1388afa07c1ef2a1ac156767455.png?v=1770119956&width=600",
+      "imageUrl": "/assets/products/14a70da8ea635cd6.webp",
       "actives": [
         "Café verde",
         "Fiber Detox",
@@ -7516,7 +8088,7 @@
         "Limpeza",
         "Hidratação"
       ],
-      "imageSource": "https://dalcotone.com.br/cdn/shop/files/mascara_s_o_s_detox_1kg_3297_1_49dfe1388afa07c1ef2a1ac156767455.png?v=1770119956&width=3840",
+      "imageSource": "https://dalcotone.com.br/products/mascara-s-o-s-detox-1kg",
       "categories": [
         "Detox",
         "Limpeza",
@@ -7547,6 +8119,8 @@
           "sourceUrl": "https://dalcotone.com.br/products/condicionador-s-o-s-detox-300ml"
         }
       ],
+      "imageOrigin": "Foto extraída do catálogo oficial 2025",
+      "imagePage": 23,
       "technical": {
         "line": "S.O.S Detox",
         "productType": "Máscaras",
@@ -7557,6 +8131,9 @@
         "sourceKind": "official-page",
         "sourcePage": null
       },
+      "sourceDifferences": [],
+      "historicalFields": [],
+      "variants": [],
       "differentials": [
         {
           "title": "Ativos destacados na formulação",
@@ -7587,7 +8164,7 @@
       "priceSource": "https://dalcotone.com.br/collections/desintoxicante",
       "price": 107.91,
       "regularPrice": 119.9,
-      "imageUrl": "https://dalcotone.com.br/cdn/shop/files/mascara_s_o_s_detox_300g_3289_1_d4d85c820ea070223c267233de35b033.png?v=1770119942&width=600",
+      "imageUrl": "/assets/products/964fb3151dc16665.webp",
       "actives": [
         "Café verde",
         "Fiber Detox",
@@ -7614,7 +8191,7 @@
         "Nutrição",
         "Detox"
       ],
-      "imageSource": "https://dalcotone.com.br/cdn/shop/files/mascara_s_o_s_detox_300g_3289_1_d4d85c820ea070223c267233de35b033.png?v=1770119942&width=3840",
+      "imageSource": "https://dalcotone.com.br/products/mascara-s-o-s-detox-300g",
       "sourceKind": "official-page",
       "categories": [
         "Detox"
@@ -7643,6 +8220,8 @@
           "sourceUrl": "https://dalcotone.com.br/products/condicionador-s-o-s-detox-300ml"
         }
       ],
+      "imageOrigin": "Foto extraída do catálogo oficial 2025",
+      "imagePage": 24,
       "technical": {
         "line": "S.O.S Detox",
         "productType": "Máscaras",
@@ -7653,6 +8232,9 @@
         "sourceKind": "official-page",
         "sourcePage": null
       },
+      "sourceDifferences": [],
+      "historicalFields": [],
+      "variants": [],
       "differentials": [
         {
           "title": "Ativos destacados na formulação",
@@ -7742,6 +8324,9 @@
         "sourceKind": "official-page",
         "sourcePage": null
       },
+      "sourceDifferences": [],
+      "historicalFields": [],
+      "variants": [],
       "differentials": [
         {
           "title": "Ativos destacados na formulação",
@@ -7772,7 +8357,7 @@
       "priceSource": "https://dalcotone.com.br/products/doador-de-brilho-45ml",
       "price": 131.66,
       "regularPrice": 154.9,
-      "imageUrl": "https://dalcotone.com.br/cdn/shop/files/golden_premium_60ml_3173_1_73baa68b1c1f7b7fcfe4e0fe0df45435.png?v=1770119932&width=600",
+      "imageUrl": "/assets/products/c80795eeb384b531.webp",
       "actives": [],
       "benefits": [
         "Brilho de acabamento",
@@ -7795,7 +8380,7 @@
       "needs": [
         "Finalização"
       ],
-      "imageSource": "https://dalcotone.com.br/cdn/shop/files/golden_premium_60ml_3173_1_73baa68b1c1f7b7fcfe4e0fe0df45435.png?v=1770119932&width=1946",
+      "imageSource": "https://dalcotone.com.br/products/doador-de-brilho-45ml",
       "sourceKind": "official-page",
       "categories": [
         "Finalização"
@@ -7805,6 +8390,8 @@
         "Finalização para realçar brilho."
       ],
       "activeDetails": [],
+      "imageOrigin": "Foto extraída do catálogo oficial 2025",
+      "imagePage": 30,
       "technical": {
         "line": "Golden Premium",
         "productType": "Finalizadores",
@@ -7815,6 +8402,9 @@
         "sourceKind": "official-page",
         "sourcePage": null
       },
+      "sourceDifferences": [],
+      "historicalFields": [],
+      "variants": [],
       "differentials": [
         {
           "title": "Proposta e função do produto",
@@ -7910,6 +8500,9 @@
         "sourceKind": "official-catalog",
         "sourcePage": 5
       },
+      "sourceDifferences": [],
+      "historicalFields": [],
+      "variants": [],
       "differentials": [
         {
           "title": "Ativos destacados na formulação",
@@ -7936,21 +8529,21 @@
     {
       "id": "bc1e3e2b94dc6780",
       "name": "Perfume Capilar L'amour Nutritivo 100ml",
-      "url": "https://dalcotone.com.br/products/perfume-capilar-l-amour",
+      "url": "https://usedalcotone.com/links/%5B%20DIGITAL%20%5D%20CAT%C3%81LOGO%20-%20DAL%20COTONE%202025-min.pdf",
       "priceSource": "https://dalcotone.com.br/products/perfume-capilar-l-amour",
       "price": 169.99,
       "regularPrice": 199.9,
-      "imageUrl": "https://dalcotone.com.br/cdn/shop/files/perfume_capilar_l_amour_100ml_3263_1_9abe45abe133d72b36bb7d932e29091f.png?v=1770120013&width=600",
+      "imageUrl": "/assets/products/bc1e3e2b94dc6780.webp",
       "actives": [
-        "Vitaminas não especificadas",
-        "Agentes nutritivos não especificados"
+        "Extrato de morango",
+        "Vitaminas e nutrientes não discriminados"
       ],
       "benefits": [
         "Perfumação dos fios",
         "Brilho e nutrição, segundo a marca"
       ],
-      "indication": "Finalização capilar com fragrância.",
-      "use": "Borrifar sobre os cabelos secos ou úmidos. Pode ser usado durante o dia ou à noite.",
+      "indication": "Cabelos opacos, desnutridos e sem brilho.",
+      "use": "Borrifar a15cm, por toda extensão dos fios, evitando a raiz. Não enxaguar.",
       "inci": null,
       "contents": null,
       "notes": [
@@ -7965,29 +8558,35 @@
       "needs": [
         "Nutrição"
       ],
-      "imageSource": "https://dalcotone.com.br/cdn/shop/files/perfume_capilar_l_amour_100ml_3263_1_9abe45abe133d72b36bb7d932e29091f.png?v=1770120013&width=1946",
-      "sourceKind": "official-page",
+      "imageSource": "https://usedalcotone.com/links/%5B%20DIGITAL%20%5D%20CAT%C3%81LOGO%20-%20DAL%20COTONE%202025-min.pdf",
+      "sourceKind": "official-catalog",
       "categories": [
         "Nutrição"
       ],
       "primaryCategory": "Nutrição",
       "occasions": [
-        "Finalização capilar com fragrância."
+        "Uso diário",
+        "Tratamento hidratante intensivo à noite"
       ],
       "activeDetails": [
         {
-          "name": "Vitaminas não especificadas",
-          "role": null,
-          "scope": null,
-          "sourceUrl": null
+          "name": "Extrato de morango",
+          "role": "Brilho, suavidade e leveza.",
+          "sourceUrl": "https://usedalcotone.com/links/%5B%20DIGITAL%20%5D%20CAT%C3%81LOGO%20-%20DAL%20COTONE%202025-min.pdf",
+          "scope": "manufacturer-claim",
+          "sourcePage": 32
         },
         {
-          "name": "Agentes nutritivos não especificados",
-          "role": null,
-          "scope": null,
-          "sourceUrl": null
+          "name": "Vitaminas e nutrientes não discriminados",
+          "role": "Fortalecimento da fibra e revitalização; vitaminas e nutrientes individuais não especificados.",
+          "sourceUrl": "https://usedalcotone.com/links/%5B%20DIGITAL%20%5D%20CAT%C3%81LOGO%20-%20DAL%20COTONE%202025-min.pdf",
+          "scope": "blend",
+          "sourcePage": 32
         }
       ],
+      "sourcePage": 32,
+      "imageOrigin": "Foto extraída do catálogo oficial 2025",
+      "imagePage": 31,
       "technical": {
         "line": "L’Amour",
         "productType": "Perfumes capilares",
@@ -7995,28 +8594,31 @@
         "declaredPH": null,
         "concentrations": null,
         "fullFormulaAvailable": false,
-        "sourceKind": "official-page",
-        "sourcePage": null
+        "sourceKind": "official-catalog",
+        "sourcePage": 32
       },
+      "sourceDifferences": [],
+      "historicalFields": [],
+      "variants": [],
       "differentials": [
         {
           "title": "Ativos destacados na formulação",
-          "text": "Vitaminas não especificadas; Agentes nutritivos não especificados",
+          "text": "Extrato de morango; Vitaminas e nutrientes não discriminados",
           "evidence": "Ativos divulgados na fonte desta ficha; concentração e efeito isolado não confirmados.",
-          "sourceUrl": "https://dalcotone.com.br/products/perfume-capilar-l-amour"
+          "sourceUrl": "https://usedalcotone.com/links/%5B%20DIGITAL%20%5D%20CAT%C3%81LOGO%20-%20DAL%20COTONE%202025-min.pdf"
         },
         {
           "title": "Proposta e função do produto",
           "text": "Perfumação dos fios; Brilho e nutrição, segundo a marca",
           "evidence": "Benefícios declarados pela marca, não um ensaio comparativo independente.",
-          "sourceUrl": "https://dalcotone.com.br/products/perfume-capilar-l-amour"
+          "sourceUrl": "https://usedalcotone.com/links/%5B%20DIGITAL%20%5D%20CAT%C3%81LOGO%20-%20DAL%20COTONE%202025-min.pdf"
         }
       ],
       "commercialSummary": "Proposta descrita pela marca: Perfumação dos fios; Brilho e nutrição, segundo a marca.",
       "competitiveEvidence": null,
       "presentation": {
         "question": "Suas clientes valorizam o cuidado dos fios junto da experiência de perfume e acabamento?",
-        "opening": "Este é o Perfume Capilar L'amour Nutritivo 100ml. A proposta descrita pela marca inclui Perfumação dos fios; Brilho e nutrição, segundo a marca. Entre os ativos divulgados estão Vitaminas não especificadas, Agentes nutritivos não especificados.",
+        "opening": "Este é o Perfume Capilar L'amour Nutritivo 100ml. A proposta descrita pela marca inclui Perfumação dos fios; Brilho e nutrição, segundo a marca. Entre os ativos divulgados estão Extrato de morango, Vitaminas e nutrientes não discriminados.",
         "nextStep": "Posso mostrar a ficha e conferir se essa proposta faz sentido para a necessidade que você me contou?",
         "scope": "Sugestão de fala baseada nos campos catalogados; não é um depoimento ou garantia de resultado."
       }
@@ -8098,6 +8700,9 @@
         "sourceKind": "official-catalog",
         "sourcePage": 25
       },
+      "sourceDifferences": [],
+      "historicalFields": [],
+      "variants": [],
       "differentials": [
         {
           "title": "Ativos destacados na formulação",
@@ -8177,6 +8782,9 @@
         "sourceKind": "official-catalog",
         "sourcePage": 13
       },
+      "sourceDifferences": [],
+      "historicalFields": [],
+      "variants": [],
       "differentials": [
         {
           "title": "Proposta e função do produto",
@@ -8249,6 +8857,9 @@
         "sourceKind": "official-catalog",
         "sourcePage": 13
       },
+      "sourceDifferences": [],
+      "historicalFields": [],
+      "variants": [],
       "differentials": [
         {
           "title": "Proposta e função do produto",
@@ -8273,7 +8884,7 @@
       "priceSource": "https://dalcotone.com.br/products/argan-oil-premium-30ml",
       "price": 71.91,
       "regularPrice": 84.6,
-      "imageUrl": "https://dalcotone.com.br/cdn/shop/files/power_luminous_oil_30ml_1_20250911235102_a56197a0690d.png?v=1770119930&width=600",
+      "imageUrl": "/assets/products/6ca53b03e0ce780a.webp",
       "actives": [
         "Óleo de açaí"
       ],
@@ -8298,7 +8909,7 @@
         "Hidratação",
         "Nutrição"
       ],
-      "imageSource": "https://dalcotone.com.br/cdn/shop/files/power_luminous_oil_30ml_1_20250911235102_a56197a0690d.png?v=1770119930&width=1946",
+      "imageSource": "https://dalcotone.com.br/products/argan-oil-premium-30ml",
       "sourceKind": "official-page",
       "categories": [
         "Nutrição"
@@ -8315,6 +8926,8 @@
           "sourceUrl": null
         }
       ],
+      "imageOrigin": "Foto extraída do catálogo oficial 2025",
+      "imagePage": 21,
       "technical": {
         "line": "Power Luminous Oil",
         "productType": "Finalizadores",
@@ -8325,6 +8938,9 @@
         "sourceKind": "official-page",
         "sourcePage": null
       },
+      "sourceDifferences": [],
+      "historicalFields": [],
+      "variants": [],
       "differentials": [
         {
           "title": "Ativos destacados na formulação",
@@ -8428,6 +9044,9 @@
         "sourceKind": "official-page",
         "sourcePage": null
       },
+      "sourceDifferences": [],
+      "historicalFields": [],
+      "variants": [],
       "differentials": [
         {
           "title": "Ativos destacados na formulação",
@@ -8517,6 +9136,9 @@
         "sourceKind": "official-catalog",
         "sourcePage": 35
       },
+      "sourceDifferences": [],
+      "historicalFields": [],
+      "variants": [],
       "differentials": [
         {
           "title": "Ativos destacados na formulação",
@@ -8618,6 +9240,9 @@
         "sourceKind": "official-catalog",
         "sourcePage": 7
       },
+      "sourceDifferences": [],
+      "historicalFields": [],
+      "variants": [],
       "differentials": [
         {
           "title": "Ativos destacados na formulação",
@@ -8644,21 +9269,30 @@
     {
       "id": "d6c72aac411c5ca5",
       "name": "Reparador de Pontas Argan Oil Premium 30 mL",
-      "url": "https://dalcotone.com.br/collections/finalizacao-1",
+      "url": "https://usedalcotone.com/links/%5B%20DIGITAL%20%5D%20CAT%C3%81LOGO%20-%20DAL%20COTONE%202025-min.pdf",
       "priceSource": "https://dalcotone.com.br/collections/finalizacao-1",
       "price": 71.91,
       "regularPrice": 84.6,
-      "imageUrl": "https://dalcotone.com.br/cdn/shop/files/argan_oil_premium_oil_30ml_3393_1_67e2408adb282489d7e82f2da73ca63a.png?v=1770119971&width=600",
-      "actives": [],
-      "benefits": [],
-      "indication": null,
-      "use": null,
+      "imageUrl": "/assets/products/d6c72aac411c5ca5.webp",
+      "actives": [
+        "Óleo de argan"
+      ],
+      "benefits": [
+        "Controle do frizz",
+        "Brilho",
+        "Maciez",
+        "Revitalização",
+        "Proteção antioxidante"
+      ],
+      "indication": "Fios que necessitam de maciez, brilho e controle de frizz.",
+      "use": "Espalhar algumas gotas nas mãos e distribuir uniformemente nas pontas. Pode ser usado antes ou após escova ou prancha.",
       "inci": null,
       "contents": null,
       "notes": [
         "Nome e preço confirmados em coleção oficial; link individual pendente.",
         "Registro parcial: produto e preço em fonte oficial; ficha detalhada não localizada na pesquisa. Não inferir informações a partir de outros volumes ou da linha.",
-        "Lista INCI não localizada."
+        "Lista INCI não localizada.",
+        "Volume30mL visível na própria página."
       ],
       "priceNote": "Preço capturado em página oficial; pode variar com promoções. Confirme online antes de apresentar uma proposta.",
       "detailLevel": "partial",
@@ -8668,14 +9302,25 @@
       "needs": [
         "Finalização"
       ],
-      "imageSource": "https://dalcotone.com.br/cdn/shop/files/argan_oil_premium_oil_30ml_3393_1_67e2408adb282489d7e82f2da73ca63a.png?v=1770119971&width=1946",
-      "sourceKind": "official-page",
+      "imageSource": "https://usedalcotone.com/links/%5B%20DIGITAL%20%5D%20CAT%C3%81LOGO%20-%20DAL%20COTONE%202025-min.pdf",
+      "sourceKind": "official-catalog",
       "categories": [
         "Finalização"
       ],
       "primaryCategory": "Finalização",
       "occasions": [],
-      "activeDetails": [],
+      "activeDetails": [
+        {
+          "name": "Óleo de argan",
+          "role": "Hidratação, melhora da elasticidade, reparação de danos, controle do frizz, brilho e proteção antioxidante.",
+          "sourceUrl": "https://usedalcotone.com/links/%5B%20DIGITAL%20%5D%20CAT%C3%81LOGO%20-%20DAL%20COTONE%202025-min.pdf",
+          "scope": "manufacturer-claim",
+          "sourcePage": 16
+        }
+      ],
+      "sourcePage": 16,
+      "imageOrigin": "Foto extraída do catálogo oficial 2025",
+      "imagePage": 15,
       "technical": {
         "line": "Argan Oil",
         "productType": "Finalizadores",
@@ -8683,15 +9328,31 @@
         "declaredPH": null,
         "concentrations": null,
         "fullFormulaAvailable": false,
-        "sourceKind": "official-page",
-        "sourcePage": null
+        "sourceKind": "official-catalog",
+        "sourcePage": 16
       },
-      "differentials": [],
-      "commercialSummary": null,
+      "sourceDifferences": [],
+      "historicalFields": [],
+      "variants": [],
+      "differentials": [
+        {
+          "title": "Ativos destacados na formulação",
+          "text": "Óleo de argan",
+          "evidence": "Ativos divulgados na fonte desta ficha; concentração e efeito isolado não confirmados.",
+          "sourceUrl": "https://usedalcotone.com/links/%5B%20DIGITAL%20%5D%20CAT%C3%81LOGO%20-%20DAL%20COTONE%202025-min.pdf"
+        },
+        {
+          "title": "Proposta e função do produto",
+          "text": "Controle do frizz; Brilho; Maciez; Revitalização; Proteção antioxidante",
+          "evidence": "Benefícios declarados pela marca, não um ensaio comparativo independente.",
+          "sourceUrl": "https://usedalcotone.com/links/%5B%20DIGITAL%20%5D%20CAT%C3%81LOGO%20-%20DAL%20COTONE%202025-min.pdf"
+        }
+      ],
+      "commercialSummary": "Proposta descrita pela marca: Controle do frizz; Brilho; Maciez.",
       "competitiveEvidence": null,
       "presentation": {
         "question": "Você está buscando conhecer uma opção para a etapa de acabamento dos fios?",
-        "opening": "Este é o Reparador de Pontas Argan Oil Premium 30 mL. A ficha técnica ainda tem informações a confirmar; prefiro verificá-las antes de atribuir um resultado específico ao produto.",
+        "opening": "Este é o Reparador de Pontas Argan Oil Premium 30 mL. A proposta descrita pela marca inclui Controle do frizz; Brilho; Maciez. Entre os ativos divulgados estão Óleo de argan.",
         "nextStep": "Posso mostrar a ficha e conferir se essa proposta faz sentido para a necessidade que você me contou?",
         "scope": "Sugestão de fala baseada nos campos catalogados; não é um depoimento ou garantia de resultado."
       }
@@ -8762,6 +9423,9 @@
         "sourceKind": "official-catalog",
         "sourcePage": 4
       },
+      "sourceDifferences": [],
+      "historicalFields": [],
+      "variants": [],
       "differentials": [
         {
           "title": "Ativos destacados na formulação",
@@ -8843,6 +9507,9 @@
         "sourceKind": "official-catalog",
         "sourcePage": 6
       },
+      "sourceDifferences": [],
+      "historicalFields": [],
+      "variants": [],
       "differentials": [
         {
           "title": "Proposta e função do produto",
@@ -8918,6 +9585,9 @@
         "sourceKind": "official-catalog",
         "sourcePage": 6
       },
+      "sourceDifferences": [],
+      "historicalFields": [],
+      "variants": [],
       "differentials": [
         {
           "title": "Proposta e função do produto",
@@ -9035,6 +9705,9 @@
         "sourceKind": "official-catalog",
         "sourcePage": 1
       },
+      "sourceDifferences": [],
+      "historicalFields": [],
+      "variants": [],
       "differentials": [
         {
           "title": "Ativos destacados na formulação",
@@ -9061,26 +9734,32 @@
     {
       "id": "847ff96acdc5f26b",
       "name": "Shampoo Blond Up 300 mL",
-      "url": "https://dalcotone.com.br/products/shampoo-blond-up-300ml",
+      "url": "https://usedalcotone.com/links/%5B%20DIGITAL%20%5D%20CAT%C3%81LOGO%20-%20DAL%20COTONE%202025-min.pdf",
       "priceSource": "https://dalcotone.com.br/products/shampoo-blond-up-300ml",
       "price": 69.21,
       "regularPrice": 76.9,
-      "imageUrl": "https://dalcotone.com.br/cdn/shop/files/shampoo_blond_up_300ml_3269_1_a9ffd57c636247bbb89761a716652fe7.png?v=1770120015&width=600",
+      "imageUrl": "/assets/products/847ff96acdc5f26b.webp",
       "actives": [
-        "Extrato de violeta",
-        "Creatina"
+        "Creatina",
+        "Ácido Violeta 43",
+        "Manteiga de abacate",
+        "Silicone e quaternários"
       ],
       "benefits": [
-        "Limpeza suave",
-        "Neutralização do amarelo e brilho"
+        "Neutralização de tons amarelados",
+        "Brilho",
+        "Hidratação",
+        "Proteção e fortalecimento"
       ],
-      "indication": "Loiros, grisalhos ou com mechas.",
-      "use": "Aplicar nos fios molhados, massagear e observar ação conforme o tom dos fios. Enxaguar. Seguir teste de contato indicado no rótulo.",
+      "indication": "Cabelos loiros, grisalhos ou com mechas.",
+      "use": "Aplicar nos cabelos molhados, massagear até espumar, ajustar o tempo conforme o tom: menos nos mais claros, mais nos amarelados. Enxaguar e repetir se necessário.",
       "inci": null,
       "contents": null,
       "notes": [
         "Nome e preço confirmados em fonte oficial indexada.",
-        "Lista INCI completa não publicada na fonte consultada."
+        "Lista INCI completa não publicada na fonte consultada.",
+        "Lista dos ativos atribuída à linha na própria página. O rótulo profissional diz Extrato de Violeta; o quadro diz Ácido Violeta43. Não declarar estes nomes equivalentes nem transformar isso em INCI.",
+        "A p10 não publica modo de uso; não importar automaticamente o protocolo da embalagem300mL."
       ],
       "priceNote": "Preço capturado em página oficial; pode variar com promoções. Confirme online antes de apresentar uma proposta.",
       "detailLevel": "detailed",
@@ -9091,8 +9770,8 @@
         "Loiros",
         "Matização"
       ],
-      "imageSource": "https://dalcotone.com.br/cdn/shop/files/shampoo_blond_up_300ml_3269_1_a9ffd57c636247bbb89761a716652fe7.png?v=1770120015&width=3840",
-      "sourceKind": "official-page",
+      "imageSource": "https://usedalcotone.com/links/%5B%20DIGITAL%20%5D%20CAT%C3%81LOGO%20-%20DAL%20COTONE%202025-min.pdf",
+      "sourceKind": "official-catalog",
       "categories": [
         "Matização"
       ],
@@ -9102,47 +9781,69 @@
       ],
       "activeDetails": [
         {
-          "name": "Extrato de violeta",
-          "role": null,
-          "scope": null,
-          "sourceUrl": null
+          "name": "Creatina",
+          "role": "Fortalecimento, reparação de danos, hidratação, elasticidade e proteção contra quebra.",
+          "sourceUrl": "https://usedalcotone.com/links/%5B%20DIGITAL%20%5D%20CAT%C3%81LOGO%20-%20DAL%20COTONE%202025-min.pdf",
+          "scope": "manufacturer-claim",
+          "sourcePage": 11
         },
         {
-          "name": "Creatina",
-          "role": null,
-          "scope": null,
-          "sourceUrl": null
+          "name": "Ácido Violeta 43",
+          "role": "Neutralização dos tons amarelados e realce da cor e do brilho dos fios loiros e grisalhos.",
+          "sourceUrl": "https://usedalcotone.com/links/%5B%20DIGITAL%20%5D%20CAT%C3%81LOGO%20-%20DAL%20COTONE%202025-min.pdf",
+          "scope": "manufacturer-claim",
+          "sourcePage": 11
+        },
+        {
+          "name": "Manteiga de abacate",
+          "role": "Hidratação profunda para maciez e sedosidade.",
+          "sourceUrl": "https://usedalcotone.com/links/%5B%20DIGITAL%20%5D%20CAT%C3%81LOGO%20-%20DAL%20COTONE%202025-min.pdf",
+          "scope": "manufacturer-claim",
+          "sourcePage": 11
+        },
+        {
+          "name": "Silicone e quaternários",
+          "role": "A combinação é descrita para brilho, controle do frizz e proteção contra danos externos.",
+          "sourceUrl": "https://usedalcotone.com/links/%5B%20DIGITAL%20%5D%20CAT%C3%81LOGO%20-%20DAL%20COTONE%202025-min.pdf",
+          "scope": "blend",
+          "sourcePage": 11
         }
       ],
+      "sourcePage": 11,
+      "imageOrigin": "Foto extraída do catálogo oficial 2025",
+      "imagePage": 11,
       "technical": {
         "line": "Blond Up",
         "productType": "Shampoos",
         "presentation": "300 mL",
-        "declaredPH": null,
+        "declaredPH": "4,5–5,5",
         "concentrations": null,
         "fullFormulaAvailable": false,
-        "sourceKind": "official-page",
-        "sourcePage": null
+        "sourceKind": "official-catalog",
+        "sourcePage": 11
       },
+      "sourceDifferences": [],
+      "historicalFields": [],
+      "variants": [],
       "differentials": [
         {
           "title": "Ativos destacados na formulação",
-          "text": "Extrato de violeta; Creatina",
+          "text": "Creatina; Ácido Violeta 43; Manteiga de abacate; Silicone e quaternários",
           "evidence": "Ativos divulgados na fonte desta ficha; concentração e efeito isolado não confirmados.",
-          "sourceUrl": "https://dalcotone.com.br/products/shampoo-blond-up-300ml"
+          "sourceUrl": "https://usedalcotone.com/links/%5B%20DIGITAL%20%5D%20CAT%C3%81LOGO%20-%20DAL%20COTONE%202025-min.pdf"
         },
         {
           "title": "Proposta e função do produto",
-          "text": "Limpeza suave; Neutralização do amarelo e brilho",
+          "text": "Neutralização de tons amarelados; Brilho; Hidratação; Proteção e fortalecimento",
           "evidence": "Benefícios declarados pela marca, não um ensaio comparativo independente.",
-          "sourceUrl": "https://dalcotone.com.br/products/shampoo-blond-up-300ml"
+          "sourceUrl": "https://usedalcotone.com/links/%5B%20DIGITAL%20%5D%20CAT%C3%81LOGO%20-%20DAL%20COTONE%202025-min.pdf"
         }
       ],
-      "commercialSummary": "Proposta descrita pela marca: Limpeza suave; Neutralização do amarelo e brilho.",
+      "commercialSummary": "Proposta descrita pela marca: Neutralização de tons amarelados; Brilho; Hidratação.",
       "competitiveEvidence": null,
       "presentation": {
         "question": "Quais necessidades de cuidado dos loiros e descoloridos aparecem com mais frequência no seu salão?",
-        "opening": "Este é o Shampoo Blond Up 300 mL. A proposta descrita pela marca inclui Limpeza suave; Neutralização do amarelo e brilho. Entre os ativos divulgados estão Extrato de violeta, Creatina.",
+        "opening": "Este é o Shampoo Blond Up 300 mL. A proposta descrita pela marca inclui Neutralização de tons amarelados; Brilho; Hidratação. Entre os ativos divulgados estão Creatina, Ácido Violeta 43, Manteiga de abacate, Silicone e quaternários.",
         "nextStep": "Posso mostrar a ficha e conferir se essa proposta faz sentido para a necessidade que você me contou?",
         "scope": "Sugestão de fala baseada nos campos catalogados; não é um depoimento ou garantia de resultado."
       }
@@ -9150,21 +9851,33 @@
     {
       "id": "6f9f4653036c50d2",
       "name": "Shampoo Blond Up Premium 1 L",
-      "url": "https://dalcotone.com.br/products/shampoo-iluminador-blond-up-premium",
+      "url": "https://usedalcotone.com/links/%5B%20DIGITAL%20%5D%20CAT%C3%81LOGO%20-%20DAL%20COTONE%202025-min.pdf",
       "priceSource": "https://dalcotone.com.br/products/shampoo-iluminador-blond-up-premium",
       "price": 148.41,
       "regularPrice": 164.9,
-      "imageUrl": "https://dalcotone.com.br/cdn/shop/files/shampoo_iluminador_blond_up_premium_1l_3273_1_7f3b58b0be88c1ffaf121d668eb650ee.png?v=1770119934&width=600",
-      "actives": [],
-      "benefits": [],
-      "indication": null,
-      "use": null,
+      "imageUrl": "/assets/products/6f9f4653036c50d2.webp",
+      "actives": [
+        "Creatina",
+        "Ácido Violeta 43",
+        "Manteiga de abacate",
+        "Silicone e quaternários"
+      ],
+      "benefits": [
+        "Neutralização de tons amarelados",
+        "Brilho",
+        "Hidratação",
+        "Proteção e fortalecimento"
+      ],
+      "indication": "Cabelos loiros, grisalhos ou com mechas.",
+      "use": "Aplicar nos cabelos molhados e massagear até espumar. Acompanhar a neutralização conforme a necessidade dos fios e enxaguar completamente.",
       "inci": null,
       "contents": null,
       "notes": [
         "Nome e preço confirmados em fonte oficial indexada.",
         "Registro parcial: produto e preço em fonte oficial; ficha detalhada não localizada na pesquisa. Não inferir informações a partir de outros volumes ou da linha.",
-        "Lista INCI não localizada."
+        "Lista INCI não localizada.",
+        "Lista dos ativos atribuída à linha na própria página. O rótulo profissional diz Extrato de Violeta; o quadro diz Ácido Violeta43. Não declarar estes nomes equivalentes nem transformar isso em INCI.",
+        "A p10 não publica modo de uso; não importar automaticamente o protocolo da embalagem300mL."
       ],
       "priceNote": "Preço capturado em página oficial; pode variar com promoções. Confirme online antes de apresentar uma proposta.",
       "detailLevel": "partial",
@@ -9175,31 +9888,85 @@
         "Matização",
         "Hidratação"
       ],
-      "imageSource": "https://dalcotone.com.br/cdn/shop/files/shampoo_iluminador_blond_up_premium_1l_3273_1_7f3b58b0be88c1ffaf121d668eb650ee.png?v=1770119934&width=3840",
+      "imageSource": "https://usedalcotone.com/links/%5B%20DIGITAL%20%5D%20CAT%C3%81LOGO%20-%20DAL%20COTONE%202025-min.pdf",
       "categories": [
         "Matização",
         "Hidratação"
       ],
-      "sourceKind": "official-page",
+      "sourceKind": "official-catalog",
       "primaryCategory": "Matização",
       "occasions": [],
-      "activeDetails": [],
+      "activeDetails": [
+        {
+          "name": "Creatina",
+          "role": "Fortalecimento, reparação de danos, hidratação, elasticidade e proteção contra quebra.",
+          "sourceUrl": "https://usedalcotone.com/links/%5B%20DIGITAL%20%5D%20CAT%C3%81LOGO%20-%20DAL%20COTONE%202025-min.pdf",
+          "scope": "manufacturer-claim",
+          "sourcePage": 10
+        },
+        {
+          "name": "Ácido Violeta 43",
+          "role": "Neutralização dos tons amarelados e realce da cor e do brilho dos fios loiros e grisalhos.",
+          "sourceUrl": "https://usedalcotone.com/links/%5B%20DIGITAL%20%5D%20CAT%C3%81LOGO%20-%20DAL%20COTONE%202025-min.pdf",
+          "scope": "manufacturer-claim",
+          "sourcePage": 10
+        },
+        {
+          "name": "Manteiga de abacate",
+          "role": "Hidratação profunda para maciez e sedosidade.",
+          "sourceUrl": "https://usedalcotone.com/links/%5B%20DIGITAL%20%5D%20CAT%C3%81LOGO%20-%20DAL%20COTONE%202025-min.pdf",
+          "scope": "manufacturer-claim",
+          "sourcePage": 10
+        },
+        {
+          "name": "Silicone e quaternários",
+          "role": "A combinação é descrita para brilho, controle do frizz e proteção contra danos externos.",
+          "sourceUrl": "https://usedalcotone.com/links/%5B%20DIGITAL%20%5D%20CAT%C3%81LOGO%20-%20DAL%20COTONE%202025-min.pdf",
+          "scope": "blend",
+          "sourcePage": 10
+        }
+      ],
+      "sourcePage": 10,
+      "fieldSources": {
+        "use": {
+          "label": "Página oficial · consulta06/11/2026",
+          "url": "https://dalcotone.com.br/products/shampoo-iluminador-blond-up-premium"
+        }
+      },
+      "imageOrigin": "Foto extraída do catálogo oficial 2025",
+      "imagePage": 10,
       "technical": {
         "line": "Blond Up",
         "productType": "Shampoos",
         "presentation": "1 L",
-        "declaredPH": null,
+        "declaredPH": "4,5–5,5",
         "concentrations": null,
         "fullFormulaAvailable": false,
-        "sourceKind": "official-page",
-        "sourcePage": null
+        "sourceKind": "official-catalog",
+        "sourcePage": 10
       },
-      "differentials": [],
-      "commercialSummary": null,
+      "sourceDifferences": [],
+      "historicalFields": [],
+      "variants": [],
+      "differentials": [
+        {
+          "title": "Ativos destacados na formulação",
+          "text": "Creatina; Ácido Violeta 43; Manteiga de abacate; Silicone e quaternários",
+          "evidence": "Ativos divulgados na fonte desta ficha; concentração e efeito isolado não confirmados.",
+          "sourceUrl": "https://usedalcotone.com/links/%5B%20DIGITAL%20%5D%20CAT%C3%81LOGO%20-%20DAL%20COTONE%202025-min.pdf"
+        },
+        {
+          "title": "Proposta e função do produto",
+          "text": "Neutralização de tons amarelados; Brilho; Hidratação; Proteção e fortalecimento",
+          "evidence": "Benefícios declarados pela marca, não um ensaio comparativo independente.",
+          "sourceUrl": "https://usedalcotone.com/links/%5B%20DIGITAL%20%5D%20CAT%C3%81LOGO%20-%20DAL%20COTONE%202025-min.pdf"
+        }
+      ],
+      "commercialSummary": "Proposta descrita pela marca: Neutralização de tons amarelados; Brilho; Hidratação.",
       "competitiveEvidence": null,
       "presentation": {
         "question": "Quais necessidades de cuidado dos loiros e descoloridos aparecem com mais frequência no seu salão?",
-        "opening": "Este é o Shampoo Blond Up Premium 1 L. A ficha técnica ainda tem informações a confirmar; prefiro verificá-las antes de atribuir um resultado específico ao produto.",
+        "opening": "Este é o Shampoo Blond Up Premium 1 L. A proposta descrita pela marca inclui Neutralização de tons amarelados; Brilho; Hidratação. Entre os ativos divulgados estão Creatina, Ácido Violeta 43, Manteiga de abacate, Silicone e quaternários.",
         "nextStep": "Posso mostrar a ficha e conferir se essa proposta faz sentido para a necessidade que você me contou?",
         "scope": "Sugestão de fala baseada nos campos catalogados; não é um depoimento ou garantia de resultado."
       }
@@ -9211,7 +9978,7 @@
       "priceSource": "https://dalcotone.com.br/collections/kits",
       "price": 72.81,
       "regularPrice": 80.9,
-      "imageUrl": "https://dalcotone.com.br/cdn/shop/files/force_life_shampoo_300ml_3337_1_db96182a84a11cd5ced4a0aa67ddfc10.png?v=1770119964&width=600",
+      "imageUrl": "/assets/products/85e6ca2844f6803d.webp",
       "actives": [
         "Capilmax",
         "Bambu",
@@ -9242,7 +10009,7 @@
       "needs": [
         "Controle de oleosidade"
       ],
-      "imageSource": "https://dalcotone.com.br/cdn/shop/files/force_life_shampoo_300ml_3337_1_db96182a84a11cd5ced4a0aa67ddfc10.png?v=1770119964&width=1946",
+      "imageSource": "https://usedalcotone.com/links/%5B%20DIGITAL%20%5D%20CAT%C3%81LOGO%20-%20DAL%20COTONE%202025-min.pdf",
       "sourceKind": "official-catalog",
       "categories": [
         "Controle de oleosidade"
@@ -9272,6 +10039,8 @@
         }
       ],
       "sourcePage": 27,
+      "imageOrigin": "Foto extraída do catálogo oficial 2025",
+      "imagePage": 27,
       "technical": {
         "line": "Force Life",
         "productType": "Shampoos",
@@ -9282,6 +10051,9 @@
         "sourceKind": "official-catalog",
         "sourcePage": 27
       },
+      "sourceDifferences": [],
+      "historicalFields": [],
+      "variants": [],
       "differentials": [
         {
           "title": "Ativos destacados na formulação",
@@ -9312,7 +10084,7 @@
       "priceSource": "https://dalcotone.com.br/products/shampoo-ceramidas-300ml",
       "price": 80.01,
       "regularPrice": 88.9,
-      "imageUrl": "https://dalcotone.com.br/cdn/shop/files/shampoo_hydra_ceramides_300ml_3329_1_e59b92f582c7b91e62da07e6eb5f77a5.png?v=1770119949&width=600",
+      "imageUrl": "/assets/products/48678d0216074934.webp",
       "actives": [
         "Alho",
         "Bioceramidas"
@@ -9338,7 +10110,7 @@
         "Hidratação",
         "Frizz"
       ],
-      "imageSource": "https://dalcotone.com.br/cdn/shop/files/shampoo_hydra_ceramides_300ml_3329_1_e59b92f582c7b91e62da07e6eb5f77a5.png?v=1770119949&width=1946",
+      "imageSource": "https://dalcotone.com.br/products/shampoo-ceramidas-300ml",
       "sourceKind": "official-page",
       "categories": [
         "Hidratação"
@@ -9361,6 +10133,8 @@
           "sourceUrl": "https://dalcotone.com.br/products/shampoo-ceramidas-300ml"
         }
       ],
+      "imageOrigin": "Foto extraída do catálogo oficial 2025",
+      "imagePage": 29,
       "technical": {
         "line": "Hydra Ceramides",
         "productType": "Shampoos",
@@ -9371,6 +10145,33 @@
         "sourceKind": "official-page",
         "sourcePage": null
       },
+      "sourceDifferences": [
+        {
+          "productId": "48678d0216074934",
+          "pages": [
+            29
+          ],
+          "issue": "ShampooHydra app3min da loja;PDFp29 não fixa pausa. Ativos também diferem porfonte.",
+          "sourceVersion": "PDF2025 vs catálogo atual",
+          "resolution": "Exibir origem e ano; não fundir protocolos/fórmulas.",
+          "description": "Os ativos divulgados pela loja e pelo catálogo2025 são diferentes. As duas referências aparecem separadas nesta ficha."
+        }
+      ],
+      "historicalFields": [
+        {
+          "source": "Catálogo oficial 2025",
+          "page": 29,
+          "fields": {
+            "actives": [
+              "Ceramidas",
+              "Proteínas hidrolisadas",
+              "Vitamina E"
+            ],
+            "indication": "Cabelos danificados, ressecados ou quimicamente tratados."
+          }
+        }
+      ],
+      "variants": [],
       "differentials": [
         {
           "title": "Ativos destacados na formulação",
@@ -9390,6 +10191,92 @@
       "presentation": {
         "question": "Você busca uma linha de cuidado voltada à hidratação, maciez e retenção de umidade?",
         "opening": "Este é o Shampoo Hydra Ceramides Hidratação e Antioxidante 300ml. A proposta descrita pela marca inclui Limpeza suave; Hidratação e disciplina. Entre os ativos divulgados estão Alho, Bioceramidas.",
+        "nextStep": "Posso mostrar a ficha e conferir se essa proposta faz sentido para a necessidade que você me contou?",
+        "scope": "Sugestão de fala baseada nos campos catalogados; não é um depoimento ou garantia de resultado."
+      }
+    },
+    {
+      "id": "pdf-lamour-shampoo-300",
+      "name": "Shampoo L’Amour Strawberry 300 mL",
+      "url": "https://usedalcotone.com/links/%5B%20DIGITAL%20%5D%20CAT%C3%81LOGO%20-%20DAL%20COTONE%202025-min.pdf",
+      "priceSource": "https://usedalcotone.com/links/%5B%20DIGITAL%20%5D%20CAT%C3%81LOGO%20-%20DAL%20COTONE%202025-min.pdf",
+      "price": null,
+      "regularPrice": null,
+      "priceNote": "Preço público oficial não localizado para esta apresentação.",
+      "imageUrl": "/assets/products/pdf-lamour-shampoo-300.webp",
+      "actives": [
+        "Vitamina A",
+        "Vitamina D",
+        "Pantenol",
+        "Extrato de morango"
+      ],
+      "activeDetails": [
+        {
+          "name": "Vitamina A",
+          "role": null
+        },
+        {
+          "name": "Vitamina D",
+          "role": null
+        },
+        {
+          "name": "Pantenol",
+          "role": null
+        },
+        {
+          "name": "Extrato de morango",
+          "role": null
+        }
+      ],
+      "benefits": [],
+      "indication": "Cabelos opacos, desnutridos e sem brilho.",
+      "use": "Aplicar nos cabelos úmidos e massagear até espumar; enxaguar e repetir se necessário.",
+      "inci": null,
+      "contents": null,
+      "notes": [
+        "Proposta de ID:produto não tem ficha individual no catálogo auditado, embora possa aparecer em kit. FontePDF2025."
+      ],
+      "detailLevel": "partial",
+      "type": "Shampoos",
+      "line": "L’Amour",
+      "primaryCategory": "Nutrição",
+      "categories": [
+        "Nutrição"
+      ],
+      "needs": [
+        "Nutrição"
+      ],
+      "sourceKind": "official-catalog",
+      "sourcePage": 31,
+      "imageSource": "https://usedalcotone.com/links/%5B%20DIGITAL%20%5D%20CAT%C3%81LOGO%20-%20DAL%20COTONE%202025-min.pdf",
+      "imageOrigin": "Foto extraída do catálogo oficial 2025",
+      "imagePage": 31,
+      "technical": {
+        "line": "L’Amour",
+        "productType": "Shampoos",
+        "presentation": "300 mL",
+        "declaredPH": "4,5–5,5",
+        "concentrations": null,
+        "fullFormulaAvailable": false,
+        "sourceKind": "official-catalog",
+        "sourcePage": 31
+      },
+      "sourceDifferences": [],
+      "historicalFields": [],
+      "variants": [],
+      "differentials": [
+        {
+          "title": "Ativos destacados na formulação",
+          "text": "Vitamina A; Vitamina D; Pantenol; Extrato de morango",
+          "evidence": "Ativos divulgados na fonte desta ficha; concentração e efeito isolado não confirmados.",
+          "sourceUrl": "https://usedalcotone.com/links/%5B%20DIGITAL%20%5D%20CAT%C3%81LOGO%20-%20DAL%20COTONE%202025-min.pdf"
+        }
+      ],
+      "commercialSummary": null,
+      "competitiveEvidence": null,
+      "presentation": {
+        "question": "Suas clientes valorizam o cuidado dos fios junto da experiência de perfume e acabamento?",
+        "opening": "Este é o Shampoo L’Amour Strawberry 300 mL. A ficha técnica ainda tem informações a confirmar; prefiro verificá-las antes de atribuir um resultado específico ao produto. Entre os ativos divulgados estão Vitamina A, Vitamina D, Pantenol, Extrato de morango.",
         "nextStep": "Posso mostrar a ficha e conferir se essa proposta faz sentido para a necessidade que você me contou?",
         "scope": "Sugestão de fala baseada nos campos catalogados; não é um depoimento ou garantia de resultado."
       }
@@ -9459,6 +10346,9 @@
         "sourceKind": "official-page",
         "sourcePage": null
       },
+      "sourceDifferences": [],
+      "historicalFields": [],
+      "variants": [],
       "differentials": [
         {
           "title": "Ativos destacados na formulação",
@@ -9547,6 +10437,9 @@
         "sourceKind": "official-page",
         "sourcePage": null
       },
+      "sourceDifferences": [],
+      "historicalFields": [],
+      "variants": [],
       "differentials": [
         {
           "title": "Ativos destacados na formulação",
@@ -9577,7 +10470,7 @@
       "priceSource": "https://dalcotone.com.br/products/shampoo-monovin-300ml",
       "price": 62.91,
       "regularPrice": 69.9,
-      "imageUrl": "https://dalcotone.com.br/cdn/shop/files/shampoo_monovin_300ml_3359_1_ef9fe76f55ac5ed638ca4fa9883b1da1.png?v=1770119963&width=600",
+      "imageUrl": "/assets/products/daff3cb1e87f8b2f.webp",
       "actives": [
         "Pro A",
         "Vitamina B5"
@@ -9604,7 +10497,7 @@
         "Reconstrução",
         "Fortalecimento"
       ],
-      "imageSource": "https://dalcotone.com.br/cdn/shop/files/shampoo_monovin_300ml_3359_1_ef9fe76f55ac5ed638ca4fa9883b1da1.png?v=1770119963&width=1946",
+      "imageSource": "https://dalcotone.com.br/products/shampoo-monovin-300ml",
       "sourceKind": "official-page",
       "categories": [
         "Fortalecimento"
@@ -9627,6 +10520,8 @@
           "sourceUrl": null
         }
       ],
+      "imageOrigin": "Foto extraída do catálogo oficial 2025",
+      "imagePage": 33,
       "technical": {
         "line": "Monovin",
         "productType": "Shampoos",
@@ -9637,6 +10532,9 @@
         "sourceKind": "official-page",
         "sourcePage": null
       },
+      "sourceDifferences": [],
+      "historicalFields": [],
+      "variants": [],
       "differentials": [
         {
           "title": "Ativos destacados na formulação",
@@ -9663,21 +10561,25 @@
     {
       "id": "01183f9d468921d6",
       "name": "Shampoo Power Curls 1 L",
-      "url": "https://dalcotone.com.br/collections/linha-power-curls",
+      "url": "https://usedalcotone.com/links/%5B%20DIGITAL%20%5D%20CAT%C3%81LOGO%20-%20DAL%20COTONE%202025-min.pdf",
       "priceSource": "https://dalcotone.com.br/collections/linha-power-curls",
       "price": 86.58,
       "regularPrice": 96.2,
       "imageUrl": "https://dalcotone.com.br/cdn/shop/files/shampoo_cachos_power_curls_1l_3383_1_a34e89dec8e52b021da59cdb886105f4.png?v=1770119966&width=600",
-      "actives": [],
+      "actives": [
+        "D’Pantenol (Provitamina B5)",
+        "Coco"
+      ],
       "benefits": [],
-      "indication": null,
-      "use": null,
+      "indication": "Cabelos cacheados, ondulados e crespos, especialmente os que necessitam de modelagem.",
+      "use": "Aplicar nos cabelos molhados e massagear até formar espuma. Enxaguar completamente e repetir se necessário.",
       "inci": null,
       "contents": null,
       "notes": [
         "Nome e preço confirmados em coleção oficial; link individual pendente.",
         "Registro parcial: produto e preço em fonte oficial; ficha detalhada não localizada na pesquisa. Não inferir informações a partir de outros volumes ou da linha.",
-        "Lista INCI não localizada."
+        "Lista INCI não localizada.",
+        "Ativos apresentados em bloco da linha na mesma página que exibe esta embalagem."
       ],
       "priceNote": "Preço capturado em página oficial; pode variar com promoções. Confirme online antes de apresentar uma proposta.",
       "detailLevel": "partial",
@@ -9695,26 +10597,52 @@
         "Hidratação",
         "Definição"
       ],
-      "sourceKind": "official-page",
+      "sourceKind": "official-catalog",
       "primaryCategory": "Cachos",
       "occasions": [],
-      "activeDetails": [],
+      "activeDetails": [
+        {
+          "name": "D’Pantenol (Provitamina B5)",
+          "role": "Hidratação profunda, fortalecimento e redução da quebra, com brilho e maciez.",
+          "sourceUrl": "https://usedalcotone.com/links/%5B%20DIGITAL%20%5D%20CAT%C3%81LOGO%20-%20DAL%20COTONE%202025-min.pdf",
+          "scope": "manufacturer-claim",
+          "sourcePage": 17
+        },
+        {
+          "name": "Coco",
+          "role": "Nutrição, controle do frizz, brilho, maciez e auxílio na definição dos cachos.",
+          "sourceUrl": "https://usedalcotone.com/links/%5B%20DIGITAL%20%5D%20CAT%C3%81LOGO%20-%20DAL%20COTONE%202025-min.pdf",
+          "scope": "manufacturer-claim",
+          "sourcePage": 17
+        }
+      ],
+      "sourcePage": 17,
       "technical": {
         "line": "Power Curls",
         "productType": "Shampoos",
         "presentation": "1 L",
-        "declaredPH": null,
+        "declaredPH": "4,5–5,5",
         "concentrations": null,
         "fullFormulaAvailable": false,
-        "sourceKind": "official-page",
-        "sourcePage": null
+        "sourceKind": "official-catalog",
+        "sourcePage": 17
       },
-      "differentials": [],
+      "sourceDifferences": [],
+      "historicalFields": [],
+      "variants": [],
+      "differentials": [
+        {
+          "title": "Ativos destacados na formulação",
+          "text": "D’Pantenol (Provitamina B5); Coco",
+          "evidence": "Ativos divulgados na fonte desta ficha; concentração e efeito isolado não confirmados.",
+          "sourceUrl": "https://usedalcotone.com/links/%5B%20DIGITAL%20%5D%20CAT%C3%81LOGO%20-%20DAL%20COTONE%202025-min.pdf"
+        }
+      ],
       "commercialSummary": null,
       "competitiveEvidence": null,
       "presentation": {
         "question": "A sua demanda maior em cachos é conhecer a rotina de cuidado, a definição ou os produtos de finalização?",
-        "opening": "Este é o Shampoo Power Curls 1 L. A ficha técnica ainda tem informações a confirmar; prefiro verificá-las antes de atribuir um resultado específico ao produto.",
+        "opening": "Este é o Shampoo Power Curls 1 L. A ficha técnica ainda tem informações a confirmar; prefiro verificá-las antes de atribuir um resultado específico ao produto. Entre os ativos divulgados estão D’Pantenol (Provitamina B5), Coco.",
         "nextStep": "Posso mostrar a ficha e conferir se essa proposta faz sentido para a necessidade que você me contou?",
         "scope": "Sugestão de fala baseada nos campos catalogados; não é um depoimento ou garantia de resultado."
       }
@@ -9722,21 +10650,25 @@
     {
       "id": "d7d4d08e9715ef3e",
       "name": "Shampoo Power Curls 300 mL",
-      "url": "https://dalcotone.com.br/collections/linha-power-curls",
+      "url": "https://usedalcotone.com/links/%5B%20DIGITAL%20%5D%20CAT%C3%81LOGO%20-%20DAL%20COTONE%202025-min.pdf",
       "priceSource": "https://dalcotone.com.br/collections/linha-power-curls",
       "price": 59.39,
       "regularPrice": 65.99,
-      "imageUrl": "https://dalcotone.com.br/cdn/shop/files/shampoo_cachos_power_curls_300ml_3317_1_204683bc03c6e50ec51572db71c2418a.png?v=1770120035&width=600",
-      "actives": [],
+      "imageUrl": "/assets/products/d7d4d08e9715ef3e.webp",
+      "actives": [
+        "D’Pantenol (Provitamina B5)",
+        "Coco"
+      ],
       "benefits": [],
-      "indication": null,
-      "use": null,
+      "indication": "Cabelos cacheados, ondulados e crespos, especialmente os que necessitam de modelagem.",
+      "use": "Aplicar nos cabelos molhados e massagear até formar espuma. Enxaguar completamente e repetir se necessário.",
       "inci": null,
       "contents": null,
       "notes": [
         "Nome e preço confirmados em coleção oficial; link individual pendente.",
         "Registro parcial: produto e preço em fonte oficial; ficha detalhada não localizada na pesquisa. Não inferir informações a partir de outros volumes ou da linha.",
-        "Lista INCI não localizada."
+        "Lista INCI não localizada.",
+        "Ativos apresentados em bloco da linha na mesma página que exibe esta embalagem."
       ],
       "priceNote": "Preço capturado em página oficial; pode variar com promoções. Confirme online antes de apresentar uma proposta.",
       "detailLevel": "partial",
@@ -9746,30 +10678,58 @@
       "needs": [
         "Cachos"
       ],
-      "imageSource": "https://dalcotone.com.br/cdn/shop/files/shampoo_cachos_power_curls_300ml_3317_1_204683bc03c6e50ec51572db71c2418a.png?v=1770120035&width=3840",
-      "sourceKind": "official-page",
+      "imageSource": "https://usedalcotone.com/links/%5B%20DIGITAL%20%5D%20CAT%C3%81LOGO%20-%20DAL%20COTONE%202025-min.pdf",
+      "sourceKind": "official-catalog",
       "categories": [
         "Cachos"
       ],
       "primaryCategory": "Cachos",
       "occasions": [],
-      "activeDetails": [],
+      "activeDetails": [
+        {
+          "name": "D’Pantenol (Provitamina B5)",
+          "role": "Hidratação profunda, fortalecimento e redução da quebra, com brilho e maciez.",
+          "sourceUrl": "https://usedalcotone.com/links/%5B%20DIGITAL%20%5D%20CAT%C3%81LOGO%20-%20DAL%20COTONE%202025-min.pdf",
+          "scope": "manufacturer-claim",
+          "sourcePage": 19
+        },
+        {
+          "name": "Coco",
+          "role": "Nutrição, controle do frizz, brilho, maciez e auxílio na definição dos cachos.",
+          "sourceUrl": "https://usedalcotone.com/links/%5B%20DIGITAL%20%5D%20CAT%C3%81LOGO%20-%20DAL%20COTONE%202025-min.pdf",
+          "scope": "manufacturer-claim",
+          "sourcePage": 19
+        }
+      ],
+      "sourcePage": 19,
+      "imageOrigin": "Foto extraída do catálogo oficial 2025",
+      "imagePage": 19,
       "technical": {
         "line": "Power Curls",
         "productType": "Shampoos",
         "presentation": "300 mL",
-        "declaredPH": null,
+        "declaredPH": "4,5–5,5",
         "concentrations": null,
         "fullFormulaAvailable": false,
-        "sourceKind": "official-page",
-        "sourcePage": null
+        "sourceKind": "official-catalog",
+        "sourcePage": 19
       },
-      "differentials": [],
+      "sourceDifferences": [],
+      "historicalFields": [],
+      "variants": [],
+      "differentials": [
+        {
+          "title": "Ativos destacados na formulação",
+          "text": "D’Pantenol (Provitamina B5); Coco",
+          "evidence": "Ativos divulgados na fonte desta ficha; concentração e efeito isolado não confirmados.",
+          "sourceUrl": "https://usedalcotone.com/links/%5B%20DIGITAL%20%5D%20CAT%C3%81LOGO%20-%20DAL%20COTONE%202025-min.pdf"
+        }
+      ],
       "commercialSummary": null,
       "competitiveEvidence": null,
       "presentation": {
         "question": "A sua demanda maior em cachos é conhecer a rotina de cuidado, a definição ou os produtos de finalização?",
-        "opening": "Este é o Shampoo Power Curls 300 mL. A ficha técnica ainda tem informações a confirmar; prefiro verificá-las antes de atribuir um resultado específico ao produto.",
+        "opening": "Este é o Shampoo Power Curls 300 mL. A ficha técnica ainda tem informações a confirmar; prefiro verificá-las antes de atribuir um resultado específico ao produto. Entre os ativos divulgados estão D’Pantenol (Provitamina B5), Coco.",
         "nextStep": "Posso mostrar a ficha e conferir se essa proposta faz sentido para a necessidade que você me contou?",
         "scope": "Sugestão de fala baseada nos campos catalogados; não é um depoimento ou garantia de resultado."
       }
@@ -9841,6 +10801,9 @@
         "sourceKind": "official-page",
         "sourcePage": null
       },
+      "sourceDifferences": [],
+      "historicalFields": [],
+      "variants": [],
       "differentials": [
         {
           "title": "Ativos destacados na formulação",
@@ -9871,7 +10834,7 @@
       "priceSource": "https://dalcotone.com.br/products/shampoo-power-repair-300ml",
       "price": 65.61,
       "regularPrice": 72.9,
-      "imageUrl": "https://dalcotone.com.br/cdn/shop/files/shampoo_power_repair_300ml_3299_1_c93cf39dde938a11fad79237cf15ea65.png?v=1770119942&width=600",
+      "imageUrl": "/assets/products/b4c4b56b01afe954.webp",
       "actives": [
         "Frulix de açaí",
         "Ceramidas"
@@ -9896,7 +10859,7 @@
       "needs": [
         "Hidratação"
       ],
-      "imageSource": "https://dalcotone.com.br/cdn/shop/files/shampoo_power_repair_300ml_3299_1_c93cf39dde938a11fad79237cf15ea65.png?v=1770119942&width=1946",
+      "imageSource": "https://dalcotone.com.br/products/shampoo-power-repair-300ml",
       "sourceKind": "official-page",
       "categories": [
         "Hidratação"
@@ -9919,6 +10882,8 @@
           "sourceUrl": "https://dalcotone.com.br/products/kit-power-repair-home-care-c-power-luminous-oil"
         }
       ],
+      "imageOrigin": "Foto extraída do catálogo oficial 2025",
+      "imagePage": 21,
       "technical": {
         "line": "Power Repair",
         "productType": "Shampoos",
@@ -9929,6 +10894,9 @@
         "sourceKind": "official-page",
         "sourcePage": null
       },
+      "sourceDifferences": [],
+      "historicalFields": [],
+      "variants": [],
       "differentials": [
         {
           "title": "Ativos destacados na formulação",
@@ -10018,6 +10986,9 @@
         "sourceKind": "official-catalog",
         "sourcePage": 4
       },
+      "sourceDifferences": [],
+      "historicalFields": [],
+      "variants": [],
       "differentials": [
         {
           "title": "Ativos destacados na formulação",
@@ -10106,6 +11077,9 @@
         "sourceKind": "official-catalog",
         "sourcePage": 8
       },
+      "sourceDifferences": [],
+      "historicalFields": [],
+      "variants": [],
       "differentials": [
         {
           "title": "Ativos destacados na formulação",
@@ -10186,6 +11160,9 @@
         "sourceKind": "official-catalog",
         "sourcePage": 9
       },
+      "sourceDifferences": [],
+      "historicalFields": [],
+      "variants": [],
       "differentials": [
         {
           "title": "Proposta e função do produto",
@@ -10206,21 +11183,28 @@
     {
       "id": "03bcd497b08d00bb",
       "name": "Shampoo S.O.S Detox 1 L",
-      "url": "https://dalcotone.com.br/collections/desintoxicante",
+      "url": "https://usedalcotone.com/links/%5B%20DIGITAL%20%5D%20CAT%C3%81LOGO%20-%20DAL%20COTONE%202025-min.pdf",
       "priceSource": "https://dalcotone.com.br/collections/desintoxicante",
       "price": 148.41,
       "regularPrice": 164.9,
-      "imageUrl": "https://dalcotone.com.br/cdn/shop/files/shampoo_s_o_s_detox_1l_3295_1_4eef32a139f1c01596378768b364370e.png?v=1770119943&width=600",
+      "imageUrl": "/assets/products/03bcd497b08d00bb.webp",
       "actives": [],
-      "benefits": [],
-      "indication": null,
-      "use": null,
+      "benefits": [
+        "Limpeza profunda",
+        "Remoção de impurezas",
+        "Preparação do couro cabeludo para tratamentos",
+        "Maciez e revitalização"
+      ],
+      "indication": "Todos os tipos de cabelo: oleosos, secos, mistos ou quimicamente tratados.",
+      "use": "Aplicar nos cabelos molhados, massagear o couro cabeludo até espumar e enxaguar. Repetir se necessário.",
       "inci": null,
       "contents": null,
       "notes": [
         "Nome e preço confirmados em fonte oficial indexada.",
         "Registro parcial: produto e preço em fonte oficial; ficha detalhada não localizada na pesquisa. Não inferir informações a partir de outros volumes ou da linha.",
-        "Lista INCI não localizada."
+        "Lista INCI não localizada.",
+        "A p23 não lista os ativos. Café verde/Fiber Detox/cártamo estão na p24 Home Care: não copiar para 1L como confirmação individual.",
+        "A p23 não determina pausa para shampoo; não importar os 5–10min da p24."
       ],
       "priceNote": "Preço capturado em página oficial; pode variar com promoções. Confirme online antes de apresentar uma proposta.",
       "detailLevel": "partial",
@@ -10232,32 +11216,45 @@
         "Limpeza",
         "Hidratação"
       ],
-      "imageSource": "https://dalcotone.com.br/cdn/shop/files/shampoo_s_o_s_detox_1l_3295_1_4eef32a139f1c01596378768b364370e.png?v=1770119943&width=3840",
+      "imageSource": "https://usedalcotone.com/links/%5B%20DIGITAL%20%5D%20CAT%C3%81LOGO%20-%20DAL%20COTONE%202025-min.pdf",
       "categories": [
         "Detox",
         "Limpeza",
         "Hidratação"
       ],
-      "sourceKind": "official-page",
+      "sourceKind": "official-catalog",
       "primaryCategory": "Detox",
       "occasions": [],
       "activeDetails": [],
+      "sourcePage": 23,
+      "imageOrigin": "Foto extraída do catálogo oficial 2025",
+      "imagePage": 23,
       "technical": {
         "line": "S.O.S Detox",
         "productType": "Shampoos",
         "presentation": "1 L",
-        "declaredPH": null,
+        "declaredPH": "6,0–7,0",
         "concentrations": null,
         "fullFormulaAvailable": false,
-        "sourceKind": "official-page",
-        "sourcePage": null
+        "sourceKind": "official-catalog",
+        "sourcePage": 23
       },
-      "differentials": [],
-      "commercialSummary": null,
+      "sourceDifferences": [],
+      "historicalFields": [],
+      "variants": [],
+      "differentials": [
+        {
+          "title": "Proposta e função do produto",
+          "text": "Limpeza profunda; Remoção de impurezas; Preparação do couro cabeludo para tratamentos; Maciez e revitalização",
+          "evidence": "Benefícios declarados pela marca, não um ensaio comparativo independente.",
+          "sourceUrl": "https://usedalcotone.com/links/%5B%20DIGITAL%20%5D%20CAT%C3%81LOGO%20-%20DAL%20COTONE%202025-min.pdf"
+        }
+      ],
+      "commercialSummary": "Proposta descrita pela marca: Limpeza profunda; Remoção de impurezas; Preparação do couro cabeludo para tratamentos.",
       "competitiveEvidence": null,
       "presentation": {
         "question": "Você quer conhecer uma rotina voltada à limpeza e ao cuidado cosmético de cabelos oleosos, mistos ou com acúmulo de resíduos?",
-        "opening": "Este é o Shampoo S.O.S Detox 1 L. A ficha técnica ainda tem informações a confirmar; prefiro verificá-las antes de atribuir um resultado específico ao produto.",
+        "opening": "Este é o Shampoo S.O.S Detox 1 L. A proposta descrita pela marca inclui Limpeza profunda; Remoção de impurezas; Preparação do couro cabeludo para tratamentos.",
         "nextStep": "Posso mostrar a ficha e conferir se essa proposta faz sentido para a necessidade que você me contou?",
         "scope": "Sugestão de fala baseada nos campos catalogados; não é um depoimento ou garantia de resultado."
       }
@@ -10269,7 +11266,7 @@
       "priceSource": "https://dalcotone.com.br/products/shampoo-s-o-s-detox-300ml",
       "price": 67.14,
       "regularPrice": 74.6,
-      "imageUrl": "https://dalcotone.com.br/cdn/shop/files/shampoo_s_o_s_detox_300ml_3287_1_ca75f0be28698c93747fd698d7a75926.png?v=1770119938&width=600",
+      "imageUrl": "/assets/products/2c7828de22074cce.webp",
       "actives": [
         "Café verde",
         "Fiber Detox",
@@ -10296,7 +11293,7 @@
       "needs": [
         "Detox"
       ],
-      "imageSource": "https://dalcotone.com.br/cdn/shop/files/shampoo_s_o_s_detox_300ml_3287_1_ca75f0be28698c93747fd698d7a75926.png?v=1770119938&width=3840",
+      "imageSource": "https://dalcotone.com.br/products/shampoo-s-o-s-detox-300ml",
       "sourceKind": "official-page",
       "categories": [
         "Detox"
@@ -10325,6 +11322,8 @@
           "sourceUrl": "https://dalcotone.com.br/products/condicionador-s-o-s-detox-300ml"
         }
       ],
+      "imageOrigin": "Foto extraída do catálogo oficial 2025",
+      "imagePage": 24,
       "technical": {
         "line": "S.O.S Detox",
         "productType": "Shampoos",
@@ -10335,6 +11334,20 @@
         "sourceKind": "official-page",
         "sourcePage": null
       },
+      "sourceDifferences": [
+        {
+          "productId": "2c7828de22074cce",
+          "pages": [
+            24
+          ],
+          "issue": "ShampooDetox300mL:PDFp24 orienta5–10min; app orienta3min em ficha vinda da loja. Não escolher sem explicitar versão.",
+          "sourceVersion": "PDF2025 vs catálogo atual",
+          "resolution": "Exibir origem e ano; não fundir protocolos/fórmulas.",
+          "description": "O catálogo2025 Home Care publica pausa de5–10min; a ficha da loja consultada indica3min para o shampoo. Confirme a edição do rótulo."
+        }
+      ],
+      "historicalFields": [],
+      "variants": [],
       "differentials": [
         {
           "title": "Ativos destacados na formulação",
@@ -10435,6 +11448,9 @@
         "sourceKind": "official-catalog",
         "sourcePage": 7
       },
+      "sourceDifferences": [],
+      "historicalFields": [],
+      "variants": [],
       "differentials": [
         {
           "title": "Ativos destacados na formulação",
@@ -10529,6 +11545,9 @@
         "sourceKind": "official-page",
         "sourcePage": null
       },
+      "sourceDifferences": [],
+      "historicalFields": [],
+      "variants": [],
       "differentials": [
         {
           "title": "Tecnologia termoativada de efeito memória",
@@ -10565,7 +11584,7 @@
       "priceSource": "https://dalcotone.com.br/products/tonico-monovin",
       "price": 161.01,
       "regularPrice": 178.9,
-      "imageUrl": "https://dalcotone.com.br/cdn/shop/files/tonico_monovin_3237_1_a9c211603869eefc8a9137d377e1bbf5.png?v=1770119934&width=600",
+      "imageUrl": "/assets/products/e5f603736ab7da3a.webp",
       "actives": [
         "Vitamina A",
         "Biotina",
@@ -10594,7 +11613,7 @@
       "needs": [
         "Fortalecimento"
       ],
-      "imageSource": "https://dalcotone.com.br/cdn/shop/files/tonico_monovin_3237_1_a9c211603869eefc8a9137d377e1bbf5.png?v=1770119934&width=1946",
+      "imageSource": "https://dalcotone.com.br/products/tonico-monovin",
       "sourceKind": "official-page",
       "categories": [
         "Fortalecimento"
@@ -10647,6 +11666,8 @@
           "sourceUrl": null
         }
       ],
+      "imageOrigin": "Foto extraída do catálogo oficial 2025",
+      "imagePage": 33,
       "technical": {
         "line": "Monovin",
         "productType": "Tônicos",
@@ -10657,6 +11678,9 @@
         "sourceKind": "official-page",
         "sourcePage": null
       },
+      "sourceDifferences": [],
+      "historicalFields": [],
+      "variants": [],
       "differentials": [
         {
           "title": "Ativos destacados na formulação",
@@ -10679,6 +11703,82 @@
         "nextStep": "Posso mostrar a ficha e conferir se essa proposta faz sentido para a necessidade que você me contou?",
         "scope": "Sugestão de fala baseada nos campos catalogados; não é um depoimento ou garantia de resultado."
       }
+    },
+    {
+      "id": "pdf-woman-caps",
+      "name": "Woman Caps — suplemento alimentar 60 cápsulas",
+      "url": "https://usedalcotone.com/links/%5B%20DIGITAL%20%5D%20CAT%C3%81LOGO%20-%20DAL%20COTONE%202025-min.pdf",
+      "priceSource": "https://usedalcotone.com/links/%5B%20DIGITAL%20%5D%20CAT%C3%81LOGO%20-%20DAL%20COTONE%202025-min.pdf",
+      "price": null,
+      "regularPrice": null,
+      "priceNote": "Preço público oficial não localizado para esta apresentação.",
+      "imageUrl": "/assets/products/pdf-woman-caps.webp",
+      "actives": [
+        "Ácido pantotênico(Vitamina B5)",
+        "Vitaminas e minerais não discriminados"
+      ],
+      "activeDetails": [
+        {
+          "name": "Ácido pantotênico(Vitamina B5)",
+          "role": null
+        },
+        {
+          "name": "Vitaminas e minerais não discriminados",
+          "role": null
+        }
+      ],
+      "benefits": [],
+      "indication": "Adultos acima de19anos, conforme fabricante.",
+      "use": "Segundo a embalagem do catálogo,1cápsula ao dia. Não exceder a recomendação diária do rótulo.",
+      "inci": null,
+      "contents": null,
+      "notes": [
+        "Proposta de ID:produto não tem ficha individual no catálogo auditado, embora possa aparecer em kit. FontePDF2025."
+      ],
+      "detailLevel": "partial",
+      "type": "Suplementos",
+      "line": "Monovin",
+      "primaryCategory": "Cuidados complementares",
+      "categories": [
+        "Cuidados complementares"
+      ],
+      "needs": [
+        "Cuidados complementares"
+      ],
+      "sourceKind": "official-catalog",
+      "sourcePage": 34,
+      "imageSource": "https://usedalcotone.com/links/%5B%20DIGITAL%20%5D%20CAT%C3%81LOGO%20-%20DAL%20COTONE%202025-min.pdf",
+      "imageOrigin": "Foto extraída do catálogo oficial 2025",
+      "imagePage": 34,
+      "technical": {
+        "line": "Monovin",
+        "productType": "Suplementos",
+        "presentation": null,
+        "declaredPH": null,
+        "concentrations": null,
+        "fullFormulaAvailable": false,
+        "sourceKind": "official-catalog",
+        "sourcePage": 34
+      },
+      "sourceDifferences": [],
+      "historicalFields": [],
+      "variants": [],
+      "differentials": [
+        {
+          "title": "Ativos destacados na formulação",
+          "text": "Ácido pantotênico(Vitamina B5); Vitaminas e minerais não discriminados",
+          "evidence": "Ativos divulgados na fonte desta ficha; concentração e efeito isolado não confirmados.",
+          "sourceUrl": "https://usedalcotone.com/links/%5B%20DIGITAL%20%5D%20CAT%C3%81LOGO%20-%20DAL%20COTONE%202025-min.pdf"
+        }
+      ],
+      "commercialSummary": null,
+      "competitiveEvidence": null,
+      "presentation": {
+        "question": "Você procura informações sobre este suplemento e já conferiu a composição e as recomendações do rótulo?",
+        "opening": "Woman Caps é um suplemento alimentar para adultos, apresentado pela marca com vitamina B5. A tabela nutricional completa não está disponível no catálogo consultado.",
+        "nextStep": "Vamos conferir o rótulo atual e as orientações do profissional de saúde antes de qualquer recomendação de consumo.",
+        "scope": "Suplemento não é tratamento capilar tópico nem medicamento; não prometer crescimento ou tratamento de doenças."
+      }
     }
   ],
   "categories": [
@@ -10688,11 +11788,11 @@
     },
     {
       "name": "Selagem",
-      "count": 8
+      "count": 7
     },
     {
       "name": "Botox",
-      "count": 4
+      "count": 3
     },
     {
       "name": "Detox",
@@ -10704,7 +11804,7 @@
     },
     {
       "name": "Nutrição",
-      "count": 8
+      "count": 9
     },
     {
       "name": "Controle de pH",
@@ -10759,6 +11859,10 @@
       "count": 9
     },
     {
+      "name": "Cuidados complementares",
+      "count": 1
+    },
+    {
       "name": "Proteção da cor",
       "count": 3
     },
@@ -10788,12 +11892,9 @@
       "productIds": [
         "54ec09cb400b6388",
         "pro-24k-premium-selagem",
-        "pro-24k-mask-mask",
-        "consultor-kit-24k"
+        "pro-24k-mask-mask"
       ],
-      "kitIds": [
-        "consultor-kit-24k"
-      ],
+      "kitIds": [],
       "approach": {
         "question": "Quando você pensa em 24K, procura uma opção de finalização ou quer conhecer a linha profissional?",
         "opening": "Na linha 24K, eu gosto de explicar primeiro a proposta de cada produto. Há a selagem, a máscara profissional e o spray de efeito memória, com funções diferentes.",
@@ -11070,7 +12171,8 @@
         "559fb7f1ea51cc24",
         "a2d935f4e04f38b2",
         "f663762decc4c6b9",
-        "bc1e3e2b94dc6780"
+        "bc1e3e2b94dc6780",
+        "pdf-lamour-shampoo-300"
       ],
       "kitIds": [
         "559fb7f1ea51cc24",
@@ -11114,14 +12216,16 @@
     {
       "name": "Monovin",
       "categories": [
-        "Fortalecimento"
+        "Fortalecimento",
+        "Cuidados complementares"
       ],
       "productIds": [
         "99b3b3196433752a",
         "060dbd1588f6e3af",
         "288400afe5f54ed1",
         "daff3cb1e87f8b2f",
-        "e5f603736ab7da3a"
+        "e5f603736ab7da3a",
+        "pdf-woman-caps"
       ],
       "kitIds": [
         "99b3b3196433752a",
@@ -11372,7 +12476,7 @@
     "confirmed": 7,
     "partial": 17,
     "unavailable": 2,
-    "consultorAssemblies": 1
+    "consultorAssemblies": 0
   },
   "company": {
     "checkedAt": "2026-11-06",

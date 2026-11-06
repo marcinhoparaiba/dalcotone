@@ -58,11 +58,16 @@ def enrich(snapshot,research):
             p['type']='Kits';p['kitItems']=[{'name':'Ampolas Crono Plus+','quantity':4,'volume':'18 mL','productId':None}]
             p['kitReview']={'status':'partial','sourceUrls':[p['url']],'notes':['A ficha menciona quatro ampolas de 18 mL. A identificação individual de todas as etapas ainda precisa de confirmação.']}
             reviews.append({'status':'partial'})
-    # User-supplied assembly is a study reference, never a fabricated official SKU/price.
-    kit={'id':'consultor-kit-24k','name':'Kit 24K — shampoo, selagem e máscara','line':'24K','primaryCategory':'Selagem','categories':['Selagem','Botox'],'url':'https://dalcotone.com.br/','priceSource':'https://dalcotone.com.br/','price':None,'priceNote':'Kit informado pelo consultor; preço público oficial não confirmado.','imageUrl':None,'actives':[],'activeDetails':[],'benefits':[],'indication':None,'occasions':[],'use':None,'inci':None,'contents':None,'notes':['Composição informada pelo consultor: shampoo, selagem e máscara. O catálogo oficial identifica a selagem e a máscara 24K, mas não confirma o nome/apresentação do shampoo deste kit. Não é o Spray 24K.'],'detailLevel':'partial','type':'Kits','needs':['Selagem','Botox'],'sourceKind':'consultor','kitItems':[{'name':'Shampoo do Kit 24K','quantity':1,'volume':None,'productId':None},{'name':'Selagem 24K Premium','quantity':1,'volume':None,'productId':pro_map.get('24k-premium-selagem')},{'name':'Máscara 24K Premium / Intensive Treatment Mask','quantity':1,'volume':None,'productId':pro_map.get('24k-mask-mask')}],'kitReview':{'status':'consultor','sourceUrls':[],'notes':['Montagem informada pelo consultor; detalhes comerciais ainda não confirmados.']}}
-    products.append(kit)
+    # The consultant's 24K example is not an official product or kit.
+    audit=load(research/'full-technical-audit.json')
+    pdf_url=pro['fontes'][0] if isinstance(pro['fontes'][0],str) else pro['fontes'][0]['url']
+    for entry in audit['missingProducts']:
+        fields=entry['fields'];supplement=entry['productId']=='pdf-woman-caps'
+        products.append({'id':entry['productId'],'name':('Woman Caps — suplemento alimentar 60 cápsulas' if supplement else 'Shampoo L’Amour Strawberry 300 mL'),'url':pdf_url,'priceSource':pdf_url,'price':None,'regularPrice':None,'priceNote':'Preço público oficial não localizado para esta apresentação.','imageUrl':None,'actives':fields.get('actives',[]),'activeDetails':[{'name':a,'role':None} for a in fields.get('actives',[])],'benefits':[],'indication':fields.get('indication'),'use':fields.get('use'),'inci':None,'contents':None,'notes':entry['notes'],'detailLevel':'partial','type':'Suplementos' if supplement else 'Shampoos','line':'Monovin' if supplement else "L’Amour",'primaryCategory':'Cuidados complementares' if supplement else 'Nutrição','categories':['Cuidados complementares'] if supplement else ['Nutrição'],'needs':['Cuidados complementares'] if supplement else ['Nutrição'],'sourceKind':'official-catalog','sourcePage':entry['page']})
     pdf_technical={item['productId']:item for item in load(research/'pdf-technical.json')['products']} if (research/'pdf-technical.json').exists() else {}
     pdf_photos={item['productId']:item for item in load(research/'pdf-photos.json')['images']} if (research/'pdf-photos.json').exists() else {}
+    audited_functions=load(research/'audited-active-functions.json')
+    web_corrections={x['productId']:x for x in load(research/'current-web-corrections.json')['products']}
     for p in products:
         review=pdf_technical.get(p['id'])
         if review:
@@ -74,10 +79,41 @@ def enrich(snapshot,research):
             if review.get('occasions'):
                 p['occasions']=[(o['name']+': '+o['use']) if isinstance(o,dict) else o for o in review['occasions']]
             for active in p.get('activeDetails',[]):active.setdefault('sourceUrl',p['url']);active.setdefault('scope','manufacturer-claim')
+        web=web_corrections.get(p['id'])
+        if web:
+            p['fieldSources']={key:{'label':'Página oficial · consulta06/11/2026','url':web['sourceUrl']} for key in web['fields']}
+            p.update(web['fields'])
+            if 'actives' in web['fields']:p['activeDetails']=[{'name':a,'role':None,'sourceUrl':web['sourceUrl']} for a in p['actives']]
+            if web.get('kitItems'):
+                p['kitItems']=web['kitItems'];p['kitReview']={'status':'confirmed','sourceUrls':[web['sourceUrl']],'notes':['Componentes e volumes conferidos na descrição atual da página oficial.']}
         if p['id'] in pdf_photos:
             photo=pdf_photos[p['id']];p['imageUrl']=photo['imageUrl'];p['imageSource']=p['url'];p['imageOrigin']='Foto extraída do catálogo oficial 2025';p['imagePage']=photo['page']
+        if p['id'] in audited_functions:
+            roles={norm(x['name']):x for x in audited_functions[p['id']]}
+            for active in p.get('activeDetails',[]):
+                match=roles.get(norm(active['name']))
+                if match:
+                    active.update({'role':match['role'],'scope':'blend' if match.get('scope') in ['collective','blend'] else 'manufacturer-claim','sourceUrl':pdf_url,'sourcePage':match['sourcePage']})
         sizes=re.findall(r'\b\d+(?:[.,]\d+)?\s*(?:kg|ml|mL|g|L|l)\b',p['name'])
-        p['technical']={'line':p['line'],'productType':p['type'],'presentation':', '.join(sizes) or None,'declaredPH':review.get('declaredPH') if review else None,'concentrations':review.get('concentrations') if review else None,'fullFormulaAvailable':bool(p.get('inci')),'sourceKind':p.get('sourceKind'),'sourcePage':p.get('sourcePage')}
+        extra=next((x for x in audit['missingProducts'] if x['productId']==p['id']),None)
+        p['technical']={'line':p['line'],'productType':p['type'],'presentation':', '.join(sizes) or None,'declaredPH':review.get('declaredPH') if review else extra['fields'].get('declaredPH') if extra else None,'concentrations':review.get('concentrations') if review else None,'fullFormulaAvailable':bool(p.get('inci')),'sourceKind':p.get('sourceKind'),'sourcePage':p.get('sourcePage')}
+        p['sourceDifferences']=[x for x in audit['contradictions'] if x['productId']==p['id']]
+        descriptions={
+            'eef86335c476b86a':'A página da loja publica pausas de3–5min para shampoo e10–20min para máscara. O catálogo2025 apresenta orientações diferentes para as versões profissional e Home Care.',
+            '2c7828de22074cce':'O catálogo2025 Home Care publica pausa de5–10min; a ficha da loja consultada indica3min para o shampoo. Confirme a edição do rótulo.',
+            'b72901db8710aa58':'As páginas profissional e Home Care do catálogo2025 apresentam instruções distintas de acabamento e enxágue. Confira a apresentação de300mL.',
+            '48678d0216074934':'Os ativos divulgados pela loja e pelo catálogo2025 são diferentes. As duas referências aparecem separadas nesta ficha.',
+            '4b0b72183af62db7':'A loja publica pausa de7min para Restore500g. O tempo de10–15min do kit250g não deve ser aplicado automaticamente à embalagem500g.',
+            '3e6b73f994297918':'O rótulo do catálogo2025 mostra pH3,5–4,5; a descrição da loja consultada informa3,0–4,0.',
+            'pro-color-creams-coloracao':'O catálogo publica nuances e corretores, mas não fornece proporção de mistura ou tempo de pausa. Consulte a instrução da embalagem.'}
+        for difference in p['sourceDifferences']:difference['description']=descriptions[p['id']]
+        p['historicalFields']=[{'source':'Catálogo oficial 2025','page':x['page'],'fields':x['fields']} for x in audit['products'] if x['productId']==p['id'] and p['id'] in ['48678d0216074934','28860487c0334cd1','244136c3b5dfed21']]
+        p['variants']=[x for x in audit['missingVariants'] if x['productId']==p['id']]
+        if p['id']=='244136c3b5dfed21':
+            p['notes'].append('Divergência de apresentação: catálogo2025 mostra quatro ampolas de15mL; ficha da loja menciona18mL. Não tratar como a mesma apresentação confirmada.')
+        if p['id']=='pro-color-creams-coloracao':
+            p['indication']='Coloração permanente de uso profissional; seleção de nuance conforme avaliação do colorista.'
+            p['notes'].append('O catálogo não publica proporção de mistura ou tempo de pausa. Conferir a instrução da embalagem desta versão antes do procedimento.')
         p['differentials']=[]
         if p.get('actives'):
             p['differentials'].append({'title':'Ativos destacados na formulação','text':'; '.join(p['actives']),'evidence':'Ativos divulgados na fonte desta ficha; concentração e efeito isolado não confirmados.','sourceUrl':p['url']})
@@ -94,7 +130,7 @@ def enrich(snapshot,research):
     snapshot['categories']=[{'name':c,'count':sum(c in p['categories'] for p in products)} for c in all_categories if any(c in p['categories'] for p in products)]
     approaches=load(research/'approaches.json')
     snapshot['lines']=[{'name':name,'categories':list(dict.fromkeys(c for p in products if p['line']==name for c in p['categories'])),'productIds':[p['id'] for p in products if p['line']==name],'kitIds':[p['id'] for p in products if p['line']==name and p['type']=='Kits'],'approach':approaches['lines'][name]} for name in sorted(set(p['line'] for p in products),key=norm)]
-    snapshot['kitAudit']={'total':len(reviews),'confirmed':sum(r['status']=='confirmed' for r in reviews),'partial':sum(r['status']=='partial' for r in reviews),'unavailable':sum(r['status']=='unavailable' for r in reviews),'consultorAssemblies':1}
+    snapshot['kitAudit']={'total':len(reviews),'confirmed':sum(r['status']=='confirmed' for r in reviews),'partial':sum(r['status']=='partial' for r in reviews),'unavailable':sum(r['status']=='unavailable' for r in reviews),'consultorAssemblies':0}
     snapshot['company']=load(research/'company.json');snapshot['company']['brandApproach']=approaches['brand'];snapshot['company']['pitch']=approaches['brand']['short']
     for p in products:
         approach=approaches['lines'][p['line']]
@@ -103,6 +139,7 @@ def enrich(snapshot,research):
         else:opening=f"Este é o {p['name']}. A ficha técnica ainda tem informações a confirmar; prefiro verificá-las antes de atribuir um resultado específico ao produto."
         if p.get('actives'):opening+=' Entre os ativos divulgados estão '+', '.join(p['actives'])+'.'
         p['presentation']={'question':approach['question'],'opening':opening,'nextStep':'Posso mostrar a ficha e conferir se essa proposta faz sentido para a necessidade que você me contou?','scope':'Sugestão de fala baseada nos campos catalogados; não é um depoimento ou garantia de resultado.'}
+        if p['type']=='Suplementos':p['presentation']={'question':'Você procura informações sobre este suplemento e já conferiu a composição e as recomendações do rótulo?','opening':'Woman Caps é um suplemento alimentar para adultos, apresentado pela marca com vitamina B5. A tabela nutricional completa não está disponível no catálogo consultado.','nextStep':'Vamos conferir o rótulo atual e as orientações do profissional de saúde antes de qualquer recomendação de consumo.','scope':'Suplemento não é tratamento capilar tópico nem medicamento; não prometer crescimento ou tratamento de doenças.'}
     snapshot['activeLibrary']=guide['actives'];snapshot['version']='2026-11-06.3';snapshot['coverageNote']='Catálogo de estudo reunindo páginas oficiais e o catálogo profissional 2025. Disponibilidade, preços e campos sem fonte atual estão sinalizados; não é uma lista de estoque.'
     snapshot['products']=sorted(products,key=lambda p:norm(p['name']))
     return snapshot

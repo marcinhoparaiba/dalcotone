@@ -1,0 +1,100 @@
+{
+  "consultadoEm": "2026-11-06",
+  "status": "no-downloadable-video-validated",
+  "downloadableVideos": [],
+  "candidates": [
+    {
+      "title": "Apply the 24K Spray",
+      "product": "24K Premium Spray Antifrizz 300 mL",
+      "productId": "54ec09cb400b6388",
+      "source": "https://dalcotone.com/products/24k-premium-spray-antifrizz",
+      "sourceKind": "official-product-page",
+      "previewImageUrl": "https://dalcotone.com/cdn/shop/files/preview_images/08517ddc20bc43ec9309c29ea4b24a04.thumbnail.0000000000.jpg?v=1778116018&width=1080",
+      "publicDownloadUrl": null,
+      "validation": {
+        "pageVideoSectionConfirmed": true,
+        "thumbnailURLConfirmed": true,
+        "actualVideoURLFound": false,
+        "videoMimeTypeValidated": false,
+        "downloaded": false
+      },
+      "notes": [
+        "A página oficial contém seção de vídeo, mas os links expostos pela ferramenta apontam somente para miniaturas JPEG.",
+        "Título vem da seção oficial da página. O conteúdo do vídeo não foi reproduzido nem baixado; sem validação de idioma, duração ou correspondência de fórmula."
+      ]
+    },
+    {
+      "title": "Activate with Heat",
+      "product": "24K Premium Spray Antifrizz 300 mL",
+      "productId": "54ec09cb400b6388",
+      "source": "https://dalcotone.com/products/24k-premium-spray-antifrizz",
+      "sourceKind": "official-product-page",
+      "previewImageUrl": "https://dalcotone.com/cdn/shop/files/preview_images/44c6cb92411142fb90ed5e89633c1869.thumbnail.0000000000.jpg?v=1778116014&width=1080",
+      "publicDownloadUrl": null,
+      "validation": {
+        "pageVideoSectionConfirmed": true,
+        "thumbnailURLConfirmed": true,
+        "actualVideoURLFound": false,
+        "videoMimeTypeValidated": false,
+        "downloaded": false
+      },
+      "notes": [
+        "A página oficial contém seção de vídeo, mas os links expostos pela ferramenta apontam somente para miniaturas JPEG.",
+        "Título vem da seção oficial da página. O conteúdo do vídeo não foi reproduzido nem baixado; sem validação de idioma, duração ou correspondência de fórmula."
+      ]
+    },
+    {
+      "title": "Enjoy the 24K Glow",
+      "product": "24K Premium Spray Antifrizz 300 mL",
+      "productId": "54ec09cb400b6388",
+      "source": "https://dalcotone.com/products/24k-premium-spray-antifrizz",
+      "sourceKind": "official-product-page",
+      "previewImageUrl": "https://dalcotone.com/cdn/shop/files/preview_images/30d26a6cc210404b955b1fc2913bd25a.thumbnail.0000000000.jpg?v=1778115985&width=1080",
+      "publicDownloadUrl": null,
+      "validation": {
+        "pageVideoSectionConfirmed": true,
+        "thumbnailURLConfirmed": true,
+        "actualVideoURLFound": false,
+        "videoMimeTypeValidated": false,
+        "downloaded": false
+      },
+      "notes": [
+        "A página oficial contém seção de vídeo, mas os links expostos pela ferramenta apontam somente para miniaturas JPEG.",
+        "Título vem da seção oficial da página. O conteúdo do vídeo não foi reproduzido nem baixado; sem validação de idioma, duração ou correspondência de fórmula."
+      ]
+    }
+  ],
+  "checks": [
+    {
+      "source": "https://dalcotone.com/products/24k-premium-spray-antifrizz",
+      "result": "Página oficial abriu via web. Três referências Load video retornaram URLs JPEG de preview, sem arquivo MP4/WebM."
+    },
+    {
+      "source": "https://dalcotone.com/products/24k-premium-spray-antifrizz.js",
+      "result": "Endpoint público não acessível pela ferramenta web."
+    },
+    {
+      "source": "https://dalcotone.com/products/24k-premium-spray-antifrizz.json",
+      "result": "Endpoint público não acessível pela ferramenta web."
+    },
+    {
+      "source": "Direct standard HTTPS request from execution environment",
+      "result": "Conexão direta falhou com Tunnel connection failed:403Forbidden. Não foram usados hostsproxy ou tentativas de contorno."
+    },
+    {
+      "source": "https://dalcotone.com.br/products/spray-24k-300ml",
+      "result": "Página oficial brasileira acessível, sem URL pública de vídeo exposta no conteúdo analisado."
+    },
+    {
+      "source": "Indexed search for DalCotone MP4/WebM and Shopify video URLs",
+      "result": "Nenhum arquivo de vídeo indexado confirmado."
+    }
+  ],
+  "limitations": [
+    "Miniatura não é vídeo e não pode cumprir reprodução offline.",
+    "Nenhuma URL foi inferida a partir do hash da miniatura.",
+    "Não foram extraídos vídeos de YouTube, Instagram ou plataformas com controles próprios.",
+    "Não foram criados vídeos, resultados ou depoimentos sintéticos.",
+    "Para conteúdo offline, é necessário arquivo original de vídeo ou URL pública exata do MP4/WebM validada."
+  ]
+}

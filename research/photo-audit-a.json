@@ -1,0 +1,1150 @@
+{
+  "consultadoEm": "2026-11-06",
+  "scope": "Páginas físicas1–26 (pageno0–25) e prancha dos23assets locais existentes.",
+  "images": [
+    {
+      "productId": "6f9f4653036c50d2",
+      "name": "Shampoo Blond Up Premium 1 L",
+      "path": "/workspace/work/dalcotone-pdf/audit-assets-a/6f9f4653036c50d2.webp",
+      "sourcePage": {
+        "pageno": 10,
+        "printedPage": 10,
+        "physicalPage": 11
+      },
+      "xref": 156,
+      "original": "/workspace/work/dalcotone-pdf/audit-assets-a/original-p10-x156.png",
+      "crop": null,
+      "verifiedSKU": true,
+      "verifiedPresentation": "1 L",
+      "verification": "Rótulo e apresentação conferidos em imagem original extraída; embalagem2025 pode diferir da loja atual.",
+      "sourceKind": "official-pdf"
+    },
+    {
+      "productId": "847ff96acdc5f26b",
+      "name": "Shampoo Blond Up 300 mL",
+      "path": "/workspace/work/dalcotone-pdf/audit-assets-a/847ff96acdc5f26b.webp",
+      "sourcePage": {
+        "pageno": 11,
+        "printedPage": 11,
+        "physicalPage": 12
+      },
+      "xref": 170,
+      "original": "/workspace/work/dalcotone-pdf/audit-assets-a/original-p11-x170.png",
+      "crop": null,
+      "verifiedSKU": true,
+      "verifiedPresentation": "300 mL",
+      "verification": "Rótulo e apresentação conferidos em imagem original extraída; embalagem2025 pode diferir da loja atual.",
+      "sourceKind": "official-pdf"
+    },
+    {
+      "productId": "ad696ecbb8523b00",
+      "name": "Máscara Blond Up 300 g",
+      "path": "/workspace/work/dalcotone-pdf/audit-assets-a/ad696ecbb8523b00.webp",
+      "sourcePage": {
+        "pageno": 11,
+        "printedPage": 11,
+        "physicalPage": 12
+      },
+      "xref": 174,
+      "original": "/workspace/work/dalcotone-pdf/audit-assets-a/original-p11-x174.png",
+      "crop": null,
+      "verifiedSKU": true,
+      "verifiedPresentation": "300 g",
+      "verification": "Rótulo e apresentação conferidos em imagem original extraída; embalagem2025 pode diferir da loja atual.",
+      "sourceKind": "official-pdf"
+    },
+    {
+      "productId": "7a947ed4065e018c",
+      "name": "Kit Max Force Profissional",
+      "path": "/workspace/work/dalcotone-pdf/audit-assets-a/7a947ed4065e018c.webp",
+      "sourcePage": {
+        "pageno": 14,
+        "printedPage": 14,
+        "physicalPage": 15
+      },
+      "xref": 228,
+      "original": "/workspace/work/dalcotone-pdf/audit-assets-a/original-p14-x228.png",
+      "crop": null,
+      "verifiedSKU": true,
+      "verifiedPresentation": "Shampoo1L + Condicionador1L + Máscara1kg",
+      "verification": "Rótulo e apresentação conferidos em imagem original extraída; embalagem2025 pode diferir da loja atual.",
+      "sourceKind": "official-pdf"
+    },
+    {
+      "productId": "fb1b2105ce6e43c0",
+      "name": "Kit Max Force Home Care",
+      "path": "/workspace/work/dalcotone-pdf/audit-assets-a/fb1b2105ce6e43c0.webp",
+      "sourcePage": {
+        "pageno": 15,
+        "printedPage": 15,
+        "physicalPage": 16
+      },
+      "xref": 239,
+      "original": "/workspace/work/dalcotone-pdf/audit-assets-a/original-p15-x239.png",
+      "crop": null,
+      "verifiedSKU": true,
+      "verifiedPresentation": "Shampoo300mL + Condicionador300mL + Máscara300g",
+      "verification": "Rótulo e apresentação conferidos em imagem original extraída; embalagem2025 pode diferir da loja atual.",
+      "sourceKind": "official-pdf"
+    },
+    {
+      "productId": "d6c72aac411c5ca5",
+      "name": "Reparador de Pontas Argan Oil Premium 30 mL",
+      "path": "/workspace/work/dalcotone-pdf/audit-assets-a/d6c72aac411c5ca5.webp",
+      "sourcePage": {
+        "pageno": 15,
+        "printedPage": 15,
+        "physicalPage": 16
+      },
+      "xref": 245,
+      "original": "/workspace/work/dalcotone-pdf/audit-assets-a/original-p15-x245.png",
+      "crop": null,
+      "verifiedSKU": true,
+      "verifiedPresentation": "30 mL",
+      "verification": "Rótulo e apresentação conferidos em imagem original extraída; embalagem2025 pode diferir da loja atual.",
+      "sourceKind": "official-pdf"
+    },
+    {
+      "productId": "af2c90a0e5bb3e69",
+      "name": "Kit Power Curls Profissional",
+      "path": "/workspace/work/dalcotone-pdf/audit-assets-a/af2c90a0e5bb3e69.webp",
+      "sourcePage": {
+        "pageno": 17,
+        "printedPage": 17,
+        "physicalPage": 18
+      },
+      "xref": 262,
+      "original": "/workspace/work/dalcotone-pdf/audit-assets-a/original-p17-x262.png",
+      "crop": null,
+      "verifiedSKU": true,
+      "verifiedPresentation": "Shampoo1L + Creme1L + Máscara1kg",
+      "verification": "Rótulo e apresentação conferidos em imagem original extraída; embalagem2025 pode diferir da loja atual.",
+      "sourceKind": "official-pdf"
+    },
+    {
+      "productId": "7c8bb0613125da45",
+      "name": "Kit Power Curls Home Care + Ativador de Cachos",
+      "path": "/workspace/work/dalcotone-pdf/audit-assets-a/7c8bb0613125da45.webp",
+      "sourcePage": {
+        "pageno": 19,
+        "printedPage": 19,
+        "physicalPage": 20
+      },
+      "xref": 272,
+      "original": "/workspace/work/dalcotone-pdf/audit-assets-a/original-p19-x272.png",
+      "crop": null,
+      "verifiedSKU": true,
+      "verifiedPresentation": "Ativador250mL + Shampoo300mL + Creme300mL + Máscara300g",
+      "verification": "Rótulo e apresentação conferidos em imagem original extraída; embalagem2025 pode diferir da loja atual.",
+      "sourceKind": "official-pdf"
+    },
+    {
+      "productId": "a36ced1725166917",
+      "name": "Kit Power Curls Home Care",
+      "path": "/workspace/work/dalcotone-pdf/audit-assets-a/a36ced1725166917.webp",
+      "sourcePage": {
+        "pageno": 19,
+        "printedPage": 19,
+        "physicalPage": 20
+      },
+      "xref": 272,
+      "original": "/workspace/work/dalcotone-pdf/audit-assets-a/original-p19-x272.png",
+      "crop": [
+        216,
+        155,
+        1115,
+        975
+      ],
+      "verifiedSKU": true,
+      "verifiedPresentation": "Shampoo300mL + Creme300mL + Máscara300g",
+      "verification": "Rótulo e apresentação conferidos em imagem original extraída; embalagem2025 pode diferir da loja atual.",
+      "sourceKind": "official-pdf"
+    },
+    {
+      "productId": "4d9dff105dbdfa72",
+      "name": "Ativador de Cachos Power Curls 250 mL",
+      "path": "/workspace/work/dalcotone-pdf/audit-assets-a/4d9dff105dbdfa72.webp",
+      "sourcePage": {
+        "pageno": 19,
+        "printedPage": 19,
+        "physicalPage": 20
+      },
+      "xref": 272,
+      "original": "/workspace/work/dalcotone-pdf/audit-assets-a/original-p19-x272.png",
+      "crop": [
+        10,
+        335,
+        215,
+        970
+      ],
+      "verifiedSKU": true,
+      "verifiedPresentation": "250 mL",
+      "verification": "Rótulo e apresentação conferidos em imagem original extraída; embalagem2025 pode diferir da loja atual.",
+      "sourceKind": "official-pdf"
+    },
+    {
+      "productId": "d7d4d08e9715ef3e",
+      "name": "Shampoo Power Curls 300 mL",
+      "path": "/workspace/work/dalcotone-pdf/audit-assets-a/d7d4d08e9715ef3e.webp",
+      "sourcePage": {
+        "pageno": 19,
+        "printedPage": 19,
+        "physicalPage": 20
+      },
+      "xref": 272,
+      "original": "/workspace/work/dalcotone-pdf/audit-assets-a/original-p19-x272.png",
+      "crop": [
+        216,
+        160,
+        422,
+        975
+      ],
+      "verifiedSKU": true,
+      "verifiedPresentation": "300 mL",
+      "verification": "Rótulo e apresentação conferidos em imagem original extraída; embalagem2025 pode diferir da loja atual.",
+      "sourceKind": "official-pdf"
+    },
+    {
+      "productId": "4a924f8c36b7f317",
+      "name": "Creme de Modelagem Power Curls 300 mL",
+      "path": "/workspace/work/dalcotone-pdf/audit-assets-a/4a924f8c36b7f317.webp",
+      "sourcePage": {
+        "pageno": 19,
+        "printedPage": 19,
+        "physicalPage": 20
+      },
+      "xref": 272,
+      "original": "/workspace/work/dalcotone-pdf/audit-assets-a/original-p19-x272.png",
+      "crop": [
+        424,
+        160,
+        622,
+        975
+      ],
+      "verifiedSKU": true,
+      "verifiedPresentation": "300 mL",
+      "verification": "Rótulo e apresentação conferidos em imagem original extraída; embalagem2025 pode diferir da loja atual.",
+      "sourceKind": "official-pdf"
+    },
+    {
+      "productId": "f26481e02a5cf2af",
+      "name": "Máscara Power Curls 300 g",
+      "path": "/workspace/work/dalcotone-pdf/audit-assets-a/f26481e02a5cf2af.webp",
+      "sourcePage": {
+        "pageno": 19,
+        "printedPage": 19,
+        "physicalPage": 20
+      },
+      "xref": 272,
+      "original": "/workspace/work/dalcotone-pdf/audit-assets-a/original-p19-x272.png",
+      "crop": [
+        625,
+        635,
+        1110,
+        975
+      ],
+      "verifiedSKU": true,
+      "verifiedPresentation": "300 g",
+      "verification": "Rótulo e apresentação conferidos em imagem original extraída; embalagem2025 pode diferir da loja atual.",
+      "sourceKind": "official-pdf"
+    },
+    {
+      "productId": "db5efd967f8e7dfe",
+      "name": "Kit Power Repair Profissional",
+      "path": "/workspace/work/dalcotone-pdf/audit-assets-a/db5efd967f8e7dfe.webp",
+      "sourcePage": {
+        "pageno": 20,
+        "printedPage": 20,
+        "physicalPage": 21
+      },
+      "xref": 286,
+      "original": "/workspace/work/dalcotone-pdf/audit-assets-a/original-p20-x286.png",
+      "crop": null,
+      "verifiedSKU": true,
+      "verifiedPresentation": "Shampoo1L + Condicionador1L + Máscara1kg",
+      "verification": "Rótulo e apresentação conferidos em imagem original extraída; embalagem2025 pode diferir da loja atual.",
+      "sourceKind": "official-pdf"
+    },
+    {
+      "productId": "c1104649da13708c",
+      "name": "Máscara Power Repair 300g",
+      "path": "/workspace/work/dalcotone-pdf/audit-assets-a/c1104649da13708c.webp",
+      "sourcePage": {
+        "pageno": 21,
+        "printedPage": 21,
+        "physicalPage": 22
+      },
+      "xref": 291,
+      "original": "/workspace/work/dalcotone-pdf/audit-assets-a/original-p21-x291.png",
+      "crop": null,
+      "verifiedSKU": true,
+      "verifiedPresentation": "300 g",
+      "verification": "Rótulo e apresentação conferidos em imagem original extraída; embalagem2025 pode diferir da loja atual.",
+      "sourceKind": "official-pdf"
+    },
+    {
+      "productId": "b4c4b56b01afe954",
+      "name": "Shampoo Power Repair 300ml",
+      "path": "/workspace/work/dalcotone-pdf/audit-assets-a/b4c4b56b01afe954.webp",
+      "sourcePage": {
+        "pageno": 21,
+        "printedPage": 21,
+        "physicalPage": 22
+      },
+      "xref": 293,
+      "original": "/workspace/work/dalcotone-pdf/audit-assets-a/original-p21-x293.png",
+      "crop": null,
+      "verifiedSKU": true,
+      "verifiedPresentation": "300 mL",
+      "verification": "Rótulo e apresentação conferidos em imagem original extraída; embalagem2025 pode diferir da loja atual.",
+      "sourceKind": "official-pdf"
+    },
+    {
+      "productId": "430708f89a10e318",
+      "name": "Condicionador Power Repair 300ml",
+      "path": "/workspace/work/dalcotone-pdf/audit-assets-a/430708f89a10e318.webp",
+      "sourcePage": {
+        "pageno": 21,
+        "printedPage": 21,
+        "physicalPage": 22
+      },
+      "xref": 295,
+      "original": "/workspace/work/dalcotone-pdf/audit-assets-a/original-p21-x295.png",
+      "crop": null,
+      "verifiedSKU": true,
+      "verifiedPresentation": "300 mL",
+      "verification": "Rótulo e apresentação conferidos em imagem original extraída; embalagem2025 pode diferir da loja atual.",
+      "sourceKind": "official-pdf"
+    },
+    {
+      "productId": "6ca53b03e0ce780a",
+      "name": "Power Luminous Oil 30ml",
+      "path": "/workspace/work/dalcotone-pdf/audit-assets-a/6ca53b03e0ce780a.webp",
+      "sourcePage": {
+        "pageno": 21,
+        "printedPage": 21,
+        "physicalPage": 22
+      },
+      "xref": 297,
+      "original": "/workspace/work/dalcotone-pdf/audit-assets-a/original-p21-x297.png",
+      "crop": null,
+      "verifiedSKU": true,
+      "verifiedPresentation": "30 mL",
+      "verification": "Rótulo e apresentação conferidos em imagem original extraída; embalagem2025 pode diferir da loja atual.",
+      "sourceKind": "official-pdf"
+    },
+    {
+      "productId": "14a70da8ea635cd6",
+      "name": "Máscara S.O.S Detox 1kg",
+      "path": "/workspace/work/dalcotone-pdf/audit-assets-a/14a70da8ea635cd6.webp",
+      "sourcePage": {
+        "pageno": 23,
+        "printedPage": 23,
+        "physicalPage": 24
+      },
+      "xref": 343,
+      "original": "/workspace/work/dalcotone-pdf/audit-assets-a/original-p23-x343.png",
+      "crop": null,
+      "verifiedSKU": true,
+      "verifiedPresentation": "1 kg",
+      "verification": "Rótulo e apresentação conferidos em imagem original extraída; embalagem2025 pode diferir da loja atual.",
+      "sourceKind": "official-pdf"
+    },
+    {
+      "productId": "03bcd497b08d00bb",
+      "name": "Shampoo S.O.S Detox 1 L",
+      "path": "/workspace/work/dalcotone-pdf/audit-assets-a/03bcd497b08d00bb.webp",
+      "sourcePage": {
+        "pageno": 23,
+        "printedPage": 23,
+        "physicalPage": 24
+      },
+      "xref": 345,
+      "original": "/workspace/work/dalcotone-pdf/audit-assets-a/original-p23-x345.png",
+      "crop": null,
+      "verifiedSKU": true,
+      "verifiedPresentation": "1 L",
+      "verification": "Rótulo e apresentação conferidos em imagem original extraída; embalagem2025 pode diferir da loja atual.",
+      "sourceKind": "official-pdf"
+    },
+    {
+      "productId": "82ac5f089100e9e1",
+      "name": "Kit S.O.S Detox Home Care",
+      "path": "/workspace/work/dalcotone-pdf/audit-assets-a/82ac5f089100e9e1.webp",
+      "sourcePage": {
+        "pageno": 24,
+        "printedPage": 24,
+        "physicalPage": 25
+      },
+      "xref": 350,
+      "original": "/workspace/work/dalcotone-pdf/audit-assets-a/original-p24-x350.png",
+      "crop": null,
+      "verifiedSKU": true,
+      "verifiedPresentation": "Shampoo300mL + Condicionador300mL + Finalizador300mL + Máscara300g",
+      "verification": "Rótulo e apresentação conferidos em imagem original extraída; embalagem2025 pode diferir da loja atual.",
+      "sourceKind": "official-pdf"
+    },
+    {
+      "productId": "2c7828de22074cce",
+      "name": "Shampoo S.O.S Detox 300ml",
+      "path": "/workspace/work/dalcotone-pdf/audit-assets-a/2c7828de22074cce.webp",
+      "sourcePage": {
+        "pageno": 24,
+        "printedPage": 24,
+        "physicalPage": 25
+      },
+      "xref": 350,
+      "original": "/workspace/work/dalcotone-pdf/audit-assets-a/original-p24-x350.png",
+      "crop": [
+        15,
+        168,
+        223,
+        960
+      ],
+      "verifiedSKU": true,
+      "verifiedPresentation": "300 mL",
+      "verification": "Rótulo e apresentação conferidos em imagem original extraída; embalagem2025 pode diferir da loja atual.",
+      "sourceKind": "official-pdf"
+    },
+    {
+      "productId": "a30244f1f975388f",
+      "name": "Condicionador S.O.S Detox 300ml",
+      "path": "/workspace/work/dalcotone-pdf/audit-assets-a/a30244f1f975388f.webp",
+      "sourcePage": {
+        "pageno": 24,
+        "printedPage": 24,
+        "physicalPage": 25
+      },
+      "xref": 350,
+      "original": "/workspace/work/dalcotone-pdf/audit-assets-a/original-p24-x350.png",
+      "crop": [
+        225,
+        168,
+        420,
+        960
+      ],
+      "verifiedSKU": true,
+      "verifiedPresentation": "300 mL",
+      "verification": "Rótulo e apresentação conferidos em imagem original extraída; embalagem2025 pode diferir da loja atual.",
+      "sourceKind": "official-pdf"
+    },
+    {
+      "productId": "b72901db8710aa58",
+      "name": "Finalizador S.O.S Detox 300ml",
+      "path": "/workspace/work/dalcotone-pdf/audit-assets-a/b72901db8710aa58.webp",
+      "sourcePage": {
+        "pageno": 24,
+        "printedPage": 24,
+        "physicalPage": 25
+      },
+      "xref": 350,
+      "original": "/workspace/work/dalcotone-pdf/audit-assets-a/original-p24-x350.png",
+      "crop": [
+        423,
+        168,
+        620,
+        960
+      ],
+      "verifiedSKU": true,
+      "verifiedPresentation": "300 mL",
+      "verification": "Rótulo e apresentação conferidos em imagem original extraída; embalagem2025 pode diferir da loja atual.",
+      "sourceKind": "official-pdf"
+    },
+    {
+      "productId": "964fb3151dc16665",
+      "name": "Máscara S.O.S Detox 300 g",
+      "path": "/workspace/work/dalcotone-pdf/audit-assets-a/964fb3151dc16665.webp",
+      "sourcePage": {
+        "pageno": 24,
+        "printedPage": 24,
+        "physicalPage": 25
+      },
+      "xref": 350,
+      "original": "/workspace/work/dalcotone-pdf/audit-assets-a/original-p24-x350.png",
+      "crop": [
+        621,
+        625,
+        1090,
+        960
+      ],
+      "verifiedSKU": true,
+      "verifiedPresentation": "300 g",
+      "verification": "Rótulo e apresentação conferidos em imagem original extraída; embalagem2025 pode diferir da loja atual.",
+      "sourceKind": "official-pdf"
+    }
+  ],
+  "currentLocalAssetsAudit": [
+    {
+      "productId": "pro-color-creams-coloracao",
+      "name": "Color Creams — Coloração Permanente 60 g",
+      "path": "/assets/products/pro-color-creams-coloracao.webp",
+      "status": "conferido visualmente na prancha de23assets; produto corresponde ao título, sem troca aparente"
+    },
+    {
+      "productId": "2bce03643a5eb89e",
+      "name": "Condicionador Force Life 300 mL",
+      "path": "/assets/products/2bce03643a5eb89e.webp",
+      "status": "conferido visualmente na prancha de23assets; produto corresponde ao título, sem troca aparente"
+    },
+    {
+      "productId": "pro-washing-condicionador",
+      "name": "Condicionador Purificante Washing 2,5 L",
+      "path": "/assets/products/pro-washing-condicionador.webp",
+      "status": "conferido visualmente na prancha de23assets; produto corresponde ao título, sem troca aparente"
+    },
+    {
+      "productId": "pro-bleached-ox-05",
+      "name": "Emulsão Reveladora Cremosa Bleached 05 volumes 900 mL",
+      "path": "/assets/products/pro-bleached-ox-05.webp",
+      "status": "conferido visualmente na prancha de23assets; produto corresponde ao título, sem troca aparente"
+    },
+    {
+      "productId": "pro-bleached-ox-10",
+      "name": "Emulsão Reveladora Cremosa Bleached 10 volumes 900 mL",
+      "path": "/assets/products/pro-bleached-ox-10.webp",
+      "status": "conferido visualmente na prancha de23assets; produto corresponde ao título, sem troca aparente"
+    },
+    {
+      "productId": "pro-bleached-ox-20",
+      "name": "Emulsão Reveladora Cremosa Bleached 20 volumes 900 mL",
+      "path": "/assets/products/pro-bleached-ox-20.webp",
+      "status": "conferido visualmente na prancha de23assets; produto corresponde ao título, sem troca aparente"
+    },
+    {
+      "productId": "pro-bleached-ox-30",
+      "name": "Emulsão Reveladora Cremosa Bleached 30 volumes 900 mL",
+      "path": "/assets/products/pro-bleached-ox-30.webp",
+      "status": "conferido visualmente na prancha de23assets; produto corresponde ao título, sem troca aparente"
+    },
+    {
+      "productId": "pro-envolpamento-finalizador",
+      "name": "Finalizador Envelopamento dos Fios 1 L",
+      "path": "/assets/products/pro-envolpamento-finalizador.webp",
+      "status": "conferido visualmente na prancha de23assets; produto corresponde ao título, sem troca aparente"
+    },
+    {
+      "productId": "pro-24k-mask-mask",
+      "name": "Intensive Treatment Mask 24K Premium — Botox Reconstrutor 1 kg",
+      "path": "/assets/products/pro-24k-mask-mask.webp",
+      "status": "conferido visualmente na prancha de23assets; produto corresponde ao título, sem troca aparente"
+    },
+    {
+      "productId": "pro-oxo-fusion-retexturizador",
+      "name": "Oxo Silk Fusion High Performance 1 L",
+      "path": "/assets/products/pro-oxo-fusion-retexturizador.webp",
+      "status": "conferido visualmente na prancha de23assets; produto corresponde ao título, sem troca aparente"
+    },
+    {
+      "productId": "consultor-ph-control",
+      "name": "pH Control 500 mL",
+      "path": "/assets/products/consultor-ph-control.webp",
+      "status": "conferido visualmente na prancha de23assets; produto corresponde ao título, sem troca aparente"
+    },
+    {
+      "productId": "pro-bleached-powder-blue",
+      "name": "Pó Descolorante Bleached Blue 500 g",
+      "path": "/assets/products/pro-bleached-powder-blue.webp",
+      "status": "conferido visualmente na prancha de23assets; produto corresponde ao título, sem troca aparente"
+    },
+    {
+      "productId": "pro-bleached-powder-white",
+      "name": "Pó Descolorante Bleached White 500 g",
+      "path": "/assets/products/pro-bleached-powder-white.webp",
+      "status": "conferido visualmente na prancha de23assets; produto corresponde ao título, sem troca aparente"
+    },
+    {
+      "productId": "pro-queratina-spray",
+      "name": "Queratina Hidrolisada 250 mL",
+      "path": "/assets/products/pro-queratina-spray.webp",
+      "status": "conferido visualmente na prancha de23assets; produto corresponde ao título, sem troca aparente"
+    },
+    {
+      "productId": "pro-envolpamento-reconstrutor",
+      "name": "Reconstrutor Envelopamento dos Fios 1 L",
+      "path": "/assets/products/pro-envolpamento-reconstrutor.webp",
+      "status": "conferido visualmente na prancha de23assets; produto corresponde ao título, sem troca aparente"
+    },
+    {
+      "productId": "pro-bio-plastia-retexturizador",
+      "name": "Retexturizador Bio Plastia 1 L",
+      "path": "/assets/products/pro-bio-plastia-retexturizador.webp",
+      "status": "conferido visualmente na prancha de23assets; produto corresponde ao título, sem troca aparente"
+    },
+    {
+      "productId": "pro-silk-fiber-regular",
+      "name": "Retexturizador Silk Fiber 1 kg",
+      "path": "/assets/products/pro-silk-fiber-regular.webp",
+      "status": "conferido visualmente na prancha de23assets; produto corresponde ao título, sem troca aparente"
+    },
+    {
+      "productId": "pro-silk-fiber-blond",
+      "name": "Retexturizador Silk Fiber Blond 1 kg",
+      "path": "/assets/products/pro-silk-fiber-blond.webp",
+      "status": "conferido visualmente na prancha de23assets; produto corresponde ao título, sem troca aparente"
+    },
+    {
+      "productId": "pro-24k-premium-selagem",
+      "name": "Selagem 24K Premium 1 L",
+      "path": "/assets/products/pro-24k-premium-selagem.webp",
+      "status": "conferido visualmente na prancha de23assets; produto corresponde ao título, sem troca aparente"
+    },
+    {
+      "productId": "pro-bio-plastia-shampoo",
+      "name": "Shampoo Pré-Tratamento Bio Plastia 1 L",
+      "path": "/assets/products/pro-bio-plastia-shampoo.webp",
+      "status": "conferido visualmente na prancha de23assets; produto corresponde ao título, sem troca aparente"
+    },
+    {
+      "productId": "pro-clean-care-shampoo",
+      "name": "Shampoo Preparador Clean Care 1 L",
+      "path": "/assets/products/pro-clean-care-shampoo.webp",
+      "status": "conferido visualmente na prancha de23assets; produto corresponde ao título, sem troca aparente"
+    },
+    {
+      "productId": "pro-washing-shampoo",
+      "name": "Shampoo Purificante Washing 2,5 L",
+      "path": "/assets/products/pro-washing-shampoo.webp",
+      "status": "conferido visualmente na prancha de23assets; produto corresponde ao título, sem troca aparente"
+    },
+    {
+      "productId": "pro-envolpamento-shampoo",
+      "name": "Shampoo Técnico Envelopamento dos Fios 1 L",
+      "path": "/assets/products/pro-envolpamento-shampoo.webp",
+      "status": "conferido visualmente na prancha de23assets; produto corresponde ao título, sem troca aparente"
+    }
+  ],
+  "remoteMappingAudit": [
+    {
+      "productId": "4d9dff105dbdfa72",
+      "name": "Ativador de Cachos Power Curls 250 mL",
+      "url": "https://dalcotone.com.br/cdn/shop/files/power_curls_ativador_de_cachos_250ml_3327_1_267a13b24fbf1e4587aea85a1cdb6932.png?v=1770119948&width=600",
+      "status": "URL semanticamente compatível com título; bytes remotos não auditados neste recorte"
+    },
+    {
+      "productId": "95ac184d2698139f",
+      "name": "Body Splash - Provoke Shimmer 200ml - 8% de essência.",
+      "url": "https://dalcotone.com.br/cdn/shop/files/PROVOKE.png?v=1781896368&width=600",
+      "status": "URL semanticamente compatível com título; bytes remotos não auditados neste recorte"
+    },
+    {
+      "productId": "a319416672d1d7ec",
+      "name": "Body Splash Fresh Skin Shimmer 200ml - 8% de essência.",
+      "url": "https://dalcotone.com.br/cdn/shop/files/FRESH.png?v=1781895268&width=600",
+      "status": "URL semanticamente compatível com título; bytes remotos não auditados neste recorte"
+    },
+    {
+      "productId": "367610b6c0d2e6ae",
+      "name": "Body Splash Luxy Shimmer 200ml - 8% de essência.",
+      "url": "https://dalcotone.com.br/cdn/shop/files/LUXY.png?v=1781896016&width=600",
+      "status": "URL semanticamente compatível com título; bytes remotos não auditados neste recorte"
+    },
+    {
+      "productId": "03a95054ec272dd3",
+      "name": "Body Splash Masculino Auren Intense Dal Cotone 200ml",
+      "url": "https://dalcotone.com.br/cdn/shop/files/BODYSPLASHAUREN.png?v=1791987507&width=600",
+      "status": "URL semanticamente compatível com título; bytes remotos não auditados neste recorte"
+    },
+    {
+      "productId": "1dbf9af98657271e",
+      "name": "Body Splash Masculino Iconi Pure Dal Cotone 200ml",
+      "url": "https://dalcotone.com.br/cdn/shop/files/BODYSPLASHICONI.png?v=1791987906&width=600",
+      "status": "URL semanticamente compatível com título; bytes remotos não auditados neste recorte"
+    },
+    {
+      "productId": "23b1481f6d874914",
+      "name": "Body Splash Sweet Crush Shimmer 200ml - 8% de essência.",
+      "url": "https://dalcotone.com.br/cdn/shop/files/SWEET.png?v=1781896286&width=600",
+      "status": "URL semanticamente compatível com título; bytes remotos não auditados neste recorte"
+    },
+    {
+      "productId": "2c6e8754eb2f4783",
+      "name": "Condicionador Max Force 1L",
+      "url": "https://dalcotone.com.br/cdn/shop/files/condicionador_max_force_1l_3355_1_978ed8e592b477f5b1b4b786eda298a8.png?v=1770119961&width=600",
+      "status": "URL semanticamente compatível com título; bytes remotos não auditados neste recorte"
+    },
+    {
+      "productId": "edb06c3e50bacae7",
+      "name": "Condicionador Max Force 300ml",
+      "url": "https://dalcotone.com.br/cdn/shop/files/condicionador_max_force_300ml_3347_1_279f55738210fb1d344d042492adc420.png?v=1770119970&width=600",
+      "status": "URL semanticamente compatível com título; bytes remotos não auditados neste recorte"
+    },
+    {
+      "productId": "e95975619b537972",
+      "name": "Condicionador Power Repair 1 L",
+      "url": "https://dalcotone.com.br/cdn/shop/files/condicionador_power_repair_1l_3311_1_97c1115cc502419ccd1b43fd8ac7e8be.png?v=1770120018&width=600",
+      "status": "URL semanticamente compatível com título; bytes remotos não auditados neste recorte"
+    },
+    {
+      "productId": "430708f89a10e318",
+      "name": "Condicionador Power Repair 300ml",
+      "url": "https://dalcotone.com.br/cdn/shop/files/condicionador_power_repair_300ml_3303_1_b30458e77ee526dce9029c78528ae393.png?v=1770120032&width=600",
+      "status": "URL semanticamente compatível com título; bytes remotos não auditados neste recorte"
+    },
+    {
+      "productId": "a30244f1f975388f",
+      "name": "Condicionador S.O.S Detox 300ml",
+      "url": "https://dalcotone.com.br/cdn/shop/files/condicionador_s_o_s_detox_300ml_3291_1_4b048d2f099b14a2a620430ef115b342.png?v=1770119939&width=600",
+      "status": "URL semanticamente compatível com título; bytes remotos não auditados neste recorte"
+    },
+    {
+      "productId": "cdb0b5f5eef8f0a9",
+      "name": "Creme de Modelagem Power Curls 1 L",
+      "url": "https://dalcotone.com.br/cdn/shop/files/creme_de_modelagem_cachos_power_curls_1l_3385_1_e5ffb3a5e656e31a166ccfab4d875f45.png?v=1770119967&width=600",
+      "status": "URL semanticamente compatível com título; bytes remotos não auditados neste recorte"
+    },
+    {
+      "productId": "4a924f8c36b7f317",
+      "name": "Creme de Modelagem Power Curls 300 mL",
+      "url": "https://dalcotone.com.br/cdn/shop/files/creme_de_modelagem_cachos_power_curls_300ml_3377_1_66a1fafc92f02a278d2f0db74149516e.png?v=1770119972&width=600",
+      "status": "URL semanticamente compatível com título; bytes remotos não auditados neste recorte"
+    },
+    {
+      "productId": "244136c3b5dfed21",
+      "name": "Cronograma Capilar em Ampolas - Crono Plus+",
+      "url": "https://dalcotone.com.br/cdn/shop/files/crono_plus_3167_1_4533c39f8bff48f4297e6833c787e5d1.png?v=1770119918&width=600",
+      "status": "URL semanticamente compatível com título; bytes remotos não auditados neste recorte"
+    },
+    {
+      "productId": "4418a4ee99e8320b",
+      "name": "Eau de Parfum Kesia Carmo 100 mL",
+      "url": "https://dalcotone.com.br/cdn/shop/files/KESIACARMO-PERFUME.png?v=1791210708&width=600",
+      "status": "URL semanticamente compatível com título; bytes remotos não auditados neste recorte"
+    },
+    {
+      "productId": "60e03232e7b79d05",
+      "name": "Eau de Parfum Raphael Borba 100 mL",
+      "url": "https://dalcotone.com.br/cdn/shop/files/RAPHAEL_BORBA_-_PERFUME.png?v=1791211374&width=600",
+      "status": "URL semanticamente compatível com título; bytes remotos não auditados neste recorte"
+    },
+    {
+      "productId": "b72901db8710aa58",
+      "name": "Finalizador S.O.S Detox 300ml",
+      "url": "https://dalcotone.com.br/cdn/shop/files/finalizador_s_o_s_detox_300ml_3293_1_e36e3f65a05f5f40dbc19d4077b9a6d0.png?v=1770120032&width=600",
+      "status": "URL semanticamente compatível com título; bytes remotos não auditados neste recorte"
+    },
+    {
+      "productId": "0362c5b04fc5ffb5",
+      "name": "Force Life Must Use 250 mL",
+      "url": "https://dalcotone.com.br/cdn/shop/files/force_life_must_use_250ml_3183_1_3da81be3dbb15b1907e61e5dcd2b64dd.png?v=1770119922&width=600",
+      "status": "URL semanticamente compatível com título; bytes remotos não auditados neste recorte"
+    },
+    {
+      "productId": "82bcbdacdb562f8e",
+      "name": "Geleia Power Curls 1 kg",
+      "url": "https://dalcotone.com.br/cdn/shop/files/geleia_cachos_power_curls_1kg_3389_1_2b7c7e69a897e30a3c7c9b53647439f5.png?v=1770119968&width=600",
+      "status": "URL semanticamente compatível com título; bytes remotos não auditados neste recorte"
+    },
+    {
+      "productId": "008a07353d60761c",
+      "name": "Kit Blond Up Home Care",
+      "url": "https://dalcotone.com.br/cdn/shop/files/kitdal20.webp?v=1774356636&width=600",
+      "status": "URL semanticamente compatível com título; bytes remotos não auditados neste recorte"
+    },
+    {
+      "productId": "eef86335c476b86a",
+      "name": "Kit Blond Up Profissional",
+      "url": "https://dalcotone.com.br/cdn/shop/files/kitdal11.webp?v=1774355489&width=600",
+      "status": "URL semanticamente compatível com título; bytes remotos não auditados neste recorte"
+    },
+    {
+      "productId": "798eb9de5d73bf86",
+      "name": "Kit Body Splash Shimmer Dal Cotone - 4 Fragrâncias 200ml - 8% de essência.",
+      "url": "https://dalcotone.com.br/cdn/shop/files/TODOS_BODY.png?v=1781899684&width=600",
+      "status": "URL semanticamente compatível com título; bytes remotos não auditados neste recorte"
+    },
+    {
+      "productId": "4d656c72af8742ad",
+      "name": "Kit Cronograma Capilar – 3 Máscaras de 250 g",
+      "url": "https://dalcotone.com.br/cdn/shop/files/kit_cronograma_capilar_mscaras_capilares_250g_1_20250829181633_d2a3548e7ade.jpg?v=1774384769&width=600",
+      "status": "URL semanticamente compatível com título; bytes remotos não auditados neste recorte"
+    },
+    {
+      "productId": "bb946e7d15bc1e95",
+      "name": "Kit de Ampolas Ultra Magic 4 x 15 mL",
+      "url": "https://dalcotone.com.br/cdn/shop/files/caixa_crono_ultra_magic_3411_1_97b40a037638ae22929e8e6cfbcd8328.jpg?v=1770119971&width=600",
+      "status": "URL semanticamente compatível com título; bytes remotos não auditados neste recorte"
+    },
+    {
+      "productId": "cefb5c7098b88e45",
+      "name": "Kit de Ampolas Vitamínicas Nutritivas 4 x 15 mL",
+      "url": "https://dalcotone.com.br/cdn/shop/files/caixa_crono_ampola_vitaminica_3407_1_1dbca4618d34b3907bef5037ba08a542.jpg?v=1770119970&width=600",
+      "status": "URL semanticamente compatível com título; bytes remotos não auditados neste recorte"
+    },
+    {
+      "productId": "9297bd616196f4df",
+      "name": "Kit Force Life",
+      "url": "https://dalcotone.com.br/cdn/shop/files/kit_force_life.png?v=1791470357&width=600",
+      "status": "URL semanticamente compatível com título; bytes remotos não auditados neste recorte"
+    },
+    {
+      "productId": "3e67b66612b7f633",
+      "name": "Kit Force Life + Must Use",
+      "url": "https://dalcotone.com.br/cdn/shop/files/kit_force_life_finalizador.png?v=1791470791&width=600",
+      "status": "URL semanticamente compatível com título; bytes remotos não auditados neste recorte"
+    },
+    {
+      "productId": "6ecaab3b560f58fd",
+      "name": "Kit Hydra Ceramides",
+      "url": "https://dalcotone.com.br/cdn/shop/files/kitdal1.webp?v=1774353979&width=600",
+      "status": "URL semanticamente compatível com título; bytes remotos não auditados neste recorte"
+    },
+    {
+      "productId": "fdf9be752a8c216a",
+      "name": "Kit Hydra Ceramides + Óleo Spray Golden Premium",
+      "url": "https://dalcotone.com.br/cdn/shop/files/CERAMIDES-OLEO.png?v=1793809708&width=600",
+      "status": "URL semanticamente compatível com título; bytes remotos não auditados neste recorte"
+    },
+    {
+      "productId": "559fb7f1ea51cc24",
+      "name": "Kit L'Amour Home Care + Perfume Capilar L'Amour",
+      "url": "https://dalcotone.com.br/cdn/shop/files/kitdal13.webp?v=1774355697&width=600",
+      "status": "URL semanticamente compatível com título; bytes remotos não auditados neste recorte"
+    },
+    {
+      "productId": "a2d935f4e04f38b2",
+      "name": "Kit L'Amour Morango",
+      "url": "https://dalcotone.com.br/cdn/shop/files/kitdal2.webp?v=1774354124&width=600",
+      "status": "URL semanticamente compatível com título; bytes remotos não auditados neste recorte"
+    },
+    {
+      "productId": "fb1b2105ce6e43c0",
+      "name": "Kit Max Force Home Care",
+      "url": "https://dalcotone.com.br/cdn/shop/files/kitdal14.png?v=1774355859&width=600",
+      "status": "URL semanticamente compatível com título; bytes remotos não auditados neste recorte"
+    },
+    {
+      "productId": "7be4a970a7f7164e",
+      "name": "Kit Max Force Home Care + Óleo de Argan",
+      "url": "https://dalcotone.com.br/cdn/shop/files/MAX-FORCE-OLEO.png?v=1793807544&width=600",
+      "status": "URL semanticamente compatível com título; bytes remotos não auditados neste recorte"
+    },
+    {
+      "productId": "7a947ed4065e018c",
+      "name": "Kit Max Force Profissional",
+      "url": "https://dalcotone.com.br/cdn/shop/files/kitdal17.webp?v=1774356362&width=600",
+      "status": "URL semanticamente compatível com título; bytes remotos não auditados neste recorte"
+    },
+    {
+      "productId": "99b3b3196433752a",
+      "name": "Kit Monovin",
+      "url": "https://dalcotone.com.br/cdn/shop/files/kitdal6.webp?v=1774354764&width=600",
+      "status": "URL semanticamente compatível com título; bytes remotos não auditados neste recorte"
+    },
+    {
+      "productId": "060dbd1588f6e3af",
+      "name": "Kit Monovin + Woman Caps",
+      "url": "https://dalcotone.com.br/cdn/shop/files/kitdal15.webp?v=1774356092&width=600",
+      "status": "URL semanticamente compatível com título; bytes remotos não auditados neste recorte"
+    },
+    {
+      "productId": "a36ced1725166917",
+      "name": "Kit Power Curls Home Care",
+      "url": "https://dalcotone.com.br/cdn/shop/files/kitdal8.webp?v=1774355089&width=600",
+      "status": "URL semanticamente compatível com título; bytes remotos não auditados neste recorte"
+    },
+    {
+      "productId": "7c8bb0613125da45",
+      "name": "Kit Power Curls Home Care + Ativador de Cachos",
+      "url": "https://dalcotone.com.br/cdn/shop/files/kitdal18.webp?v=1774356441&width=600",
+      "status": "URL semanticamente compatível com título; bytes remotos não auditados neste recorte"
+    },
+    {
+      "productId": "af2c90a0e5bb3e69",
+      "name": "Kit Power Curls Profissional",
+      "url": "https://dalcotone.com.br/cdn/shop/files/kitdal7.webp?v=1774354977&width=600",
+      "status": "URL semanticamente compatível com título; bytes remotos não auditados neste recorte"
+    },
+    {
+      "productId": "05cc99b387f5eb3c",
+      "name": "Kit Power Repair Home Care",
+      "url": "https://dalcotone.com.br/cdn/shop/files/kitdal9.webp?v=1774355238&width=600",
+      "status": "URL semanticamente compatível com título; bytes remotos não auditados neste recorte"
+    },
+    {
+      "productId": "51b07845101579ec",
+      "name": "Kit Power Repair Home Care + Power Luminous Oil",
+      "url": "https://dalcotone.com.br/cdn/shop/files/POWER-REPAIR-OLEO.png?v=1793807544&width=600",
+      "status": "URL semanticamente compatível com título; bytes remotos não auditados neste recorte"
+    },
+    {
+      "productId": "db5efd967f8e7dfe",
+      "name": "Kit Power Repair Profissional",
+      "url": "https://dalcotone.com.br/cdn/shop/files/kitdal19.webp?v=1774386035&width=600",
+      "status": "URL semanticamente compatível com título; bytes remotos não auditados neste recorte"
+    },
+    {
+      "productId": "82ac5f089100e9e1",
+      "name": "Kit S.O.S Detox Home Care",
+      "url": "https://dalcotone.com.br/cdn/shop/files/kitdal12.webp?v=1774355582&width=600",
+      "status": "URL semanticamente compatível com título; bytes remotos não auditados neste recorte"
+    },
+    {
+      "productId": "05a9d27f49a10fa2",
+      "name": "Kit S.O.S Detox Profissional",
+      "url": "https://dalcotone.com.br/cdn/shop/files/kitdal5.webp?v=1774386244&width=600",
+      "status": "URL semanticamente compatível com título; bytes remotos não auditados neste recorte"
+    },
+    {
+      "productId": "011793544db6c402",
+      "name": "Máscara Banana e Mel Efeito Teia 500 g",
+      "url": "https://dalcotone.com.br/cdn/shop/files/mascara_banana_e_mel_efeito_teia_500g_3209_1_6eb0cff2fa2b8d7309d97b53743430b8.png?v=1770119926&width=600",
+      "status": "URL semanticamente compatível com título; bytes remotos não auditados neste recorte"
+    },
+    {
+      "productId": "ad696ecbb8523b00",
+      "name": "Máscara Blond Up 300 g",
+      "url": "https://dalcotone.com.br/cdn/shop/files/mascara_blond_up_300g_3271_1_14e8321e0751a2995e8007f503b4dbaa.png?v=1770119932&width=600",
+      "status": "URL semanticamente compatível com título; bytes remotos não auditados neste recorte"
+    },
+    {
+      "productId": "a9a848c44de789fb",
+      "name": "Máscara Blond Up Premium 1 kg",
+      "url": "https://dalcotone.com.br/cdn/shop/files/mascara_iluminadora_blond_up_premium_500g_3275_1_7a1f2f6788046a6bc615d54d22ca1d75.png?v=1770119934&width=600",
+      "status": "URL semanticamente compatível com título; bytes remotos não auditados neste recorte"
+    },
+    {
+      "productId": "28860487c0334cd1",
+      "name": "Máscara Capilar Hydra Ceramides Hidratação e Antioxidante 300g",
+      "url": "https://dalcotone.com.br/cdn/shop/files/mascara_hydra_ceramides_300g_3331_1_c5d68ece382944a52308661116037317.png?v=1770119950&width=600",
+      "status": "URL semanticamente compatível com título; bytes remotos não auditados neste recorte"
+    },
+    {
+      "productId": "23691f31ecfc8833",
+      "name": "Máscara Force Life 300 g",
+      "url": "https://dalcotone.com.br/cdn/shop/files/force_life_mascara_300g_3339_1_49b123accb2e475825fc8335c9f68688.png?v=1770119953&width=600",
+      "status": "URL semanticamente compatível com título; bytes remotos não auditados neste recorte"
+    },
+    {
+      "productId": "0942eb44018494cd",
+      "name": "Máscara Full Recover Efeito Teia 500 g",
+      "url": "https://dalcotone.com.br/cdn/shop/files/mascara_full_recover_efeito_teia_500g_3185_1_3329fb9482f45f4d06f5a713e67d22fb.png?v=1770119991&width=600",
+      "status": "URL semanticamente compatível com título; bytes remotos não auditados neste recorte"
+    },
+    {
+      "productId": "f663762decc4c6b9",
+      "name": "Máscara L'Amour 300 g",
+      "url": "https://dalcotone.com.br/cdn/shop/files/mascara_l_amour_300g_3335_1_3a688133cc0f087a72d579580dd61a31.png?v=1770119952&width=600",
+      "status": "URL semanticamente compatível com título; bytes remotos não auditados neste recorte"
+    },
+    {
+      "productId": "f3d38296a1255156",
+      "name": "Máscara Max Force 1 kg",
+      "url": "https://dalcotone.com.br/cdn/shop/files/mascara_max_force_1kg_3353_1_4dbe5e9c7f0affbc794f7e77d2a41934.png?v=1770119977&width=600",
+      "status": "URL semanticamente compatível com título; bytes remotos não auditados neste recorte"
+    },
+    {
+      "productId": "37311a0d369ec871",
+      "name": "Máscara Max Force 300 g",
+      "url": "https://dalcotone.com.br/cdn/shop/files/mascara_max_force_300ml_3345_1_ef31d82723bb2c0f0205c952d094b04a.png?v=1770119957&width=600",
+      "status": "URL semanticamente compatível com título; bytes remotos não auditados neste recorte"
+    },
+    {
+      "productId": "288400afe5f54ed1",
+      "name": "Máscara Monovin 300 g",
+      "url": "https://dalcotone.com.br/cdn/shop/files/mascara_monovin_300ml_3365_1_643115f26e0522d41060ff4e35d5fdf3.png?v=1770119964&width=600",
+      "status": "URL semanticamente compatível com título; bytes remotos não auditados neste recorte"
+    },
+    {
+      "productId": "c119cecd969a4b3a",
+      "name": "Máscara Nutri Protein 500g",
+      "url": "https://dalcotone.com.br/cdn/shop/files/mascara_nutri_protein_500g_3191_1_46904a05056681b221bec52c5a2afba4.png?v=1770119926&width=600",
+      "status": "URL semanticamente compatível com título; bytes remotos não auditados neste recorte"
+    },
+    {
+      "productId": "3e6b73f994297918",
+      "name": "Máscara Power Curls 1 kg",
+      "url": "https://dalcotone.com.br/cdn/shop/files/mascara_cachos_power_curls_1kg_3387_1_b05a259d3d4cf429638cb1e248d32685.png?v=1770119967&width=600",
+      "status": "URL semanticamente compatível com título; bytes remotos não auditados neste recorte"
+    },
+    {
+      "productId": "f26481e02a5cf2af",
+      "name": "Máscara Power Curls 300 g",
+      "url": "https://dalcotone.com.br/cdn/shop/files/mascara_cachos_power_curls_300g_3321_1_6ce2bc02fbe8617b9d52b1dda3c6d2de.png?v=1770119948&width=600",
+      "status": "URL semanticamente compatível com título; bytes remotos não auditados neste recorte"
+    },
+    {
+      "productId": "ef5a017466c505e7",
+      "name": "Máscara Power Repair 1Kg",
+      "url": "https://dalcotone.com.br/cdn/shop/files/mascara_power_repair_1kg_3307_1_a780d08ed7cd830780a69df95086efc8.png?v=1770119950&width=600",
+      "status": "URL semanticamente compatível com título; bytes remotos não auditados neste recorte"
+    },
+    {
+      "productId": "c1104649da13708c",
+      "name": "Máscara Power Repair 300g",
+      "url": "https://dalcotone.com.br/cdn/shop/files/mascara_power_repair_300g_3301_1_617fba6b63ad9ac8bfefae08e8bdacc4.png?v=1770119943&width=600",
+      "status": "URL semanticamente compatível com título; bytes remotos não auditados neste recorte"
+    },
+    {
+      "productId": "893194e3fcaf8648",
+      "name": "Máscara Reconstrutor Efeito Teia 500 g",
+      "url": "https://dalcotone.com.br/cdn/shop/files/mascara_reconstrutor_efeito_teia_500g_3211_1_262e00a4ae81ce1650e6da33714d909e.png?v=1770119943&width=600",
+      "status": "URL semanticamente compatível com título; bytes remotos não auditados neste recorte"
+    },
+    {
+      "productId": "4b0b72183af62db7",
+      "name": "Máscara Restore 500g",
+      "url": "https://dalcotone.com.br/cdn/shop/files/mascara_restore_500g_3187_1_8a62bb771246f2e1fe9679e58241c9d9.png?v=1770119923&width=600",
+      "status": "URL semanticamente compatível com título; bytes remotos não auditados neste recorte"
+    },
+    {
+      "productId": "14a70da8ea635cd6",
+      "name": "Máscara S.O.S Detox 1kg",
+      "url": "https://dalcotone.com.br/cdn/shop/files/mascara_s_o_s_detox_1kg_3297_1_49dfe1388afa07c1ef2a1ac156767455.png?v=1770119956&width=600",
+      "status": "URL semanticamente compatível com título; bytes remotos não auditados neste recorte"
+    },
+    {
+      "productId": "964fb3151dc16665",
+      "name": "Máscara S.O.S Detox 300 g",
+      "url": "https://dalcotone.com.br/cdn/shop/files/mascara_s_o_s_detox_300g_3289_1_d4d85c820ea070223c267233de35b033.png?v=1770119942&width=600",
+      "status": "URL semanticamente compatível com título; bytes remotos não auditados neste recorte"
+    },
+    {
+      "productId": "eb8400e4508c85c8",
+      "name": "Máscara Verniz Intense 500g",
+      "url": "https://dalcotone.com.br/cdn/shop/files/mascara_verniz_inteso_500g_3189_1_5a0395c27b73bb8d8c72a79f2ce101cc.png?v=1770119925&width=600",
+      "status": "URL semanticamente compatível com título; bytes remotos não auditados neste recorte"
+    },
+    {
+      "productId": "c80795eeb384b531",
+      "name": "Óleo Spray Golden Premium Doador de Brilho 60ml",
+      "url": "https://dalcotone.com.br/cdn/shop/files/golden_premium_60ml_3173_1_73baa68b1c1f7b7fcfe4e0fe0df45435.png?v=1770119932&width=600",
+      "status": "URL semanticamente compatível com título; bytes remotos não auditados neste recorte"
+    },
+    {
+      "productId": "bc1e3e2b94dc6780",
+      "name": "Perfume Capilar L'amour Nutritivo 100ml",
+      "url": "https://dalcotone.com.br/cdn/shop/files/perfume_capilar_l_amour_100ml_3263_1_9abe45abe133d72b36bb7d932e29091f.png?v=1770120013&width=600",
+      "status": "URL semanticamente compatível com título; bytes remotos não auditados neste recorte"
+    },
+    {
+      "productId": "6ca53b03e0ce780a",
+      "name": "Power Luminous Oil 30ml",
+      "url": "https://dalcotone.com.br/cdn/shop/files/power_luminous_oil_30ml_1_20250911235102_a56197a0690d.png?v=1770119930&width=600",
+      "status": "URL semanticamente compatível com título; bytes remotos não auditados neste recorte"
+    },
+    {
+      "productId": "c9cf1f6be6f34a0f",
+      "name": "Protetor Térmico Necessity Use 500ml",
+      "url": "https://dalcotone.com.br/cdn/shop/files/necessary_use_500ml_3175_1_7fcbfeaf1bd5dbab2d7c8c35235f60a1.png?v=1770119921&width=600",
+      "status": "URL semanticamente compatível com título; bytes remotos não auditados neste recorte"
+    },
+    {
+      "productId": "d6c72aac411c5ca5",
+      "name": "Reparador de Pontas Argan Oil Premium 30 mL",
+      "url": "https://dalcotone.com.br/cdn/shop/files/argan_oil_premium_oil_30ml_3393_1_67e2408adb282489d7e82f2da73ca63a.png?v=1770119971&width=600",
+      "status": "URL semanticamente compatível com título; bytes remotos não auditados neste recorte"
+    },
+    {
+      "productId": "847ff96acdc5f26b",
+      "name": "Shampoo Blond Up 300 mL",
+      "url": "https://dalcotone.com.br/cdn/shop/files/shampoo_blond_up_300ml_3269_1_a9ffd57c636247bbb89761a716652fe7.png?v=1770120015&width=600",
+      "status": "URL semanticamente compatível com título; bytes remotos não auditados neste recorte"
+    },
+    {
+      "productId": "6f9f4653036c50d2",
+      "name": "Shampoo Blond Up Premium 1 L",
+      "url": "https://dalcotone.com.br/cdn/shop/files/shampoo_iluminador_blond_up_premium_1l_3273_1_7f3b58b0be88c1ffaf121d668eb650ee.png?v=1770119934&width=600",
+      "status": "URL semanticamente compatível com título; bytes remotos não auditados neste recorte"
+    },
+    {
+      "productId": "85e6ca2844f6803d",
+      "name": "Shampoo Force Life 300 mL",
+      "url": "https://dalcotone.com.br/cdn/shop/files/force_life_shampoo_300ml_3337_1_db96182a84a11cd5ced4a0aa67ddfc10.png?v=1770119964&width=600",
+      "status": "URL semanticamente compatível com título; bytes remotos não auditados neste recorte"
+    },
+    {
+      "productId": "48678d0216074934",
+      "name": "Shampoo Hydra Ceramides Hidratação e Antioxidante 300ml",
+      "url": "https://dalcotone.com.br/cdn/shop/files/shampoo_hydra_ceramides_300ml_3329_1_e59b92f582c7b91e62da07e6eb5f77a5.png?v=1770119949&width=600",
+      "status": "URL semanticamente compatível com título; bytes remotos não auditados neste recorte"
+    },
+    {
+      "productId": "71c7cce1c24bb205",
+      "name": "Shampoo Max Force 1L",
+      "url": "https://dalcotone.com.br/cdn/shop/files/shampoo_max_force_1l_3349_1_92790697c10d2172a74832f205af3adc.png?v=1770119960&width=600",
+      "status": "URL semanticamente compatível com título; bytes remotos não auditados neste recorte"
+    },
+    {
+      "productId": "5c21d26621d6f0a6",
+      "name": "Shampoo Max Force 300ml",
+      "url": "https://dalcotone.com.br/cdn/shop/files/shampoo_max_force_300ml_3343_1_a3fac1673b7d17d4ff418619b48cf01b.png?v=1770119971&width=600",
+      "status": "URL semanticamente compatível com título; bytes remotos não auditados neste recorte"
+    },
+    {
+      "productId": "daff3cb1e87f8b2f",
+      "name": "Shampoo Monovin 300ml",
+      "url": "https://dalcotone.com.br/cdn/shop/files/shampoo_monovin_300ml_3359_1_ef9fe76f55ac5ed638ca4fa9883b1da1.png?v=1770119963&width=600",
+      "status": "URL semanticamente compatível com título; bytes remotos não auditados neste recorte"
+    },
+    {
+      "productId": "01183f9d468921d6",
+      "name": "Shampoo Power Curls 1 L",
+      "url": "https://dalcotone.com.br/cdn/shop/files/shampoo_cachos_power_curls_1l_3383_1_a34e89dec8e52b021da59cdb886105f4.png?v=1770119966&width=600",
+      "status": "URL semanticamente compatível com título; bytes remotos não auditados neste recorte"
+    },
+    {
+      "productId": "d7d4d08e9715ef3e",
+      "name": "Shampoo Power Curls 300 mL",
+      "url": "https://dalcotone.com.br/cdn/shop/files/shampoo_cachos_power_curls_300ml_3317_1_204683bc03c6e50ec51572db71c2418a.png?v=1770120035&width=600",
+      "status": "URL semanticamente compatível com título; bytes remotos não auditados neste recorte"
+    },
+    {
+      "productId": "c029fb47e0e973db",
+      "name": "Shampoo Power Repair 1L",
+      "url": "https://dalcotone.com.br/cdn/shop/files/shampoo_power_repair_1l_3305_1_a0c817021686c55b2a2e848ea1ae67b1.png?v=1770120029&width=600",
+      "status": "URL semanticamente compatível com título; bytes remotos não auditados neste recorte"
+    },
+    {
+      "productId": "b4c4b56b01afe954",
+      "name": "Shampoo Power Repair 300ml",
+      "url": "https://dalcotone.com.br/cdn/shop/files/shampoo_power_repair_300ml_3299_1_c93cf39dde938a11fad79237cf15ea65.png?v=1770119942&width=600",
+      "status": "URL semanticamente compatível com título; bytes remotos não auditados neste recorte"
+    },
+    {
+      "productId": "03bcd497b08d00bb",
+      "name": "Shampoo S.O.S Detox 1 L",
+      "url": "https://dalcotone.com.br/cdn/shop/files/shampoo_s_o_s_detox_1l_3295_1_4eef32a139f1c01596378768b364370e.png?v=1770119943&width=600",
+      "status": "URL semanticamente compatível com título; bytes remotos não auditados neste recorte"
+    },
+    {
+      "productId": "2c7828de22074cce",
+      "name": "Shampoo S.O.S Detox 300ml",
+      "url": "https://dalcotone.com.br/cdn/shop/files/shampoo_s_o_s_detox_300ml_3287_1_ca75f0be28698c93747fd698d7a75926.png?v=1770119938&width=600",
+      "status": "URL semanticamente compatível com título; bytes remotos não auditados neste recorte"
+    },
+    {
+      "productId": "54ec09cb400b6388",
+      "name": "Spray Efeito Memória 24K 300 mL",
+      "url": "https://dalcotone.com.br/cdn/shop/files/spray_24k_300ml_3217_1_1124a4006ec2a9b036718940e1dfabc0.png?v=1774472684&width=600",
+      "status": "URL semanticamente compatível com título; bytes remotos não auditados neste recorte"
+    },
+    {
+      "productId": "e5f603736ab7da3a",
+      "name": "Tônico Capilar Dal Cotone Monovin Crescimento Acelerado 120ml",
+      "url": "https://dalcotone.com.br/cdn/shop/files/tonico_monovin_3237_1_a9c211603869eefc8a9137d377e1bbf5.png?v=1770119934&width=600",
+      "status": "URL semanticamente compatível com título; bytes remotos não auditados neste recorte"
+    }
+  ],
+  "findings": [
+    {
+      "productId": "a9a848c44de789fb",
+      "severity": "needs-label-check",
+      "finding": "MáscaraBlondUpPremium1kg usa URL histórica com500g nofilename. Não concluir troca só pelo nome de arquivo. PDFp10foto da modelo segura embalagemgrande, mas SKU não foi isolado/verificado nesta tarefa."
+    },
+    {
+      "productId": "consultor-kit-24k",
+      "severity": "unverified-kit",
+      "finding": "Kit24K de três peças não aparece como fotografia confirmada. Nenhuma imagem composta foi criada."
+    },
+    {
+      "productId": "consultor-ph-control",
+      "severity": "confirmed-correction",
+      "finding": "Foto atual local corretaPHControl500mL recortada dexref358/p25; xref732 éNecessityUse500mL, nãoPHControl."
+    }
+  ],
+  "limits": [
+    "A verificação visual completa dos bytes remotos requer download/screenshot da loja; filenames não substituem leitura de rótulo.",
+    "Perfumes corporais e body splashes não localizados nas páginas físicas1–26 do catálogo2025.",
+    "Não se criaram kits juntando fotografias separadas. Fotos dekit usadas somente quando componentes e volumes conferem."
+  ]
+}

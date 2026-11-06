@@ -1,0 +1,35 @@
+{
+  "checkedAt": "2026-11-06",
+  "products": [
+    {
+      "productId": "bb946e7d15bc1e95",
+      "sourceUrl": "https://dalcotone.com.br/products/caixa-crono-ultra-magic-3411",
+      "fields": {
+        "indication": "Cabelos opacos ou quimicamente tratados que precisam de cuidado restaurador complementar.",
+        "use": "Misturar 3 a 5 mL em água fria até formar mousse, ou aplicar diretamente em cabelos limpos e molhados. A marca também permite adicionar à máscara. Deixar cerca de 5 minutos e enxaguar."
+      }
+    },
+    {
+      "productId": "3e67b66612b7f633",
+      "sourceUrl": "https://dalcotone.com.br/products/kit-force-life-finalizador-must-use-controle-de-oleosidade-e-reconstrucao-300g",
+      "fields": {
+        "actives": ["Force Life: Capilmax, bambu e jaborandi", "Must Use: pantenol, ômegas 3, 5 e 6, queratina, Nano Link, Semi di Lino e silicones especiais"],
+        "benefits": ["Controle da oleosidade na raiz", "Hidratação e fortalecimento do comprimento", "Desembaraço e controle do frizz", "Proteção térmica na finalização"],
+        "indication": "Raiz oleosa ou mista e comprimento que precisa de hidratação, fortalecimento e proteção ao finalizar.",
+        "use": "Shampoo: massagear no couro cabeludo molhado, aguardar 5–10 minutos e enxaguar. Máscara: distribuir no comprimento e pontas, aguardar 10–15 minutos e enxaguar. Must Use: borrifar e distribuir após a lavagem; a página admite uso com ou sem enxágue."
+      },
+      "kitItems": [
+        {"name": "Shampoo Esfoliante Force Life", "quantity": 1, "volume": "300 mL", "productId": "85e6ca2844f6803d"},
+        {"name": "Máscara Revitalizante Force Life", "quantity": 1, "volume": "300 g", "productId": "23691f31ecfc8833"},
+        {"name": "Fluido Reconstrutor Must Use", "quantity": 1, "volume": "250 mL", "productId": "0362c5b04fc5ffb5"}
+      ]
+    },
+    {
+      "productId": "6f9f4653036c50d2",
+      "sourceUrl": "https://dalcotone.com.br/products/shampoo-iluminador-blond-up-premium",
+      "fields": {
+        "use": "Aplicar nos cabelos molhados e massagear até espumar. Acompanhar a neutralização conforme a necessidade dos fios e enxaguar completamente."
+      }
+    }
+  ]
+}
