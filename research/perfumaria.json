@@ -1,0 +1,361 @@
+{
+  "consultadoEm": "2026-11-06",
+  "fonte": "dalcotone.com.br — páginas oficiais de produtos e coleções",
+  "observacoes": [
+    "Notas olfativas não equivalem a ativos de tratamento nem à lista INCI.",
+    "Dados não localizados são indicados explicitamente.",
+    "Benefícios resumem as alegações da marca."
+  ],
+  "produtos": [
+    {
+      "nome": "Kit L'Amour Home Care + Perfume Capilar L'Amour",
+      "url": "https://dalcotone.com.br/products/kit-lamour-perfume-capilar-lamour-morango-nutricao-e-brilho-natural",
+      "precoPublico": 279.35,
+      "moeda": "BRL",
+      "precoStatus": "Preço público de captura oficial indexada, sujeito a atualização.",
+      "consultadoEm": "2026-11-06",
+      "ativos": [
+        "Vitaminas não especificadas",
+        "Pantenol"
+      ],
+      "notasOlfativas": null,
+      "beneficios": [
+        "Nutrição e brilho",
+        "Maciez",
+        "Limpeza e perfumação dos fios"
+      ],
+      "indicacao": "Fios opacos, desnutridos e sem brilho.",
+      "modoUso": "Lavar com o shampoo e enxaguar. Aplicar a máscara, aguardar 10–20 minutos e enxaguar. Finalizar com o perfume nos fios secos ou úmidos, sem enxaguar.",
+      "composicaoINCI": null,
+      "composicaoStatus": "Lista INCI não localizada na fonte consultada.",
+      "naoInformado": [
+        "Lista completa de ingredientes INCI"
+      ],
+      "imageUrl": "https://dalcotone.com.br/cdn/shop/files/kitdal13.webp?v=1774355697&width=1946",
+      "observacoes": [],
+      "conteudoKit": [
+        "Shampoo L'amour 300 mL",
+        "Máscara L'amour 300 g",
+        "Perfume Capilar L'amour 100 mL"
+      ]
+    },
+    {
+      "nome": "Body Splash Sweet Crush Shimmer 200ml - 8% de essência.",
+      "url": "https://dalcotone.com.br/pages/body-splashs",
+      "precoPublico": 94.7,
+      "moeda": "BRL",
+      "precoStatus": "Preço público de captura oficial indexada, sujeito a atualização.",
+      "consultadoEm": "2026-11-06",
+      "ativos": [],
+      "notasOlfativas": null,
+      "beneficios": [
+        "Perfumação corporal",
+        "Brilho sutil na pele com partículas shimmer"
+      ],
+      "indicacao": "Perfumação corporal para quem aprecia fragrância doce e envolvente.",
+      "modoUso": "Borrifar sobre a pele a aproximadamente 20 cm. Reaplicar conforme desejar.",
+      "composicaoINCI": null,
+      "composicaoStatus": "Lista INCI não localizada na fonte consultada.",
+      "naoInformado": [
+        "Lista completa de ingredientes INCI",
+        "Pirâmide olfativa completa",
+        "Instrução individual de uso"
+      ],
+      "imageUrl": "https://dalcotone.com.br/cdn/shop/files/SWEET.png?v=1781896286&width=1946",
+      "observacoes": [
+        "A marca informa 8% de essência. Notas olfativas descrevem o aroma e não comprovam ingredientes da fórmula.",
+        "Perfil olfativo e aplicação corporal confirmados na página oficial da linha e do kit; instrução geral do kit, sem ficha individual acessível."
+      ]
+    },
+    {
+      "nome": "Body Splash Luxy Shimmer 200ml - 8% de essência.",
+      "url": "https://dalcotone.com.br/products/body-splash-luxy-shimmer-200ml",
+      "precoPublico": 94.7,
+      "moeda": "BRL",
+      "precoStatus": "Preço público de captura oficial indexada, sujeito a atualização.",
+      "consultadoEm": "2026-11-06",
+      "ativos": [],
+      "notasOlfativas": {
+        "topo": [
+          "Limão cristalizado"
+        ],
+        "coracao": [
+          "Flor de laranjeira",
+          "Rum",
+          "Panacota"
+        ],
+        "fundo": [
+          "Baunilha de Madagascar"
+        ]
+      },
+      "beneficios": [
+        "Perfumação corporal",
+        "Brilho sutil na pele com partículas shimmer"
+      ],
+      "indicacao": "Perfumação corporal para quem aprecia fragrância gourmand cítrica e doce.",
+      "modoUso": "Borrifar sobre a pele a aproximadamente 20 cm. Reaplicar conforme desejar.",
+      "composicaoINCI": null,
+      "composicaoStatus": "Lista INCI não localizada na fonte consultada.",
+      "naoInformado": [
+        "Lista completa de ingredientes INCI"
+      ],
+      "imageUrl": "https://dalcotone.com.br/cdn/shop/files/LUXY.png?v=1781896016&width=1946",
+      "observacoes": [
+        "A marca informa 8% de essência. Notas olfativas descrevem o aroma e não comprovam ingredientes da fórmula."
+      ]
+    },
+    {
+      "nome": "Kit Body Splash Shimmer Dal Cotone - 4 Fragrâncias 200ml - 8% de essência.",
+      "url": "https://dalcotone.com.br/products/kit-body-splash-shimmer-dal-cotone-4-fragrancias-200ml",
+      "precoPublico": 359.9,
+      "moeda": "BRL",
+      "precoStatus": "Preço público de captura oficial indexada, sujeito a atualização.",
+      "consultadoEm": "2026-11-06",
+      "ativos": [],
+      "notasOlfativas": null,
+      "beneficios": [
+        "Quatro opções de perfumação corporal",
+        "Efeito shimmer"
+      ],
+      "indicacao": "Alternar fragrâncias corporais conforme preferência.",
+      "modoUso": "Borrifar sobre a pele a aproximadamente 20 cm. Reaplicar conforme desejar.",
+      "composicaoINCI": null,
+      "composicaoStatus": "Lista INCI não localizada na fonte consultada.",
+      "naoInformado": [
+        "Lista completa de ingredientes INCI"
+      ],
+      "imageUrl": "https://dalcotone.com.br/cdn/shop/files/TODOS_BODY.png?v=1781899684&width=1946",
+      "observacoes": [
+        "A seção de notas da página do kit reproduz as notas de Provoke. Não foi atribuída uma pirâmide única ao conjunto.",
+        "A marca informa 8% de essência."
+      ],
+      "conteudoKit": [
+        "Sweet Crush Shimmer 200 mL",
+        "Luxy Shimmer 200 mL",
+        "Provoke Shimmer 200 mL",
+        "Fresh Skin Shimmer 200 mL"
+      ]
+    },
+    {
+      "nome": "Body Splash Fresh Skin Shimmer 200ml - 8% de essência.",
+      "url": "https://dalcotone.com.br/pages/body-splashs",
+      "precoPublico": 94.7,
+      "moeda": "BRL",
+      "precoStatus": "Preço público de captura oficial indexada, sujeito a atualização.",
+      "consultadoEm": "2026-11-06",
+      "ativos": [],
+      "notasOlfativas": null,
+      "beneficios": [
+        "Perfumação corporal",
+        "Brilho sutil na pele com partículas shimmer"
+      ],
+      "indicacao": "Perfumação corporal para quem aprecia fragrância leve e fresca.",
+      "modoUso": "Borrifar sobre a pele a aproximadamente 20 cm. Reaplicar conforme desejar.",
+      "composicaoINCI": null,
+      "composicaoStatus": "Lista INCI não localizada na fonte consultada.",
+      "naoInformado": [
+        "Lista completa de ingredientes INCI",
+        "Pirâmide olfativa completa",
+        "Instrução individual de uso"
+      ],
+      "imageUrl": "https://dalcotone.com.br/cdn/shop/files/FRESH.png?v=1781895268&width=1946",
+      "observacoes": [
+        "A marca informa 8% de essência. Notas olfativas descrevem o aroma e não comprovam ingredientes da fórmula.",
+        "Perfil olfativo e aplicação corporal confirmados na página oficial da linha e do kit; instrução geral do kit, sem ficha individual acessível."
+      ]
+    },
+    {
+      "nome": "Body Splash - Provoke Shimmer 200ml - 8% de essência.",
+      "url": "https://dalcotone.com.br/products/body-splash-provoke-shimmer-200ml-copia",
+      "precoPublico": 94.7,
+      "moeda": "BRL",
+      "precoStatus": "Preço público de captura oficial indexada, sujeito a atualização.",
+      "consultadoEm": "2026-11-06",
+      "ativos": [],
+      "notasOlfativas": {
+        "topo": [
+          "Flor de laranjeira do Egito",
+          "Laranja amarga"
+        ],
+        "coracao": [
+          "Tuberosa da Índia",
+          "Jasmim"
+        ],
+        "fundo": [
+          "Baunilha de Madagascar",
+          "Sândalo da Nova Caledônia"
+        ]
+      },
+      "beneficios": [
+        "Perfumação corporal",
+        "Brilho sutil na pele com partículas shimmer"
+      ],
+      "indicacao": "Perfumação corporal floral para a noite e ocasiões especiais, segundo a marca.",
+      "modoUso": "Borrifar sobre a pele a aproximadamente 20 cm. Reaplicar conforme desejar.",
+      "composicaoINCI": null,
+      "composicaoStatus": "Lista INCI não localizada na fonte consultada.",
+      "naoInformado": [
+        "Lista completa de ingredientes INCI"
+      ],
+      "imageUrl": "https://dalcotone.com.br/cdn/shop/files/PROVOKE.png?v=1781896368&width=1946",
+      "observacoes": [
+        "A marca informa 8% de essência. Notas olfativas descrevem o aroma e não comprovam ingredientes da fórmula."
+      ]
+    },
+    {
+      "nome": "Perfume Capilar L'amour Nutritivo 100ml",
+      "url": "https://dalcotone.com.br/products/perfume-capilar-l-amour",
+      "precoPublico": 169.99,
+      "moeda": "BRL",
+      "precoStatus": "Preço público de captura oficial indexada, sujeito a atualização.",
+      "consultadoEm": "2026-11-06",
+      "ativos": [
+        "Vitaminas não especificadas",
+        "Agentes nutritivos não especificados"
+      ],
+      "notasOlfativas": null,
+      "beneficios": [
+        "Perfumação dos fios",
+        "Brilho e nutrição, segundo a marca"
+      ],
+      "indicacao": "Finalização capilar com fragrância.",
+      "modoUso": "Borrifar sobre os cabelos secos ou úmidos. Pode ser usado durante o dia ou à noite.",
+      "composicaoINCI": null,
+      "composicaoStatus": "Lista INCI não localizada na fonte consultada.",
+      "naoInformado": [
+        "Lista completa de ingredientes INCI",
+        "Vitaminas e agentes nutritivos individualizados"
+      ],
+      "imageUrl": "https://dalcotone.com.br/cdn/shop/files/perfume_capilar_l_amour_100ml_3263_1_9abe45abe133d72b36bb7d932e29091f.png?v=1770120013&width=1946",
+      "observacoes": []
+    },
+    {
+      "nome": "Body Splash Masculino Iconi Pure Dal Cotone 200ml",
+      "url": "https://dalcotone.com.br/products/body-splash-masculino-auren-intense-dal-cotone-200ml-copia?variant=48319296864454",
+      "precoPublico": 94.7,
+      "moeda": "BRL",
+      "precoStatus": "Preço público de captura oficial indexada, sujeito a atualização.",
+      "consultadoEm": "2026-11-06",
+      "ativos": [],
+      "notasOlfativas": {
+        "topo": [
+          "Bergamota da Calábria",
+          "Bergamota verde"
+        ],
+        "coracao": [
+          "Flor de laranjeira da Tunísia"
+        ],
+        "fundo": [
+          "Ambrofix™",
+          "Patchouli"
+        ]
+      },
+      "beneficios": [
+        "Perfumação e desodorização corporal"
+      ],
+      "indicacao": "Perfumação corporal masculina; reaplicável ao longo do dia.",
+      "modoUso": "Borrifar sobre o corpo e reaplicar conforme desejar.",
+      "composicaoINCI": "Alcohol, Aqua, Propylene Glycol, Parfum, Citral, Citronellol, Coumarin, D-Limonene, Geraniol, Linalool, Evernia Furfuracea Extract.",
+      "composicaoStatus": "Lista de composição publicada na página oficial do produto.",
+      "naoInformado": [],
+      "imageUrl": "https://dalcotone.com.br/cdn/shop/files/BODYSPLASHICONI.png?v=1791987906&width=1946",
+      "observacoes": [
+        "Notas olfativas são separadas da lista de ingredientes INCI.",
+        "O nome da URL conserva outro produto; identidade confirmada no título da página."
+      ]
+    },
+    {
+      "nome": "Body Splash Masculino Auren Intense Dal Cotone 200ml",
+      "url": "https://dalcotone.com.br/products/body-splash-provoke-shimmer-200ml-8-de-essencia-copia?variant=48319087313094",
+      "precoPublico": 94.7,
+      "moeda": "BRL",
+      "precoStatus": "Preço público de captura oficial indexada, sujeito a atualização.",
+      "consultadoEm": "2026-11-06",
+      "ativos": [],
+      "notasOlfativas": {
+        "topo": [
+          "Raspas de limão",
+          "Bergamota",
+          "Hortelã"
+        ],
+        "coracao": [
+          "Lavanda",
+          "Gerânio",
+          "Notas verdes"
+        ],
+        "fundo": [
+          "Sândalo",
+          "Cedro",
+          "Fava tonka"
+        ]
+      },
+      "beneficios": [
+        "Perfumação e desodorização corporal"
+      ],
+      "indicacao": "Perfumação corporal masculina; reaplicável ao longo do dia.",
+      "modoUso": "Borrifar sobre o corpo e reaplicar conforme desejar.",
+      "composicaoINCI": "Alcohol, Aqua, Propylene Glycol, Parfum, Citral, Citronellol, Coumarin, D-Limonene, Geraniol, Linalool, Evernia Furfuracea Extract.",
+      "composicaoStatus": "Lista de composição publicada na página oficial do produto.",
+      "naoInformado": [],
+      "imageUrl": "https://dalcotone.com.br/cdn/shop/files/BODYSPLASHAUREN.png?v=1791987507&width=1946",
+      "observacoes": [
+        "Notas olfativas são separadas da lista de ingredientes INCI.",
+        "O nome da URL conserva outro produto; identidade confirmada no título da página."
+      ]
+    },
+    {
+      "nome": "Eau de Parfum Kesia Carmo 100 mL",
+      "url": "https://dalcotone.com.br/collections/all",
+      "precoPublico": 229.7,
+      "moeda": "BRL",
+      "precoStatus": "Preço público de captura oficial indexada, sujeito a atualização.",
+      "consultadoEm": "2026-11-06",
+      "ativos": [],
+      "notasOlfativas": null,
+      "beneficios": [
+        "Perfumação"
+      ],
+      "indicacao": "Perfume pessoal; ocasião específica não informada.",
+      "modoUso": null,
+      "composicaoINCI": null,
+      "composicaoStatus": "Lista INCI não localizada na fonte consultada.",
+      "naoInformado": [
+        "Lista completa de ingredientes INCI",
+        "Notas olfativas",
+        "Instrução de aplicação",
+        "Indicação detalhada"
+      ],
+      "imageUrl": "https://dalcotone.com.br/cdn/shop/files/KESIACARMO-PERFUME.png?v=1791210708&width=1946",
+      "observacoes": [
+        "Nome, tamanho e preço confirmados na coleção oficial. Ficha individual e detalhes técnicos não foram localizados; não inferir notas pela embalagem."
+      ]
+    },
+    {
+      "nome": "Eau de Parfum Raphael Borba 100 mL",
+      "url": "https://dalcotone.com.br/collections/all",
+      "precoPublico": 229.7,
+      "moeda": "BRL",
+      "precoStatus": "Preço público de captura oficial indexada, sujeito a atualização.",
+      "consultadoEm": "2026-11-06",
+      "ativos": [],
+      "notasOlfativas": null,
+      "beneficios": [
+        "Perfumação"
+      ],
+      "indicacao": "Perfume pessoal; ocasião específica não informada.",
+      "modoUso": null,
+      "composicaoINCI": null,
+      "composicaoStatus": "Lista INCI não localizada na fonte consultada.",
+      "naoInformado": [
+        "Lista completa de ingredientes INCI",
+        "Notas olfativas",
+        "Instrução de aplicação",
+        "Indicação detalhada"
+      ],
+      "imageUrl": "https://dalcotone.com.br/cdn/shop/files/RAPHAEL_BORBA_-_PERFUME.png?v=1791211374&width=1946",
+      "observacoes": [
+        "Nome, tamanho e preço confirmados na coleção oficial. Ficha individual e detalhes técnicos não foram localizados; não inferir notas pela embalagem."
+      ]
+    }
+  ]
+}

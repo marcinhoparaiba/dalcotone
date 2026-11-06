@@ -1,0 +1,246 @@
+{
+  "images": [
+    {
+      "productId": "pro-24k-premium-selagem",
+      "localImage": "/assets/products/pro-24k-premium-selagem.webp",
+      "sourcePage": {
+        "pageno": 1,
+        "printedPage": 1,
+        "physicalPage": 2
+      },
+      "name": "Selagem 24K Premium",
+      "size": "1 L",
+      "proveniencia": {
+        "type": "official-pdf-extraction",
+        "file": "[ DIGITAL ] CATÁLOGO - DAL COTONE 2025-min.pdf",
+        "xref": 5,
+        "originalPreserved": "/workspace/work/dalcotone-pdf/original-a/xref5.png",
+        "cropBoxPixels": null
+      },
+      "verifiedPresentation": true,
+      "notes": [
+        "Rótulo conferido visualmente no PDF; imagem original extraída com máscara alpha."
+      ]
+    },
+    {
+      "productId": "pro-24k-mask-mask",
+      "localImage": "/assets/products/pro-24k-mask-mask.webp",
+      "sourcePage": {
+        "pageno": 3,
+        "printedPage": 3,
+        "physicalPage": 4
+      },
+      "name": "Intensive Treatment Mask 24K Premium — Botox Reconstrutor",
+      "size": "1 kg",
+      "proveniencia": {
+        "type": "official-pdf-extraction",
+        "file": "[ DIGITAL ] CATÁLOGO - DAL COTONE 2025-min.pdf",
+        "xref": 26,
+        "originalPreserved": "/workspace/work/dalcotone-pdf/original-a/xref26.png",
+        "cropBoxPixels": null
+      },
+      "verifiedPresentation": true,
+      "notes": [
+        "Rótulo conferido visualmente no PDF; imagem original extraída com máscara alpha."
+      ]
+    },
+    {
+      "productId": "pro-bio-plastia-shampoo",
+      "localImage": "/assets/products/pro-bio-plastia-shampoo.webp",
+      "sourcePage": {
+        "pageno": 4,
+        "printedPage": 4,
+        "physicalPage": 5
+      },
+      "name": "Shampoo Pré-Tratamento Bio Plastia",
+      "size": "1 L",
+      "proveniencia": {
+        "type": "official-pdf-extraction",
+        "file": "[ DIGITAL ] CATÁLOGO - DAL COTONE 2025-min.pdf",
+        "xref": 37,
+        "originalPreserved": "/workspace/work/dalcotone-pdf/original-a/xref37.png",
+        "cropBoxPixels": [
+          360,
+          30,
+          685,
+          1040
+        ]
+      },
+      "verifiedPresentation": true,
+      "notes": [
+        "Rótulo conferido visualmente no PDF; imagem original extraída com máscara alpha."
+      ]
+    },
+    {
+      "productId": "pro-bio-plastia-retexturizador",
+      "localImage": "/assets/products/pro-bio-plastia-retexturizador.webp",
+      "sourcePage": {
+        "pageno": 4,
+        "printedPage": 4,
+        "physicalPage": 5
+      },
+      "name": "Retexturizador Bio Plastia",
+      "size": "1 L",
+      "proveniencia": {
+        "type": "official-pdf-extraction",
+        "file": "[ DIGITAL ] CATÁLOGO - DAL COTONE 2025-min.pdf",
+        "xref": 39,
+        "originalPreserved": "/workspace/work/dalcotone-pdf/original-a/xref39.png",
+        "cropBoxPixels": [
+          360,
+          30,
+          685,
+          1040
+        ]
+      },
+      "verifiedPresentation": true,
+      "notes": [
+        "Rótulo conferido visualmente no PDF; imagem original extraída com máscara alpha."
+      ]
+    },
+    {
+      "productId": "pro-oxo-fusion-retexturizador",
+      "localImage": "/assets/products/pro-oxo-fusion-retexturizador.webp",
+      "sourcePage": {
+        "pageno": 5,
+        "printedPage": 5,
+        "physicalPage": 6
+      },
+      "name": "Oxo Silk Fusion High Performance",
+      "size": "1 L",
+      "proveniencia": {
+        "type": "official-pdf-extraction",
+        "file": "[ DIGITAL ] CATÁLOGO - DAL COTONE 2025-min.pdf",
+        "xref": 51,
+        "originalPreserved": "/workspace/work/dalcotone-pdf/original-a/xref51.png",
+        "cropBoxPixels": null
+      },
+      "verifiedPresentation": true,
+      "notes": [
+        "Rótulo conferido visualmente no PDF; imagem original extraída com máscara alpha."
+      ]
+    },
+    {
+      "productId": "pro-silk-fiber-regular",
+      "localImage": "/assets/products/pro-silk-fiber-regular.webp",
+      "sourcePage": {
+        "pageno": 6,
+        "printedPage": 6,
+        "physicalPage": 7
+      },
+      "name": "Retexturizador Silk Fiber",
+      "size": "1 kg",
+      "proveniencia": {
+        "type": "official-pdf-extraction",
+        "file": "[ DIGITAL ] CATÁLOGO - DAL COTONE 2025-min.pdf",
+        "xref": 66,
+        "originalPreserved": "/workspace/work/dalcotone-pdf/original-a/xref66.png",
+        "cropBoxPixels": null
+      },
+      "verifiedPresentation": true,
+      "notes": [
+        "Rótulo conferido visualmente no PDF; imagem original extraída com máscara alpha."
+      ]
+    },
+    {
+      "productId": "pro-silk-fiber-blond",
+      "localImage": "/assets/products/pro-silk-fiber-blond.webp",
+      "sourcePage": {
+        "pageno": 6,
+        "printedPage": 6,
+        "physicalPage": 7
+      },
+      "name": "Retexturizador Silk Fiber Blond",
+      "size": "1 kg",
+      "proveniencia": {
+        "type": "official-pdf-extraction",
+        "file": "[ DIGITAL ] CATÁLOGO - DAL COTONE 2025-min.pdf",
+        "xref": 70,
+        "originalPreserved": "/workspace/work/dalcotone-pdf/original-a/xref70.png",
+        "cropBoxPixels": null
+      },
+      "verifiedPresentation": true,
+      "notes": [
+        "Rótulo conferido visualmente no PDF; imagem original extraída com máscara alpha."
+      ]
+    },
+    {
+      "productId": "pro-clean-care-shampoo",
+      "localImage": "/assets/products/pro-clean-care-shampoo.webp",
+      "sourcePage": {
+        "pageno": 8,
+        "printedPage": 8,
+        "physicalPage": 9
+      },
+      "name": "Shampoo Preparador Clean Care",
+      "size": "1 L",
+      "proveniencia": {
+        "type": "official-pdf-extraction",
+        "file": "[ DIGITAL ] CATÁLOGO - DAL COTONE 2025-min.pdf",
+        "xref": 123,
+        "originalPreserved": "/workspace/work/dalcotone-pdf/original-a/xref123.png",
+        "cropBoxPixels": null
+      },
+      "verifiedPresentation": true,
+      "notes": [
+        "Rótulo conferido visualmente no PDF; imagem original extraída com máscara alpha."
+      ]
+    },
+    {
+      "productId": "consultor-ph-control",
+      "localImage": "/assets/products/consultor-ph-control.webp",
+      "sourcePage": {
+        "pageno": 25,
+        "printedPage": 25,
+        "physicalPage": 26
+      },
+      "name": "pH Control",
+      "size": "500 mL",
+      "proveniencia": {
+        "type": "official-pdf-extraction",
+        "file": "[ DIGITAL ] CATÁLOGO - DAL COTONE 2025-min.pdf",
+        "xref": 358,
+        "originalPreserved": "/workspace/work/dalcotone-pdf/original-a/xref358.png",
+        "cropBoxPixels": [
+          260,
+          575,
+          490,
+          1125
+        ]
+      },
+      "verifiedPresentation": true,
+      "notes": [
+        "Recorte da fotografia oficial de modelo segurando o produto. Fundo fotográfico preservado; sem reconstrução de rótulo. xref732 éNecessityUse e não foi usado."
+      ]
+    },
+    {
+      "productId": "2bce03643a5eb89e",
+      "localImage": "/assets/products/2bce03643a5eb89e.webp",
+      "sourcePage": {
+        "pageno": 27,
+        "printedPage": 27,
+        "physicalPage": 28
+      },
+      "name": "Condicionador Force Life",
+      "size": "300 mL",
+      "proveniencia": {
+        "type": "official-pdf-extraction",
+        "file": "[ DIGITAL ] CATÁLOGO - DAL COTONE 2025-min.pdf",
+        "xref": 375,
+        "originalPreserved": "/workspace/work/dalcotone-pdf/original-a/xref375.png",
+        "cropBoxPixels": [
+          447,
+          170,
+          648,
+          982
+        ]
+      },
+      "verifiedPresentation": true,
+      "notes": [
+        "Recorte exclusivo do condicionador no conjunto da linha ForceLife. Outrosprodutos não incluídos."
+      ]
+    }
+  ],
+  "count": 10,
+  "unresolved": []
+}

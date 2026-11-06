@@ -1,0 +1,10 @@
+{
+  "name": "guia-consultor-dal-cotone",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "check": "node --check dist/app.js && node --check dist/core.js && node --check dist/sw.js && node --check dist/study.js",
+    "test": "node --test tests/*.mjs"
+  }
+}

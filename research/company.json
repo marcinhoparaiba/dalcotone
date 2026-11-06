@@ -1,0 +1,15 @@
+{
+  "checkedAt": "2026-11-06",
+  "facts": [
+    {"label":"Criação da marca","value":"2015","detail":"Ano de fundação informado pela Dal Cotone em seu site.","sourceUrl":"https://dalcotone.com.br/"},
+    {"label":"Fabricação","value":"Fábrica própria","detail":"A marca declara fabricação própria e desenvolvimento de fórmulas.","sourceUrl":"https://dalcotone.com.br/"},
+    {"label":"Endereço divulgado","value":"Vila Velha · ES","detail":"Endereço comercial publicado no site. Isso não comprova a localização da fábrica.","sourceUrl":"https://dalcotone.com.br/pages/contact"},
+    {"label":"Atendimento no Brasil","value":"Envios nacionais","detail":"A loja informa envio para todo o Brasil; não é uma lista de distribuidores físicos.","sourceUrl":"https://dalcotone.com.br/"},
+    {"label":"Atuação internacional","value":"Declarada pela marca","detail":"O site menciona presença internacional, mas não especifica os países nas fontes consultadas.","sourceUrl":"https://dalcotone.com.br/"},
+    {"label":"Portfólio","value":"Profissional e manutenção","detail":"O catálogo inclui linhas de salão e cuidados para manutenção em casa.","sourceUrl":"https://dalcotone.com.br/pages/linhas"}
+  ],
+  "pitch":"Olá, eu sou [seu nome], consultor Dal Cotone. A marca foi fundada em 2015 e informa ter fabricação própria. Trabalho com linhas de cuidado profissional e manutenção em casa. Posso entender quais serviços e necessidades aparecem mais no seu salão para apresentar as linhas adequadas?",
+  "questions":["Quais serviços são mais frequentes no salão?","Quais necessidades de cuidado aparecem mais nos seus atendimentos?","Você procura produtos para uso profissional, manutenção em casa ou ambos?","Prefere começar conhecendo uma linha completa ou um kit específico?"],
+  "operator":{"name":"TRA DISTRIBUIDORA DE COSMETICOS LTDA","cnpj":"22.319.987/0002-25","address":"Av. Liberdade, 115 · Riviera da Barra · Vila Velha/ES · CEP 29126-105","sourceUrl":"https://dalcotone.com.br/pages/contact"},
+  "notes":["Não foram confirmados países, número de salões atendidos ou posição em rankings de mercado.","O roteiro é uma sugestão de conversa para o consultor, não uma declaração oficial da empresa."]
+}

@@ -1,0 +1,2083 @@
+{
+  "consultadoEm": "2026-11-06",
+  "fonte": "dalcotone.com.br — páginas de produtos e coleções oficiais",
+  "observacoes": [
+    "Fichas resumidas e parafraseadas; benefícios atribuídos à marca.",
+    "Preços de capturas indexadas em datas diferentes, sujeitos a campanhas e alterações; não são garantia de preço em tempo real.",
+    "Destaques de ativos não equivalem à composição INCI. Nenhuma lista completa foi encontrada nestas fichas.",
+    "Imagens: preencher por catálogo oficial quando imageUrl for null."
+  ],
+  "produtos": [
+    {
+      "nome": "Máscara Banana e Mel Efeito Teia 500 g",
+      "url": "https://dalcotone.com.br/products/mascara-banana-e-mel-efeito-teia-500g",
+      "precoPublico": 109.9,
+      "moeda": "BRL",
+      "precoStatus": "Preço encontrado em captura oficial indexada; pode mudar. Confirmar atualização online.",
+      "consultadoEm": "2026-11-06",
+      "ativos": [
+        "Banana",
+        "Mel",
+        "Vitaminas",
+        "Aminoácidos",
+        "Lipídios",
+        "Potássio"
+      ],
+      "beneficios": [
+        "Hidratação e nutrição",
+        "Maciez e brilho"
+      ],
+      "indicacao": "Cabelos ressecados, quebradiços ou opacos.",
+      "modoUso": "Após lavar, aplicar no comprimento e pontas, massagear, deixar 10–15 minutos e enxaguar. A marca sugere 1–2 vezes por semana.",
+      "composicaoINCI": null,
+      "composicaoStatus": "A página apresenta destaques da formulação, sem lista INCI completa.",
+      "naoInformado": [
+        "Lista completa de ingredientes INCI"
+      ],
+      "imageUrl": "https://dalcotone.com.br/cdn/shop/files/mascara_banana_e_mel_efeito_teia_500g_3209_1_6eb0cff2fa2b8d7309d97b53743430b8.png?v=1770119926&width=1946",
+      "observacoes": [
+        "Preço de página aberta em 06/11/2026; capturas antigas mostram R$141,21."
+      ],
+      "conteudoKit": null
+    },
+    {
+      "nome": "Máscara Full Recover Efeito Teia 500 g",
+      "url": "https://dalcotone.com.br/products/mascara-capilar-profissional-recovery-500g",
+      "precoPublico": 109.9,
+      "moeda": "BRL",
+      "precoStatus": "Preço encontrado em captura oficial indexada; pode mudar. Confirmar atualização online.",
+      "consultadoEm": "2026-11-06",
+      "ativos": [
+        "Proteínas",
+        "Aminoácidos biocompatíveis"
+      ],
+      "beneficios": [
+        "Reparação cosmética",
+        "Maciez, brilho e elasticidade"
+      ],
+      "indicacao": "Fios fragilizados, danificados ou ressecados.",
+      "modoUso": "Após lavar, aplicar no comprimento e pontas, massagear, deixar 10–15 minutos e enxaguar. Frequência sugerida: semanal.",
+      "composicaoINCI": null,
+      "composicaoStatus": "A página apresenta destaques da formulação, sem lista INCI completa.",
+      "naoInformado": [
+        "Lista completa de ingredientes INCI"
+      ],
+      "imageUrl": "https://dalcotone.com.br/cdn/shop/files/mascara_full_recover_efeito_teia_500g_3185_1_3329fb9482f45f4d06f5a713e67d22fb.png?v=1770119991&width=3840",
+      "observacoes": [
+        "Preço da coleção Reconstrução, capturada ontem; ficha antiga informa R$130,14."
+      ],
+      "conteudoKit": null
+    },
+    {
+      "nome": "Máscara Reconstrutor Efeito Teia 500 g",
+      "url": "https://dalcotone.com.br/products/mascara-reconstrutor-efeito-teia-500g",
+      "precoPublico": 109.9,
+      "moeda": "BRL",
+      "precoStatus": "Preço encontrado em captura oficial indexada; pode mudar. Confirmar atualização online.",
+      "consultadoEm": "2026-11-06",
+      "ativos": [
+        "Geleia real",
+        "Óleo de amêndoas",
+        "Ceramidas"
+      ],
+      "beneficios": [
+        "Reposição de nutrientes",
+        "Melhora da resistência e elasticidade"
+      ],
+      "indicacao": "Cabelos danificados após processos químicos.",
+      "modoUso": "Após lavar, aplicar no comprimento e pontas, massagear, deixar 10–15 minutos e enxaguar. A marca sugere a cada 7 ou 15 dias.",
+      "composicaoINCI": null,
+      "composicaoStatus": "A página apresenta destaques da formulação, sem lista INCI completa.",
+      "naoInformado": [
+        "Lista completa de ingredientes INCI"
+      ],
+      "imageUrl": "https://dalcotone.com.br/cdn/shop/files/mascara_reconstrutor_efeito_teia_500g_3211_1_262e00a4ae81ce1650e6da33714d909e.png?v=1770119943&width=1946",
+      "observacoes": [
+        "Preço da coleção Reconstrução, capturada ontem; ficha antiga informa R$141,21."
+      ],
+      "conteudoKit": null
+    },
+    {
+      "nome": "Máscara Max Force 1 kg",
+      "url": "https://dalcotone.com.br/products/mascara-max-repair-1l",
+      "precoPublico": 167.9,
+      "moeda": "BRL",
+      "precoStatus": "Preço encontrado em captura oficial indexada; pode mudar. Confirmar atualização online.",
+      "consultadoEm": "2026-11-06",
+      "ativos": [
+        "Óleo de argan",
+        "Vitamina A"
+      ],
+      "beneficios": [
+        "Reconstrução cosmética",
+        "Fortalecimento e brilho"
+      ],
+      "indicacao": "Cabelos muito danificados ou frágeis.",
+      "modoUso": "Após lavar, aplicar no comprimento e pontas, massagear, deixar 10–15 minutos e enxaguar.",
+      "composicaoINCI": null,
+      "composicaoStatus": "A página apresenta destaques da formulação, sem lista INCI completa.",
+      "naoInformado": [
+        "Lista completa de ingredientes INCI"
+      ],
+      "imageUrl": "https://dalcotone.com.br/cdn/shop/files/mascara_max_force_1kg_3353_1_4dbe5e9c7f0affbc794f7e77d2a41934.png?v=1770119977&width=1946",
+      "observacoes": [
+        "URL conserva unidade antiga; nome e tamanho seguem título oficial."
+      ],
+      "conteudoKit": null
+    },
+    {
+      "nome": "Máscara Max Force 300 g",
+      "url": "https://dalcotone.com.br/products/mascara-max-repair-300ml",
+      "precoPublico": 155.61,
+      "moeda": "BRL",
+      "precoStatus": "Preço encontrado em captura oficial indexada; pode mudar. Confirmar atualização online.",
+      "consultadoEm": "2026-11-06",
+      "ativos": [
+        "Óleo de argan",
+        "Vitamina A"
+      ],
+      "beneficios": [
+        "Reconstrução cosmética",
+        "Fortalecimento e brilho"
+      ],
+      "indicacao": "Cabelos muito danificados ou frágeis.",
+      "modoUso": "Após lavar, aplicar no comprimento e pontas, massagear, deixar 10–15 minutos e enxaguar.",
+      "composicaoINCI": null,
+      "composicaoStatus": "A página apresenta destaques da formulação, sem lista INCI completa.",
+      "naoInformado": [
+        "Lista completa de ingredientes INCI"
+      ],
+      "imageUrl": "https://dalcotone.com.br/cdn/shop/files/mascara_max_force_300ml_3345_1_ef31d82723bb2c0f0205c952d094b04a.png?v=1770119957&width=1946",
+      "observacoes": [
+        "URL conserva unidade antiga; nome e tamanho seguem título oficial."
+      ],
+      "conteudoKit": null
+    },
+    {
+      "nome": "Máscara Power Repair 1 kg",
+      "url": "https://dalcotone.com.br/products/mascara-power-repair-500g",
+      "precoPublico": 167.9,
+      "moeda": "BRL",
+      "precoStatus": "Preço encontrado em captura oficial indexada; pode mudar. Confirmar atualização online.",
+      "consultadoEm": "2026-11-06",
+      "ativos": [
+        "Frulix de açaí",
+        "Ceramidas"
+      ],
+      "beneficios": [
+        "Hidratação",
+        "Força e brilho"
+      ],
+      "indicacao": "Rotina de hidratação de fios ressecados.",
+      "modoUso": "Após lavar, aplicar no comprimento e pontas, massagear, deixar 10–15 minutos e enxaguar. Manter 2 cm de distância do couro cabeludo.",
+      "composicaoINCI": null,
+      "composicaoStatus": "A página apresenta destaques da formulação, sem lista INCI completa.",
+      "naoInformado": [
+        "Lista completa de ingredientes INCI"
+      ],
+      "imageUrl": "https://dalcotone.com.br/cdn/shop/files/mascara_power_repair_1kg_3307_1_a780d08ed7cd830780a69df95086efc8.png?v=1770119950&width=1946",
+      "observacoes": [
+        "A página de 1 kg conserva 500g na URL."
+      ],
+      "conteudoKit": null
+    },
+    {
+      "nome": "Máscara Power Repair 300 g",
+      "url": "https://dalcotone.com.br/products/mascara-power-repair-300g",
+      "precoPublico": 155.61,
+      "moeda": "BRL",
+      "precoStatus": "Preço encontrado em captura oficial indexada; pode mudar. Confirmar atualização online.",
+      "consultadoEm": "2026-11-06",
+      "ativos": [
+        "Frulix de açaí",
+        "Ceramidas"
+      ],
+      "beneficios": [
+        "Hidratação",
+        "Força e brilho"
+      ],
+      "indicacao": "Rotina de hidratação de fios ressecados.",
+      "modoUso": "Após lavar, aplicar no comprimento e pontas, massagear, deixar 10–15 minutos e enxaguar. Manter 2 cm de distância do couro cabeludo.",
+      "composicaoINCI": null,
+      "composicaoStatus": "A página apresenta destaques da formulação, sem lista INCI completa.",
+      "naoInformado": [
+        "Lista completa de ingredientes INCI"
+      ],
+      "imageUrl": "https://dalcotone.com.br/cdn/shop/files/mascara_power_repair_300g_3301_1_617fba6b63ad9ac8bfefae08e8bdacc4.png?v=1770119943&width=1946",
+      "observacoes": [],
+      "conteudoKit": null
+    },
+    {
+      "nome": "Shampoo Hydra Ceramides 300 ml",
+      "url": "https://dalcotone.com.br/products/shampoo-ceramidas-300ml",
+      "precoPublico": 80.01,
+      "moeda": "BRL",
+      "precoStatus": "Preço encontrado em captura oficial indexada; pode mudar. Confirmar atualização online.",
+      "consultadoEm": "2026-11-06",
+      "ativos": [
+        "Alho",
+        "Bioceramidas"
+      ],
+      "beneficios": [
+        "Limpeza suave",
+        "Hidratação e disciplina"
+      ],
+      "indicacao": "Fios com frizz ou quimicamente tratados.",
+      "modoUso": "Aplicar nos cabelos molhados, massagear, aguardar 3 minutos e enxaguar. Repetir se necessário.",
+      "composicaoINCI": null,
+      "composicaoStatus": "A página apresenta destaques da formulação, sem lista INCI completa.",
+      "naoInformado": [
+        "Lista completa de ingredientes INCI"
+      ],
+      "imageUrl": "https://dalcotone.com.br/cdn/shop/files/shampoo_hydra_ceramides_300ml_3329_1_e59b92f582c7b91e62da07e6eb5f77a5.png?v=1770119949&width=1946",
+      "observacoes": [],
+      "conteudoKit": null
+    },
+    {
+      "nome": "Máscara Hydra Ceramides 300 g",
+      "url": "https://dalcotone.com.br/products/mascara-ceramidas-300g",
+      "precoPublico": 126.81,
+      "moeda": "BRL",
+      "precoStatus": "Preço encontrado em captura oficial indexada; pode mudar. Confirmar atualização online.",
+      "consultadoEm": "2026-11-06",
+      "ativos": [
+        "Alho",
+        "Bioceramidas"
+      ],
+      "beneficios": [
+        "Hidratação",
+        "Desembaraço e controle de frizz"
+      ],
+      "indicacao": "Fios com frizz ou quimicamente tratados.",
+      "modoUso": "Após lavar, aplicar no comprimento e pontas, massagear, deixar 10–15 minutos e enxaguar.",
+      "composicaoINCI": null,
+      "composicaoStatus": "A página apresenta destaques da formulação, sem lista INCI completa.",
+      "naoInformado": [
+        "Lista completa de ingredientes INCI"
+      ],
+      "imageUrl": "https://dalcotone.com.br/cdn/shop/files/mascara_hydra_ceramides_300g_3331_1_c5d68ece382944a52308661116037317.png?v=1770119950&width=1946",
+      "observacoes": [],
+      "conteudoKit": null
+    },
+    {
+      "nome": "Spray 24K com Efeito Memória 300 ml",
+      "url": "https://dalcotone.com.br/products/spray-24k-300ml",
+      "precoPublico": 180.71,
+      "moeda": "BRL",
+      "precoStatus": "Preço encontrado em captura oficial indexada; pode mudar. Confirmar atualização online.",
+      "consultadoEm": "2026-11-06",
+      "ativos": [
+        "Lisselini",
+        "Silsoft AX-E"
+      ],
+      "beneficios": [
+        "Alinhamento e controle de frizz",
+        "Proteção térmica e brilho"
+      ],
+      "indicacao": "Finalização de todos os tipos de cabelos, especialmente com frizz.",
+      "modoUso": "Lavar e condicionar, retirar excesso de água, aplicar no comprimento, aguardar 10–15 minutos e ativar com secador.",
+      "composicaoINCI": null,
+      "composicaoStatus": "A página apresenta destaques da formulação, sem lista INCI completa.",
+      "naoInformado": [
+        "Lista completa de ingredientes INCI"
+      ],
+      "imageUrl": null,
+      "observacoes": [
+        "Tratamento termoativado; não apresentar como alisamento permanente.",
+        "Capturas recentes de coleção mostram promoção diferente; confirmar preço."
+      ],
+      "conteudoKit": null,
+      "aliases": [
+        "Spray Efeito Memória 24K 300 mL"
+      ]
+    },
+    {
+      "nome": "Shampoo S.O.S Detox 300 ml",
+      "url": "https://dalcotone.com.br/products/shampoo-s-o-s-detox-300ml",
+      "precoPublico": 67.14,
+      "moeda": "BRL",
+      "precoStatus": "Preço encontrado em captura oficial indexada; pode mudar. Confirmar atualização online.",
+      "consultadoEm": "2026-11-06",
+      "ativos": [
+        "Café verde",
+        "Fiber Detox",
+        "Óleo de cártamo"
+      ],
+      "beneficios": [
+        "Limpeza e remoção de impurezas",
+        "Sensação de leveza"
+      ],
+      "indicacao": "Todos os tipos de cabelos, em rotina de limpeza de impurezas.",
+      "modoUso": "Aplicar nos cabelos molhados, massagear, aguardar 3 minutos e enxaguar. Repetir se necessário.",
+      "composicaoINCI": null,
+      "composicaoStatus": "A página apresenta destaques da formulação, sem lista INCI completa.",
+      "naoInformado": [
+        "Lista completa de ingredientes INCI"
+      ],
+      "imageUrl": "https://dalcotone.com.br/cdn/shop/files/shampoo_s_o_s_detox_300ml_3287_1_ca75f0be28698c93747fd698d7a75926.png?v=1770119938&width=3840",
+      "observacoes": [
+        "A marca sugere semanalmente para oleosos e a cada 15 dias para secos."
+      ],
+      "conteudoKit": null
+    },
+    {
+      "nome": "Condicionador S.O.S Detox 300 ml",
+      "url": "https://dalcotone.com.br/products/condicionador-s-o-s-detox-300ml",
+      "precoPublico": 73.8,
+      "moeda": "BRL",
+      "precoStatus": "Preço encontrado em captura oficial indexada; pode mudar. Confirmar atualização online.",
+      "consultadoEm": "2026-11-06",
+      "ativos": [
+        "Café verde",
+        "Fiber Detox",
+        "Óleo de cártamo"
+      ],
+      "beneficios": [
+        "Condicionamento",
+        "Maciez e desembaraço"
+      ],
+      "indicacao": "Fios que precisam de condicionamento na rotina SOS Detox.",
+      "modoUso": "Após a máscara, aplicar no comprimento a 2 cm do couro cabeludo, aguardar 3 minutos e enxaguar.",
+      "composicaoINCI": null,
+      "composicaoStatus": "A página apresenta destaques da formulação, sem lista INCI completa.",
+      "naoInformado": [
+        "Lista completa de ingredientes INCI"
+      ],
+      "imageUrl": "https://dalcotone.com.br/cdn/shop/files/condicionador_s_o_s_detox_300ml_3291_1_4b048d2f099b14a2a620430ef115b342.png?v=1770119939&width=1946",
+      "observacoes": [],
+      "conteudoKit": null
+    },
+    {
+      "nome": "Máscara S.O.S Detox 1 kg",
+      "url": "https://dalcotone.com.br/products/mascara-s-o-s-detox-1kg",
+      "precoPublico": 204.21,
+      "moeda": "BRL",
+      "precoStatus": "Preço encontrado em captura oficial indexada; pode mudar. Confirmar atualização online.",
+      "consultadoEm": "2026-11-06",
+      "ativos": [
+        "Café verde",
+        "Fiber Detox",
+        "Óleo de cártamo"
+      ],
+      "beneficios": [
+        "Nutrição",
+        "Força e brilho"
+      ],
+      "indicacao": "Rotina de nutrição e cuidado dos fios.",
+      "modoUso": "Após lavar, aplicar no comprimento e pontas, massagear, deixar 10–15 minutos e enxaguar. Evitar couro cabeludo.",
+      "composicaoINCI": null,
+      "composicaoStatus": "A página apresenta destaques da formulação, sem lista INCI completa.",
+      "naoInformado": [
+        "Lista completa de ingredientes INCI"
+      ],
+      "imageUrl": "https://dalcotone.com.br/cdn/shop/files/mascara_s_o_s_detox_1kg_3297_1_49dfe1388afa07c1ef2a1ac156767455.png?v=1770119956&width=3840",
+      "observacoes": [],
+      "conteudoKit": null
+    },
+    {
+      "nome": "Máscara S.O.S Detox 300 g",
+      "url": "https://dalcotone.com.br/products/mascara-s-o-s-detox-300g",
+      "precoPublico": 107.91,
+      "moeda": "BRL",
+      "precoStatus": "Preço encontrado em captura oficial indexada; pode mudar. Confirmar atualização online.",
+      "consultadoEm": "2026-11-06",
+      "ativos": [
+        "Café verde",
+        "Fiber Detox",
+        "Óleo de cártamo"
+      ],
+      "beneficios": [
+        "Nutrição",
+        "Força e brilho"
+      ],
+      "indicacao": "Rotina de nutrição e cuidado dos fios.",
+      "modoUso": "Após lavar, aplicar no comprimento e pontas, massagear, deixar 10–15 minutos e enxaguar. Evitar couro cabeludo.",
+      "composicaoINCI": null,
+      "composicaoStatus": "A página apresenta destaques da formulação, sem lista INCI completa.",
+      "naoInformado": [
+        "Lista completa de ingredientes INCI"
+      ],
+      "imageUrl": "https://dalcotone.com.br/cdn/shop/files/mascara_s_o_s_detox_300g_3289_1_d4d85c820ea070223c267233de35b033.png?v=1770119942&width=3840",
+      "observacoes": [],
+      "conteudoKit": null
+    },
+    {
+      "nome": "Finalizador S.O.S Detox 300 ml",
+      "url": "https://dalcotone.com.br/products/finalizador-s-o-s-detox-300ml",
+      "precoPublico": 71.57,
+      "moeda": "BRL",
+      "precoStatus": "Preço encontrado em captura oficial indexada; pode mudar. Confirmar atualização online.",
+      "consultadoEm": "2026-11-06",
+      "ativos": [
+        "Café verde",
+        "Fiber Detox",
+        "Óleo de cártamo"
+      ],
+      "beneficios": [
+        "Maciez e brilho",
+        "Finalização dos fios"
+      ],
+      "indicacao": "Comprimentos que precisam de acabamento e proteção cosmética.",
+      "modoUso": "Retirar umidade com toalha. Aplicar mecha a mecha no comprimento a 2 cm do couro cabeludo e finalizar conforme o rótulo.",
+      "composicaoINCI": null,
+      "composicaoStatus": "A página apresenta destaques da formulação, sem lista INCI completa.",
+      "naoInformado": [
+        "Lista completa de ingredientes INCI"
+      ],
+      "imageUrl": "https://dalcotone.com.br/cdn/shop/files/finalizador_s_o_s_detox_300ml_3293_1_e36e3f65a05f5f40dbc19d4077b9a6d0.png?v=1770120032&width=1946",
+      "observacoes": [
+        "Página menciona escovação/prancha e enxágue opcional; conferir instruções da embalagem."
+      ],
+      "conteudoKit": null
+    },
+    {
+      "nome": "Creme de Modelagem Cachos Power Curls 1 L",
+      "url": "https://dalcotone.com.br/products/creme-de-modelagem-cachos-power-curls-1l",
+      "precoPublico": 128.61,
+      "moeda": "BRL",
+      "precoStatus": "Preço encontrado em captura oficial indexada; pode mudar. Confirmar atualização online.",
+      "consultadoEm": "2026-11-06",
+      "ativos": [
+        "Óleo de coco",
+        "D-pantenol"
+      ],
+      "beneficios": [
+        "Definição de cachos",
+        "Hidratação e controle de frizz"
+      ],
+      "indicacao": "Cabelos cacheados.",
+      "modoUso": "Aplicar pequena quantidade em fios úmidos ou secos, no comprimento evitando a raiz. Amassar os cachos. Sem enxágue.",
+      "composicaoINCI": null,
+      "composicaoStatus": "A página apresenta destaques da formulação, sem lista INCI completa.",
+      "naoInformado": [
+        "Lista completa de ingredientes INCI"
+      ],
+      "imageUrl": "https://dalcotone.com.br/cdn/shop/files/creme_de_modelagem_cachos_power_curls_1l_3385_1_e5ffb3a5e656e31a166ccfab4d875f45.png?v=1770119967&width=1946",
+      "observacoes": [],
+      "conteudoKit": null
+    },
+    {
+      "nome": "Creme de Modelagem Cachos Power Curls 300 ml",
+      "url": "https://dalcotone.com.br/products/creme-de-modelagem-cachos-power-curls-300ml",
+      "precoPublico": 86.58,
+      "moeda": "BRL",
+      "precoStatus": "Preço encontrado em captura oficial indexada; pode mudar. Confirmar atualização online.",
+      "consultadoEm": "2026-11-06",
+      "ativos": [
+        "Óleo de coco",
+        "D-pantenol"
+      ],
+      "beneficios": [
+        "Definição de cachos",
+        "Hidratação e controle de frizz"
+      ],
+      "indicacao": "Cabelos cacheados.",
+      "modoUso": "Aplicar pequena quantidade em fios úmidos ou secos, no comprimento evitando a raiz. Amassar os cachos. Sem enxágue.",
+      "composicaoINCI": null,
+      "composicaoStatus": "A página apresenta destaques da formulação, sem lista INCI completa.",
+      "naoInformado": [
+        "Lista completa de ingredientes INCI"
+      ],
+      "imageUrl": "https://dalcotone.com.br/cdn/shop/files/creme_de_modelagem_cachos_power_curls_300ml_3377_1_66a1fafc92f02a278d2f0db74149516e.png?v=1770119972&width=1946",
+      "observacoes": [],
+      "conteudoKit": null
+    },
+    {
+      "nome": "Geleia Cachos Power Curls 1 kg",
+      "url": "https://dalcotone.com.br/products/geleia-cachos-power-curls-1kg",
+      "precoPublico": 179.01,
+      "moeda": "BRL",
+      "precoStatus": "Preço encontrado em captura oficial indexada; pode mudar. Confirmar atualização online.",
+      "consultadoEm": "2026-11-06",
+      "ativos": [
+        "Óleo de coco",
+        "D-pantenol"
+      ],
+      "beneficios": [
+        "Fixação e definição",
+        "Controle de frizz"
+      ],
+      "indicacao": "Cabelos ondulados, cacheados ou crespos.",
+      "modoUso": "Aplicar em fios úmidos ou secos, evitando couro cabeludo, amassar e secar naturalmente ou com difusor.",
+      "composicaoINCI": null,
+      "composicaoStatus": "A página apresenta destaques da formulação, sem lista INCI completa.",
+      "naoInformado": [
+        "Lista completa de ingredientes INCI"
+      ],
+      "imageUrl": "https://dalcotone.com.br/cdn/shop/files/geleia_cachos_power_curls_1kg_3389_1_2b7c7e69a897e30a3c7c9b53647439f5.png?v=1770119968&width=1946",
+      "observacoes": [],
+      "conteudoKit": null
+    },
+    {
+      "nome": "Máscara Cachos Power Curls 1 kg",
+      "url": "https://dalcotone.com.br/products/mascara-cachos-power-curls-1kg",
+      "precoPublico": 216.81,
+      "moeda": "BRL",
+      "precoStatus": "Preço encontrado em captura oficial indexada; pode mudar. Confirmar atualização online.",
+      "consultadoEm": "2026-11-06",
+      "ativos": [
+        "Óleo de coco",
+        "D-pantenol"
+      ],
+      "beneficios": [
+        "Hidratação e definição",
+        "Controle de frizz"
+      ],
+      "indicacao": "Cabelos cacheados.",
+      "modoUso": "Após lavar, aplicar no comprimento e pontas, massagear, deixar 10–15 minutos e enxaguar.",
+      "composicaoINCI": null,
+      "composicaoStatus": "A página apresenta destaques da formulação, sem lista INCI completa.",
+      "naoInformado": [
+        "Lista completa de ingredientes INCI"
+      ],
+      "imageUrl": "https://dalcotone.com.br/cdn/shop/files/mascara_cachos_power_curls_1kg_3387_1_b05a259d3d4cf429638cb1e248d32685.png?v=1770119967&width=3840",
+      "observacoes": [
+        "pH informado pela marca: 3,0–4,0."
+      ],
+      "conteudoKit": null
+    },
+    {
+      "nome": "Force Life Must Use 250 ml",
+      "url": "https://dalcotone.com.br/products/indispensavel-finalizador-250ml",
+      "precoPublico": 169.9,
+      "moeda": "BRL",
+      "precoStatus": "Preço encontrado em captura oficial indexada; pode mudar. Confirmar atualização online.",
+      "consultadoEm": "2026-11-06",
+      "ativos": [],
+      "beneficios": [
+        "Desembaraço e controle de frizz",
+        "Brilho e proteção térmica"
+      ],
+      "indicacao": "Finalização e reparação cosmética leve.",
+      "modoUso": "Borrifar no comprimento e pontas evitando a raiz. Como condicionante, usar após shampoo antes da máscara e enxaguar. Como protetor térmico, usar sem enxágue.",
+      "composicaoINCI": null,
+      "composicaoStatus": "A página apresenta destaques da formulação, sem lista INCI completa.",
+      "naoInformado": [
+        "Lista completa de ingredientes INCI",
+        "Ingredientes ativos específicos"
+      ],
+      "imageUrl": "https://dalcotone.com.br/cdn/shop/files/force_life_must_use_250ml_3183_1_3da81be3dbb15b1907e61e5dcd2b64dd.png?v=1770119922&width=1946",
+      "observacoes": [
+        "A página cita tecnologia de mapeamento, sem nomear ingredientes ativos."
+      ],
+      "conteudoKit": null
+    },
+    {
+      "nome": "Kit Force Life Controle de Oleosidade e Hidratação",
+      "url": "https://dalcotone.com.br/products/kit-force-life-controle-de-oleosidade-e-hidratacao-dal-cotone",
+      "precoPublico": 237.32,
+      "moeda": "BRL",
+      "precoStatus": "Preço encontrado em captura oficial indexada; pode mudar. Confirmar atualização online.",
+      "consultadoEm": "2026-11-06",
+      "ativos": [
+        "Esferas esfoliantes no shampoo"
+      ],
+      "beneficios": [
+        "Limpeza de oleosidade",
+        "Hidratação e condicionamento"
+      ],
+      "indicacao": "Cabelos e couro cabeludo com excesso de oleosidade.",
+      "modoUso": "Shampoo: massagear suavemente nos cabelos molhados e enxaguar. Condicionador: aplicar após shampoo, aguardar alguns minutos e enxaguar. Máscara: 1–2 vezes por semana, 10–20 minutos, enxaguar.",
+      "composicaoINCI": null,
+      "composicaoStatus": "A página apresenta destaques da formulação, sem lista INCI completa.",
+      "naoInformado": [
+        "Lista completa de ingredientes INCI"
+      ],
+      "imageUrl": "https://dalcotone.com.br/cdn/shop/files/kit_force_life.png?v=1791470357&width=1946",
+      "observacoes": [
+        "Kit: shampoo esfoliante 300 ml, máscara 300 g e condicionador; volume do condicionador não confirmado.",
+        "Não converter alegações de crescimento em indicação médica."
+      ],
+      "conteudoKit": [
+        "Shampoo esfoliante Force Life 300 ml",
+        "Máscara Force Life 300 g",
+        "Condicionador Force Life (volume não especificado)"
+      ]
+    },
+    {
+      "nome": "Óleo Spray Golden Premium Doador de Brilho 60 ml",
+      "url": "https://dalcotone.com.br/products/doador-de-brilho-45ml",
+      "precoPublico": 131.66,
+      "moeda": "BRL",
+      "precoStatus": "Preço encontrado em captura oficial indexada; pode mudar. Confirmar atualização online.",
+      "consultadoEm": "2026-11-06",
+      "ativos": [],
+      "beneficios": [
+        "Brilho de acabamento",
+        "Perfume nos fios"
+      ],
+      "indicacao": "Finalização para realçar brilho.",
+      "modoUso": "Agitar e borrifar a 20 cm de distância dos fios.",
+      "composicaoINCI": null,
+      "composicaoStatus": "A página apresenta destaques da formulação, sem lista INCI completa.",
+      "naoInformado": [
+        "Lista completa de ingredientes INCI",
+        "Ingredientes ativos específicos"
+      ],
+      "imageUrl": "https://dalcotone.com.br/cdn/shop/files/golden_premium_60ml_3173_1_73baa68b1c1f7b7fcfe4e0fe0df45435.png?v=1770119932&width=1946",
+      "observacoes": [
+        "URL conserva 45ml; título oficial informa 60ml."
+      ],
+      "conteudoKit": null
+    },
+    {
+      "nome": "Kit Ampolas Vitamínica Nutritiva 4 x 15 ml",
+      "url": "https://dalcotone.com.br/products/caixa-crono-ampola-vitaminica",
+      "precoPublico": 179.91,
+      "moeda": "BRL",
+      "precoStatus": "Preço encontrado em captura oficial indexada; pode mudar. Confirmar atualização online.",
+      "consultadoEm": "2026-11-06",
+      "ativos": [
+        "Complexo de vitaminas não especificadas"
+      ],
+      "beneficios": [
+        "Nutrição",
+        "Fortalecimento cosmético"
+      ],
+      "indicacao": "Todos os tipos de cabelo.",
+      "modoUso": "Aplicar nos cabelos limpos ou adicionar à máscara Dal Cotone. Deixar 5 minutos e enxaguar.",
+      "composicaoINCI": null,
+      "composicaoStatus": "A página apresenta destaques da formulação, sem lista INCI completa.",
+      "naoInformado": [
+        "Lista completa de ingredientes INCI"
+      ],
+      "imageUrl": "https://dalcotone.com.br/cdn/shop/files/caixa_crono_ampola_vitaminica_3407_1_1dbca4618d34b3907bef5037ba08a542.jpg?v=1770119970&width=1946",
+      "observacoes": [
+        "Conteúdo total informado: 60 ml.",
+        "Vitaminas individuais não discriminadas na ficha."
+      ],
+      "conteudoKit": null
+    },
+    {
+      "nome": "Shampoo Power Repair 300 ml",
+      "url": "https://dalcotone.com.br/products/shampoo-power-repair-300ml",
+      "precoPublico": 65.61,
+      "moeda": "BRL",
+      "precoStatus": "Preço oficial de captura indexada; confirmar atualização online.",
+      "consultadoEm": "2026-11-06",
+      "ativos": [
+        "Frulix de açaí",
+        "Ceramidas"
+      ],
+      "beneficios": [
+        "Limpeza suave",
+        "Brilho e preparo para hidratação"
+      ],
+      "indicacao": "Rotina de hidratação dos fios.",
+      "modoUso": "Aplicar nos cabelos molhados, massagear até espumar e enxaguar. Repetir se necessário.",
+      "composicaoINCI": null,
+      "composicaoStatus": "Destaques de formulação publicados; lista INCI completa não localizada.",
+      "naoInformado": [
+        "Lista completa de ingredientes INCI"
+      ],
+      "imageUrl": "https://dalcotone.com.br/cdn/shop/files/shampoo_power_repair_300ml_3299_1_c93cf39dde938a11fad79237cf15ea65.png?v=1770119942&width=1946",
+      "observacoes": [],
+      "conteudoKit": null
+    },
+    {
+      "nome": "Shampoo Power Repair 1 L",
+      "url": "https://dalcotone.com.br/products/shampoo-power-repair-1l",
+      "precoPublico": 137,
+      "moeda": "BRL",
+      "precoStatus": "Preço oficial de captura indexada; confirmar atualização online.",
+      "consultadoEm": "2026-11-06",
+      "ativos": [
+        "Frulix de açaí",
+        "Ceramidas"
+      ],
+      "beneficios": [
+        "Limpeza suave",
+        "Brilho e preparo para hidratação"
+      ],
+      "indicacao": "Rotina de hidratação dos fios.",
+      "modoUso": "Aplicar nos cabelos molhados, massagear até espumar e enxaguar. Repetir se necessário.",
+      "composicaoINCI": null,
+      "composicaoStatus": "Destaques de formulação publicados; lista INCI completa não localizada.",
+      "naoInformado": [
+        "Lista completa de ingredientes INCI"
+      ],
+      "imageUrl": "https://dalcotone.com.br/cdn/shop/files/shampoo_power_repair_1l_3305_1_a0c817021686c55b2a2e848ea1ae67b1.png?v=1770120029&width=1946",
+      "observacoes": [],
+      "conteudoKit": null
+    },
+    {
+      "nome": "Condicionador Power Repair 300 ml",
+      "url": "https://dalcotone.com.br/products/condicionador-power-repair-300ml",
+      "precoPublico": 69.21,
+      "moeda": "BRL",
+      "precoStatus": "Preço oficial de captura indexada; confirmar atualização online.",
+      "consultadoEm": "2026-11-06",
+      "ativos": [
+        "Frulix de açaí",
+        "Ceramidas"
+      ],
+      "beneficios": [
+        "Condicionamento e hidratação",
+        "Maciez e desembaraço"
+      ],
+      "indicacao": "Fios que precisam de condicionamento e hidratação.",
+      "modoUso": "Após lavar, aplicar na extensão dos fios, massagear, aguardar 3 minutos e enxaguar.",
+      "composicaoINCI": null,
+      "composicaoStatus": "Destaques de formulação publicados; lista INCI completa não localizada.",
+      "naoInformado": [
+        "Lista completa de ingredientes INCI"
+      ],
+      "imageUrl": "https://dalcotone.com.br/cdn/shop/files/condicionador_power_repair_300ml_3303_1_b30458e77ee526dce9029c78528ae393.png?v=1770120032&width=1946",
+      "observacoes": [],
+      "conteudoKit": null
+    },
+    {
+      "nome": "Shampoo Max Force 300 ml",
+      "url": "https://dalcotone.com.br/products/shampoo-max-repair-300ml",
+      "precoPublico": 65.61,
+      "moeda": "BRL",
+      "precoStatus": "Preço oficial de captura indexada; confirmar atualização online.",
+      "consultadoEm": "2026-11-06",
+      "ativos": [
+        "Óleo de argan",
+        "Vitamina A"
+      ],
+      "beneficios": [
+        "Limpeza suave",
+        "Preparo para reconstrução cosmética"
+      ],
+      "indicacao": "Rotina de fios danificados e fragilizados.",
+      "modoUso": "Aplicar nos cabelos molhados, massagear até espumar e enxaguar. Repetir se necessário. Na embalagem 300 ml, a marca orienta pausa de 3 minutos.",
+      "composicaoINCI": null,
+      "composicaoStatus": "Destaques de formulação publicados; lista INCI completa não localizada.",
+      "naoInformado": [
+        "Lista completa de ingredientes INCI"
+      ],
+      "imageUrl": "https://dalcotone.com.br/cdn/shop/files/shampoo_max_force_300ml_3343_1_a3fac1673b7d17d4ff418619b48cf01b.png?v=1770119971&width=1946",
+      "observacoes": [],
+      "conteudoKit": null
+    },
+    {
+      "nome": "Shampoo Max Force 1 L",
+      "url": "https://dalcotone.com.br/products/shampoo-max-repair-1l",
+      "precoPublico": 137,
+      "moeda": "BRL",
+      "precoStatus": "Preço oficial de captura indexada; confirmar atualização online.",
+      "consultadoEm": "2026-11-06",
+      "ativos": [
+        "Óleo de argan",
+        "Vitamina A"
+      ],
+      "beneficios": [
+        "Limpeza suave",
+        "Preparo para reconstrução cosmética"
+      ],
+      "indicacao": "Rotina de fios danificados e fragilizados.",
+      "modoUso": "Aplicar nos cabelos molhados, massagear até espumar e enxaguar. Repetir se necessário.",
+      "composicaoINCI": null,
+      "composicaoStatus": "Destaques de formulação publicados; lista INCI completa não localizada.",
+      "naoInformado": [
+        "Lista completa de ingredientes INCI"
+      ],
+      "imageUrl": "https://dalcotone.com.br/cdn/shop/files/shampoo_max_force_1l_3349_1_92790697c10d2172a74832f205af3adc.png?v=1770119960&width=1946",
+      "observacoes": [],
+      "conteudoKit": null
+    },
+    {
+      "nome": "Condicionador Max Force 300 ml",
+      "url": "https://dalcotone.com.br/products/condicionador-max-repair-300ml",
+      "precoPublico": 69.21,
+      "moeda": "BRL",
+      "precoStatus": "Preço oficial de captura indexada; confirmar atualização online.",
+      "consultadoEm": "2026-11-06",
+      "ativos": [
+        "Óleo de argan",
+        "Vitamina A"
+      ],
+      "beneficios": [
+        "Condicionamento e nutrição",
+        "Maciez e acabamento das cutículas"
+      ],
+      "indicacao": "Rotina reconstrutora de fios danificados.",
+      "modoUso": "Após retirar a máscara, aplicar na extensão dos fios, massagear, aguardar 3 minutos e enxaguar.",
+      "composicaoINCI": null,
+      "composicaoStatus": "Destaques de formulação publicados; lista INCI completa não localizada.",
+      "naoInformado": [
+        "Lista completa de ingredientes INCI"
+      ],
+      "imageUrl": "https://dalcotone.com.br/cdn/shop/files/condicionador_max_force_300ml_3347_1_279f55738210fb1d344d042492adc420.png?v=1770119970&width=1946",
+      "observacoes": [],
+      "conteudoKit": null
+    },
+    {
+      "nome": "Condicionador Max Force 1 L",
+      "url": "https://dalcotone.com.br/products/condicionador-max-repair-1l",
+      "precoPublico": 137,
+      "moeda": "BRL",
+      "precoStatus": "Preço oficial de captura indexada; confirmar atualização online.",
+      "consultadoEm": "2026-11-06",
+      "ativos": [
+        "Óleo de argan",
+        "Vitamina A"
+      ],
+      "beneficios": [
+        "Condicionamento e nutrição",
+        "Maciez e acabamento das cutículas"
+      ],
+      "indicacao": "Rotina reconstrutora de fios danificados.",
+      "modoUso": "Após retirar a máscara, aplicar na extensão dos fios, massagear, aguardar 3 minutos e enxaguar.",
+      "composicaoINCI": null,
+      "composicaoStatus": "Destaques de formulação publicados; lista INCI completa não localizada.",
+      "naoInformado": [
+        "Lista completa de ingredientes INCI"
+      ],
+      "imageUrl": "https://dalcotone.com.br/cdn/shop/files/condicionador_max_force_1l_3355_1_978ed8e592b477f5b1b4b786eda298a8.png?v=1770119961&width=1946",
+      "observacoes": [],
+      "conteudoKit": null
+    },
+    {
+      "nome": "Kit Max Force Home Care",
+      "url": "https://dalcotone.com.br/products/kit-max-force-home-care-completo-reconstrucao-capilar-pos-quimica",
+      "precoPublico": 261.39,
+      "moeda": "BRL",
+      "precoStatus": "Preço oficial de captura indexada; confirmar atualização online.",
+      "consultadoEm": "2026-11-06",
+      "ativos": [
+        "Óleo de argan",
+        "Vitamina A"
+      ],
+      "beneficios": [
+        "Reconstrução cosmética",
+        "Melhora da força, maciez e brilho"
+      ],
+      "indicacao": "Fios danificados, porosos, quebradiços ou após química.",
+      "modoUso": "Lavar com shampoo e enxaguar. Aplicar máscara mecha a mecha pelo tempo do rótulo e enxaguar. Aplicar condicionador e enxaguar.",
+      "composicaoINCI": null,
+      "composicaoStatus": "Destaques de formulação publicados; lista INCI completa não localizada.",
+      "naoInformado": [
+        "Lista completa de ingredientes INCI"
+      ],
+      "imageUrl": "https://dalcotone.com.br/cdn/shop/files/kitdal14.png?v=1774355859&width=1946",
+      "observacoes": [
+        "Kit Home Care contém shampoo 300 ml, máscara e condicionador; confira volumes no anúncio.",
+        "Promoções recentes podem divergir da ficha indexada."
+      ],
+      "conteudoKit": [
+        "Shampoo Max Force 300 ml",
+        "Máscara Max Force (volume não especificado)",
+        "Condicionador Max Force (volume não especificado)"
+      ]
+    },
+    {
+      "nome": "Kit Max Force Profissional",
+      "url": "https://dalcotone.com.br/products/kit-max-force-profissional-3-em-1-reconstrucao-pos-quimica-completa-1l",
+      "precoPublico": 397.8,
+      "moeda": "BRL",
+      "precoStatus": "Preço oficial de captura indexada; confirmar atualização online.",
+      "consultadoEm": "2026-11-06",
+      "ativos": [
+        "Óleo de argan",
+        "Vitamina A"
+      ],
+      "beneficios": [
+        "Reconstrução cosmética",
+        "Melhora da força, maciez e brilho"
+      ],
+      "indicacao": "Fios danificados, porosos, quebradiços ou após química.",
+      "modoUso": "Lavar com shampoo e enxaguar. Aplicar máscara mecha a mecha pelo tempo do rótulo e enxaguar. Aplicar condicionador e enxaguar.",
+      "composicaoINCI": null,
+      "composicaoStatus": "Destaques de formulação publicados; lista INCI completa não localizada.",
+      "naoInformado": [
+        "Lista completa de ingredientes INCI"
+      ],
+      "imageUrl": "https://dalcotone.com.br/cdn/shop/files/kitdal17.webp?v=1774356362&width=1946",
+      "observacoes": [
+        "Kit Home Care contém shampoo 300 ml, máscara e condicionador; confira volumes no anúncio.",
+        "Promoções recentes podem divergir da ficha indexada."
+      ],
+      "conteudoKit": null
+    },
+    {
+      "nome": "Kit Max Force Home Care + Óleo de Argan",
+      "url": "https://dalcotone.com.br/products/kit-max-force-home-care-argan-oil-premium-reconstrucao-anti-frizz",
+      "precoPublico": 234.9,
+      "moeda": "BRL",
+      "precoStatus": "Preço oficial de captura indexada; confirmar atualização online.",
+      "consultadoEm": "2026-11-06",
+      "ativos": [
+        "Óleo de argan",
+        "Vitamina A"
+      ],
+      "beneficios": [
+        "Reconstrução cosmética",
+        "Melhora da força, maciez e brilho"
+      ],
+      "indicacao": "Fios danificados, porosos, quebradiços ou após química.",
+      "modoUso": "Lavar com shampoo e enxaguar. Aplicar máscara mecha a mecha pelo tempo do rótulo e enxaguar. Aplicar condicionador e enxaguar.",
+      "composicaoINCI": null,
+      "composicaoStatus": "Destaques de formulação publicados; lista INCI completa não localizada.",
+      "naoInformado": [
+        "Lista completa de ingredientes INCI"
+      ],
+      "imageUrl": "https://dalcotone.com.br/cdn/shop/files/MAX-FORCE-OLEO.png?v=1793807544&width=1946",
+      "observacoes": [
+        "Kit Home Care contém shampoo 300 ml, máscara e condicionador; confira volumes no anúncio.",
+        "Promoções recentes podem divergir da ficha indexada."
+      ],
+      "conteudoKit": null
+    },
+    {
+      "nome": "Kit Power Repair Profissional",
+      "url": "https://dalcotone.com.br/products/kit-power-repair-profissional-3-em-1-hidratacao-e-protecao-da-cor-1l",
+      "precoPublico": 397.8,
+      "moeda": "BRL",
+      "precoStatus": "Preço oficial de captura indexada; confirmar atualização online.",
+      "consultadoEm": "2026-11-06",
+      "ativos": [
+        "Frulix de açaí",
+        "Ceramidas"
+      ],
+      "beneficios": [
+        "Hidratação e maciez",
+        "Controle de frizz e brilho"
+      ],
+      "indicacao": "Cabelos secos, ressecados ou com frizz.",
+      "modoUso": "Lavar com shampoo e enxaguar. Aplicar máscara mecha a mecha pelo tempo do rótulo e enxaguar. Aplicar condicionador e enxaguar.",
+      "composicaoINCI": null,
+      "composicaoStatus": "Destaques de formulação publicados; lista INCI completa não localizada.",
+      "naoInformado": [
+        "Lista completa de ingredientes INCI"
+      ],
+      "imageUrl": "https://dalcotone.com.br/cdn/shop/files/kitdal19.webp?v=1774386035&width=1946",
+      "observacoes": [
+        "Tempo da máscara difere entre ficha individual (10–15 min) e alguns kits (10–20 min); seguir rótulo da embalagem."
+      ],
+      "conteudoKit": null
+    },
+    {
+      "nome": "Kit Power Repair Home Care",
+      "url": "https://dalcotone.com.br/products/kit-power-repair-home-care-hidratacao-e-protecao-da-cor",
+      "precoPublico": 248.32,
+      "moeda": "BRL",
+      "precoStatus": "Preço oficial de captura indexada; confirmar atualização online.",
+      "consultadoEm": "2026-11-06",
+      "ativos": [
+        "Frulix de açaí",
+        "Ceramidas"
+      ],
+      "beneficios": [
+        "Hidratação e maciez",
+        "Controle de frizz e brilho"
+      ],
+      "indicacao": "Cabelos secos, ressecados ou com frizz.",
+      "modoUso": "Lavar com shampoo e enxaguar. Aplicar máscara mecha a mecha pelo tempo do rótulo e enxaguar. Aplicar condicionador e enxaguar.",
+      "composicaoINCI": null,
+      "composicaoStatus": "Destaques de formulação publicados; lista INCI completa não localizada.",
+      "naoInformado": [
+        "Lista completa de ingredientes INCI"
+      ],
+      "imageUrl": "https://dalcotone.com.br/cdn/shop/files/kitdal9.webp?v=1774355238&width=1946",
+      "observacoes": [
+        "Tempo da máscara difere entre ficha individual (10–15 min) e alguns kits (10–20 min); seguir rótulo da embalagem."
+      ],
+      "conteudoKit": [
+        "Shampoo Power Repair 300 ml",
+        "Máscara Power Repair (volume não especificado)",
+        "Condicionador Power Repair (volume não especificado)"
+      ]
+    },
+    {
+      "nome": "Kit Power Repair Home Care + Power Luminous Oil",
+      "url": "https://dalcotone.com.br/products/kit-power-repair-home-care-c-power-luminous-oil",
+      "precoPublico": 219.99,
+      "moeda": "BRL",
+      "precoStatus": "Preço oficial de captura indexada; confirmar atualização online.",
+      "consultadoEm": "2026-11-06",
+      "ativos": [
+        "Frulix de açaí",
+        "Ceramidas"
+      ],
+      "beneficios": [
+        "Hidratação e maciez",
+        "Controle de frizz e brilho"
+      ],
+      "indicacao": "Cabelos secos, ressecados ou com frizz.",
+      "modoUso": "Lavar com shampoo e enxaguar. Aplicar máscara mecha a mecha pelo tempo do rótulo e enxaguar. Aplicar condicionador e enxaguar. Finalizar com gotas do óleo nas pontas úmidas ou secas.",
+      "composicaoINCI": null,
+      "composicaoStatus": "Destaques de formulação publicados; lista INCI completa não localizada.",
+      "naoInformado": [
+        "Lista completa de ingredientes INCI"
+      ],
+      "imageUrl": "https://dalcotone.com.br/cdn/shop/files/POWER-REPAIR-OLEO.png?v=1793807544&width=1946",
+      "observacoes": [
+        "Tempo da máscara difere entre ficha individual (10–15 min) e alguns kits (10–20 min); seguir rótulo da embalagem."
+      ],
+      "conteudoKit": null
+    },
+    {
+      "nome": "Kit Power Curls Profissional",
+      "url": "https://dalcotone.com.br/products/kit-power-curls-profissional-definicao-volume-e-hidratacao-1kg",
+      "precoPublico": 369.36,
+      "moeda": "BRL",
+      "precoStatus": "Preço oficial de captura indexada; confirmar atualização online.",
+      "consultadoEm": "2026-11-06",
+      "ativos": [
+        "Óleo de coco",
+        "D-pantenol"
+      ],
+      "beneficios": [
+        "Hidratação e definição",
+        "Controle de frizz e maciez"
+      ],
+      "indicacao": "Cabelos cacheados, ondulados ou crespos.",
+      "modoUso": "Lavar com shampoo e enxaguar. Aplicar máscara e enxaguar após pausa do rótulo. Distribuir creme modelador nos fios úmidos, amassar e deixar secar naturalmente ou usar difusor. Finalizadores sem enxágue.",
+      "composicaoINCI": null,
+      "composicaoStatus": "Destaques de formulação publicados; lista INCI completa não localizada.",
+      "naoInformado": [
+        "Lista completa de ingredientes INCI"
+      ],
+      "imageUrl": "https://dalcotone.com.br/cdn/shop/files/kitdal7.webp?v=1774354977&width=3840",
+      "observacoes": [
+        "Ativos confirmados nas fichas individuais da linha; não constituem lista INCI do kit."
+      ],
+      "conteudoKit": [
+        "Shampoo Power Curls 1 L",
+        "Máscara Power Curls 1 kg",
+        "Creme Modelador Power Curls (volume não especificado)"
+      ]
+    },
+    {
+      "nome": "Kit Power Curls Home Care",
+      "url": "https://dalcotone.com.br/products/kit-power-curls-home-care-definicao-volume-e-hidratacao",
+      "precoPublico": 247.08,
+      "moeda": "BRL",
+      "precoStatus": "Preço oficial de captura indexada; confirmar atualização online.",
+      "consultadoEm": "2026-11-06",
+      "ativos": [
+        "Óleo de coco",
+        "D-pantenol"
+      ],
+      "beneficios": [
+        "Hidratação e definição",
+        "Controle de frizz e maciez"
+      ],
+      "indicacao": "Cabelos cacheados, ondulados ou crespos.",
+      "modoUso": "Lavar com shampoo e enxaguar. Aplicar máscara e enxaguar após pausa do rótulo. Distribuir creme modelador nos fios úmidos, amassar e deixar secar naturalmente ou usar difusor. Finalizadores sem enxágue.",
+      "composicaoINCI": null,
+      "composicaoStatus": "Destaques de formulação publicados; lista INCI completa não localizada.",
+      "naoInformado": [
+        "Lista completa de ingredientes INCI"
+      ],
+      "imageUrl": "https://dalcotone.com.br/cdn/shop/files/kitdal8.webp?v=1774355089&width=3840",
+      "observacoes": [
+        "Ativos confirmados nas fichas individuais da linha; não constituem lista INCI do kit."
+      ],
+      "conteudoKit": [
+        "Shampoo Power Curls 300 ml",
+        "Máscara Power Curls (volume não especificado)",
+        "Creme Modelador Power Curls (volume não especificado)"
+      ]
+    },
+    {
+      "nome": "Kit Power Curls Home Care + Ativador de Cachos",
+      "url": "https://dalcotone.com.br/products/kit-power-curls-spray-ativador-de-cachos-definicao-volume-e-hidratacao",
+      "precoPublico": 376.88,
+      "moeda": "BRL",
+      "precoStatus": "Preço oficial de captura indexada; confirmar atualização online.",
+      "consultadoEm": "2026-11-06",
+      "ativos": [
+        "Óleo de coco",
+        "D-pantenol"
+      ],
+      "beneficios": [
+        "Hidratação e definição",
+        "Controle de frizz e maciez"
+      ],
+      "indicacao": "Cabelos cacheados, ondulados ou crespos.",
+      "modoUso": "Lavar com shampoo e enxaguar. Aplicar máscara e enxaguar após pausa do rótulo. Distribuir creme modelador nos fios úmidos, amassar e deixar secar naturalmente ou usar difusor. Finalizadores sem enxágue.",
+      "composicaoINCI": null,
+      "composicaoStatus": "Destaques de formulação publicados; lista INCI completa não localizada.",
+      "naoInformado": [
+        "Lista completa de ingredientes INCI"
+      ],
+      "imageUrl": "https://dalcotone.com.br/cdn/shop/files/kitdal18.webp?v=1774356441&width=3840",
+      "observacoes": [
+        "Ativos confirmados nas fichas individuais da linha; não constituem lista INCI do kit."
+      ],
+      "conteudoKit": null
+    },
+    {
+      "nome": "Kit Blond Up Profissional",
+      "url": "https://dalcotone.com.br/products/kit-blond-up-professional-matizacao-hidratante-para-loiros-e-platinados",
+      "precoPublico": 301.49,
+      "moeda": "BRL",
+      "precoStatus": "Preço oficial de captura indexada; confirmar atualização online.",
+      "consultadoEm": "2026-11-06",
+      "ativos": [],
+      "beneficios": [
+        "Neutralização gradual do amarelo",
+        "Hidratação e brilho"
+      ],
+      "indicacao": "Cabelos loiros, grisalhos, platinados ou descoloridos com amarelo indesejado.",
+      "modoUso": "Shampoo: aplicar nos cabelos molhados, massagear, aguardar 3–5 minutos e enxaguar. Máscara: aplicar fio a fio, pausar 10–20 minutos e enxaguar. A marca sugere 1–2 vezes por semana conforme necessidade.",
+      "composicaoINCI": null,
+      "composicaoStatus": "Destaques de formulação publicados; lista INCI completa não localizada.",
+      "naoInformado": [
+        "Lista completa de ingredientes INCI"
+      ],
+      "imageUrl": "https://dalcotone.com.br/cdn/shop/files/kitdal11.webp?v=1774355489&width=1946",
+      "observacoes": [
+        "A seção de ativos lista produtos do kit, não ingredientes; ativos específicos não confirmados."
+      ],
+      "conteudoKit": null
+    },
+    {
+      "nome": "Kit Hydra Ceramides",
+      "url": "https://dalcotone.com.br/products/kit-hydra-ceramides-hidratacao-antioxidante-dal-cotone",
+      "precoPublico": 141.46,
+      "moeda": "BRL",
+      "precoStatus": "Preço oficial de captura indexada; confirmar atualização online.",
+      "consultadoEm": "2026-11-06",
+      "ativos": [
+        "Alho",
+        "Ceramidas"
+      ],
+      "beneficios": [
+        "Hidratação e retenção de umidade",
+        "Maciez e brilho"
+      ],
+      "indicacao": "Fios ressecados, com frizz ou quimicamente tratados.",
+      "modoUso": "Lavar com shampoo e enxaguar. Aplicar máscara, aguardar o tempo indicado na embalagem e enxaguar. No kit com óleo, finalizar com o spray.",
+      "composicaoINCI": null,
+      "composicaoStatus": "Destaques de formulação publicados; lista INCI completa não localizada.",
+      "naoInformado": [
+        "Lista completa de ingredientes INCI"
+      ],
+      "imageUrl": "https://dalcotone.com.br/cdn/shop/files/kitdal1.webp?v=1774353979&width=1946",
+      "observacoes": [
+        "Kit base: shampoo 300 ml e máscara 300 g. Kit Golden acrescenta óleo spray 60 ml."
+      ],
+      "conteudoKit": [
+        "Shampoo Hydra Ceramides 300 ml",
+        "Máscara Hydra Ceramides 300 g"
+      ]
+    },
+    {
+      "nome": "Kit Hydra Ceramides + Óleo Spray Golden Premium",
+      "url": "https://dalcotone.com.br/products/kit-hydra-ceramides-spray-oleo-golden-premium-hidratacao-e-brilho",
+      "precoPublico": 179.9,
+      "moeda": "BRL",
+      "precoStatus": "Preço oficial de captura indexada; confirmar atualização online.",
+      "consultadoEm": "2026-11-06",
+      "ativos": [
+        "Alho",
+        "Ceramidas"
+      ],
+      "beneficios": [
+        "Hidratação e retenção de umidade",
+        "Maciez e brilho"
+      ],
+      "indicacao": "Fios ressecados, com frizz ou quimicamente tratados.",
+      "modoUso": "Lavar com shampoo e enxaguar. Aplicar máscara, aguardar o tempo indicado na embalagem e enxaguar. No kit com óleo, finalizar com o spray.",
+      "composicaoINCI": null,
+      "composicaoStatus": "Destaques de formulação publicados; lista INCI completa não localizada.",
+      "naoInformado": [
+        "Lista completa de ingredientes INCI"
+      ],
+      "imageUrl": "https://dalcotone.com.br/cdn/shop/files/CERAMIDES-OLEO.png?v=1793809708&width=1946",
+      "observacoes": [
+        "Kit base: shampoo 300 ml e máscara 300 g. Kit Golden acrescenta óleo spray 60 ml."
+      ],
+      "conteudoKit": [
+        "Shampoo Hydra Ceramides 300 ml",
+        "Máscara Hydra Ceramides 300 g",
+        "Óleo Spray Golden Premium 60 ml"
+      ]
+    },
+    {
+      "nome": "Protetor Térmico Necessity Use 500 ml",
+      "url": "https://dalcotone.com.br/products/finalizador-uso-obrigratorio-500ml",
+      "precoPublico": 199.8,
+      "moeda": "BRL",
+      "precoStatus": "Preço oficial de captura indexada; confirmar atualização online.",
+      "consultadoEm": "2026-11-06",
+      "ativos": [
+        "Queratina hidrolisada",
+        "Pantenol",
+        "Arginina",
+        "Óleo de semente de girassol"
+      ],
+      "beneficios": [
+        "Proteção térmica",
+        "Brilho, flexibilidade e controle de frizz"
+      ],
+      "indicacao": "Finalização antes do uso de secador, prancha ou modelador.",
+      "modoUso": "Após shampoo, borrifar nos fios e massagear. A página permite uso com ou sem enxágue.",
+      "composicaoINCI": null,
+      "composicaoStatus": "Destaques de formulação publicados; lista INCI completa não localizada.",
+      "naoInformado": [
+        "Lista completa de ingredientes INCI"
+      ],
+      "imageUrl": "https://dalcotone.com.br/cdn/shop/files/necessary_use_500ml_3175_1_7fcbfeaf1bd5dbab2d7c8c35235f60a1.png?v=1770119921&width=3840",
+      "observacoes": [],
+      "conteudoKit": null
+    },
+    {
+      "nome": "Kit S.O.S Detox Home Care",
+      "url": "https://dalcotone.com.br/products/kit-sos-detox-home-care-purificacao-revitalizante-com-controle-da-oleosidade",
+      "precoPublico": 277.56,
+      "moeda": "BRL",
+      "precoStatus": "Captura oficial indexada; confirmar atualização online.",
+      "consultadoEm": "2026-11-06",
+      "ativos": [
+        "Café verde",
+        "Fiber Detox",
+        "Óleo de cártamo"
+      ],
+      "beneficios": [
+        "Limpeza de impurezas",
+        "Nutrição e maciez"
+      ],
+      "indicacao": "Todos os tipos de cabelo com acúmulo de impurezas ou oleosidade.",
+      "modoUso": "Lavar com shampoo e enxaguar. Aplicar máscara mecha a mecha pelo tempo indicado no rótulo e enxaguar. No kit Home Care, seguir com condicionador quando indicado e aplicar finalizador em pequena quantidade.",
+      "composicaoINCI": null,
+      "composicaoStatus": "Ativos destacados não são uma lista INCI completa.",
+      "naoInformado": [
+        "Lista INCI completa"
+      ],
+      "imageUrl": "https://dalcotone.com.br/cdn/shop/files/kitdal12.webp?v=1774355582&width=3840",
+      "observacoes": [
+        "Tempo da máscara difere em fichas do kit (10–20 min) e individual (10–15 min); seguir embalagem.",
+        "Ativos confirmados nas fichas individuais da linha."
+      ],
+      "conteudoKit": null
+    },
+    {
+      "nome": "Kit S.O.S Detox Profissional",
+      "url": "https://dalcotone.com.br/products/kit-sos-detox-profissional-purificacao-e-controle-da-oleosidade",
+      "precoPublico": 301.49,
+      "moeda": "BRL",
+      "precoStatus": "Captura oficial indexada; confirmar atualização online.",
+      "consultadoEm": "2026-11-06",
+      "ativos": [
+        "Café verde",
+        "Fiber Detox",
+        "Óleo de cártamo"
+      ],
+      "beneficios": [
+        "Limpeza de impurezas",
+        "Nutrição e maciez"
+      ],
+      "indicacao": "Todos os tipos de cabelo com acúmulo de impurezas ou oleosidade.",
+      "modoUso": "Lavar com shampoo e enxaguar. Aplicar máscara mecha a mecha pelo tempo indicado no rótulo e enxaguar. No kit Home Care, seguir com condicionador quando indicado e aplicar finalizador em pequena quantidade.",
+      "composicaoINCI": null,
+      "composicaoStatus": "Ativos destacados não são uma lista INCI completa.",
+      "naoInformado": [
+        "Lista INCI completa"
+      ],
+      "imageUrl": "https://dalcotone.com.br/cdn/shop/files/kitdal5.webp?v=1774386244&width=3840",
+      "observacoes": [
+        "Tempo da máscara difere em fichas do kit (10–20 min) e individual (10–15 min); seguir embalagem.",
+        "Ativos confirmados nas fichas individuais da linha."
+      ],
+      "conteudoKit": null
+    },
+    {
+      "nome": "Máscara Nutri Protein 500 g",
+      "url": "https://dalcotone.com.br/products/mascara-capilar-profissional-nutri-protein-500g",
+      "precoPublico": 150.21,
+      "moeda": "BRL",
+      "precoStatus": "Captura oficial indexada; sujeito a atualização.",
+      "consultadoEm": "2026-11-06",
+      "ativos": [
+        "Complexo de nano proteínas"
+      ],
+      "beneficios": [
+        "Nutrição",
+        "Maciez, força e brilho"
+      ],
+      "indicacao": "Fios que precisam de nutrição.",
+      "modoUso": "Após lavar, aplicar na extensão dos fios, massagear, aguardar cerca de 7 minutos e enxaguar.",
+      "conteudoKit": null,
+      "composicaoINCI": null,
+      "composicaoStatus": "Lista INCI completa não publicada na fonte consultada.",
+      "naoInformado": [
+        "Lista INCI completa"
+      ],
+      "imageUrl": "https://dalcotone.com.br/cdn/shop/files/mascara_nutri_protein_500g_3191_1_46904a05056681b221bec52c5a2afba4.png?v=1770119926&width=3840",
+      "observacoes": []
+    },
+    {
+      "nome": "Máscara Restore 500 g",
+      "url": "https://dalcotone.com.br/products/mascara-capilar-profissional-restore-500g",
+      "precoPublico": 150.21,
+      "moeda": "BRL",
+      "precoStatus": "Captura oficial indexada; sujeito a atualização.",
+      "consultadoEm": "2026-11-06",
+      "ativos": [
+        "Lumini System",
+        "Queratina"
+      ],
+      "beneficios": [
+        "Reconstrução cosmética",
+        "Controle de volume e frizz"
+      ],
+      "indicacao": "Cabelos secos e volumosos.",
+      "modoUso": "Após lavar, aplicar na extensão dos fios, massagear, aguardar cerca de 7 minutos e enxaguar.",
+      "conteudoKit": null,
+      "composicaoINCI": null,
+      "composicaoStatus": "Lista INCI completa não publicada na fonte consultada.",
+      "naoInformado": [
+        "Lista INCI completa"
+      ],
+      "imageUrl": "https://dalcotone.com.br/cdn/shop/files/mascara_restore_500g_3187_1_8a62bb771246f2e1fe9679e58241c9d9.png?v=1770119923&width=3840",
+      "observacoes": []
+    },
+    {
+      "nome": "Máscara Verniz Intense 500 g",
+      "url": "https://dalcotone.com.br/products/mascara-capilar-profissional-verniz-intense-500g",
+      "precoPublico": 150.21,
+      "moeda": "BRL",
+      "precoStatus": "Captura oficial indexada; sujeito a atualização.",
+      "consultadoEm": "2026-11-06",
+      "ativos": [
+        "Proteína da seda",
+        "Ácido hialurônico"
+      ],
+      "beneficios": [
+        "Hidratação",
+        "Brilho e controle de frizz"
+      ],
+      "indicacao": "Cabelos secos, ressecados ou com frizz.",
+      "modoUso": "Após shampoo, aplicar no comprimento e pontas, massagear, aguardar 10–15 minutos e enxaguar. Manter distância de 2 cm do couro cabeludo.",
+      "conteudoKit": null,
+      "composicaoINCI": null,
+      "composicaoStatus": "Lista INCI completa não publicada na fonte consultada.",
+      "naoInformado": [
+        "Lista INCI completa"
+      ],
+      "imageUrl": "https://dalcotone.com.br/cdn/shop/files/mascara_verniz_inteso_500g_3189_1_5a0395c27b73bb8d8c72a79f2ce101cc.png?v=1770119925&width=3840",
+      "observacoes": []
+    },
+    {
+      "nome": "Máscara L'Amour 300 g",
+      "url": "https://dalcotone.com.br/products/mascara-l-amour-300g",
+      "precoPublico": 141.29,
+      "moeda": "BRL",
+      "precoStatus": "Captura oficial indexada; sujeito a atualização.",
+      "consultadoEm": "2026-11-06",
+      "ativos": [
+        "Vitamina A",
+        "Vitamina D",
+        "Pantenol",
+        "Extrato de morango"
+      ],
+      "beneficios": [
+        "Nutrição e reconstrução cosmética",
+        "Maciez e brilho"
+      ],
+      "indicacao": "Fios opacos, desnutridos ou sem brilho.",
+      "modoUso": "Após shampoo, aplicar no comprimento e pontas, massagear, aguardar 10–15 minutos e enxaguar.",
+      "conteudoKit": null,
+      "composicaoINCI": null,
+      "composicaoStatus": "Lista INCI completa não publicada na fonte consultada.",
+      "naoInformado": [
+        "Lista INCI completa"
+      ],
+      "imageUrl": "https://dalcotone.com.br/cdn/shop/files/mascara_l_amour_300g_3335_1_3a688133cc0f087a72d579580dd61a31.png?v=1770119952&width=1946",
+      "observacoes": []
+    },
+    {
+      "nome": "Power Luminous Oil 30 ml",
+      "url": "https://dalcotone.com.br/products/argan-oil-premium-30ml",
+      "precoPublico": 71.91,
+      "moeda": "BRL",
+      "precoStatus": "Captura oficial indexada; sujeito a atualização.",
+      "consultadoEm": "2026-11-06",
+      "ativos": [
+        "Óleo de açaí"
+      ],
+      "beneficios": [
+        "Brilho e maciez",
+        "Hidratação"
+      ],
+      "indicacao": "Acabamento de pontas.",
+      "modoUso": "Espalhar gotas nas mãos e distribuir nas pontas. A marca permite misturar a máscaras, condicionadores ou cremes.",
+      "conteudoKit": null,
+      "composicaoINCI": null,
+      "composicaoStatus": "Lista INCI completa não publicada na fonte consultada.",
+      "naoInformado": [
+        "Lista INCI completa"
+      ],
+      "imageUrl": "https://dalcotone.com.br/cdn/shop/files/power_luminous_oil_30ml_1_20250911235102_a56197a0690d.png?v=1770119930&width=1946",
+      "observacoes": []
+    },
+    {
+      "nome": "Kit de Ampolas Ultra Magic 4 x 15 ml",
+      "url": "https://dalcotone.com.br/products/caixa-crono-ultra-magic-3411",
+      "precoPublico": 197.91,
+      "moeda": "BRL",
+      "precoStatus": "Captura oficial indexada; sujeito a atualização.",
+      "consultadoEm": "2026-11-06",
+      "ativos": [
+        "Tecnologia Magic Fusion (ingredientes não especificados)"
+      ],
+      "beneficios": [
+        "Reconstrução cosmética",
+        "Maciez e brilho"
+      ],
+      "indicacao": null,
+      "modoUso": "Misturar em água fria até formar mousse ou aplicar diretamente em cabelos limpos e molhados. Aguardar 5 minutos e enxaguar.",
+      "conteudoKit": [
+        "4 ampolas de 15 ml; 60 ml no total"
+      ],
+      "composicaoINCI": null,
+      "composicaoStatus": "Lista INCI completa não publicada na fonte consultada.",
+      "naoInformado": [
+        "Lista INCI completa"
+      ],
+      "imageUrl": "https://dalcotone.com.br/cdn/shop/files/caixa_crono_ultra_magic_3411_1_97b40a037638ae22929e8e6cfbcd8328.jpg?v=1770119971&width=1946",
+      "observacoes": []
+    },
+    {
+      "nome": "Cronograma Capilar em Ampolas - Crono Plus+",
+      "url": "https://dalcotone.com.br/products/ampolas-capilares-crono-snapshot",
+      "precoPublico": 263.61,
+      "moeda": "BRL",
+      "precoStatus": "Captura oficial indexada; sujeito a atualização.",
+      "consultadoEm": "2026-11-06",
+      "ativos": null,
+      "beneficios": [
+        "Hidratação, nutrição e reconstrução cosmética",
+        "Fortalecimento cosmético"
+      ],
+      "indicacao": "Fios finos ou enfraquecidos, conforme etapa do kit.",
+      "modoUso": "Ampolas de tratamento: misturar na água fria até formar mousse ou aplicar nos fios limpos e molhados, aguardar 5 minutos e enxaguar. Tônico: aplicar no couro cabeludo limpo, massagear e não enxaguar.",
+      "conteudoKit": [
+        "4 ampolas de 18 ml; o anúncio apresenta etapa de reconstrução e tônico"
+      ],
+      "composicaoINCI": null,
+      "composicaoStatus": "Lista INCI completa não publicada na fonte consultada.",
+      "naoInformado": [
+        "Lista INCI completa"
+      ],
+      "imageUrl": "https://dalcotone.com.br/cdn/shop/files/crono_plus_3167_1_4533c39f8bff48f4297e6833c787e5d1.png?v=1770119918&width=1946",
+      "observacoes": []
+    },
+    {
+      "nome": "Kit Cronograma Capilar – 3 Máscaras de 250 g",
+      "url": "https://dalcotone.com.br/products/kit-cronograma-capilar-mascaras-capilares-250g",
+      "precoPublico": 329.67,
+      "moeda": "BRL",
+      "precoStatus": "Captura oficial indexada; sujeito a atualização.",
+      "consultadoEm": "2026-11-06",
+      "ativos": [
+        "Verniz Intense: proteína da seda e ácido hialurônico",
+        "Nutri Protein: nano proteínas",
+        "Restore: queratina hidrolisada e Lumini System"
+      ],
+      "beneficios": [
+        "Rotina de hidratação, nutrição e reconstrução",
+        "Maciez, brilho e força"
+      ],
+      "indicacao": "Todos os tipos de cabelo, alternando conforme necessidade.",
+      "modoUso": "Alternar as máscaras conforme a necessidade dos fios. No kit de 250 g, a página informa pausa de 10–15 minutos seguida de enxágue.",
+      "conteudoKit": [
+        "Verniz Intense 250 g",
+        "Nutri Protein 250 g",
+        "Restore 250 g"
+      ],
+      "composicaoINCI": null,
+      "composicaoStatus": "Lista INCI completa não publicada na fonte consultada.",
+      "naoInformado": [
+        "Lista INCI completa"
+      ],
+      "imageUrl": "https://dalcotone.com.br/cdn/shop/files/kit_cronograma_capilar_mscaras_capilares_250g_1_20250829181633_d2a3548e7ade.jpg?v=1774384769&width=500",
+      "observacoes": []
+    },
+    {
+      "nome": "Shampoo Monovin 300 ml",
+      "url": "https://dalcotone.com.br/products/shampoo-monovin-300ml",
+      "precoPublico": 62.91,
+      "moeda": "BRL",
+      "precoStatus": "Captura oficial indexada; sujeito a atualização.",
+      "consultadoEm": "2026-11-06",
+      "ativos": [
+        "Pro A",
+        "Vitamina B5"
+      ],
+      "beneficios": [
+        "Limpeza suave",
+        "Fortalecimento e hidratação"
+      ],
+      "indicacao": "Cabelos fragilizados; a marca informa todos os tipos.",
+      "modoUso": "Aplicar nos cabelos molhados, massagear, aguardar 3 minutos e enxaguar.",
+      "conteudoKit": null,
+      "composicaoINCI": null,
+      "composicaoStatus": "Lista INCI completa não publicada na fonte consultada.",
+      "naoInformado": [
+        "Lista INCI completa"
+      ],
+      "imageUrl": "https://dalcotone.com.br/cdn/shop/files/shampoo_monovin_300ml_3359_1_ef9fe76f55ac5ed638ca4fa9883b1da1.png?v=1770119963&width=1946",
+      "observacoes": []
+    },
+    {
+      "nome": "Máscara Monovin 300 g",
+      "url": "https://dalcotone.com.br/products/mascara-monovin-300ml",
+      "precoPublico": 110.34,
+      "moeda": "BRL",
+      "precoStatus": "Captura oficial indexada; sujeito a atualização.",
+      "consultadoEm": "2026-11-06",
+      "ativos": [
+        "Complexo vitamínico não discriminado"
+      ],
+      "beneficios": [
+        "Fortalecimento cosmético",
+        "Brilho e menor quebra"
+      ],
+      "indicacao": null,
+      "modoUso": "Após shampoo, aplicar no comprimento e pontas, massagear, aguardar 10–15 minutos e enxaguar.",
+      "conteudoKit": null,
+      "composicaoINCI": null,
+      "composicaoStatus": "Lista INCI completa não publicada na fonte consultada.",
+      "naoInformado": [
+        "Lista INCI completa"
+      ],
+      "imageUrl": "https://dalcotone.com.br/cdn/shop/files/mascara_monovin_300ml_3365_1_643115f26e0522d41060ff4e35d5fdf3.png?v=1770119964&width=1946",
+      "observacoes": []
+    },
+    {
+      "nome": "Tônico Capilar Monovin 120 ml",
+      "url": "https://dalcotone.com.br/products/tonico-monovin",
+      "precoPublico": 161.01,
+      "moeda": "BRL",
+      "precoStatus": "Captura oficial indexada; sujeito a atualização.",
+      "consultadoEm": "2026-11-06",
+      "ativos": [
+        "Vitamina A",
+        "Biotina",
+        "D-pantenol",
+        "Queratina",
+        "Óleo de argan",
+        "Óleo de coco",
+        "Óleo de rícino"
+      ],
+      "beneficios": [
+        "Fortalecimento cosmético da fibra"
+      ],
+      "indicacao": "Rotina cosmética para fios frágeis.",
+      "modoUso": "Agitar e aplicar no couro cabeludo limpo, seco ou úmido. Massagear e não enxaguar. A marca orienta manhã e noite.",
+      "conteudoKit": null,
+      "composicaoINCI": null,
+      "composicaoStatus": "Lista INCI completa não publicada na fonte consultada.",
+      "naoInformado": [
+        "Lista INCI completa"
+      ],
+      "imageUrl": "https://dalcotone.com.br/cdn/shop/files/tonico_monovin_3237_1_a9c211603869eefc8a9137d377e1bbf5.png?v=1770119934&width=1946",
+      "observacoes": []
+    },
+    {
+      "nome": "Ativador de Cachos Power Curls 250 ml",
+      "url": "https://dalcotone.com.br/products/ativador-de-cachos-perfect-curls-300ml",
+      "precoPublico": 129.78,
+      "moeda": "BRL",
+      "precoStatus": "Captura oficial indexada; sujeito a atualização.",
+      "consultadoEm": "2026-11-06",
+      "ativos": [
+        "Óleo de coco",
+        "D-pantenol"
+      ],
+      "beneficios": [
+        "Reativação dos cachos",
+        "Hidratação e controle de frizz"
+      ],
+      "indicacao": "Cachos entre lavagens.",
+      "modoUso": "Borrifar uniformemente no comprimento úmido ou seco. Amassar e deixar secar naturalmente ou com difusor. Sem enxágue.",
+      "conteudoKit": null,
+      "composicaoINCI": null,
+      "composicaoStatus": "Lista INCI completa não publicada na fonte consultada.",
+      "naoInformado": [
+        "Lista INCI completa"
+      ],
+      "imageUrl": "https://dalcotone.com.br/cdn/shop/files/power_curls_ativador_de_cachos_250ml_3327_1_267a13b24fbf1e4587aea85a1cdb6932.png?v=1770119948&width=1946",
+      "observacoes": []
+    },
+    {
+      "nome": "Máscara Power Curls 300 g",
+      "url": "https://dalcotone.com.br/products/mascara-cachos-perfect-curls-300g",
+      "precoPublico": 143.01,
+      "moeda": "BRL",
+      "precoStatus": "Captura oficial indexada; sujeito a atualização.",
+      "consultadoEm": "2026-11-06",
+      "ativos": [
+        "Óleo de coco",
+        "D-pantenol"
+      ],
+      "beneficios": [
+        "Hidratação e definição",
+        "Controle de frizz"
+      ],
+      "indicacao": "Cabelos cacheados.",
+      "modoUso": "Após shampoo, aplicar no comprimento e pontas, massagear, aguardar 10–15 minutos e enxaguar.",
+      "conteudoKit": null,
+      "composicaoINCI": null,
+      "composicaoStatus": "Lista INCI completa não publicada na fonte consultada.",
+      "naoInformado": [
+        "Lista INCI completa"
+      ],
+      "imageUrl": "https://dalcotone.com.br/cdn/shop/files/mascara_cachos_power_curls_300g_3321_1_6ce2bc02fbe8617b9d52b1dda3c6d2de.png?v=1770119948&width=3840",
+      "observacoes": []
+    },
+    {
+      "nome": "Shampoo Blond Up 300 ml",
+      "url": "https://dalcotone.com.br/products/shampoo-blond-up-300ml",
+      "precoPublico": 69.21,
+      "moeda": "BRL",
+      "precoStatus": "Captura oficial indexada; sujeito a atualização.",
+      "consultadoEm": "2026-11-06",
+      "ativos": [
+        "Extrato de violeta",
+        "Creatina"
+      ],
+      "beneficios": [
+        "Limpeza suave",
+        "Neutralização do amarelo e brilho"
+      ],
+      "indicacao": "Loiros, grisalhos ou com mechas.",
+      "modoUso": "Aplicar nos fios molhados, massagear e observar ação conforme o tom dos fios. Enxaguar. Seguir teste de contato indicado no rótulo.",
+      "conteudoKit": null,
+      "composicaoINCI": null,
+      "composicaoStatus": "Lista INCI completa não publicada na fonte consultada.",
+      "naoInformado": [
+        "Lista INCI completa"
+      ],
+      "imageUrl": "https://dalcotone.com.br/cdn/shop/files/shampoo_blond_up_300ml_3269_1_a9ffd57c636247bbb89761a716652fe7.png?v=1770120015&width=3840",
+      "observacoes": []
+    },
+    {
+      "nome": "Máscara Blond Up Premium 1 kg",
+      "url": "https://dalcotone.com.br/products/mascara-iluminadora-blond-up-premium",
+      "precoPublico": 204.21,
+      "moeda": "BRL",
+      "precoStatus": "Captura oficial indexada; sujeito a atualização.",
+      "consultadoEm": "2026-11-06",
+      "ativos": [
+        "Extrato de violeta",
+        "Creatina"
+      ],
+      "beneficios": [
+        "Neutralização de tons indesejados",
+        "Hidratação e brilho"
+      ],
+      "indicacao": "Loiros ou grisalhos.",
+      "modoUso": "Após lavar, distribuir no comprimento e acompanhar ação conforme o tom dos fios. Enxaguar. Seguir teste de contato do rótulo.",
+      "conteudoKit": null,
+      "composicaoINCI": null,
+      "composicaoStatus": "Lista INCI completa não publicada na fonte consultada.",
+      "naoInformado": [
+        "Lista INCI completa"
+      ],
+      "imageUrl": "https://dalcotone.com.br/cdn/shop/files/mascara_iluminadora_blond_up_premium_500g_3275_1_7a1f2f6788046a6bc615d54d22ca1d75.png?v=1770119934&width=3840",
+      "observacoes": []
+    },
+    {
+      "nome": "Kit Monovin",
+      "url": "https://dalcotone.com.br/products/kit-monovin-fortalecimento-capilar-e-estimulo-ao-crescimento-dos-fios",
+      "precoPublico": 228.64,
+      "moeda": "BRL",
+      "precoStatus": "Captura oficial indexada; sujeito a atualização.",
+      "consultadoEm": "2026-11-06",
+      "ativos": null,
+      "beneficios": [
+        "Fortalecimento e hidratação cosmética"
+      ],
+      "indicacao": "Fios fragilizados.",
+      "modoUso": "Lavar com shampoo e enxaguar; aplicar máscara pelo tempo do rótulo e enxaguar. Aplicar tônico no couro cabeludo limpo e não enxaguar. Para suplemento do kit Woman Caps, seguir as instruções específicas da embalagem.",
+      "conteudoKit": [
+        "Shampoo Monovin 300 ml",
+        "Máscara Monovin (volume não especificado)",
+        "Tônico Monovin (volume não especificado)"
+      ],
+      "composicaoINCI": null,
+      "composicaoStatus": "Lista INCI completa não publicada na fonte consultada.",
+      "naoInformado": [
+        "Lista INCI completa"
+      ],
+      "imageUrl": "https://dalcotone.com.br/cdn/shop/files/kitdal6.webp?v=1774354764&width=1946",
+      "observacoes": []
+    },
+    {
+      "nome": "Kit Monovin + Woman Caps",
+      "url": "https://dalcotone.com.br/products/kit-monovin-woman-caps-auxilio-no-crescimento-capilar-e-fortalecimento",
+      "precoPublico": 371.64,
+      "moeda": "BRL",
+      "precoStatus": "Captura oficial indexada; sujeito a atualização.",
+      "consultadoEm": "2026-11-06",
+      "ativos": null,
+      "beneficios": [
+        "Fortalecimento e hidratação cosmética"
+      ],
+      "indicacao": "Fios fragilizados.",
+      "modoUso": "Lavar com shampoo e enxaguar; aplicar máscara pelo tempo do rótulo e enxaguar. Aplicar tônico no couro cabeludo limpo e não enxaguar. Para suplemento do kit Woman Caps, seguir as instruções específicas da embalagem.",
+      "conteudoKit": [
+        "Shampoo Monovin 300 ml",
+        "Máscara Monovin (volume não especificado)",
+        "Tônico Monovin (volume não especificado)",
+        "Woman Caps: ácido pantotênico; 60 cápsulas"
+      ],
+      "composicaoINCI": null,
+      "composicaoStatus": "Lista INCI completa não publicada na fonte consultada.",
+      "naoInformado": [
+        "Lista INCI completa"
+      ],
+      "imageUrl": "https://dalcotone.com.br/cdn/shop/files/kitdal15.webp?v=1774356092&width=1946",
+      "observacoes": []
+    },
+    {
+      "nome": "Kit Blond Up Home Care",
+      "url": "https://dalcotone.com.br/collections/kits",
+      "precoPublico": 162.63,
+      "moeda": "BRL",
+      "precoStatus": "Preço confirmado em coleção oficial indexada; sujeito a atualização.",
+      "consultadoEm": "2026-11-06",
+      "ativos": null,
+      "beneficios": null,
+      "indicacao": null,
+      "modoUso": null,
+      "conteudoKit": null,
+      "composicaoINCI": null,
+      "composicaoStatus": "Lista INCI não localizada.",
+      "naoInformado": [
+        "Ativos",
+        "Benefícios específicos",
+        "Indicação específica",
+        "Modo de uso",
+        "Lista INCI completa"
+      ],
+      "imageUrl": "https://dalcotone.com.br/cdn/shop/files/kitdal20.webp?v=1774356636&width=1946",
+      "observacoes": [
+        "Registro parcial: produto e preço em fonte oficial; ficha detalhada não localizada na pesquisa. Não inferir informações a partir de outros volumes ou da linha."
+      ],
+      "detalhamentoStatus": "parcial"
+    },
+    {
+      "nome": "Shampoo Force Life 300 mL",
+      "url": "https://dalcotone.com.br/collections/kits",
+      "precoPublico": 72.81,
+      "moeda": "BRL",
+      "precoStatus": "Preço confirmado em coleção oficial indexada; sujeito a atualização.",
+      "consultadoEm": "2026-11-06",
+      "ativos": null,
+      "beneficios": null,
+      "indicacao": null,
+      "modoUso": null,
+      "conteudoKit": null,
+      "composicaoINCI": null,
+      "composicaoStatus": "Lista INCI não localizada.",
+      "naoInformado": [
+        "Ativos",
+        "Benefícios específicos",
+        "Indicação específica",
+        "Modo de uso",
+        "Lista INCI completa"
+      ],
+      "imageUrl": "https://dalcotone.com.br/cdn/shop/files/force_life_shampoo_300ml_3337_1_db96182a84a11cd5ced4a0aa67ddfc10.png?v=1770119964&width=1946",
+      "observacoes": [
+        "Registro parcial: produto e preço em fonte oficial; ficha detalhada não localizada na pesquisa. Não inferir informações a partir de outros volumes ou da linha."
+      ],
+      "detalhamentoStatus": "parcial"
+    },
+    {
+      "nome": "Kit Force Life + Must Use",
+      "url": "https://dalcotone.com.br/products/kit-force-life-finalizador-must-use-controle-de-oleosidade-e-reconstrucao-300g",
+      "precoPublico": 429.87,
+      "moeda": "BRL",
+      "precoStatus": "Preço confirmado em coleção oficial indexada; sujeito a atualização.",
+      "consultadoEm": "2026-11-06",
+      "ativos": null,
+      "beneficios": null,
+      "indicacao": null,
+      "modoUso": null,
+      "conteudoKit": null,
+      "composicaoINCI": null,
+      "composicaoStatus": "Lista INCI não localizada.",
+      "naoInformado": [
+        "Ativos",
+        "Benefícios específicos",
+        "Indicação específica",
+        "Modo de uso",
+        "Lista INCI completa"
+      ],
+      "imageUrl": "https://dalcotone.com.br/cdn/shop/files/kit_force_life_finalizador.png?v=1791470791&width=1946",
+      "observacoes": [
+        "Registro parcial: produto e preço em fonte oficial; ficha detalhada não localizada na pesquisa. Não inferir informações a partir de outros volumes ou da linha."
+      ],
+      "detalhamentoStatus": "parcial"
+    },
+    {
+      "nome": "Kit L'Amour Morango",
+      "url": "https://dalcotone.com.br/collections/kits",
+      "precoPublico": 159.76,
+      "moeda": "BRL",
+      "precoStatus": "Preço confirmado em coleção oficial indexada; sujeito a atualização.",
+      "consultadoEm": "2026-11-06",
+      "ativos": null,
+      "beneficios": null,
+      "indicacao": null,
+      "modoUso": null,
+      "conteudoKit": null,
+      "composicaoINCI": null,
+      "composicaoStatus": "Lista INCI não localizada.",
+      "naoInformado": [
+        "Ativos",
+        "Benefícios específicos",
+        "Indicação específica",
+        "Modo de uso",
+        "Lista INCI completa"
+      ],
+      "imageUrl": "https://dalcotone.com.br/cdn/shop/files/kitdal2.webp?v=1774354124&width=1946",
+      "observacoes": [
+        "Registro parcial: produto e preço em fonte oficial; ficha detalhada não localizada na pesquisa. Não inferir informações a partir de outros volumes ou da linha."
+      ],
+      "detalhamentoStatus": "parcial"
+    },
+    {
+      "nome": "Reparador de Pontas Argan Oil Premium 30 mL",
+      "url": "https://dalcotone.com.br/collections/finalizacao-1",
+      "precoPublico": 71.91,
+      "moeda": "BRL",
+      "precoStatus": "Preço confirmado em coleção oficial indexada; sujeito a atualização.",
+      "consultadoEm": "2026-11-06",
+      "ativos": null,
+      "beneficios": null,
+      "indicacao": null,
+      "modoUso": null,
+      "conteudoKit": null,
+      "composicaoINCI": null,
+      "composicaoStatus": "Lista INCI não localizada.",
+      "naoInformado": [
+        "Ativos",
+        "Benefícios específicos",
+        "Indicação específica",
+        "Modo de uso",
+        "Lista INCI completa"
+      ],
+      "imageUrl": "https://dalcotone.com.br/cdn/shop/files/argan_oil_premium_oil_30ml_3393_1_67e2408adb282489d7e82f2da73ca63a.png?v=1770119971&width=1946",
+      "observacoes": [
+        "Registro parcial: produto e preço em fonte oficial; ficha detalhada não localizada na pesquisa. Não inferir informações a partir de outros volumes ou da linha."
+      ],
+      "detalhamentoStatus": "parcial"
+    },
+    {
+      "nome": "Shampoo Power Curls 1 L",
+      "url": "https://dalcotone.com.br/collections/linha-power-curls",
+      "precoPublico": 86.58,
+      "moeda": "BRL",
+      "precoStatus": "Preço confirmado em coleção oficial indexada; sujeito a atualização.",
+      "consultadoEm": "2026-11-06",
+      "ativos": null,
+      "beneficios": null,
+      "indicacao": null,
+      "modoUso": null,
+      "conteudoKit": null,
+      "composicaoINCI": null,
+      "composicaoStatus": "Lista INCI não localizada.",
+      "naoInformado": [
+        "Ativos",
+        "Benefícios específicos",
+        "Indicação específica",
+        "Modo de uso",
+        "Lista INCI completa"
+      ],
+      "imageUrl": "https://dalcotone.com.br/cdn/shop/files/shampoo_cachos_power_curls_1l_3383_1_a34e89dec8e52b021da59cdb886105f4.png?v=1770119966&width=3840",
+      "observacoes": [
+        "Registro parcial: produto e preço em fonte oficial; ficha detalhada não localizada na pesquisa. Não inferir informações a partir de outros volumes ou da linha."
+      ],
+      "detalhamentoStatus": "parcial"
+    },
+    {
+      "nome": "Shampoo Power Curls 300 mL",
+      "url": "https://dalcotone.com.br/collections/linha-power-curls",
+      "precoPublico": 59.39,
+      "moeda": "BRL",
+      "precoStatus": "Preço confirmado em coleção oficial indexada; sujeito a atualização.",
+      "consultadoEm": "2026-11-06",
+      "ativos": null,
+      "beneficios": null,
+      "indicacao": null,
+      "modoUso": null,
+      "conteudoKit": null,
+      "composicaoINCI": null,
+      "composicaoStatus": "Lista INCI não localizada.",
+      "naoInformado": [
+        "Ativos",
+        "Benefícios específicos",
+        "Indicação específica",
+        "Modo de uso",
+        "Lista INCI completa"
+      ],
+      "imageUrl": "https://dalcotone.com.br/cdn/shop/files/shampoo_cachos_power_curls_300ml_3317_1_204683bc03c6e50ec51572db71c2418a.png?v=1770120035&width=3840",
+      "observacoes": [
+        "Registro parcial: produto e preço em fonte oficial; ficha detalhada não localizada na pesquisa. Não inferir informações a partir de outros volumes ou da linha."
+      ],
+      "detalhamentoStatus": "parcial"
+    },
+    {
+      "nome": "Condicionador Power Repair 1 L",
+      "url": "https://dalcotone.com.br/collections/all",
+      "precoPublico": 137,
+      "moeda": "BRL",
+      "precoStatus": "Preço confirmado em coleção oficial indexada; sujeito a atualização.",
+      "consultadoEm": "2026-11-06",
+      "ativos": null,
+      "beneficios": null,
+      "indicacao": null,
+      "modoUso": null,
+      "conteudoKit": null,
+      "composicaoINCI": null,
+      "composicaoStatus": "Lista INCI não localizada.",
+      "naoInformado": [
+        "Ativos",
+        "Benefícios específicos",
+        "Indicação específica",
+        "Modo de uso",
+        "Lista INCI completa"
+      ],
+      "imageUrl": "https://dalcotone.com.br/cdn/shop/files/condicionador_power_repair_1l_3311_1_97c1115cc502419ccd1b43fd8ac7e8be.png?v=1770120018&width=1946",
+      "observacoes": [
+        "Registro parcial: produto e preço em fonte oficial; ficha detalhada não localizada na pesquisa. Não inferir informações a partir de outros volumes ou da linha."
+      ],
+      "detalhamentoStatus": "parcial"
+    },
+    {
+      "nome": "Máscara Force Life 300 g",
+      "url": "https://dalcotone.com.br/collections/linha-force-life",
+      "precoPublico": 125.01,
+      "moeda": "BRL",
+      "precoStatus": "Preço confirmado em coleção oficial indexada; sujeito a atualização.",
+      "consultadoEm": "2026-11-06",
+      "ativos": null,
+      "beneficios": null,
+      "indicacao": null,
+      "modoUso": null,
+      "conteudoKit": null,
+      "composicaoINCI": null,
+      "composicaoStatus": "Lista INCI não localizada.",
+      "naoInformado": [
+        "Ativos",
+        "Benefícios específicos",
+        "Indicação específica",
+        "Modo de uso",
+        "Lista INCI completa"
+      ],
+      "imageUrl": "https://dalcotone.com.br/cdn/shop/files/force_life_mascara_300g_3339_1_49b123accb2e475825fc8335c9f68688.png?v=1770119953&width=1946",
+      "observacoes": [
+        "Registro parcial: produto e preço em fonte oficial; ficha detalhada não localizada na pesquisa. Não inferir informações a partir de outros volumes ou da linha."
+      ],
+      "detalhamentoStatus": "parcial"
+    },
+    {
+      "nome": "Condicionador Force Life 300 mL",
+      "url": "https://dalcotone.com.br/collections/linha-force-life",
+      "precoPublico": 79.74,
+      "moeda": "BRL",
+      "precoStatus": "Preço confirmado em coleção oficial indexada; sujeito a atualização.",
+      "consultadoEm": "2026-11-06",
+      "ativos": null,
+      "beneficios": null,
+      "indicacao": null,
+      "modoUso": null,
+      "conteudoKit": null,
+      "composicaoINCI": null,
+      "composicaoStatus": "Lista INCI não localizada.",
+      "naoInformado": [
+        "Ativos",
+        "Benefícios específicos",
+        "Indicação específica",
+        "Modo de uso",
+        "Lista INCI completa"
+      ],
+      "imageUrl": null,
+      "observacoes": [
+        "Registro parcial: produto e preço em fonte oficial; ficha detalhada não localizada na pesquisa. Não inferir informações a partir de outros volumes ou da linha."
+      ],
+      "detalhamentoStatus": "parcial"
+    },
+    {
+      "nome": "Máscara Blond Up 300 g",
+      "url": "https://dalcotone.com.br/collections/linha-blond-up",
+      "precoPublico": 110.34,
+      "moeda": "BRL",
+      "precoStatus": "Preço confirmado em coleção oficial indexada; sujeito a atualização.",
+      "consultadoEm": "2026-11-06",
+      "ativos": null,
+      "beneficios": null,
+      "indicacao": null,
+      "modoUso": null,
+      "conteudoKit": null,
+      "composicaoINCI": null,
+      "composicaoStatus": "Lista INCI não localizada.",
+      "naoInformado": [
+        "Ativos",
+        "Benefícios específicos",
+        "Indicação específica",
+        "Modo de uso",
+        "Lista INCI completa"
+      ],
+      "imageUrl": "https://dalcotone.com.br/cdn/shop/files/mascara_blond_up_300g_3271_1_14e8321e0751a2995e8007f503b4dbaa.png?v=1770119932&width=3840",
+      "observacoes": [
+        "Registro parcial: produto e preço em fonte oficial; ficha detalhada não localizada na pesquisa. Não inferir informações a partir de outros volumes ou da linha."
+      ],
+      "detalhamentoStatus": "parcial"
+    },
+    {
+      "nome": "Shampoo Blond Up Premium 1 L",
+      "url": "https://dalcotone.com.br/products/shampoo-iluminador-blond-up-premium",
+      "precoPublico": 148.41,
+      "moeda": "BRL",
+      "precoStatus": "Preço confirmado em coleção oficial indexada; sujeito a atualização.",
+      "consultadoEm": "2026-11-06",
+      "ativos": null,
+      "beneficios": null,
+      "indicacao": null,
+      "modoUso": null,
+      "conteudoKit": null,
+      "composicaoINCI": null,
+      "composicaoStatus": "Lista INCI não localizada.",
+      "naoInformado": [
+        "Ativos",
+        "Benefícios específicos",
+        "Indicação específica",
+        "Modo de uso",
+        "Lista INCI completa"
+      ],
+      "imageUrl": "https://dalcotone.com.br/cdn/shop/files/shampoo_iluminador_blond_up_premium_1l_3273_1_7f3b58b0be88c1ffaf121d668eb650ee.png?v=1770119934&width=3840",
+      "observacoes": [
+        "Registro parcial: produto e preço em fonte oficial; ficha detalhada não localizada na pesquisa. Não inferir informações a partir de outros volumes ou da linha."
+      ],
+      "detalhamentoStatus": "parcial"
+    },
+    {
+      "nome": "Shampoo S.O.S Detox 1 L",
+      "url": "https://dalcotone.com.br/collections/desintoxicante",
+      "precoPublico": 148.41,
+      "moeda": "BRL",
+      "precoStatus": "Preço confirmado em coleção oficial indexada; sujeito a atualização.",
+      "consultadoEm": "2026-11-06",
+      "ativos": null,
+      "beneficios": null,
+      "indicacao": null,
+      "modoUso": null,
+      "conteudoKit": null,
+      "composicaoINCI": null,
+      "composicaoStatus": "Lista INCI não localizada.",
+      "naoInformado": [
+        "Ativos",
+        "Benefícios específicos",
+        "Indicação específica",
+        "Modo de uso",
+        "Lista INCI completa"
+      ],
+      "imageUrl": "https://dalcotone.com.br/cdn/shop/files/shampoo_s_o_s_detox_1l_3295_1_4eef32a139f1c01596378768b364370e.png?v=1770119943&width=3840",
+      "observacoes": [
+        "Registro parcial: produto e preço em fonte oficial; ficha detalhada não localizada na pesquisa. Não inferir informações a partir de outros volumes ou da linha."
+      ],
+      "detalhamentoStatus": "parcial"
+    }
+  ]
+}

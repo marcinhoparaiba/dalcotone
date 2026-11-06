@@ -1,0 +1,210 @@
+{
+  "images": [
+    {
+      "productId": "pro-24k-premium-selagem",
+      "imageUrl": "/assets/products/pro-24k-premium-selagem.webp",
+      "page": 1,
+      "verifiedPresentation": true,
+      "name": "Selagem 24K Premium",
+      "notes": [
+        "Rótulo conferido visualmente no PDF; imagem original extraída com máscara alpha."
+      ]
+    },
+    {
+      "productId": "pro-24k-mask-mask",
+      "imageUrl": "/assets/products/pro-24k-mask-mask.webp",
+      "page": 3,
+      "verifiedPresentation": true,
+      "name": "Intensive Treatment Mask 24K Premium — Botox Reconstrutor",
+      "notes": [
+        "Rótulo conferido visualmente no PDF; imagem original extraída com máscara alpha."
+      ]
+    },
+    {
+      "productId": "pro-bio-plastia-shampoo",
+      "imageUrl": "/assets/products/pro-bio-plastia-shampoo.webp",
+      "page": 4,
+      "verifiedPresentation": true,
+      "name": "Shampoo Pré-Tratamento Bio Plastia",
+      "notes": [
+        "Rótulo conferido visualmente no PDF; imagem original extraída com máscara alpha."
+      ]
+    },
+    {
+      "productId": "pro-bio-plastia-retexturizador",
+      "imageUrl": "/assets/products/pro-bio-plastia-retexturizador.webp",
+      "page": 4,
+      "verifiedPresentation": true,
+      "name": "Retexturizador Bio Plastia",
+      "notes": [
+        "Rótulo conferido visualmente no PDF; imagem original extraída com máscara alpha."
+      ]
+    },
+    {
+      "productId": "pro-oxo-fusion-retexturizador",
+      "imageUrl": "/assets/products/pro-oxo-fusion-retexturizador.webp",
+      "page": 5,
+      "verifiedPresentation": true,
+      "name": "Oxo Silk Fusion High Performance",
+      "notes": [
+        "Rótulo conferido visualmente no PDF; imagem original extraída com máscara alpha."
+      ]
+    },
+    {
+      "productId": "pro-silk-fiber-regular",
+      "imageUrl": "/assets/products/pro-silk-fiber-regular.webp",
+      "page": 6,
+      "verifiedPresentation": true,
+      "name": "Retexturizador Silk Fiber",
+      "notes": [
+        "Rótulo conferido visualmente no PDF; imagem original extraída com máscara alpha."
+      ]
+    },
+    {
+      "productId": "pro-silk-fiber-blond",
+      "imageUrl": "/assets/products/pro-silk-fiber-blond.webp",
+      "page": 6,
+      "verifiedPresentation": true,
+      "name": "Retexturizador Silk Fiber Blond",
+      "notes": [
+        "Rótulo conferido visualmente no PDF; imagem original extraída com máscara alpha."
+      ]
+    },
+    {
+      "productId": "pro-clean-care-shampoo",
+      "imageUrl": "/assets/products/pro-clean-care-shampoo.webp",
+      "page": 8,
+      "verifiedPresentation": true,
+      "name": "Shampoo Preparador Clean Care",
+      "notes": [
+        "Rótulo conferido visualmente no PDF; imagem original extraída com máscara alpha."
+      ]
+    },
+    {
+      "productId": "consultor-ph-control",
+      "imageUrl": "/assets/products/consultor-ph-control.webp",
+      "page": 25,
+      "verifiedPresentation": true,
+      "name": "pH Control",
+      "notes": [
+        "Recorte da fotografia oficial de modelo segurando o produto. Fundo fotográfico preservado; sem reconstrução de rótulo. xref732 éNecessityUse e não foi usado."
+      ]
+    },
+    {
+      "productId": "2bce03643a5eb89e",
+      "imageUrl": "/assets/products/2bce03643a5eb89e.webp",
+      "page": 27,
+      "verifiedPresentation": true,
+      "name": "Condicionador Force Life",
+      "notes": [
+        "Recorte exclusivo do condicionador no conjunto da linha ForceLife. Outrosprodutos não incluídos."
+      ]
+    },
+    {
+      "productId": "pro-envolpamento-finalizador",
+      "imageUrl": "/assets/products/pro-envolpamento-finalizador.webp",
+      "page": 7,
+      "verifiedPresentation": true,
+      "name": "Finalizador Envolpamento dos Fios 1 L",
+      "notes": "Foto incorporada no PDF oficial, com máscara alfa original preservada. Rótulo e apresentação conferidos visualmente."
+    },
+    {
+      "productId": "pro-envolpamento-shampoo",
+      "imageUrl": "/assets/products/pro-envolpamento-shampoo.webp",
+      "page": 7,
+      "verifiedPresentation": true,
+      "name": "Shampoo Técnico Envolpamento dos Fios 1 L",
+      "notes": "Foto incorporada no PDF oficial, com máscara alfa original preservada. Rótulo e apresentação conferidos visualmente."
+    },
+    {
+      "productId": "pro-envolpamento-reconstrutor",
+      "imageUrl": "/assets/products/pro-envolpamento-reconstrutor.webp",
+      "page": 7,
+      "verifiedPresentation": true,
+      "name": "Reconstrutor Envolpamento dos Fios 1 L",
+      "notes": "Foto incorporada no PDF oficial, com máscara alfa original preservada. Rótulo e apresentação conferidos visualmente."
+    },
+    {
+      "productId": "pro-washing-shampoo",
+      "imageUrl": "/assets/products/pro-washing-shampoo.webp",
+      "page": 9,
+      "verifiedPresentation": true,
+      "name": "Shampoo Purificante Washing 2,5 L",
+      "notes": "Recorte do frasco esquerdo do arquivo de imagem do catálogo; rótulo Shampoo Purificante2.5L conferido."
+    },
+    {
+      "productId": "pro-washing-condicionador",
+      "imageUrl": "/assets/products/pro-washing-condicionador.webp",
+      "page": 9,
+      "verifiedPresentation": true,
+      "name": "Condicionador Purificante Washing 2,5 L",
+      "notes": "Recorte do frasco direito; rótulo Condicionador Purificante2.5L conferido."
+    },
+    {
+      "productId": "pro-bleached-ox-05",
+      "imageUrl": "/assets/products/pro-bleached-ox-05.webp",
+      "page": 12,
+      "verifiedPresentation": true,
+      "name": "Emulsão Reveladora Cremosa Bleached 05 volumes 900 mL",
+      "notes": "Recorte do frasco Bleached05vol900ml; concentração e volume conferidos no rótulo original."
+    },
+    {
+      "productId": "pro-bleached-ox-10",
+      "imageUrl": "/assets/products/pro-bleached-ox-10.webp",
+      "page": 12,
+      "verifiedPresentation": true,
+      "name": "Emulsão Reveladora Cremosa Bleached 10 volumes 900 mL",
+      "notes": "Recorte do frasco Bleached10vol900ml; concentração e volume conferidos no rótulo original."
+    },
+    {
+      "productId": "pro-bleached-ox-20",
+      "imageUrl": "/assets/products/pro-bleached-ox-20.webp",
+      "page": 12,
+      "verifiedPresentation": true,
+      "name": "Emulsão Reveladora Cremosa Bleached 20 volumes 900 mL",
+      "notes": "Recorte do frasco Bleached20vol900ml; concentração e volume conferidos no rótulo original."
+    },
+    {
+      "productId": "pro-bleached-ox-30",
+      "imageUrl": "/assets/products/pro-bleached-ox-30.webp",
+      "page": 12,
+      "verifiedPresentation": true,
+      "name": "Emulsão Reveladora Cremosa Bleached 30 volumes 900 mL",
+      "notes": "Recorte do frasco Bleached30vol900ml; concentração e volume conferidos no rótulo original."
+    },
+    {
+      "productId": "pro-bleached-powder-white",
+      "imageUrl": "/assets/products/pro-bleached-powder-white.webp",
+      "page": 13,
+      "verifiedPresentation": true,
+      "name": "Pó Descolorante Bleached White 500 g",
+      "notes": "Recorte da embalagem esquerda White500g, rótulo BLEACHEDHAIR. A lateral direita está parcialmente encoberta pela embalagem Blue na fotografia original; não houve reconstrução artificial."
+    },
+    {
+      "productId": "pro-bleached-powder-blue",
+      "imageUrl": "/assets/products/pro-bleached-powder-blue.webp",
+      "page": 13,
+      "verifiedPresentation": true,
+      "name": "Pó Descolorante Bleached Blue 500 g",
+      "notes": "Recorte da embalagem direita BleachedBlue500g, rótulo conferido. Contorno original preservado, sem reconstrução."
+    },
+    {
+      "productId": "pro-color-creams-coloracao",
+      "imageUrl": "/assets/products/pro-color-creams-coloracao.webp",
+      "page": 47,
+      "verifiedPresentation": true,
+      "name": "Color Creams — Coloração Permanente 60 g",
+      "notes": "Imagem oficial da bisnaga e sua caixa, ambas60g, sem nuance específica atribuída. Não é kit de produtos."
+    },
+    {
+      "productId": "pro-queratina-spray",
+      "imageUrl": "/assets/products/pro-queratina-spray.webp",
+      "page": 35,
+      "verifiedPresentation": true,
+      "name": "Queratina Hidrolisada 250 mL",
+      "notes": [
+        "Imagem incorporada no PDF, xref464 e máscara465. Rótulo Queratina Hidrolisada 250mL conferido visualmente."
+      ]
+    }
+  ]
+}

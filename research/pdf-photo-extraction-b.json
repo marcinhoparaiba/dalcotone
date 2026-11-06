@@ -1,0 +1,228 @@
+{
+  "images": [
+    {
+      "productId": "pro-envolpamento-finalizador",
+      "name": "Finalizador Envolpamento dos Fios 1 L",
+      "imageUrl": "/assets/products/pro-envolpamento-finalizador.webp",
+      "localPath": "/workspace/sites/dal-cotone-consultor/dist/assets/products/pro-envolpamento-finalizador.webp",
+      "sourceUrl": "https://usedalcotone.com/links/%5B%20DIGITAL%20%5D%20CAT%C3%81LOGO%20-%20DAL%20COTONE%202025-min.pdf",
+      "sourceKind": "official_pdf",
+      "pdfPageIndex": 7,
+      "pdfPrintedPage": "07/49",
+      "xref": 104,
+      "cropBox": null,
+      "verifiedPresentation": true,
+      "notes": "Foto incorporada no PDF oficial, com máscara alfa original preservada. Rótulo e apresentação conferidos visualmente.",
+      "bytes": 13350
+    },
+    {
+      "productId": "pro-envolpamento-shampoo",
+      "name": "Shampoo Técnico Envolpamento dos Fios 1 L",
+      "imageUrl": "/assets/products/pro-envolpamento-shampoo.webp",
+      "localPath": "/workspace/sites/dal-cotone-consultor/dist/assets/products/pro-envolpamento-shampoo.webp",
+      "sourceUrl": "https://usedalcotone.com/links/%5B%20DIGITAL%20%5D%20CAT%C3%81LOGO%20-%20DAL%20COTONE%202025-min.pdf",
+      "sourceKind": "official_pdf",
+      "pdfPageIndex": 7,
+      "pdfPrintedPage": "07/49",
+      "xref": 106,
+      "cropBox": null,
+      "verifiedPresentation": true,
+      "notes": "Foto incorporada no PDF oficial, com máscara alfa original preservada. Rótulo e apresentação conferidos visualmente.",
+      "bytes": 13584
+    },
+    {
+      "productId": "pro-envolpamento-reconstrutor",
+      "name": "Reconstrutor Envolpamento dos Fios 1 L",
+      "imageUrl": "/assets/products/pro-envolpamento-reconstrutor.webp",
+      "localPath": "/workspace/sites/dal-cotone-consultor/dist/assets/products/pro-envolpamento-reconstrutor.webp",
+      "sourceUrl": "https://usedalcotone.com/links/%5B%20DIGITAL%20%5D%20CAT%C3%81LOGO%20-%20DAL%20COTONE%202025-min.pdf",
+      "sourceKind": "official_pdf",
+      "pdfPageIndex": 7,
+      "pdfPrintedPage": "07/49",
+      "xref": 107,
+      "cropBox": null,
+      "verifiedPresentation": true,
+      "notes": "Foto incorporada no PDF oficial, com máscara alfa original preservada. Rótulo e apresentação conferidos visualmente.",
+      "bytes": 13452
+    },
+    {
+      "productId": "pro-washing-shampoo",
+      "name": "Shampoo Purificante Washing 2,5 L",
+      "imageUrl": "/assets/products/pro-washing-shampoo.webp",
+      "localPath": "/workspace/sites/dal-cotone-consultor/dist/assets/products/pro-washing-shampoo.webp",
+      "sourceUrl": "https://usedalcotone.com/links/%5B%20DIGITAL%20%5D%20CAT%C3%81LOGO%20-%20DAL%20COTONE%202025-min.pdf",
+      "sourceKind": "official_pdf",
+      "pdfPageIndex": 9,
+      "pdfPrintedPage": "09/49",
+      "xref": 130,
+      "cropBox": [
+        190,
+        50,
+        577,
+        1130
+      ],
+      "verifiedPresentation": true,
+      "notes": "Recorte do frasco esquerdo do arquivo de imagem do catálogo; rótulo Shampoo Purificante2.5L conferido.",
+      "bytes": 13724
+    },
+    {
+      "productId": "pro-washing-condicionador",
+      "name": "Condicionador Purificante Washing 2,5 L",
+      "imageUrl": "/assets/products/pro-washing-condicionador.webp",
+      "localPath": "/workspace/sites/dal-cotone-consultor/dist/assets/products/pro-washing-condicionador.webp",
+      "sourceUrl": "https://usedalcotone.com/links/%5B%20DIGITAL%20%5D%20CAT%C3%81LOGO%20-%20DAL%20COTONE%202025-min.pdf",
+      "sourceKind": "official_pdf",
+      "pdfPageIndex": 9,
+      "pdfPrintedPage": "09/49",
+      "xref": 130,
+      "cropBox": [
+        578,
+        50,
+        956,
+        1130
+      ],
+      "verifiedPresentation": true,
+      "notes": "Recorte do frasco direito; rótulo Condicionador Purificante2.5L conferido.",
+      "bytes": 13786
+    },
+    {
+      "productId": "pro-bleached-ox-05",
+      "name": "Emulsão Reveladora Cremosa Bleached 05 volumes 900 mL",
+      "imageUrl": "/assets/products/pro-bleached-ox-05.webp",
+      "localPath": "/workspace/sites/dal-cotone-consultor/dist/assets/products/pro-bleached-ox-05.webp",
+      "sourceUrl": "https://usedalcotone.com/links/%5B%20DIGITAL%20%5D%20CAT%C3%81LOGO%20-%20DAL%20COTONE%202025-min.pdf",
+      "sourceKind": "official_pdf",
+      "pdfPageIndex": 12,
+      "pdfPrintedPage": "12/49",
+      "xref": 179,
+      "cropBox": [
+        76,
+        160,
+        337,
+        1118
+      ],
+      "verifiedPresentation": true,
+      "notes": "Recorte do frasco Bleached05vol900ml; concentração e volume conferidos no rótulo original.",
+      "bytes": 10778
+    },
+    {
+      "productId": "pro-bleached-ox-10",
+      "name": "Emulsão Reveladora Cremosa Bleached 10 volumes 900 mL",
+      "imageUrl": "/assets/products/pro-bleached-ox-10.webp",
+      "localPath": "/workspace/sites/dal-cotone-consultor/dist/assets/products/pro-bleached-ox-10.webp",
+      "sourceUrl": "https://usedalcotone.com/links/%5B%20DIGITAL%20%5D%20CAT%C3%81LOGO%20-%20DAL%20COTONE%202025-min.pdf",
+      "sourceKind": "official_pdf",
+      "pdfPageIndex": 12,
+      "pdfPrintedPage": "12/49",
+      "xref": 179,
+      "cropBox": [
+        338,
+        160,
+        593,
+        1118
+      ],
+      "verifiedPresentation": true,
+      "notes": "Recorte do frasco Bleached10vol900ml; concentração e volume conferidos no rótulo original.",
+      "bytes": 10860
+    },
+    {
+      "productId": "pro-bleached-ox-20",
+      "name": "Emulsão Reveladora Cremosa Bleached 20 volumes 900 mL",
+      "imageUrl": "/assets/products/pro-bleached-ox-20.webp",
+      "localPath": "/workspace/sites/dal-cotone-consultor/dist/assets/products/pro-bleached-ox-20.webp",
+      "sourceUrl": "https://usedalcotone.com/links/%5B%20DIGITAL%20%5D%20CAT%C3%81LOGO%20-%20DAL%20COTONE%202025-min.pdf",
+      "sourceKind": "official_pdf",
+      "pdfPageIndex": 12,
+      "pdfPrintedPage": "12/49",
+      "xref": 179,
+      "cropBox": [
+        594,
+        160,
+        850,
+        1118
+      ],
+      "verifiedPresentation": true,
+      "notes": "Recorte do frasco Bleached20vol900ml; concentração e volume conferidos no rótulo original.",
+      "bytes": 10638
+    },
+    {
+      "productId": "pro-bleached-ox-30",
+      "name": "Emulsão Reveladora Cremosa Bleached 30 volumes 900 mL",
+      "imageUrl": "/assets/products/pro-bleached-ox-30.webp",
+      "localPath": "/workspace/sites/dal-cotone-consultor/dist/assets/products/pro-bleached-ox-30.webp",
+      "sourceUrl": "https://usedalcotone.com/links/%5B%20DIGITAL%20%5D%20CAT%C3%81LOGO%20-%20DAL%20COTONE%202025-min.pdf",
+      "sourceKind": "official_pdf",
+      "pdfPageIndex": 12,
+      "pdfPrintedPage": "12/49",
+      "xref": 179,
+      "cropBox": [
+        851,
+        160,
+        1113,
+        1118
+      ],
+      "verifiedPresentation": true,
+      "notes": "Recorte do frasco Bleached30vol900ml; concentração e volume conferidos no rótulo original.",
+      "bytes": 10866
+    },
+    {
+      "productId": "pro-bleached-powder-white",
+      "name": "Pó Descolorante Bleached White 500 g",
+      "imageUrl": "/assets/products/pro-bleached-powder-white.webp",
+      "localPath": "/workspace/sites/dal-cotone-consultor/dist/assets/products/pro-bleached-powder-white.webp",
+      "sourceUrl": "https://usedalcotone.com/links/%5B%20DIGITAL%20%5D%20CAT%C3%81LOGO%20-%20DAL%20COTONE%202025-min.pdf",
+      "sourceKind": "official_pdf",
+      "pdfPageIndex": 13,
+      "pdfPrintedPage": "13/49",
+      "xref": 212,
+      "cropBox": [
+        42,
+        135,
+        490,
+        992
+      ],
+      "verifiedPresentation": true,
+      "notes": "Recorte da embalagem esquerda White500g, rótulo BLEACHEDHAIR. A lateral direita está parcialmente encoberta pela embalagem Blue na fotografia original; não houve reconstrução artificial.",
+      "bytes": 28050
+    },
+    {
+      "productId": "pro-bleached-powder-blue",
+      "name": "Pó Descolorante Bleached Blue 500 g",
+      "imageUrl": "/assets/products/pro-bleached-powder-blue.webp",
+      "localPath": "/workspace/sites/dal-cotone-consultor/dist/assets/products/pro-bleached-powder-blue.webp",
+      "sourceUrl": "https://usedalcotone.com/links/%5B%20DIGITAL%20%5D%20CAT%C3%81LOGO%20-%20DAL%20COTONE%202025-min.pdf",
+      "sourceKind": "official_pdf",
+      "pdfPageIndex": 13,
+      "pdfPrintedPage": "13/49",
+      "xref": 212,
+      "cropBox": [
+        492,
+        112,
+        958,
+        970
+      ],
+      "verifiedPresentation": true,
+      "notes": "Recorte da embalagem direita BleachedBlue500g, rótulo conferido. Contorno original preservado, sem reconstrução.",
+      "bytes": 22440
+    },
+    {
+      "productId": "pro-color-creams-coloracao",
+      "name": "Color Creams — Coloração Permanente 60 g",
+      "imageUrl": "/assets/products/pro-color-creams-coloracao.webp",
+      "localPath": "/workspace/sites/dal-cotone-consultor/dist/assets/products/pro-color-creams-coloracao.webp",
+      "sourceUrl": "https://usedalcotone.com/links/%5B%20DIGITAL%20%5D%20CAT%C3%81LOGO%20-%20DAL%20COTONE%202025-min.pdf",
+      "sourceKind": "official_pdf",
+      "pdfPageIndex": 47,
+      "pdfPrintedPage": "47/49",
+      "xref": 764,
+      "cropBox": null,
+      "verifiedPresentation": true,
+      "notes": "Imagem oficial da bisnaga e sua caixa, ambas60g, sem nuance específica atribuída. Não é kit de produtos.",
+      "bytes": 32528
+    }
+  ],
+  "unresolved": [],
+  "queriedAt": "2026-11-06",
+  "source": "PDF oficial anexado pelo usuário",
+  "originalsDirectory": "/workspace/work/dalcotone-pdf/b"
+}

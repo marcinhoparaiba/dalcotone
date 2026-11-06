@@ -1,0 +1,210 @@
+{
+  "brand": {
+    "title": "Apresentar a Dal Cotone com segurança e naturalidade",
+    "short": "Olá, eu sou [seu nome], consultor Dal Cotone. A marca foi fundada em 2015 e informa ter fabricação própria. Eu trabalho com linhas para o cuidado profissional e para a manutenção em casa. Antes de te apresentar os produtos, queria entender quais serviços e necessidades aparecem mais no seu salão.",
+    "presentation": "A Dal Cotone é uma marca de cuidados capilares fundada em 2015. O portfólio reúne linhas profissionais e opções de manutenção em casa, o que permite conversar tanto sobre o serviço feito no salão quanto sobre a continuidade da rotina de cuidado. Um ponto da estrutura da marca é a fabricação própria, declarada em seu site. Meu papel como consultor é te ajudar a conhecer as propostas de cada linha, os ativos divulgados e a forma de uso, para avaliar o que combina com o trabalho do seu salão. Em vez de apresentar tudo de uma vez, prefiro começar pela necessidade que faz mais sentido para você.",
+    "valuePoints": [
+      {
+        "title": "Fabricação própria",
+        "meaning": "Pode favorecer a proximidade entre o desenvolvimento e a produção e o acompanhamento dos padrões definidos pela empresa.",
+        "say": "Um ponto que vale conhecer é que a marca informa ter fabricação própria. Isso permite conversar sobre a estrutura por trás do produto, além de olhar a fórmula, o rótulo e a indicação de cada linha.",
+        "limit": "A informação não comprova, sozinha, certificações, resultados ou a qualidade de todos os lotes. Esses pontos precisam de documentação específica.",
+        "sourceUrl": "https://dalcotone.com.br/"
+      },
+      {
+        "title": "História desde 2015",
+        "meaning": "Oferece um marco verificável para contar a trajetória da marca sem recorrer a números de mercado não confirmados.",
+        "say": "A Dal Cotone foi fundada em 2015. Para te apresentar a marca, eu gosto de ligar essa história ao que você precisa conhecer hoje: linhas, propostas de cuidado e informações técnicas.",
+        "limit": "Tempo de mercado não garante desempenho ou superioridade de um produto.",
+        "sourceUrl": "https://dalcotone.com.br/"
+      },
+      {
+        "title": "Profissional e manutenção em casa",
+        "meaning": "Ajuda a organizar a conversa entre o trabalho do salão e a rotina que o cliente vai manter depois.",
+        "say": "Podemos olhar primeiro o que você usa nos atendimentos e depois conhecer as opções de manutenção em casa. A ideia é escolher a linha pela necessidade, sem tratar todo cabelo da mesma forma.",
+        "limit": "Cada apresentação tem sua ficha; a indicação de um produto não deve ser transferida automaticamente para outro da linha.",
+        "sourceUrl": "https://dalcotone.com.br/pages/linhas"
+      },
+      {
+        "title": "Um portfólio com propostas diferentes",
+        "meaning": "Permite conduzir a apresentação a partir do serviço, da etapa de cuidado e da necessidade, em vez de fazer uma oferta genérica.",
+        "say": "Se a sua demanda é reconstrução, começo por essa categoria. Se é cuidado de loiros, cachos ou finalização, mostro as linhas correspondentes e explico o que muda entre os itens e os kits.",
+        "limit": "A escolha depende da indicação e do modo de uso. Não há comprovação registrada de que todos os produtos superem os concorrentes.",
+        "sourceUrl": "https://dalcotone.com.br/products/"
+      }
+    ],
+    "transition": "Pelo que você me contou, acho melhor começarmos por uma linha específica. Posso mostrar a proposta dela, os ativos divulgados e o que vem no kit, para você avaliar com calma?",
+    "close": "Qual dessas necessidades faz mais sentido para começarmos no seu salão? Podemos aprofundar essa linha e confirmar a apresentação, o uso e as condições antes de qualquer decisão.",
+    "tone": "Roteiros adaptáveis: escute primeiro, relacione a necessidade aos dados da ficha e convide a pessoa a avaliar. Não são depoimentos nem um discurso oficial da marca."
+  },
+  "lines": {
+    "24K": {
+      "question": "Quando você pensa em 24K, procura uma opção de finalização ou quer conhecer a linha profissional?",
+      "opening": "Na linha 24K, eu gosto de explicar primeiro a proposta de cada produto. Há a selagem, a máscara profissional e o spray de efeito memória, com funções diferentes.",
+      "explanation": "O Spray 24K é apresentado pela marca como finalizador termoativado, com Lisselini e Silsoft AX-E. A selagem e a máscara constam no catálogo profissional. O kit com shampoo, selagem e máscara está registrado conforme a composição informada pelo consultor, com detalhes comerciais ainda a confirmar.",
+      "nextStep": "Posso abrir a ficha da apresentação que te interessa e conferir os componentes e os dados técnicos com você?"
+    },
+    "Ampolas": {
+      "question": "Você procura conhecer um tratamento em ampolas ou uma forma de complementar uma rotina já definida?",
+      "opening": "Nas ampolas, eu separo a proposta de cada versão. Ultra Magic e Vitamínica aparecem com objetivos descritos em suas próprias fichas.",
+      "explanation": "O tamanho da ampola, o conjunto vendido e o modo de uso precisam ser conferidos em cada apresentação. O nome de uma ampola não permite assumir que a fórmula ou a aplicação sejam iguais às de outra.",
+      "nextStep": "Vamos comparar a ficha da ampola com a necessidade que você quer atender?"
+    },
+    "Argan Oil": {
+      "question": "Você está buscando conhecer uma opção para a etapa de acabamento dos fios?",
+      "opening": "Este grupo reúne o reparador de pontas Argan Oil. Eu começo mostrando a apresentação e os dados que já estão confirmados.",
+      "explanation": "A ficha técnica deste item ainda está parcial. Antes de atribuir proteção térmica, concentração ou qualquer resultado específico, é importante confirmar essas informações na documentação da apresentação.",
+      "nextStep": "Posso conferir a ficha e trazer as informações que faltam para você avaliar com segurança?"
+    },
+    "Bio Plastia": {
+      "question": "Seu interesse é conhecer uma linha profissional de retexturização e seus produtos de preparação?",
+      "opening": "A Bio Plastia aparece no catálogo profissional com shampoo pré-tratamento e retexturizador. Eu apresento a função de cada etapa para a conversa ficar clara.",
+      "explanation": "A proposta e os dados vêm do catálogo da marca. O protocolo, a compatibilidade e as especificações precisam ser conferidos para a apresentação em questão; não são os mesmos dados de qualquer outro procedimento.",
+      "nextStep": "Podemos olhar as fichas e identificar quais informações técnicas você precisa confirmar antes de avaliar a linha?"
+    },
+    "Bleached": {
+      "question": "Você quer conhecer os reveladores, os pós descolorantes ou o conjunto de opções para o serviço do salão?",
+      "opening": "Na Bleached, eu separo as emulsões reveladoras dos pós descolorantes. Isso ajuda a apresentar cada função sem misturar os produtos.",
+      "explanation": "O catálogo traz apresentações com volumagens e versões diferentes. Esses dados são importantes para a seleção profissional; não devem ser substituídos por uma indicação genérica da linha.",
+      "nextStep": "Qual apresentação você quer consultar primeiro para conferir as especificações?"
+    },
+    "Blond Up": {
+      "question": "Quais necessidades de cuidado dos loiros e descoloridos aparecem com mais frequência no seu salão?",
+      "opening": "A Blond Up é uma linha que eu apresento quando a conversa envolve cuidados e matização de fios claros, conforme a indicação de cada item.",
+      "explanation": "A proposta da marca reúne cuidado matizador e hidratação. Shampoo, máscara e versões dos kits têm informações próprias; a apresentação faz diferença e precisa ser conferida.",
+      "nextStep": "Posso mostrar as opções profissionais e de manutenção e o que está identificado em cada kit?"
+    },
+    "Clean Care": {
+      "question": "Você quer conhecer o shampoo de preparação usado nos processos profissionais descritos pela marca?",
+      "opening": "O Clean Care aparece no catálogo como shampoo preparador. Eu explico esse papel antes de falar dos produtos que vêm depois no procedimento.",
+      "explanation": "A função documentada é a preparação. Isso ajuda a entender a sequência de trabalho indicada no material técnico, sem assumir que o produto integra automaticamente qualquer kit comercial.",
+      "nextStep": "Vamos conferir o produto e o protocolo ao qual a sua dúvida se refere?"
+    },
+    "Color Creams": {
+      "question": "Você quer conhecer a proposta da coloração ou precisa confirmar uma tonalidade e sua ficha específica?",
+      "opening": "A Color Creams aparece no catálogo como coloração permanente profissional. Eu começo pela finalidade e pela apresentação documentada.",
+      "explanation": "Tonalidades, cobertura e especificações da versão precisam de documentação própria. A ficha geral não é suficiente para prometer qualquer resultado de cor.",
+      "nextStep": "Qual informação da cartela ou da apresentação você precisa para avaliar a linha?"
+    },
+    "Cronograma": {
+      "question": "Você costuma organizar o cuidado dos fios por etapas ou prefere começar pela necessidade principal?",
+      "opening": "O cronograma ajuda a explicar por que máscaras com propostas diferentes podem fazer parte de uma rotina de estudo e de cuidado.",
+      "explanation": "Nas fichas consultadas, Verniz Intense tem proposta de hidratação, Nutri Protein de nutrição e Restore de reconstrução cosmética. O kit e os itens avulsos precisam ser conferidos: apresentações e tempos de uso podem variar.",
+      "nextStep": "Posso mostrar cada máscara e o que vem no kit para você comparar as propostas?"
+    },
+    "Efeito Teia": {
+      "question": "A necessidade principal que você quer estudar é hidratação, reparação ou reconstrução cosmética?",
+      "opening": "Na família Efeito Teia, eu explico que as máscaras têm propostas próprias. Banana e Mel, Full Recover e Reconstrutor não são uma escolha única para todas as necessidades.",
+      "explanation": "Banana e Mel é apresentada para hidratação e nutrição; Full Recover para reparação cosmética; Reconstrutor para cuidado reconstrutor. Os ativos e o uso devem ser vistos na ficha de cada uma.",
+      "nextStep": "Qual dessas propostas faz mais sentido para abrirmos os ativos e o modo de uso?"
+    },
+    "Force Life": {
+      "question": "Você recebe muitas dúvidas sobre a rotina de cuidado de cabelos oleosos ou mistos?",
+      "opening": "A Force Life é uma linha que eu apresento a partir da proposta de controle de oleosidade descrita pela marca.",
+      "explanation": "Há shampoo, máscara, condicionador e versões de kit, além do Must Use. Eu explico cada função separadamente e confiro os componentes do kit, porque os nomes parecidos não dispensam olhar a ficha.",
+      "nextStep": "Você prefere começar pela rotina de cuidado ou comparar os kits disponíveis no material?"
+    },
+    "Golden Premium": {
+      "question": "Você quer conhecer uma opção focada no acabamento e no brilho dos fios?",
+      "opening": "O Golden Premium é apresentado como óleo spray doador de brilho. Eu o mostro na conversa sobre finalização e acabamento.",
+      "explanation": "Os benefícios registrados são brilho de acabamento e perfume nos fios. Eu me atenho a essa proposta e ao modo de uso publicado para a apresentação.",
+      "nextStep": "Posso abrir a ficha e mostrar como a marca orienta o uso?"
+    },
+    "Hydra Ceramides": {
+      "question": "Você busca uma linha de cuidado voltada à hidratação, maciez e retenção de umidade?",
+      "opening": "A Hydra Ceramides tem uma proposta de hidratação que permite falar do cuidado da fibra de forma objetiva.",
+      "explanation": "A marca destaca ceramidas e alho nas fichas consultadas. As funções descritas incluem hidratação, retenção de umidade e cuidado antioxidante; isso deve ser explicado como proposta da fórmula, sem garantir o mesmo resultado para todo cabelo.",
+      "nextStep": "Podemos ver o kit básico e a versão com Golden para entender o que muda nos componentes?"
+    },
+    "L’Amour": {
+      "question": "Suas clientes valorizam o cuidado dos fios junto da experiência de perfume e acabamento?",
+      "opening": "Na L’Amour, eu conecto a proposta de nutrição e brilho ao cuidado cotidiano, apresentando cada produto da linha.",
+      "explanation": "Existem versões de kit e uma opção com perfume capilar. Vale conferir o que acompanha cada conjunto e os ativos de cada item, sem tratar os kits como se fossem iguais.",
+      "nextStep": "Posso mostrar os componentes e a ficha do perfume capilar para você conhecer a proposta completa?"
+    },
+    "Max Force": {
+      "question": "Você quer conhecer uma linha com proposta de reconstrução para fios fragilizados e com danos cosméticos?",
+      "opening": "A Max Force é uma linha que eu apresento quando a conversa é reconstrução. Eu separo limpeza, tratamento e condicionamento para explicar melhor a rotina.",
+      "explanation": "As fichas destacam óleo de argan e vitamina A, com propostas de nutrição e cuidado reconstrutor. Há kits profissionais e de manutenção, com versões que incluem óleo; cada composição deve ser conferida.",
+      "nextStep": "Qual versão combina com o que você quer estudar: profissional, manutenção ou kit com óleo?"
+    },
+    "Monovin": {
+      "question": "Você recebe muitas dúvidas sobre fortalecimento cosmético e cuidado de fios fragilizados?",
+      "opening": "A Monovin é uma linha que eu apresento a partir do fortalecimento e da hidratação cosmética descritos nas fichas.",
+      "explanation": "Shampoo, máscara, tônico e kits têm papéis diferentes. Ao falar da linha, eu evito transformar benefícios cosméticos em promessa de tratar queda ou condições do couro cabeludo.",
+      "nextStep": "Posso mostrar o papel de cada item e os componentes das versões de kit?"
+    },
+    "Necessity Use": {
+      "question": "Você quer conhecer um finalizador para a etapa em que usa secador, prancha ou outros equipamentos térmicos?",
+      "opening": "O Necessity Use é apresentado pela marca como finalizador reconstrutor com proteção térmica, flexibilidade e controle de frizz.",
+      "explanation": "A ficha consultada destaca queratina hidrolisada, pantenol, arginina e óleo de semente de girassol. Eu explico essa combinação e depois confiro a orientação de uso da apresentação.",
+      "nextStep": "Posso abrir os ativos e o modo de uso para você avaliar onde ele entra na sua rotina?"
+    },
+    "Oxo Fusion": {
+      "question": "Você quer estudar a proposta de um retexturizador termoativado profissional?",
+      "opening": "O Oxo Fusion aparece no catálogo com essa função profissional. Eu começo pela proposta técnica registrada para evitar uma apresentação genérica.",
+      "explanation": "O material destaca a tecnologia e a formulação da linha. Compatibilidades, protocolo e desempenho precisam ser vistos na documentação do produto; não há comparação independente registrada que comprove superioridade universal.",
+      "nextStep": "Podemos olhar a ficha e identificar quais informações técnicas você precisa confirmar?"
+    },
+    "Perfumaria": {
+      "question": "Você prefere conhecer os body splashes ou os perfumes e seus perfis de fragrância?",
+      "opening": "Na perfumaria, eu começo pela experiência de aroma que a pessoa procura e apresento as opções catalogadas.",
+      "explanation": "Notas olfativas ajudam a descrever o cheiro, enquanto a composição INCI descreve ingredientes. São informações diferentes. Também separo as versões com shimmer e os volumes, sem prometer duração que não foi comprovada na ficha.",
+      "nextStep": "Quer comparar os perfis de fragrância e as apresentações disponíveis no material?"
+    },
+    "pH Control": {
+      "question": "Você quer conhecer o papel do controle de pH no cuidado de fios quimicamente tratados, porosos ou fragilizados?",
+      "opening": "O pH Control é apresentado no catálogo da marca como um estabilizador de pH, com propostas de cuidado reconstrutor, blindagem e redução da porosidade.",
+      "explanation": "O catálogo destaca Nano Link e LunaMatrix na apresentação de 500 mL. Eu separo as ocasiões de uso: pré-química, pós-química e blindagem têm orientações próprias. A pausa de 10 minutos e o enxágue descritos para pré e pós-química não devem ser transferidos automaticamente para a blindagem.",
+      "nextStep": "Posso mostrar as três orientações e os ativos da ficha para você entender em qual etapa ele é considerado?"
+    },
+    "Power Curls": {
+      "question": "A sua demanda maior em cachos é conhecer a rotina de cuidado, a definição ou os produtos de finalização?",
+      "opening": "A Power Curls permite apresentar etapas diferentes do cuidado de cabelos cacheados, ondulados ou crespos, conforme a ficha de cada item.",
+      "explanation": "Shampoo, máscara, creme de modelagem, geleia e ativador têm propostas específicas. Eu mostro o que a marca descreve para hidratação, definição e acabamento, sem prometer que todos os tipos de cacho terão o mesmo resultado.",
+      "nextStep": "Quer começar pelo kit ou comparar os finalizadores para entender o que muda?"
+    },
+    "Power Luminous Oil": {
+      "question": "Você quer conhecer uma opção para acabamento das pontas com proposta de brilho e maciez?",
+      "opening": "O Power Luminous Oil é apresentado como óleo de açaí, com benefícios cosméticos de brilho, maciez e hidratação.",
+      "explanation": "Eu explico a proposta do óleo e abro a orientação de uso da marca. Isso ajuda a distinguir o produto dos outros óleos e finalizadores, olhando a formulação e a aplicação de cada um.",
+      "nextStep": "Posso mostrar a ficha e como ele aparece na versão de kit Power Repair com óleo?"
+    },
+    "Power Repair": {
+      "question": "Você quer conhecer uma rotina de hidratação e cuidado de fios com química ou coloração, conforme a indicação da linha?",
+      "opening": "A Power Repair tem uma proposta de hidratação e proteção da cor descrita nas fontes consultadas. Eu apresento a função de cada etapa.",
+      "explanation": "A marca destaca açaí e ceramidas. Há shampoo, máscara, condicionador e versões de kit, inclusive com Power Luminous Oil. O benefício do conjunto deve ser explicado pelos itens que realmente acompanham cada versão.",
+      "nextStep": "Posso comparar o kit de manutenção, o profissional e a versão com óleo?"
+    },
+    "Queratina": {
+      "question": "Você quer estudar um produto específico de reconstrução cosmética e sua função na rotina profissional?",
+      "opening": "A queratina hidrolisada aparece no catálogo da marca com proposta de reconstrução. Eu apresento essa função sem tratar a reposição proteica como uma solução única para todo cabelo.",
+      "explanation": "A ficha e o modo de uso da apresentação são importantes para entender quando considerar o produto. Não é adequado transferir automaticamente a aplicação de outra queratina ou de outra linha.",
+      "nextStep": "Vamos conferir a ficha e a indicação registrada para esta apresentação?"
+    },
+    "S.O.S Detox": {
+      "question": "Você quer conhecer uma rotina voltada à limpeza e ao cuidado cosmético de cabelos oleosos, mistos ou com acúmulo de resíduos?",
+      "opening": "A S.O.S Detox é uma linha que eu apresento começando pela função de limpeza e pelos cuidados seguintes, conforme as fichas da marca.",
+      "explanation": "O material destaca café verde, Fiber Detox e óleo de cártamo na linha. Shampoo, máscara, condicionador e finalizador têm funções próprias; a versão profissional e a de manutenção precisam ser comparadas pelos componentes.",
+      "nextStep": "Posso mostrar os dois kits e o papel de cada item na proposta de cuidado?"
+    },
+    "Silk Fiber": {
+      "question": "Você quer estudar a versão regular ou a versão Blond da linha profissional?",
+      "opening": "A Silk Fiber aparece no catálogo com uma proposta de botox capilar modelador. Eu separo as versões antes de explicar o produto.",
+      "explanation": "A versão Blond inclui uma proposta de neutralização de tons amarelados descrita pela marca. As especificações e o uso devem ser conferidos na ficha correspondente, sem assumir equivalência com outros produtos chamados botox.",
+      "nextStep": "Qual versão você gostaria de abrir para conferir os detalhes técnicos?"
+    },
+    "Washing": {
+      "question": "Você quer conhecer a proposta de limpeza e condicionamento para a rotina do salão?",
+      "opening": "A Washing aparece no catálogo com shampoo e condicionador em apresentações de salão. Eu explico o papel de cada etapa de forma direta.",
+      "explanation": "O tamanho da apresentação é uma informação útil para estudar a organização da rotina. Rendimento e custo por aplicação, porém, dependem de dados que precisam ser confirmados; não são garantidos apenas pelo volume da embalagem.",
+      "nextStep": "Posso mostrar as apresentações e listar as informações necessárias para você avaliar a linha?"
+    },
+    "Envelopamento dos Fios": {
+      "question": "Você quer entender a proposta de reconstrução e como a marca organiza as etapas dessa linha profissional?",
+      "opening": "O catálogo apresenta o Envelopamento dos Fios com shampoo técnico, reconstrutor e finalizador. Eu uso essa sequência para explicar o papel de cada produto.",
+      "explanation": "As funções e os ativos registrados vêm do material da marca. Para avaliar a aplicação, é importante consultar a ficha do item e o protocolo profissional correspondente.",
+      "nextStep": "Podemos estudar os três produtos e listar o que precisa ser confirmado na apresentação comercial?"
+    }
+  }
+}

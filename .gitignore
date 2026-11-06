@@ -1,0 +1,8 @@
+.DS_Store
+node_modules/
+*.tar.gz
+*.zip
+.local/
+
+__pycache__/
+.expo/

@@ -1,0 +1,271 @@
+{
+  "actives": [
+    {
+      "name": "Pantenol",
+      "aliases": [
+        "D-pantenol",
+        "D’Pantenol",
+        "Provitamina B5"
+      ],
+      "role": "Hidratação prolongada e fortalecimento da fibra; ajuda a manter a maciez dos cachos.",
+      "sourceUrl": "https://dalcotone.com.br/products/creme-de-modelagem-cachos-power-curls-300ml",
+      "scope": "individual"
+    },
+    {
+      "name": "Óleo de coco",
+      "aliases": [
+        "Coco"
+      ],
+      "role": "Nutre os fios e ajuda no controle do frizz.",
+      "sourceUrl": "https://dalcotone.com.br/products/creme-de-modelagem-cachos-power-curls-300ml",
+      "scope": "individual"
+    },
+    {
+      "name": "Ceramidas",
+      "aliases": [
+        "Ceramida"
+      ],
+      "role": "Ajuda a recompor a barreira lipídica, selar as cutículas e reduzir o frizz.",
+      "sourceUrl": "https://dalcotone.com.br/products/kit-power-repair-home-care-c-power-luminous-oil",
+      "scope": "individual"
+    },
+    {
+      "name": "Bioceramidas",
+      "aliases": [
+        "Bio ceramidas"
+      ],
+      "role": "A marca relaciona as bioceramidas da fórmula ao controle do frizz e à proteção dos fios.",
+      "sourceUrl": "https://dalcotone.com.br/products/shampoo-ceramidas-300ml",
+      "scope": "individual"
+    },
+    {
+      "name": "Alho",
+      "aliases": [],
+      "role": "Integra a combinação com bioceramidas descrita para revitalização da fibra e proteção contra danos externos; a fonte não separa sua ação individual.",
+      "sourceUrl": "https://dalcotone.com.br/products/mascara-ceramidas-300g",
+      "scope": "blend"
+    },
+    {
+      "name": "Frulix de açaí",
+      "aliases": [
+        "Frulix de Açaí"
+      ],
+      "role": "Na combinação com ceramidas, é associado à proteção antioxidante e à integridade da fibra.",
+      "sourceUrl": "https://dalcotone.com.br/products/shampoo-power-repair-300ml",
+      "scope": "blend"
+    },
+    {
+      "name": "Geleia real",
+      "aliases": [],
+      "role": "Integra a combinação com ceramidas à qual a marca atribui reconstrução, nutrição e proteção contra novos danos; ação individual não discriminada.",
+      "sourceUrl": "https://dalcotone.com.br/products/mascara-reconstrutor-efeito-teia-500g",
+      "scope": "blend"
+    },
+    {
+      "name": "Óleo de amêndoas",
+      "aliases": [],
+      "role": "Integra a combinação com ceramidas à qual a marca atribui reconstrução, nutrição e proteção contra novos danos; ação individual não discriminada.",
+      "sourceUrl": "https://dalcotone.com.br/products/mascara-reconstrutor-efeito-teia-500g",
+      "scope": "blend"
+    },
+    {
+      "name": "Óleo de argan",
+      "aliases": [],
+      "role": "Na combinação Max Force, a marca relaciona os ativos à recuperação capilar e proteção antioxidante; não isola a função de cada um.",
+      "sourceUrl": "https://dalcotone.com.br/products/mascara-max-repair-300ml",
+      "scope": "blend"
+    },
+    {
+      "name": "Vitamina A",
+      "aliases": [],
+      "role": "Na combinação Max Force, a marca relaciona os ativos à recuperação capilar e proteção antioxidante; não isola a função de cada um.",
+      "sourceUrl": "https://dalcotone.com.br/products/mascara-max-repair-300ml",
+      "scope": "blend"
+    },
+    {
+      "name": "Café verde",
+      "aliases": [],
+      "role": "Integra o conjunto S.O.S Detox descrito para purificação e proteção da fibra; função individual não discriminada.",
+      "sourceUrl": "https://dalcotone.com.br/products/condicionador-s-o-s-detox-300ml",
+      "scope": "blend"
+    },
+    {
+      "name": "Óleo de cártamo",
+      "aliases": [],
+      "role": "Integra o conjunto S.O.S Detox descrito para purificação e proteção da fibra; função individual não discriminada.",
+      "sourceUrl": "https://dalcotone.com.br/products/condicionador-s-o-s-detox-300ml",
+      "scope": "blend"
+    },
+    {
+      "name": "Fiber Detox",
+      "aliases": [],
+      "role": "Integra o conjunto S.O.S Detox descrito para purificação e proteção da fibra; função individual não discriminada.",
+      "sourceUrl": "https://dalcotone.com.br/products/condicionador-s-o-s-detox-300ml",
+      "scope": "blend"
+    },
+    {
+      "name": "Proteínas",
+      "aliases": [],
+      "role": "Na Full Recover, a combinação tem afinidade com a fibra e é associada à reparação, resistência e recuperação da elasticidade.",
+      "sourceUrl": "https://dalcotone.com.br/products/mascara-capilar-profissional-recovery-500g",
+      "scope": "blend"
+    },
+    {
+      "name": "Aminoácidos biocompatíveis",
+      "aliases": [],
+      "role": "Na Full Recover, a combinação tem afinidade com a fibra e é associada à reparação, resistência e recuperação da elasticidade.",
+      "sourceUrl": "https://dalcotone.com.br/products/mascara-capilar-profissional-recovery-500g",
+      "scope": "blend"
+    },
+    {
+      "name": "Lisselini",
+      "aliases": [],
+      "role": "Tecnologia de fibras bioadesivas, proteínas ricas em arginina e biopolímeros, descrita para alinhamento, ação antifrizz e proteção térmica.",
+      "sourceUrl": "https://dalcotone.com.br/products/spray-24k-300ml",
+      "scope": "individual"
+    },
+    {
+      "name": "Silsoft AX-E",
+      "aliases": [
+        "Silsoft AX E"
+      ],
+      "role": "Silicone descrito para brilho, toque sedoso, maciez, proteção térmica e efeito liso natural.",
+      "sourceUrl": "https://dalcotone.com.br/products/spray-24k-300ml",
+      "scope": "individual"
+    },
+    {
+      "name": "Proteína da seda",
+      "aliases": [],
+      "role": "Na Verniz Intense, a combinação é descrita para disciplina e acabamento luminoso; sua ação individual não é separada pela fonte.",
+      "sourceUrl": "https://dalcotone.com.br/products/mascara-capilar-profissional-verniz-intense-500g",
+      "scope": "blend"
+    },
+    {
+      "name": "Ácido hialurônico",
+      "aliases": [],
+      "role": "Na Verniz Intense, a combinação é descrita para disciplina e acabamento luminoso; sua ação individual não é separada pela fonte.",
+      "sourceUrl": "https://dalcotone.com.br/products/mascara-capilar-profissional-verniz-intense-500g",
+      "scope": "blend"
+    },
+    {
+      "name": "Lumini System",
+      "aliases": [],
+      "role": "Tecnologia descrita para reestruturar os fios, controlar volume e produzir brilho tridimensional.",
+      "sourceUrl": "https://dalcotone.com.br/products/mascara-capilar-profissional-restore-500g",
+      "scope": "individual"
+    },
+    {
+      "name": "Queratina",
+      "aliases": [],
+      "role": "Na Restore, é associada à reconstrução da fibra, disciplina e controle do frizz.",
+      "sourceUrl": "https://dalcotone.com.br/products/mascara-capilar-profissional-restore-500g",
+      "scope": "individual"
+    },
+    {
+      "name": "Nano proteínas",
+      "aliases": [
+        "Complexo de nano proteínas"
+      ],
+      "role": "Ativo da etapa nutritiva Nutri Protein do cronograma; função declarada no tratamento é nutrição para brilho e maciez.",
+      "sourceUrl": "https://dalcotone.com.br/products/kit-cronograma-capilar-mascaras-capilares-250g",
+      "scope": "individual"
+    },
+    {
+      "name": "Banana",
+      "aliases": [],
+      "role": "Integra o conjunto nutritivo da Banana e Mel, relacionado à maciez e sedosidade; a marca não informa função isolada nem especificação completa deste componente.",
+      "sourceUrl": "https://dalcotone.com.br/products/mascara-banana-e-mel-efeito-teia-500g",
+      "scope": "blend"
+    },
+    {
+      "name": "Mel",
+      "aliases": [],
+      "role": "Integra o conjunto nutritivo da Banana e Mel, relacionado à maciez e sedosidade; a marca não informa função isolada nem especificação completa deste componente.",
+      "sourceUrl": "https://dalcotone.com.br/products/mascara-banana-e-mel-efeito-teia-500g",
+      "scope": "blend"
+    },
+    {
+      "name": "Lipídios",
+      "aliases": [],
+      "role": "Integra o conjunto nutritivo da Banana e Mel, relacionado à maciez e sedosidade; a marca não informa função isolada nem especificação completa deste componente.",
+      "sourceUrl": "https://dalcotone.com.br/products/mascara-banana-e-mel-efeito-teia-500g",
+      "scope": "blend"
+    },
+    {
+      "name": "Potássio",
+      "aliases": [],
+      "role": "Integra o conjunto nutritivo da Banana e Mel, relacionado à maciez e sedosidade; a marca não informa função isolada nem especificação completa deste componente.",
+      "sourceUrl": "https://dalcotone.com.br/products/mascara-banana-e-mel-efeito-teia-500g",
+      "scope": "blend"
+    },
+    {
+      "name": "Vitaminas",
+      "aliases": [],
+      "role": "Integra o conjunto nutritivo da Banana e Mel, relacionado à maciez e sedosidade; a marca não informa função isolada nem especificação completa deste componente.",
+      "sourceUrl": "https://dalcotone.com.br/products/mascara-banana-e-mel-efeito-teia-500g",
+      "scope": "blend"
+    },
+    {
+      "name": "Aminoácidos",
+      "aliases": [],
+      "role": "Integra o conjunto nutritivo da Banana e Mel, relacionado à maciez e sedosidade; a marca não informa função isolada nem especificação completa deste componente.",
+      "sourceUrl": "https://dalcotone.com.br/products/mascara-banana-e-mel-efeito-teia-500g",
+      "scope": "blend"
+    },
+    {
+      "name": "Queratina hidrolisada",
+      "aliases": [],
+      "role": "Reconstrução e fortalecimento da fibra, com maior resistência.",
+      "sourceUrl": "https://usedalcotone.com/links/%5B%20DIGITAL%20%5D%20CAT%C3%81LOGO%20-%20DAL%20COTONE%202025-min.pdf",
+      "sourcePagePrinted": 26,
+      "scope": "individual"
+    },
+    {
+      "name": "Arginina",
+      "aliases": [],
+      "role": "A fonte associa o ativo à melhora da resistência dos fios.",
+      "sourceUrl": "https://usedalcotone.com/links/%5B%20DIGITAL%20%5D%20CAT%C3%81LOGO%20-%20DAL%20COTONE%202025-min.pdf",
+      "sourcePagePrinted": 26,
+      "scope": "individual"
+    },
+    {
+      "name": "Óleo de semente de girassol",
+      "aliases": [
+        "Óleo de girassol"
+      ],
+      "role": "Nutrição, proteção contra danos e brilho.",
+      "sourceUrl": "https://usedalcotone.com/links/%5B%20DIGITAL%20%5D%20CAT%C3%81LOGO%20-%20DAL%20COTONE%202025-min.pdf",
+      "sourcePagePrinted": 26,
+      "scope": "individual"
+    }
+  ],
+  "phCandidates": [],
+  "phControl": {
+    "name": "PH Control",
+    "identityConfirmedByUser": true,
+    "category": "Controle de pH",
+    "officialSourceConfirmed": false,
+    "actives": [],
+    "benefits": [],
+    "indication": null,
+    "use": null,
+    "inci": null,
+    "price": null,
+    "imageUrl": null,
+    "sourceUrl": null,
+    "status": "Nome confirmado pelo consultor; ficha técnica, preço público e imagem oficial ainda não localizados.",
+    "notes": [
+      "Não atribuir fórmula, concentração, tempo de pausa ou faixa de pH sem fonte oficial.",
+      "Não usar preço de revendedor como preço público oficial."
+    ]
+  },
+  "notes": [
+    "Biblioteca de funções cosméticas declaradas nas páginas oficiais consultadas em 2026-11-06.",
+    "scope=blend significa efeito atribuído à combinação: não é uma função individual comprovada do ingrediente.",
+    "Ativos de destaque não equivalem à composição INCI completa. Não foram inferidas concentrações.",
+    "Pantenol e D-pantenol aparecem como variantes de nome nas páginas da marca; a ficha do produto conserva a grafia original.",
+    "Frulix de açaí não foi confundido com óleo de açaí. Ceramidas e bioceramidas são entradas distintas.",
+    "Notas olfativas não foram incluídas como ativos.",
+    "PH ácido, isoladamente, não confirma que Necessity Use ou Must Use sejam reguladores de pH."
+  ]
+}

@@ -1,0 +1,847 @@
+{
+  "products": [
+    {
+      "productId": "consultor-ph-control",
+      "name": "pH Control 500 mL",
+      "actives": [
+        "Nano Link",
+        "LunaMatrix"
+      ],
+      "activeDetails": [
+        {
+          "name": "Nano Link",
+          "role": "Complexo de aminoácidos essenciais descrito para nutrir e restaurar a fibra, com resistência, hidratação, brilho e maciez."
+        },
+        {
+          "name": "LunaMatrix",
+          "role": "Sistema de gel lamelar descrito para reestruturação e reposição de massa da cutícula ao córtex, proteção UV, penteabilidade, redução do frizz e maior resistência à quebra; efeito cumulativo declarado pela marca."
+        }
+      ],
+      "benefits": [
+        "Equilíbrio do pH e neutralização de resíduos químicos, conforme alegação do catálogo",
+        "Reconstrução e blindagem dos fios",
+        "Redução da porosidade",
+        "Maciez, brilho e resistência",
+        "Proteção térmica e solar"
+      ],
+      "indication": "Cabelos quimicamente tratados, porosos ou fragilizados.",
+      "occasions": [
+        {
+          "name": "Pós-química",
+          "use": "Enxágue abundantemente a química reagente e retire o excesso de umidade. Aplique em toda a extensão, enluvando. Deixe agir 10 minutos e enxágue."
+        },
+        {
+          "name": "Pré-química",
+          "use": "Após lavar, retire o excesso de umidade. Aplique em toda a extensão, enluvando. Deixe agir 10 minutos e enxágue."
+        },
+        {
+          "name": "Blindagem dos fios",
+          "use": "Após lavar e condicionar/hidratar, aplique pequena quantidade em toda a extensão dos fios. Finalize como desejar."
+        }
+      ],
+      "use": "O protocolo depende da ocasião: pré e pós-química com pausa de 10 minutos e enxágue; blindagem após lavar/condicionar/hidratar, em pequena quantidade e finalização habitual.",
+      "declaredPH": null,
+      "sourcePage": 25,
+      "notes": [
+        "PDF físico índice 25, página impressa 25/49. Volume 500mL visível no rótulo.",
+        "Não há faixa numérica de pH legível nesta página.",
+        "Na blindagem, o catálogo não determina pausa de 10 minutos nem instrui enxágue. Não copiar o protocolo pré/pós para esta modalidade.",
+        "Funções descritas são alegações cosméticas do fabricante; não equivalem a INCI completo."
+      ]
+    },
+    {
+      "productId": "0362c5b04fc5ffb5",
+      "name": "Force Life Must Use 250 mL",
+      "actives": [
+        "Nano Link",
+        "Semi di Lino",
+        "Blend de silicones"
+      ],
+      "activeDetails": [
+        {
+          "name": "Nano Link + Semi di Lino + Blend de silicones",
+          "role": "O conjunto é descrito como formador de filme selante e protetor dos fios, com ação antifrizz; a página não separa a função de cada componente no fluido."
+        }
+      ],
+      "benefits": [
+        "Ação antifrizz",
+        "Filme selante e proteção dos fios"
+      ],
+      "indication": "Todos os tipos de cabelo, conforme rótulo.",
+      "occasions": [
+        "Finalização após a rotina Force Life"
+      ],
+      "use": "Borrife nos fios limpos e úmidos, massageando da raiz às pontas. Pode ser usado com ou sem enxágue, conforme o catálogo.",
+      "declaredPH": "3,0–4,0",
+      "sourcePage": 27,
+      "notes": [
+        "Não confundir Must Use com Necessity Use nem com pH Control.",
+        "Faixa de pH transcrita do rótulo na imagem da página.",
+        "A fórmula do fluido é apresentada separadamente dos ativos da linha Force Life: não transferir Capilmax, Bambu e Jaborandi ao Must Use."
+      ]
+    },
+    {
+      "productId": "85e6ca2844f6803d",
+      "name": "Shampoo Force Life 300 mL",
+      "actives": [
+        "Capilmax",
+        "Bambu",
+        "Jaborandi"
+      ],
+      "activeDetails": [
+        {
+          "name": "Capilmax",
+          "role": "O catálogo associa o ativo ao fortalecimento da estrutura e aumento de espessura dos fios."
+        },
+        {
+          "name": "Bambu",
+          "role": "Reposição de aminoácidos e sílica, associada ao fortalecimento da estrutura do cabelo."
+        },
+        {
+          "name": "Jaborandi",
+          "role": "Melhora da textura dos fios declarada pelo fabricante."
+        }
+      ],
+      "benefits": [
+        "Limpeza suave",
+        "Redução da oleosidade",
+        "Purificação do couro cabeludo"
+      ],
+      "indication": "Cabelos oleosos, fragilizados ou em busca de força e hidratação.",
+      "occasions": [
+        "Rotina Force Life para oleosidade e fios fragilizados"
+      ],
+      "use": "Massageie suavemente o couro cabeludo, deixe agir 5 a 10 minutos, enxágue bem e repita se necessário.",
+      "declaredPH": "5,0–6,0",
+      "sourcePage": 27,
+      "notes": [
+        "Ativos apresentados em bloco da linha; o catálogo não publica INCI individual por produto.",
+        "Alegações do catálogo sobre circulação/crescimento e anti-inflamatório não foram reproduzidas como orientação clínica.",
+        "Faixa de pH transcrita do rótulo visível na imagem, conferir rótulo atual antes de substituir dado de embalagem."
+      ]
+    },
+    {
+      "productId": "23691f31ecfc8833",
+      "name": "Máscara Force Life 300 g",
+      "actives": [
+        "Capilmax",
+        "Bambu",
+        "Jaborandi"
+      ],
+      "activeDetails": [
+        {
+          "name": "Capilmax",
+          "role": "O catálogo associa o ativo ao fortalecimento da estrutura e aumento de espessura dos fios."
+        },
+        {
+          "name": "Bambu",
+          "role": "Reposição de aminoácidos e sílica, associada ao fortalecimento da estrutura do cabelo."
+        },
+        {
+          "name": "Jaborandi",
+          "role": "Melhora da textura dos fios declarada pelo fabricante."
+        }
+      ],
+      "benefits": [
+        "Hidratação",
+        "Brilho",
+        "Força"
+      ],
+      "indication": "Cabelos oleosos, fragilizados ou em busca de força e hidratação.",
+      "occasions": [
+        "Rotina Force Life para oleosidade e fios fragilizados"
+      ],
+      "use": "Após o shampoo, aplique em toda a extensão. Massageie e deixe agir 10 a 15 minutos antes de enxaguar completamente.",
+      "declaredPH": "3,5–4,5",
+      "sourcePage": 27,
+      "notes": [
+        "Ativos apresentados em bloco da linha; o catálogo não publica INCI individual por produto.",
+        "Alegações do catálogo sobre circulação/crescimento e anti-inflamatório não foram reproduzidas como orientação clínica.",
+        "Faixa de pH transcrita do rótulo visível na imagem, conferir rótulo atual antes de substituir dado de embalagem."
+      ]
+    },
+    {
+      "productId": "2bce03643a5eb89e",
+      "name": "Condicionador Force Life 300 mL",
+      "actives": [
+        "Capilmax",
+        "Bambu",
+        "Jaborandi"
+      ],
+      "activeDetails": [
+        {
+          "name": "Capilmax",
+          "role": "O catálogo associa o ativo ao fortalecimento da estrutura e aumento de espessura dos fios."
+        },
+        {
+          "name": "Bambu",
+          "role": "Reposição de aminoácidos e sílica, associada ao fortalecimento da estrutura do cabelo."
+        },
+        {
+          "name": "Jaborandi",
+          "role": "Melhora da textura dos fios declarada pelo fabricante."
+        }
+      ],
+      "benefits": [
+        "Hidratação",
+        "Maciez",
+        "Resistência",
+        "Sedosidade"
+      ],
+      "indication": "Cabelos oleosos, fragilizados ou em busca de força e hidratação.",
+      "occasions": [
+        "Rotina Force Life para oleosidade e fios fragilizados"
+      ],
+      "use": "Após a máscara, aplique nos fios úmidos, massageie, deixe agir aproximadamente 3 minutos e enxágue.",
+      "declaredPH": "3,0–4,0",
+      "sourcePage": 27,
+      "notes": [
+        "Ativos apresentados em bloco da linha; o catálogo não publica INCI individual por produto.",
+        "Alegações do catálogo sobre circulação/crescimento e anti-inflamatório não foram reproduzidas como orientação clínica.",
+        "Faixa de pH transcrita do rótulo visível na imagem, conferir rótulo atual antes de substituir dado de embalagem."
+      ]
+    },
+    {
+      "productId": "pro-24k-premium-selagem",
+      "name": "Selagem 24K Premium 1 L",
+      "actives": [
+        "Manteiga de karité",
+        "Vitaminas A, E e F",
+        "Blend de aminoácidos",
+        "Tanino-Plus",
+        "Queratina hidrolisada",
+        "Pantenol"
+      ],
+      "activeDetails": [
+        {
+          "name": "Manteiga de karité",
+          "role": "Hidratação profunda e brilho."
+        },
+        {
+          "name": "Vitaminas A, E e F",
+          "role": "Nutrição e proteção."
+        },
+        {
+          "name": "Blend de aminoácidos",
+          "role": "Fortalecimento e reparação de danos."
+        },
+        {
+          "name": "Tanino-Plus",
+          "role": "Alinhamento e ação antifrizz."
+        },
+        {
+          "name": "Queratina hidrolisada",
+          "role": "Resistência e elasticidade."
+        },
+        {
+          "name": "Pantenol",
+          "role": "Declarado no rótulo; função não detalhada nesta página."
+        }
+      ],
+      "benefits": [
+        "Alinhamento duradouro",
+        "Controle de volume e frizz",
+        "Hidratação",
+        "Nutrição",
+        "Brilho"
+      ],
+      "indication": "Fios com necessidade de alinhamento e controle de volume/frizz.",
+      "occasions": [
+        "Fios com necessidade de alinhamento e controle de volume/frizz."
+      ],
+      "use": "Preparar com Clean Care 2–3 aplicações, pausa de 5 minutos cada. Secar aproximadamente 70%. Aplicar em mechas finas afastado da raiz, deixar 60 minutos. Retirar 50–70% conforme análise da fibra; secar, escovar e pranchar conforme protocolo da página. Procedimento profissional de transformação; consultar o protocolo completo e os testes de mecha e sensibilidade na página indicada.",
+      "declaredPH": "2,0–3,0",
+      "sourcePage": 1,
+      "notes": [
+        "Dados técnicos do catálogo 2025 fornecido pelo usuário; conferência visual da página e rótulo. Ativos destacados não são INCI completo.",
+        "Não confundir com Spray 24K, que tem Lisselini e Silsoft AX-E."
+      ]
+    },
+    {
+      "productId": "pro-24k-mask-mask",
+      "name": "Intensive Treatment Mask 24K Premium — Botox Reconstrutor 1 kg",
+      "actives": [
+        "Manteiga de karité",
+        "Tanino-plus (ácido tanino)",
+        "Queratina hidrolisada"
+      ],
+      "activeDetails": [
+        {
+          "name": "Manteiga de karité",
+          "role": "Retenção de umidade, combate ao ressecamento e melhora de textura."
+        },
+        {
+          "name": "Tanino-plus (ácido tanino)",
+          "role": "Associado no catálogo à neutralização de radicais livres, alinhamento e reestruturação molecular."
+        },
+        {
+          "name": "Queratina hidrolisada",
+          "role": "Reposição de massa, elasticidade e proteção contra quebra."
+        }
+      ],
+      "benefits": [
+        "Hidratação",
+        "Reparação",
+        "Alinhamento",
+        "Maciez",
+        "Brilho",
+        "Resistência"
+      ],
+      "indication": "Cabelos danificados, ressecados e quimicamente tratados.",
+      "occasions": [
+        "Cabelos danificados, ressecados e quimicamente tratados."
+      ],
+      "use": "Preparar com Clean Care 2–3 aplicações, com pausa de 5 minutos. Secar 70%; aplicar em mechas finas afastado da raiz. Pausa de 60 minutos. Remover 50–70% conforme a fibra, secar, escovar e pranchar conforme página. Procedimento profissional de transformação; consultar o protocolo completo e os testes de mecha e sensibilidade na página indicada.",
+      "declaredPH": "2,0–3,0",
+      "sourcePage": 3,
+      "notes": [
+        "Dados técnicos do catálogo 2025 fornecido pelo usuário; conferência visual da página e rótulo. Ativos destacados não são INCI completo."
+      ]
+    },
+    {
+      "productId": "pro-bio-plastia-shampoo",
+      "name": "Shampoo Pré-Tratamento Bio Plastia 1 L",
+      "actives": [
+        "Proteína da seda"
+      ],
+      "activeDetails": [
+        {
+          "name": "Proteína da seda",
+          "role": "Hidratação, fortalecimento, reparação, maciez e brilho declarados para a linha."
+        }
+      ],
+      "benefits": [
+        "Alinhamento",
+        "Controle de frizz",
+        "Maleabilidade",
+        "Brilho"
+      ],
+      "indication": "Cabelos danificados e com frizz.",
+      "occasions": [
+        "Cabelos danificados e com frizz."
+      ],
+      "use": "Aplicar nos cabelos molhados, massagear, deixar agir 3–5 minutos e enxaguar completamente. Repetir se necessário.",
+      "declaredPH": "6,0–7,0",
+      "sourcePage": 4,
+      "notes": [
+        "Dados técnicos do catálogo 2025 fornecido pelo usuário; conferência visual da página e rótulo. Ativos destacados não são INCI completo.",
+        "Ativo declarado para a linha e visível nos dois rótulos."
+      ]
+    },
+    {
+      "productId": "pro-bio-plastia-retexturizador",
+      "name": "Retexturizador Bio Plastia 1 L",
+      "actives": [
+        "Proteína da seda"
+      ],
+      "activeDetails": [
+        {
+          "name": "Proteína da seda",
+          "role": "Hidratação, fortalecimento, reparação, maciez e brilho declarados para a linha."
+        }
+      ],
+      "benefits": [
+        "Alinhamento",
+        "Controle de frizz",
+        "Maleabilidade",
+        "Brilho"
+      ],
+      "indication": "Cabelos danificados e com frizz.",
+      "occasions": [
+        "Cabelos danificados e com frizz."
+      ],
+      "use": "Aplicar em pequenas mechas nos fios limpos e 70% secos. Escovar mecha a mecha, deixar aproximadamente 20–30 minutos, pranchar 10–12 vezes em mechas finas, enxaguar e finalizar com protetor térmico. Procedimento profissional de transformação; consultar o protocolo completo e os testes de mecha e sensibilidade na página indicada.",
+      "declaredPH": "3,0–4,0",
+      "sourcePage": 4,
+      "notes": [
+        "Dados técnicos do catálogo 2025 fornecido pelo usuário; conferência visual da página e rótulo. Ativos destacados não são INCI completo.",
+        "Ativo declarado para a linha e visível nos dois rótulos."
+      ]
+    },
+    {
+      "productId": "pro-oxo-fusion-retexturizador",
+      "name": "Oxo Silk Fusion High Performance 1 L",
+      "actives": [
+        "Tecnologia B-Tex",
+        "Proteína da seda",
+        "Colágeno"
+      ],
+      "activeDetails": [
+        {
+          "name": "Tecnologia B-Tex",
+          "role": "Alinhamento, controle de frizz, suavidade e disciplina."
+        },
+        {
+          "name": "Proteína da seda",
+          "role": "Reparação da cutícula, brilho e fortalecimento."
+        },
+        {
+          "name": "Colágeno",
+          "role": "Declarado no rótulo; função individual não detalhada nesta página."
+        }
+      ],
+      "benefits": [
+        "Alinhamento",
+        "Controle do frizz",
+        "Toque sedoso",
+        "Reparação da cutícula",
+        "Brilho"
+      ],
+      "indication": "Fios com necessidade de alinhamento, disciplina e reparação.",
+      "occasions": [
+        "Fios com necessidade de alinhamento, disciplina e reparação."
+      ],
+      "use": "Preparar com Clean Care 2–3 vezes, 5 minutos cada, e retirar 70% da umidade. Aplicar a 1–2cm do couro cabeludo. Pausa aproximada de 40 minutos para ondulados/menos resistentes ou 60 minutos para crespos/resistentes. Retirar completamente nos menos resistentes ou cerca de 70% nos mais fortes. Secar, escovar e pranchar conforme o protocolo da página. Procedimento profissional de transformação; consultar o protocolo completo e os testes de mecha e sensibilidade na página indicada.",
+      "declaredPH": "3,0–4,0",
+      "sourcePage": 5,
+      "notes": [
+        "Dados técnicos do catálogo 2025 fornecido pelo usuário; conferência visual da página e rótulo. Ativos destacados não são INCI completo."
+      ]
+    },
+    {
+      "productId": "pro-silk-fiber-regular",
+      "name": "Retexturizador Silk Fiber 1 kg",
+      "actives": [],
+      "activeDetails": [],
+      "benefits": [
+        "Alinhamento",
+        "Controle do frizz",
+        "Brilho",
+        "Maciez",
+        "Recuperação dos fios"
+      ],
+      "indication": "Cabelos danificados, volumosos ou com frizz.",
+      "occasions": [
+        "Cabelos danificados, volumosos ou com frizz."
+      ],
+      "use": "Preparar com Clean Care 2–3 aplicações com pausa de 5 minutos. Secar 70%; aplicar em mechas finas afastado da raiz. Pausa de 60 minutos. Retirar 50–70% conforme análise da fibra; secar, escovar e pranchar conforme o protocolo da página. Procedimento profissional de transformação; consultar o protocolo completo e os testes de mecha e sensibilidade na página indicada.",
+      "declaredPH": "3,0–4,0",
+      "sourcePage": 6,
+      "notes": [
+        "Dados técnicos do catálogo 2025 fornecido pelo usuário; conferência visual da página e rótulo. Ativos destacados não são INCI completo.",
+        "A página não apresenta lista de ativos. Wave Control/Styleze W-20 aparece como tecnologia no rótulo; não foi convertido em composição INCI."
+      ]
+    },
+    {
+      "productId": "pro-silk-fiber-blond",
+      "name": "Retexturizador Silk Fiber Blond 1 kg",
+      "actives": [],
+      "activeDetails": [],
+      "benefits": [
+        "Controle de amarelamento",
+        "Reconstrução",
+        "Maleabilidade",
+        "Redução de volume",
+        "Controle de frizz"
+      ],
+      "indication": "Cabelos loiros, descoloridos ou grisalhos danificados, volumosos ou com frizz.",
+      "occasions": [
+        "Cabelos loiros, descoloridos ou grisalhos danificados, volumosos ou com frizz."
+      ],
+      "use": "Preparar com Clean Care 2–3 aplicações com pausa de 5 minutos. Secar 70%; aplicar em mechas finas afastado da raiz. Pausa de 60 minutos. Retirar 50–70% conforme análise da fibra; secar, escovar e pranchar conforme o protocolo da página. Procedimento profissional de transformação; consultar o protocolo completo e os testes de mecha e sensibilidade na página indicada.",
+      "declaredPH": "3,0–4,0",
+      "sourcePage": 6,
+      "notes": [
+        "Dados técnicos do catálogo 2025 fornecido pelo usuário; conferência visual da página e rótulo. Ativos destacados não são INCI completo.",
+        "A página não apresenta lista de ativos. Wave Control/Styleze W-20 aparece como tecnologia no rótulo; não foi convertido em composição INCI."
+      ]
+    },
+    {
+      "productId": "pro-envolpamento-shampoo",
+      "name": "Shampoo Técnico Envelopamento dos Fios 1 L",
+      "actives": [
+        "Creatina",
+        "Cistina",
+        "Elastina"
+      ],
+      "activeDetails": [
+        {
+          "name": "Creatina",
+          "role": "Fortalecimento, reparação e resistência à quebra."
+        },
+        {
+          "name": "Cistina",
+          "role": "Reconstrução da fibra e elasticidade."
+        },
+        {
+          "name": "Elastina",
+          "role": "Maleabilidade, suavidade, resistência e flexibilidade."
+        }
+      ],
+      "benefits": [
+        "Limpeza profunda",
+        "Remoção de resíduos",
+        "Preparação da fibra"
+      ],
+      "indication": "Fios com necessidade de restauração, reconstrução e hidratação.",
+      "occasions": [
+        "Fios com necessidade de restauração, reconstrução e hidratação."
+      ],
+      "use": "Lavar, enxaguar e repetir se necessário.",
+      "declaredPH": "6,0–7,0",
+      "sourcePage": 7,
+      "notes": [
+        "Dados técnicos do catálogo 2025 fornecido pelo usuário; conferência visual da página e rótulo. Ativos destacados não são INCI completo.",
+        "Ativos declarados em bloco da linha e nos rótulos. Nome no PDF é ENVELOPAMENTO DOS FIOS; preservar ID existente mas corrigir grafia de exibição."
+      ]
+    },
+    {
+      "productId": "pro-envolpamento-reconstrutor",
+      "name": "Reconstrutor Envelopamento dos Fios 1 L",
+      "actives": [
+        "Creatina",
+        "Cistina",
+        "Elastina"
+      ],
+      "activeDetails": [
+        {
+          "name": "Creatina",
+          "role": "Fortalecimento, reparação e resistência à quebra."
+        },
+        {
+          "name": "Cistina",
+          "role": "Reconstrução da fibra e elasticidade."
+        },
+        {
+          "name": "Elastina",
+          "role": "Maleabilidade, suavidade, resistência e flexibilidade."
+        }
+      ],
+      "benefits": [
+        "Reconstrução",
+        "Hidratação intensa",
+        "Resistência",
+        "Brilho"
+      ],
+      "indication": "Fios com necessidade de restauração, reconstrução e hidratação.",
+      "occasions": [
+        "Fios com necessidade de restauração, reconstrução e hidratação."
+      ],
+      "use": "Após o shampoo, retirar excesso de umidade; aplicar mecha a mecha, deixar agir 20–30 minutos e enxaguar.",
+      "declaredPH": "3,5–4,5",
+      "sourcePage": 7,
+      "notes": [
+        "Dados técnicos do catálogo 2025 fornecido pelo usuário; conferência visual da página e rótulo. Ativos destacados não são INCI completo.",
+        "Ativos declarados em bloco da linha e nos rótulos. Nome no PDF é ENVELOPAMENTO DOS FIOS; preservar ID existente mas corrigir grafia de exibição."
+      ]
+    },
+    {
+      "productId": "pro-envolpamento-finalizador",
+      "name": "Finalizador Envelopamento dos Fios 1 L",
+      "actives": [
+        "Creatina",
+        "Cistina",
+        "Elastina"
+      ],
+      "activeDetails": [
+        {
+          "name": "Creatina",
+          "role": "Fortalecimento, reparação e resistência à quebra."
+        },
+        {
+          "name": "Cistina",
+          "role": "Reconstrução da fibra e elasticidade."
+        },
+        {
+          "name": "Elastina",
+          "role": "Maleabilidade, suavidade, resistência e flexibilidade."
+        }
+      ],
+      "benefits": [
+        "Nutrição",
+        "Movimento",
+        "Revitalização",
+        "Acabamento leve"
+      ],
+      "indication": "Fios com necessidade de restauração, reconstrução e hidratação.",
+      "occasions": [
+        "Fios com necessidade de restauração, reconstrução e hidratação."
+      ],
+      "use": "Após o reconstrutor, finalizar com o leave-in e deixar agir 10–15 minutos; escovar e pranchar se desejar.",
+      "declaredPH": "3,0–4,0",
+      "sourcePage": 7,
+      "notes": [
+        "Dados técnicos do catálogo 2025 fornecido pelo usuário; conferência visual da página e rótulo. Ativos destacados não são INCI completo.",
+        "Ativos declarados em bloco da linha e nos rótulos. Nome no PDF é ENVELOPAMENTO DOS FIOS; preservar ID existente mas corrigir grafia de exibição."
+      ]
+    },
+    {
+      "productId": "pro-clean-care-shampoo",
+      "name": "Shampoo Preparador Clean Care 1 L",
+      "actives": [
+        "Proteína da seda"
+      ],
+      "activeDetails": [
+        {
+          "name": "Proteína da seda",
+          "role": "Reposição de massa proteica, maciez, brilho, penteabilidade e redução de frizz declarados no catálogo."
+        }
+      ],
+      "benefits": [
+        "Limpeza profunda",
+        "Remoção de resíduos",
+        "Preparação para tratamentos",
+        "Abertura das cutículas"
+      ],
+      "indication": "Todos os tipos de cabelo, na preparação para tratamentos.",
+      "occasions": [
+        "Todos os tipos de cabelo, na preparação para tratamentos."
+      ],
+      "use": "Aplicar nos cabelos úmidos, massagear até espumar e enxaguar. Repetir se necessário.",
+      "declaredPH": "6,0–7,0",
+      "sourcePage": 8,
+      "notes": [
+        "Dados técnicos do catálogo 2025 fornecido pelo usuário; conferência visual da página e rótulo. Ativos destacados não são INCI completo."
+      ]
+    },
+    {
+      "productId": "pro-washing-shampoo",
+      "name": "Shampoo Purificante Washing 2,5 L",
+      "actives": [],
+      "activeDetails": [],
+      "benefits": [
+        "Limpeza controlada",
+        "Controle de oleosidade",
+        "Remoção de resíduos do dia a dia",
+        "Proteção contra desbotamento"
+      ],
+      "indication": "Todos os tipos de cabelo; rotina de salão.",
+      "occasions": [
+        "Todos os tipos de cabelo; rotina de salão."
+      ],
+      "use": "Aplicar nos cabelos úmidos, massagear até espumar e enxaguar. Repetir se necessário.",
+      "declaredPH": "5,0–6,0",
+      "sourcePage": 9,
+      "notes": [
+        "Dados técnicos do catálogo 2025 fornecido pelo usuário; conferência visual da página e rótulo. Ativos destacados não são INCI completo.",
+        "Ativos individuais não são informados nesta página."
+      ]
+    },
+    {
+      "productId": "pro-washing-condicionador",
+      "name": "Condicionador Purificante Washing 2,5 L",
+      "actives": [],
+      "activeDetails": [],
+      "benefits": [
+        "Hidratação",
+        "Desembaraço",
+        "Maciez",
+        "Brilho",
+        "Nutrição"
+      ],
+      "indication": "Todos os tipos de cabelo; rotina de salão.",
+      "occasions": [
+        "Todos os tipos de cabelo; rotina de salão."
+      ],
+      "use": "Após o shampoo, aplicar nos fios úmidos, principalmente nas pontas. Massagear e deixar alguns minutos. Enxaguar completamente.",
+      "declaredPH": "3,0–4,0",
+      "sourcePage": 9,
+      "notes": [
+        "Dados técnicos do catálogo 2025 fornecido pelo usuário; conferência visual da página e rótulo. Ativos destacados não são INCI completo.",
+        "Ativos individuais não são informados nesta página."
+      ]
+    },
+    {
+      "productId": "pro-bleached-ox-05",
+      "name": "Emulsão Reveladora Cremosa Bleached 05 volumes 900 mL",
+      "actives": [],
+      "activeDetails": [],
+      "benefits": [
+        "Textura cremosa",
+        "Fórmula estabilizada",
+        "Aplicação uniforme"
+      ],
+      "indication": "Coloração, tonalização ou descoloração por profissional.",
+      "occasions": [
+        "Coloração, tonalização ou descoloração por profissional."
+      ],
+      "use": "Misturar com tintura ou descolorante segundo as proporções específicas do produto associado. Tempo indicado: até 50 minutos.",
+      "declaredPH": "2,0–3,0",
+      "sourcePage": 12,
+      "notes": [
+        "Dados técnicos do catálogo 2025 fornecido pelo usuário; conferência visual da página e rótulo. Ativos destacados não são INCI completo.",
+        "Rótulo declara 05 volumes / 1,5%. Concentração indicada no rótulo, não inferida.",
+        "A página não lista os ingredientes ativos nem o INCI. Não extrapolar uma proporção universal para todas as tinturas."
+      ],
+      "concentrations": "Peróxido de hidrogênio: 1,5% (valor declarado no rótulo do catálogo)"
+    },
+    {
+      "productId": "pro-bleached-ox-10",
+      "name": "Emulsão Reveladora Cremosa Bleached 10 volumes 900 mL",
+      "actives": [],
+      "activeDetails": [],
+      "benefits": [
+        "Textura cremosa",
+        "Fórmula estabilizada",
+        "Aplicação uniforme"
+      ],
+      "indication": "Coloração, tonalização ou descoloração por profissional.",
+      "occasions": [
+        "Coloração, tonalização ou descoloração por profissional."
+      ],
+      "use": "Misturar com tintura ou descolorante segundo as proporções específicas do produto associado. Tempo indicado: até 50 minutos.",
+      "declaredPH": "2,0–3,0",
+      "sourcePage": 12,
+      "notes": [
+        "Dados técnicos do catálogo 2025 fornecido pelo usuário; conferência visual da página e rótulo. Ativos destacados não são INCI completo.",
+        "Rótulo declara 10 volumes / 3%. Concentração indicada no rótulo, não inferida.",
+        "A página não lista os ingredientes ativos nem o INCI. Não extrapolar uma proporção universal para todas as tinturas."
+      ],
+      "concentrations": "Peróxido de hidrogênio: 3% (valor declarado no rótulo do catálogo)"
+    },
+    {
+      "productId": "pro-bleached-ox-20",
+      "name": "Emulsão Reveladora Cremosa Bleached 20 volumes 900 mL",
+      "actives": [],
+      "activeDetails": [],
+      "benefits": [
+        "Textura cremosa",
+        "Fórmula estabilizada",
+        "Aplicação uniforme"
+      ],
+      "indication": "Coloração, tonalização ou descoloração por profissional.",
+      "occasions": [
+        "Coloração, tonalização ou descoloração por profissional."
+      ],
+      "use": "Misturar com tintura ou descolorante segundo as proporções específicas do produto associado. Tempo indicado: até 50 minutos.",
+      "declaredPH": "2,0–3,0",
+      "sourcePage": 12,
+      "notes": [
+        "Dados técnicos do catálogo 2025 fornecido pelo usuário; conferência visual da página e rótulo. Ativos destacados não são INCI completo.",
+        "Rótulo declara 20 volumes / 6%. Concentração indicada no rótulo, não inferida.",
+        "A página não lista os ingredientes ativos nem o INCI. Não extrapolar uma proporção universal para todas as tinturas."
+      ],
+      "concentrations": "Peróxido de hidrogênio: 6% (valor declarado no rótulo do catálogo)"
+    },
+    {
+      "productId": "pro-bleached-ox-30",
+      "name": "Emulsão Reveladora Cremosa Bleached 30 volumes 900 mL",
+      "actives": [],
+      "activeDetails": [],
+      "benefits": [
+        "Textura cremosa",
+        "Fórmula estabilizada",
+        "Aplicação uniforme"
+      ],
+      "indication": "Coloração, tonalização ou descoloração por profissional.",
+      "occasions": [
+        "Coloração, tonalização ou descoloração por profissional."
+      ],
+      "use": "Misturar com tintura ou descolorante segundo as proporções específicas do produto associado. Tempo indicado: até 50 minutos.",
+      "declaredPH": "2,0–3,0",
+      "sourcePage": 12,
+      "notes": [
+        "Dados técnicos do catálogo 2025 fornecido pelo usuário; conferência visual da página e rótulo. Ativos destacados não são INCI completo.",
+        "Rótulo declara 30 volumes / 9%. Concentração indicada no rótulo, não inferida.",
+        "A página não lista os ingredientes ativos nem o INCI. Não extrapolar uma proporção universal para todas as tinturas."
+      ],
+      "concentrations": "Peróxido de hidrogênio: 9% (valor declarado no rótulo do catálogo)"
+    },
+    {
+      "productId": "pro-bleached-powder-white",
+      "name": "Pó Descolorante Bleached White 500 g",
+      "actives": [],
+      "activeDetails": [],
+      "benefits": [
+        "Clareamento progressivo e uniforme",
+        "Tecnologia Dust Free",
+        "Abertura de até 9 tons"
+      ],
+      "indication": "Descoloração profissional.",
+      "occasions": [
+        "Descoloração profissional."
+      ],
+      "use": "Em recipiente não metálico, misturar gradualmente pó e oxidante na proporção 1:2. Fazer testes de toque e mecha conforme página. Ao terminar a ação, enxaguar com água morna, lavar e hidratar.",
+      "declaredPH": null,
+      "sourcePage": 13,
+      "notes": [
+        "Dados técnicos do catálogo 2025 fornecido pelo usuário; conferência visual da página e rótulo. Ativos destacados não são INCI completo.",
+        "A página não informa tempo de pausa universal nem lista de ativos.",
+        "Até 9 tons e efeito antiamarelamento Blue são alegações do rótulo."
+      ]
+    },
+    {
+      "productId": "pro-bleached-powder-blue",
+      "name": "Pó Descolorante Bleached Blue 500 g",
+      "actives": [],
+      "activeDetails": [],
+      "benefits": [
+        "Clareamento progressivo e uniforme",
+        "Tecnologia Dust Free",
+        "Abertura de até 9 tons",
+        "Efeito antiamarelamento no rótulo Blue"
+      ],
+      "indication": "Descoloração profissional.",
+      "occasions": [
+        "Descoloração profissional."
+      ],
+      "use": "Em recipiente não metálico, misturar gradualmente pó e oxidante na proporção 1:2. Fazer testes de toque e mecha conforme página. Ao terminar a ação, enxaguar com água morna, lavar e hidratar.",
+      "declaredPH": null,
+      "sourcePage": 13,
+      "notes": [
+        "Dados técnicos do catálogo 2025 fornecido pelo usuário; conferência visual da página e rótulo. Ativos destacados não são INCI completo.",
+        "A página não informa tempo de pausa universal nem lista de ativos.",
+        "Até 9 tons e efeito antiamarelamento Blue são alegações do rótulo."
+      ]
+    },
+    {
+      "productId": "pro-queratina-spray",
+      "name": "Queratina Hidrolisada 250 mL",
+      "actives": [
+        "Queratina hidrolisada"
+      ],
+      "activeDetails": [
+        {
+          "name": "Queratina hidrolisada",
+          "role": "Produto descrito para reposição de aminoácidos e reconstrução de fios danificados."
+        }
+      ],
+      "benefits": [
+        "Reconstrução",
+        "Resistência à quebra",
+        "Redução de pontas duplas",
+        "Brilho",
+        "Maciez"
+      ],
+      "indication": "Cabelos especialmente danificados, quimicamente tratados ou fragilizados.",
+      "occasions": [
+        "Cabelos especialmente danificados, quimicamente tratados ou fragilizados."
+      ],
+      "use": "Agitar antes de usar. Após lavar, aplicar em toda a extensão, massagear e deixar agir aproximadamente 5 minutos. Não é necessário enxaguar; finalizar como desejar.",
+      "declaredPH": "4,5–5,5",
+      "sourcePage": 35,
+      "notes": [
+        "Dados técnicos do catálogo 2025 fornecido pelo usuário; conferência visual da página e rótulo. Ativos destacados não são INCI completo."
+      ]
+    }
+  ],
+  "corrections": [
+    {
+      "productId": "consultor-ph-control",
+      "issue": "Ficha antes pendente por ausência da página oficial no site",
+      "action": "Substituir pendência pelos dados do PDF anexo p25; preço público continua pendente. Não calcular faixa numérica de pH."
+    },
+    {
+      "productId": "0362c5b04fc5ffb5",
+      "issue": "Ativos Must Use antes não especificados",
+      "action": "Adicionar Nano Link, Semi di Lino e Blend de silicones da p27. Não importar ativos do Necessity Use."
+    },
+    {
+      "productIds": [
+        "85e6ca2844f6803d",
+        "23691f31ecfc8833",
+        "2bce03643a5eb89e"
+      ],
+      "issue": "Force Life antes sem ativos específicos ou apenas esferas esfoliantes",
+      "action": "Registrar Capilmax, Bambu e Jaborandi como ativos declarados da linha na p27, sem tratá-los como INCI completo."
+    },
+    {
+      "issue": "Grafia e preenchimento dos produtos profissionais",
+      "action": "Envolpamento deve ser Envelopamento; Oxo Fusion tem B-Tex, proteína da seda e colágeno no rótulo. Selagem24K não tem os ativos do Spray24K. SilkFiber não publica lista de ativos na p6."
+    },
+    {
+      "issue": "Faixas de pH",
+      "action": "Valores foram lidos no rótulo das páginas indicadas, mantendo pHControl sem número porque a p25 não o declara."
+    }
+  ]
+}

@@ -1,0 +1,1645 @@
+{
+  "consultadoEm": "2026-11-06",
+  "categorias": [
+    "Alinhamento",
+    "Botox capilar",
+    "Cachos",
+    "Coloração e descoloração",
+    "Condicionamento",
+    "Definição",
+    "Detox",
+    "Finalização",
+    "Hidratação",
+    "Limpeza",
+    "Limpeza profunda",
+    "Matização",
+    "Preparação",
+    "Proteção da cor",
+    "Pré e pós-química",
+    "Reconstrução",
+    "Retexturização",
+    "Selagem"
+  ],
+  "linhas": [
+    {
+      "id": "24k-premium",
+      "nome": "24K Premium",
+      "categorias": [
+        "Selagem",
+        "Botox capilar",
+        "Finalização"
+      ],
+      "produtosIds": [
+        "24k-premium-selagem",
+        "24k-mask-mask",
+        "24k-spray-spray"
+      ],
+      "ativosDestaque": [
+        "Manteiga de karité",
+        "Vitaminas A, E e F",
+        "Aminoácidos",
+        "Tanino-Plus",
+        "Queratina hidrolisada"
+      ],
+      "indicacao": null,
+      "fonte": "https://usedalcotone.com/links/%5B%20DIGITAL%20%5D%20CAT%C3%81LOGO%20-%20DAL%20COTONE%202025-min.pdf",
+      "paginaImpressa": 1,
+      "status": "Confirmada no catálogo oficial 2025; disponibilidade atual não confirmada.",
+      "componentesKitConsultor": {
+        "proveniencia": "Informação do consultor fornecida nesta conversa",
+        "itens": [
+          "Shampoo",
+          "Selagem",
+          "Máscara"
+        ],
+        "status": "Selagem e máscara confirmadas no catálogo. Kit comercial de três peças e shampoo com a marca 24K não confirmados na fonte oficial acessível. O catálogo cita Clean Care como shampoo preparador, sem afirmar que integra o kit."
+      },
+      "distincoes": [
+        "Spray 24K é finalizador termoativado; não é a Selagem 24K.",
+        "Intensive Treatment Mask 24K é apresentada no catálogo como botox reconstrutor profissional.",
+        "Silk Fiber Blond é a variante blond confirmada de botox; não foi localizado um Botox 24K Blond distinto."
+      ]
+    },
+    {
+      "id": "bio-plastia",
+      "nome": "Bio Plastia",
+      "categorias": [
+        "Alinhamento",
+        "Preparação"
+      ],
+      "produtosIds": [
+        "bio-plastia-shampoo",
+        "bio-plastia-retexturizador"
+      ],
+      "ativosDestaque": [
+        "Proteína da seda"
+      ],
+      "indicacao": "Fios danificados e com frizz.",
+      "fonte": "https://usedalcotone.com/links/%5B%20DIGITAL%20%5D%20CAT%C3%81LOGO%20-%20DAL%20COTONE%202025-min.pdf",
+      "paginaImpressa": 4,
+      "status": "Confirmada no catálogo oficial 2025; disponibilidade atual não confirmada."
+    },
+    {
+      "id": "oxo-fusion",
+      "nome": "Oxo Fusion / Oxo Silk Fusion",
+      "categorias": [
+        "Alinhamento",
+        "Retexturização"
+      ],
+      "produtosIds": [
+        "oxo-fusion-retexturizador"
+      ],
+      "ativosDestaque": [
+        "Tecnologia B-Tex",
+        "Proteína da seda",
+        "Colágeno"
+      ],
+      "indicacao": null,
+      "fonte": "https://usedalcotone.com/links/%5B%20DIGITAL%20%5D%20CAT%C3%81LOGO%20-%20DAL%20COTONE%202025-min.pdf",
+      "paginaImpressa": 5,
+      "status": "Confirmada no catálogo oficial 2025; disponibilidade atual não confirmada."
+    },
+    {
+      "id": "silk-fiber",
+      "nome": "Silk Fiber",
+      "categorias": [
+        "Botox capilar",
+        "Retexturização"
+      ],
+      "produtosIds": [
+        "silk-fiber-regular",
+        "silk-fiber-blond"
+      ],
+      "ativosDestaque": [
+        "Styleze W-20"
+      ],
+      "indicacao": "Regular: fios danificados, volumosos ou com frizz. Blond: fios loiros, descoloridos ou grisalhos.",
+      "fonte": "https://usedalcotone.com/links/%5B%20DIGITAL%20%5D%20CAT%C3%81LOGO%20-%20DAL%20COTONE%202025-min.pdf",
+      "paginaImpressa": 6,
+      "status": "Confirmada no catálogo oficial 2025; disponibilidade atual não confirmada."
+    },
+    {
+      "id": "envolpamento",
+      "nome": "Envolpamento dos Fios",
+      "categorias": [
+        "Reconstrução"
+      ],
+      "produtosIds": [
+        "envolpamento-shampoo",
+        "envolpamento-reconstrutor",
+        "envolpamento-finalizador"
+      ],
+      "ativosDestaque": [
+        "Creatina",
+        "Cistina",
+        "Elastina"
+      ],
+      "indicacao": null,
+      "fonte": "https://usedalcotone.com/links/%5B%20DIGITAL%20%5D%20CAT%C3%81LOGO%20-%20DAL%20COTONE%202025-min.pdf",
+      "paginaImpressa": 7,
+      "status": "Confirmada no catálogo oficial 2025; disponibilidade atual não confirmada."
+    },
+    {
+      "id": "clean-care",
+      "nome": "Clean Care",
+      "categorias": [
+        "Preparação",
+        "Limpeza profunda"
+      ],
+      "produtosIds": [
+        "clean-care-shampoo"
+      ],
+      "ativosDestaque": [
+        "Proteína da seda"
+      ],
+      "indicacao": null,
+      "fonte": "https://usedalcotone.com/links/%5B%20DIGITAL%20%5D%20CAT%C3%81LOGO%20-%20DAL%20COTONE%202025-min.pdf",
+      "paginaImpressa": 8,
+      "status": "Confirmada no catálogo oficial 2025; disponibilidade atual não confirmada."
+    },
+    {
+      "id": "washing",
+      "nome": "Washing Day by Day",
+      "categorias": [
+        "Limpeza",
+        "Condicionamento"
+      ],
+      "produtosIds": [
+        "washing-shampoo",
+        "washing-condicionador"
+      ],
+      "ativosDestaque": [],
+      "indicacao": null,
+      "fonte": "https://usedalcotone.com/links/%5B%20DIGITAL%20%5D%20CAT%C3%81LOGO%20-%20DAL%20COTONE%202025-min.pdf",
+      "paginaImpressa": 9,
+      "status": "Confirmada no catálogo oficial 2025; disponibilidade atual não confirmada."
+    },
+    {
+      "id": "blond-up-professional",
+      "nome": "Blond Up Profissional",
+      "categorias": [
+        "Matização",
+        "Hidratação"
+      ],
+      "produtosIds": [
+        "blond-up-professional-shampoo",
+        "blond-up-professional-mask"
+      ],
+      "ativosDestaque": [
+        "Creatina",
+        "Ácido Violeta 43",
+        "Manteiga de abacate",
+        "Silicones e quaternários"
+      ],
+      "indicacao": "Fios loiros, grisalhos ou com mechas.",
+      "fonte": "https://usedalcotone.com/links/%5B%20DIGITAL%20%5D%20CAT%C3%81LOGO%20-%20DAL%20COTONE%202025-min.pdf",
+      "paginaImpressa": 10,
+      "status": "Confirmada no catálogo oficial 2025; disponibilidade atual não confirmada."
+    },
+    {
+      "id": "bleached",
+      "nome": "Bleached",
+      "categorias": [
+        "Coloração e descoloração"
+      ],
+      "produtosIds": [
+        "bleached-ox-05",
+        "bleached-ox-10",
+        "bleached-ox-20",
+        "bleached-ox-30"
+      ],
+      "ativosDestaque": [],
+      "indicacao": null,
+      "fonte": "https://usedalcotone.com/links/%5B%20DIGITAL%20%5D%20CAT%C3%81LOGO%20-%20DAL%20COTONE%202025-min.pdf",
+      "paginaImpressa": 12,
+      "status": "Confirmada no catálogo oficial 2025; disponibilidade atual não confirmada."
+    },
+    {
+      "id": "bleached-powder",
+      "nome": "Bleached — Pós Descolorantes",
+      "categorias": [
+        "Coloração e descoloração"
+      ],
+      "produtosIds": [
+        "bleached-powder-white",
+        "bleached-powder-blue"
+      ],
+      "ativosDestaque": [],
+      "indicacao": null,
+      "fonte": "https://usedalcotone.com/links/%5B%20DIGITAL%20%5D%20CAT%C3%81LOGO%20-%20DAL%20COTONE%202025-min.pdf",
+      "paginaImpressa": 13,
+      "status": "Confirmada no catálogo oficial 2025; disponibilidade atual não confirmada."
+    },
+    {
+      "id": "max-force-professional",
+      "nome": "Max Force Profissional",
+      "categorias": [
+        "Reconstrução"
+      ],
+      "produtosIds": [
+        "max-force-professional-shampoo",
+        "max-force-professional-condicionador",
+        "max-force-professional-mask"
+      ],
+      "ativosDestaque": [
+        "Óleo de argan",
+        "Vitamina A"
+      ],
+      "indicacao": "Fios danificados, porosos ou quebradiços.",
+      "fonte": "https://usedalcotone.com/links/%5B%20DIGITAL%20%5D%20CAT%C3%81LOGO%20-%20DAL%20COTONE%202025-min.pdf",
+      "paginaImpressa": 14,
+      "status": "Confirmada no catálogo oficial 2025; disponibilidade atual não confirmada."
+    },
+    {
+      "id": "power-curls-professional",
+      "nome": "Power Curls Profissional",
+      "categorias": [
+        "Cachos",
+        "Hidratação",
+        "Definição"
+      ],
+      "produtosIds": [
+        "power-curls-professional-shampoo",
+        "power-curls-professional-creme",
+        "power-curls-professional-mask"
+      ],
+      "ativosDestaque": [],
+      "indicacao": null,
+      "fonte": "https://usedalcotone.com/links/%5B%20DIGITAL%20%5D%20CAT%C3%81LOGO%20-%20DAL%20COTONE%202025-min.pdf",
+      "paginaImpressa": 17,
+      "status": "Confirmada no catálogo oficial 2025; disponibilidade atual não confirmada."
+    },
+    {
+      "id": "power-repair-professional",
+      "nome": "Power Repair Profissional",
+      "categorias": [
+        "Hidratação",
+        "Proteção da cor"
+      ],
+      "produtosIds": [
+        "power-repair-professional-shampoo",
+        "power-repair-professional-condicionador",
+        "power-repair-professional-mask"
+      ],
+      "ativosDestaque": [
+        "Açaí",
+        "Ceramidas"
+      ],
+      "indicacao": null,
+      "fonte": "https://usedalcotone.com/links/%5B%20DIGITAL%20%5D%20CAT%C3%81LOGO%20-%20DAL%20COTONE%202025-min.pdf",
+      "paginaImpressa": 20,
+      "status": "Confirmada no catálogo oficial 2025; disponibilidade atual não confirmada."
+    },
+    {
+      "id": "sos-detox-professional",
+      "nome": "S.O.S Detox Profissional",
+      "categorias": [
+        "Detox",
+        "Limpeza",
+        "Hidratação"
+      ],
+      "produtosIds": [
+        "sos-detox-professional-shampoo",
+        "sos-detox-professional-mask"
+      ],
+      "ativosDestaque": [
+        "Café verde",
+        "Fiber Detox",
+        "Óleo de cártamo"
+      ],
+      "indicacao": null,
+      "fonte": "https://usedalcotone.com/links/%5B%20DIGITAL%20%5D%20CAT%C3%81LOGO%20-%20DAL%20COTONE%202025-min.pdf",
+      "paginaImpressa": 23,
+      "status": "Confirmada no catálogo oficial 2025; disponibilidade atual não confirmada."
+    },
+    {
+      "id": "queratina",
+      "nome": "Queratina Hidrolisada",
+      "categorias": [
+        "Reconstrução",
+        "Pré e pós-química"
+      ],
+      "produtosIds": [
+        "queratina-spray"
+      ],
+      "ativosDestaque": [
+        "Queratina hidrolisada"
+      ],
+      "indicacao": "Fios danificados, quimicamente tratados ou fragilizados.",
+      "fonte": "https://usedalcotone.com/links/%5B%20DIGITAL%20%5D%20CAT%C3%81LOGO%20-%20DAL%20COTONE%202025-min.pdf",
+      "paginaImpressa": 35,
+      "status": "Confirmada no catálogo oficial 2025; disponibilidade atual não confirmada."
+    },
+    {
+      "id": "color-creams",
+      "nome": "Color Creams",
+      "categorias": [
+        "Coloração e descoloração"
+      ],
+      "produtosIds": [
+        "color-creams-coloracao"
+      ],
+      "ativosDestaque": [],
+      "indicacao": null,
+      "fonte": "https://usedalcotone.com/links/%5B%20DIGITAL%20%5D%20CAT%C3%81LOGO%20-%20DAL%20COTONE%202025-min.pdf",
+      "paginaImpressa": 44,
+      "status": "Confirmada no catálogo oficial 2025; disponibilidade atual não confirmada."
+    }
+  ],
+  "produtos": [
+    {
+      "id": "24k-premium-selagem",
+      "nome": "Selagem 24K Premium",
+      "linhaId": "24k-premium",
+      "categorias": [
+        "Selagem",
+        "Alinhamento"
+      ],
+      "tamanho": "1 L",
+      "funcao": "Selagem / alinhamento profissional",
+      "ativos": [
+        "Manteiga de karité",
+        "Vitaminas A, E e F",
+        "Aminoácidos",
+        "Tanino-Plus",
+        "Queratina hidrolisada"
+      ],
+      "indicacao": null,
+      "precoPublico": null,
+      "precoStatus": "Preço público oficial não localizado para este item profissional.",
+      "moeda": "BRL",
+      "imageUrl": null,
+      "imagemFonte": {
+        "tipo": "pagina-catalogo",
+        "url": "https://usedalcotone.com/links/%5B%20DIGITAL%20%5D%20CAT%C3%81LOGO%20-%20DAL%20COTONE%202025-min.pdf#page=2",
+        "paginaImpressa": 1
+      },
+      "composicaoINCI": null,
+      "proveniencia": {
+        "tipo": "catalogo-oficial",
+        "ano": 2025,
+        "url": "https://usedalcotone.com/links/%5B%20DIGITAL%20%5D%20CAT%C3%81LOGO%20-%20DAL%20COTONE%202025-min.pdf",
+        "paginaImpressa": 1,
+        "consulta": "2026-11-06"
+      },
+      "modoUso": null,
+      "observacoes": [
+        "Ficha de consulta comercial; não inclui protocolo de aplicação química."
+      ]
+    },
+    {
+      "id": "24k-mask-mask",
+      "nome": "Intensive Treatment Mask 24K Premium — Botox Reconstrutor",
+      "linhaId": "24k-premium",
+      "categorias": [
+        "Botox capilar",
+        "Reconstrução",
+        "Alinhamento"
+      ],
+      "tamanho": "1 kg",
+      "funcao": "Máscara profissional / botox reconstrutor",
+      "ativos": [
+        "Manteiga de karité",
+        "Tanino-Plus",
+        "Queratina hidrolisada"
+      ],
+      "indicacao": "Fios danificados, ressecados ou quimicamente tratados.",
+      "precoPublico": null,
+      "precoStatus": "Preço público oficial não localizado para este item profissional.",
+      "moeda": "BRL",
+      "imageUrl": null,
+      "imagemFonte": {
+        "tipo": "pagina-catalogo",
+        "url": "https://usedalcotone.com/links/%5B%20DIGITAL%20%5D%20CAT%C3%81LOGO%20-%20DAL%20COTONE%202025-min.pdf#page=4",
+        "paginaImpressa": 3
+      },
+      "composicaoINCI": null,
+      "proveniencia": {
+        "tipo": "catalogo-oficial",
+        "ano": 2025,
+        "url": "https://usedalcotone.com/links/%5B%20DIGITAL%20%5D%20CAT%C3%81LOGO%20-%20DAL%20COTONE%202025-min.pdf",
+        "paginaImpressa": 3,
+        "consulta": "2026-11-06"
+      },
+      "modoUso": null,
+      "observacoes": [
+        "Ficha de consulta comercial; não inclui protocolo de aplicação química."
+      ]
+    },
+    {
+      "id": "24k-spray-spray",
+      "nome": "Spray Antifrizz 24K Premium",
+      "linhaId": "24k-premium",
+      "categorias": [
+        "Finalização",
+        "Proteção térmica"
+      ],
+      "tamanho": "300 mL",
+      "funcao": "Finalizador termoativado com efeito memória",
+      "ativos": [
+        "Lisselini",
+        "Silsoft AX-E"
+      ],
+      "indicacao": null,
+      "precoPublico": null,
+      "precoStatus": "Preço público oficial não localizado para este item profissional.",
+      "moeda": "BRL",
+      "imageUrl": null,
+      "imagemFonte": {
+        "tipo": "pagina-catalogo",
+        "url": "https://usedalcotone.com/links/%5B%20DIGITAL%20%5D%20CAT%C3%81LOGO%20-%20DAL%20COTONE%202025-min.pdf#page=3",
+        "paginaImpressa": 2
+      },
+      "composicaoINCI": null,
+      "proveniencia": {
+        "tipo": "catalogo-oficial",
+        "ano": 2025,
+        "url": "https://usedalcotone.com/links/%5B%20DIGITAL%20%5D%20CAT%C3%81LOGO%20-%20DAL%20COTONE%202025-min.pdf",
+        "paginaImpressa": 2,
+        "consulta": "2026-11-06"
+      },
+      "modoUso": null,
+      "observacoes": [
+        "Ficha de consulta comercial; não inclui protocolo de aplicação química."
+      ]
+    },
+    {
+      "id": "bio-plastia-shampoo",
+      "nome": "Shampoo Pré-Tratamento Bio Plastia",
+      "linhaId": "bio-plastia",
+      "categorias": [
+        "Alinhamento",
+        "Preparação"
+      ],
+      "tamanho": "1 L",
+      "funcao": "Preparação",
+      "ativos": [
+        "Proteína da seda"
+      ],
+      "indicacao": "Fios danificados e com frizz.",
+      "precoPublico": null,
+      "precoStatus": "Preço público oficial não localizado para este item profissional.",
+      "moeda": "BRL",
+      "imageUrl": null,
+      "imagemFonte": {
+        "tipo": "pagina-catalogo",
+        "url": "https://usedalcotone.com/links/%5B%20DIGITAL%20%5D%20CAT%C3%81LOGO%20-%20DAL%20COTONE%202025-min.pdf#page=5",
+        "paginaImpressa": 4
+      },
+      "composicaoINCI": null,
+      "proveniencia": {
+        "tipo": "catalogo-oficial",
+        "ano": 2025,
+        "url": "https://usedalcotone.com/links/%5B%20DIGITAL%20%5D%20CAT%C3%81LOGO%20-%20DAL%20COTONE%202025-min.pdf",
+        "paginaImpressa": 4,
+        "consulta": "2026-11-06"
+      },
+      "modoUso": null,
+      "observacoes": [
+        "Ficha de consulta comercial; não inclui protocolo de aplicação química."
+      ]
+    },
+    {
+      "id": "bio-plastia-retexturizador",
+      "nome": "Retexturizador Bio Plastia",
+      "linhaId": "bio-plastia",
+      "categorias": [
+        "Alinhamento",
+        "Preparação"
+      ],
+      "tamanho": "1 L",
+      "funcao": "Retexturização profissional",
+      "ativos": [
+        "Proteína da seda"
+      ],
+      "indicacao": "Fios danificados e com frizz.",
+      "precoPublico": null,
+      "precoStatus": "Preço público oficial não localizado para este item profissional.",
+      "moeda": "BRL",
+      "imageUrl": null,
+      "imagemFonte": {
+        "tipo": "pagina-catalogo",
+        "url": "https://usedalcotone.com/links/%5B%20DIGITAL%20%5D%20CAT%C3%81LOGO%20-%20DAL%20COTONE%202025-min.pdf#page=5",
+        "paginaImpressa": 4
+      },
+      "composicaoINCI": null,
+      "proveniencia": {
+        "tipo": "catalogo-oficial",
+        "ano": 2025,
+        "url": "https://usedalcotone.com/links/%5B%20DIGITAL%20%5D%20CAT%C3%81LOGO%20-%20DAL%20COTONE%202025-min.pdf",
+        "paginaImpressa": 4,
+        "consulta": "2026-11-06"
+      },
+      "modoUso": null,
+      "observacoes": [
+        "Ficha de consulta comercial; não inclui protocolo de aplicação química."
+      ]
+    },
+    {
+      "id": "oxo-fusion-retexturizador",
+      "nome": "Oxo Silk Fusion High Performance",
+      "linhaId": "oxo-fusion",
+      "categorias": [
+        "Alinhamento",
+        "Retexturização"
+      ],
+      "tamanho": null,
+      "funcao": "Retexturizador termoativado",
+      "ativos": [
+        "Tecnologia B-Tex",
+        "Proteína da seda",
+        "Colágeno"
+      ],
+      "indicacao": null,
+      "precoPublico": null,
+      "precoStatus": "Preço público oficial não localizado para este item profissional.",
+      "moeda": "BRL",
+      "imageUrl": null,
+      "imagemFonte": {
+        "tipo": "pagina-catalogo",
+        "url": "https://usedalcotone.com/links/%5B%20DIGITAL%20%5D%20CAT%C3%81LOGO%20-%20DAL%20COTONE%202025-min.pdf#page=6",
+        "paginaImpressa": 5
+      },
+      "composicaoINCI": null,
+      "proveniencia": {
+        "tipo": "catalogo-oficial",
+        "ano": 2025,
+        "url": "https://usedalcotone.com/links/%5B%20DIGITAL%20%5D%20CAT%C3%81LOGO%20-%20DAL%20COTONE%202025-min.pdf",
+        "paginaImpressa": 5,
+        "consulta": "2026-11-06"
+      },
+      "modoUso": null,
+      "observacoes": [
+        "Ficha de consulta comercial; não inclui protocolo de aplicação química."
+      ]
+    },
+    {
+      "id": "silk-fiber-regular",
+      "nome": "Retexturizador Silk Fiber",
+      "linhaId": "silk-fiber",
+      "categorias": [
+        "Botox capilar",
+        "Retexturização"
+      ],
+      "tamanho": "1 kg",
+      "funcao": "Botox capilar modelador",
+      "ativos": [
+        "Styleze W-20"
+      ],
+      "indicacao": "Regular: fios danificados, volumosos ou com frizz. Blond: fios loiros, descoloridos ou grisalhos.",
+      "precoPublico": null,
+      "precoStatus": "Preço público oficial não localizado para este item profissional.",
+      "moeda": "BRL",
+      "imageUrl": null,
+      "imagemFonte": {
+        "tipo": "pagina-catalogo",
+        "url": "https://usedalcotone.com/links/%5B%20DIGITAL%20%5D%20CAT%C3%81LOGO%20-%20DAL%20COTONE%202025-min.pdf#page=7",
+        "paginaImpressa": 6
+      },
+      "composicaoINCI": null,
+      "proveniencia": {
+        "tipo": "catalogo-oficial",
+        "ano": 2025,
+        "url": "https://usedalcotone.com/links/%5B%20DIGITAL%20%5D%20CAT%C3%81LOGO%20-%20DAL%20COTONE%202025-min.pdf",
+        "paginaImpressa": 6,
+        "consulta": "2026-11-06"
+      },
+      "modoUso": null,
+      "observacoes": [
+        "Ficha de consulta comercial; não inclui protocolo de aplicação química."
+      ]
+    },
+    {
+      "id": "silk-fiber-blond",
+      "nome": "Retexturizador Silk Fiber Blond",
+      "linhaId": "silk-fiber",
+      "categorias": [
+        "Botox capilar",
+        "Retexturização"
+      ],
+      "tamanho": "1 kg",
+      "funcao": "Botox capilar com neutralização de amarelos",
+      "ativos": [
+        "Styleze W-20"
+      ],
+      "indicacao": "Regular: fios danificados, volumosos ou com frizz. Blond: fios loiros, descoloridos ou grisalhos.",
+      "precoPublico": null,
+      "precoStatus": "Preço público oficial não localizado para este item profissional.",
+      "moeda": "BRL",
+      "imageUrl": null,
+      "imagemFonte": {
+        "tipo": "pagina-catalogo",
+        "url": "https://usedalcotone.com/links/%5B%20DIGITAL%20%5D%20CAT%C3%81LOGO%20-%20DAL%20COTONE%202025-min.pdf#page=7",
+        "paginaImpressa": 6
+      },
+      "composicaoINCI": null,
+      "proveniencia": {
+        "tipo": "catalogo-oficial",
+        "ano": 2025,
+        "url": "https://usedalcotone.com/links/%5B%20DIGITAL%20%5D%20CAT%C3%81LOGO%20-%20DAL%20COTONE%202025-min.pdf",
+        "paginaImpressa": 6,
+        "consulta": "2026-11-06"
+      },
+      "modoUso": null,
+      "observacoes": [
+        "Ficha de consulta comercial; não inclui protocolo de aplicação química."
+      ]
+    },
+    {
+      "id": "envolpamento-shampoo",
+      "nome": "Shampoo Técnico Envolpamento dos Fios",
+      "linhaId": "envolpamento",
+      "categorias": [
+        "Reconstrução"
+      ],
+      "tamanho": "1 L",
+      "funcao": "Limpeza técnica",
+      "ativos": [
+        "Creatina",
+        "Cistina",
+        "Elastina"
+      ],
+      "indicacao": null,
+      "precoPublico": null,
+      "precoStatus": "Preço público oficial não localizado para este item profissional.",
+      "moeda": "BRL",
+      "imageUrl": null,
+      "imagemFonte": {
+        "tipo": "pagina-catalogo",
+        "url": "https://usedalcotone.com/links/%5B%20DIGITAL%20%5D%20CAT%C3%81LOGO%20-%20DAL%20COTONE%202025-min.pdf#page=8",
+        "paginaImpressa": 7
+      },
+      "composicaoINCI": null,
+      "proveniencia": {
+        "tipo": "catalogo-oficial",
+        "ano": 2025,
+        "url": "https://usedalcotone.com/links/%5B%20DIGITAL%20%5D%20CAT%C3%81LOGO%20-%20DAL%20COTONE%202025-min.pdf",
+        "paginaImpressa": 7,
+        "consulta": "2026-11-06"
+      },
+      "modoUso": null,
+      "observacoes": [
+        "Ficha de consulta comercial; não inclui protocolo de aplicação química."
+      ]
+    },
+    {
+      "id": "envolpamento-reconstrutor",
+      "nome": "Reconstrutor Envolpamento dos Fios",
+      "linhaId": "envolpamento",
+      "categorias": [
+        "Reconstrução"
+      ],
+      "tamanho": "1 L",
+      "funcao": "Reconstrução",
+      "ativos": [
+        "Creatina",
+        "Cistina",
+        "Elastina"
+      ],
+      "indicacao": null,
+      "precoPublico": null,
+      "precoStatus": "Preço público oficial não localizado para este item profissional.",
+      "moeda": "BRL",
+      "imageUrl": null,
+      "imagemFonte": {
+        "tipo": "pagina-catalogo",
+        "url": "https://usedalcotone.com/links/%5B%20DIGITAL%20%5D%20CAT%C3%81LOGO%20-%20DAL%20COTONE%202025-min.pdf#page=8",
+        "paginaImpressa": 7
+      },
+      "composicaoINCI": null,
+      "proveniencia": {
+        "tipo": "catalogo-oficial",
+        "ano": 2025,
+        "url": "https://usedalcotone.com/links/%5B%20DIGITAL%20%5D%20CAT%C3%81LOGO%20-%20DAL%20COTONE%202025-min.pdf",
+        "paginaImpressa": 7,
+        "consulta": "2026-11-06"
+      },
+      "modoUso": null,
+      "observacoes": [
+        "Ficha de consulta comercial; não inclui protocolo de aplicação química."
+      ]
+    },
+    {
+      "id": "envolpamento-finalizador",
+      "nome": "Finalizador Envolpamento dos Fios",
+      "linhaId": "envolpamento",
+      "categorias": [
+        "Reconstrução"
+      ],
+      "tamanho": "1 L",
+      "funcao": "Finalização",
+      "ativos": [
+        "Creatina",
+        "Cistina",
+        "Elastina"
+      ],
+      "indicacao": null,
+      "precoPublico": null,
+      "precoStatus": "Preço público oficial não localizado para este item profissional.",
+      "moeda": "BRL",
+      "imageUrl": null,
+      "imagemFonte": {
+        "tipo": "pagina-catalogo",
+        "url": "https://usedalcotone.com/links/%5B%20DIGITAL%20%5D%20CAT%C3%81LOGO%20-%20DAL%20COTONE%202025-min.pdf#page=8",
+        "paginaImpressa": 7
+      },
+      "composicaoINCI": null,
+      "proveniencia": {
+        "tipo": "catalogo-oficial",
+        "ano": 2025,
+        "url": "https://usedalcotone.com/links/%5B%20DIGITAL%20%5D%20CAT%C3%81LOGO%20-%20DAL%20COTONE%202025-min.pdf",
+        "paginaImpressa": 7,
+        "consulta": "2026-11-06"
+      },
+      "modoUso": null,
+      "observacoes": [
+        "Ficha de consulta comercial; não inclui protocolo de aplicação química."
+      ]
+    },
+    {
+      "id": "clean-care-shampoo",
+      "nome": "Shampoo Preparador Clean Care",
+      "linhaId": "clean-care",
+      "categorias": [
+        "Preparação",
+        "Limpeza profunda"
+      ],
+      "tamanho": "1 L",
+      "funcao": "Preparação para processos profissionais",
+      "ativos": [
+        "Proteína da seda"
+      ],
+      "indicacao": null,
+      "precoPublico": null,
+      "precoStatus": "Preço público oficial não localizado para este item profissional.",
+      "moeda": "BRL",
+      "imageUrl": null,
+      "imagemFonte": {
+        "tipo": "pagina-catalogo",
+        "url": "https://usedalcotone.com/links/%5B%20DIGITAL%20%5D%20CAT%C3%81LOGO%20-%20DAL%20COTONE%202025-min.pdf#page=9",
+        "paginaImpressa": 8
+      },
+      "composicaoINCI": null,
+      "proveniencia": {
+        "tipo": "catalogo-oficial",
+        "ano": 2025,
+        "url": "https://usedalcotone.com/links/%5B%20DIGITAL%20%5D%20CAT%C3%81LOGO%20-%20DAL%20COTONE%202025-min.pdf",
+        "paginaImpressa": 8,
+        "consulta": "2026-11-06"
+      },
+      "modoUso": null,
+      "observacoes": [
+        "Ficha de consulta comercial; não inclui protocolo de aplicação química."
+      ]
+    },
+    {
+      "id": "washing-shampoo",
+      "nome": "Shampoo Purificante Washing",
+      "linhaId": "washing",
+      "categorias": [
+        "Limpeza",
+        "Condicionamento"
+      ],
+      "tamanho": "2,5 L",
+      "funcao": "Limpeza de salão",
+      "ativos": [],
+      "indicacao": null,
+      "precoPublico": null,
+      "precoStatus": "Preço público oficial não localizado para este item profissional.",
+      "moeda": "BRL",
+      "imageUrl": null,
+      "imagemFonte": {
+        "tipo": "pagina-catalogo",
+        "url": "https://usedalcotone.com/links/%5B%20DIGITAL%20%5D%20CAT%C3%81LOGO%20-%20DAL%20COTONE%202025-min.pdf#page=10",
+        "paginaImpressa": 9
+      },
+      "composicaoINCI": null,
+      "proveniencia": {
+        "tipo": "catalogo-oficial",
+        "ano": 2025,
+        "url": "https://usedalcotone.com/links/%5B%20DIGITAL%20%5D%20CAT%C3%81LOGO%20-%20DAL%20COTONE%202025-min.pdf",
+        "paginaImpressa": 9,
+        "consulta": "2026-11-06"
+      },
+      "modoUso": null,
+      "observacoes": [
+        "Ficha de consulta comercial; não inclui protocolo de aplicação química."
+      ]
+    },
+    {
+      "id": "washing-condicionador",
+      "nome": "Condicionador Purificante Washing",
+      "linhaId": "washing",
+      "categorias": [
+        "Limpeza",
+        "Condicionamento"
+      ],
+      "tamanho": "2,5 L",
+      "funcao": "Condicionamento de salão",
+      "ativos": [],
+      "indicacao": null,
+      "precoPublico": null,
+      "precoStatus": "Preço público oficial não localizado para este item profissional.",
+      "moeda": "BRL",
+      "imageUrl": null,
+      "imagemFonte": {
+        "tipo": "pagina-catalogo",
+        "url": "https://usedalcotone.com/links/%5B%20DIGITAL%20%5D%20CAT%C3%81LOGO%20-%20DAL%20COTONE%202025-min.pdf#page=10",
+        "paginaImpressa": 9
+      },
+      "composicaoINCI": null,
+      "proveniencia": {
+        "tipo": "catalogo-oficial",
+        "ano": 2025,
+        "url": "https://usedalcotone.com/links/%5B%20DIGITAL%20%5D%20CAT%C3%81LOGO%20-%20DAL%20COTONE%202025-min.pdf",
+        "paginaImpressa": 9,
+        "consulta": "2026-11-06"
+      },
+      "modoUso": null,
+      "observacoes": [
+        "Ficha de consulta comercial; não inclui protocolo de aplicação química."
+      ]
+    },
+    {
+      "id": "blond-up-professional-shampoo",
+      "nome": "Shampoo Blond Up Premium 1 L",
+      "linhaId": "blond-up-professional",
+      "categorias": [
+        "Matização",
+        "Hidratação"
+      ],
+      "tamanho": "1 L",
+      "funcao": "Limpeza iluminadora",
+      "ativos": [
+        "Creatina",
+        "Ácido Violeta 43",
+        "Manteiga de abacate",
+        "Silicones e quaternários"
+      ],
+      "indicacao": "Fios loiros, grisalhos ou com mechas.",
+      "precoPublico": 148.41,
+      "precoStatus": "Preço público confirmado na loja oficial indexada; sujeito a alteração.",
+      "moeda": "BRL",
+      "imageUrl": "https://dalcotone.com.br/cdn/shop/files/shampoo_iluminador_blond_up_premium_1l_3273_1_7f3b58b0be88c1ffaf121d668eb650ee.png?v=1770119934&width=3840",
+      "imagemFonte": {
+        "tipo": "pagina-catalogo",
+        "url": "https://usedalcotone.com/links/%5B%20DIGITAL%20%5D%20CAT%C3%81LOGO%20-%20DAL%20COTONE%202025-min.pdf#page=11",
+        "paginaImpressa": 10
+      },
+      "composicaoINCI": null,
+      "proveniencia": {
+        "tipo": "catalogo-oficial",
+        "ano": 2025,
+        "url": "https://usedalcotone.com/links/%5B%20DIGITAL%20%5D%20CAT%C3%81LOGO%20-%20DAL%20COTONE%202025-min.pdf",
+        "paginaImpressa": 10,
+        "consulta": "2026-11-06"
+      },
+      "modoUso": null,
+      "observacoes": [
+        "Ficha de consulta comercial; não inclui protocolo de aplicação química."
+      ],
+      "url": "https://dalcotone.com.br/products/shampoo-iluminador-blond-up-premium"
+    },
+    {
+      "id": "blond-up-professional-mask",
+      "nome": "Máscara Blond Up Premium 1 kg",
+      "linhaId": "blond-up-professional",
+      "categorias": [
+        "Matização",
+        "Hidratação"
+      ],
+      "tamanho": "1 kg",
+      "funcao": "Matização e hidratação",
+      "ativos": [
+        "Creatina",
+        "Ácido Violeta 43",
+        "Manteiga de abacate",
+        "Silicones e quaternários"
+      ],
+      "indicacao": "Fios loiros, grisalhos ou com mechas.",
+      "precoPublico": 204.21,
+      "precoStatus": "Preço público confirmado na loja oficial indexada; sujeito a alteração.",
+      "moeda": "BRL",
+      "imageUrl": "https://dalcotone.com.br/cdn/shop/files/mascara_iluminadora_blond_up_premium_500g_3275_1_7a1f2f6788046a6bc615d54d22ca1d75.png?v=1770119934&width=3840",
+      "imagemFonte": {
+        "tipo": "pagina-catalogo",
+        "url": "https://usedalcotone.com/links/%5B%20DIGITAL%20%5D%20CAT%C3%81LOGO%20-%20DAL%20COTONE%202025-min.pdf#page=11",
+        "paginaImpressa": 10
+      },
+      "composicaoINCI": null,
+      "proveniencia": {
+        "tipo": "catalogo-oficial",
+        "ano": 2025,
+        "url": "https://usedalcotone.com/links/%5B%20DIGITAL%20%5D%20CAT%C3%81LOGO%20-%20DAL%20COTONE%202025-min.pdf",
+        "paginaImpressa": 10,
+        "consulta": "2026-11-06"
+      },
+      "modoUso": null,
+      "observacoes": [
+        "Ficha de consulta comercial; não inclui protocolo de aplicação química."
+      ],
+      "url": "https://dalcotone.com.br/products/mascara-iluminadora-blond-up-premium"
+    },
+    {
+      "id": "bleached-ox-05",
+      "nome": "Emulsão Reveladora Cremosa Bleached 05 volumes",
+      "linhaId": "bleached",
+      "categorias": [
+        "Coloração e descoloração"
+      ],
+      "tamanho": "900 mL",
+      "funcao": "Revelador para uso profissional",
+      "ativos": [],
+      "indicacao": null,
+      "precoPublico": null,
+      "precoStatus": "Preço público oficial não localizado para este item profissional.",
+      "moeda": "BRL",
+      "imageUrl": null,
+      "imagemFonte": {
+        "tipo": "pagina-catalogo",
+        "url": "https://usedalcotone.com/links/%5B%20DIGITAL%20%5D%20CAT%C3%81LOGO%20-%20DAL%20COTONE%202025-min.pdf#page=13",
+        "paginaImpressa": 12
+      },
+      "composicaoINCI": null,
+      "proveniencia": {
+        "tipo": "catalogo-oficial",
+        "ano": 2025,
+        "url": "https://usedalcotone.com/links/%5B%20DIGITAL%20%5D%20CAT%C3%81LOGO%20-%20DAL%20COTONE%202025-min.pdf",
+        "paginaImpressa": 12,
+        "consulta": "2026-11-06"
+      },
+      "modoUso": null,
+      "observacoes": [
+        "Ficha de consulta comercial; não inclui protocolo de aplicação química."
+      ]
+    },
+    {
+      "id": "bleached-ox-10",
+      "nome": "Emulsão Reveladora Cremosa Bleached 10 volumes",
+      "linhaId": "bleached",
+      "categorias": [
+        "Coloração e descoloração"
+      ],
+      "tamanho": "900 mL",
+      "funcao": "Revelador para uso profissional",
+      "ativos": [],
+      "indicacao": null,
+      "precoPublico": null,
+      "precoStatus": "Preço público oficial não localizado para este item profissional.",
+      "moeda": "BRL",
+      "imageUrl": null,
+      "imagemFonte": {
+        "tipo": "pagina-catalogo",
+        "url": "https://usedalcotone.com/links/%5B%20DIGITAL%20%5D%20CAT%C3%81LOGO%20-%20DAL%20COTONE%202025-min.pdf#page=13",
+        "paginaImpressa": 12
+      },
+      "composicaoINCI": null,
+      "proveniencia": {
+        "tipo": "catalogo-oficial",
+        "ano": 2025,
+        "url": "https://usedalcotone.com/links/%5B%20DIGITAL%20%5D%20CAT%C3%81LOGO%20-%20DAL%20COTONE%202025-min.pdf",
+        "paginaImpressa": 12,
+        "consulta": "2026-11-06"
+      },
+      "modoUso": null,
+      "observacoes": [
+        "Ficha de consulta comercial; não inclui protocolo de aplicação química."
+      ]
+    },
+    {
+      "id": "bleached-ox-20",
+      "nome": "Emulsão Reveladora Cremosa Bleached 20 volumes",
+      "linhaId": "bleached",
+      "categorias": [
+        "Coloração e descoloração"
+      ],
+      "tamanho": "900 mL",
+      "funcao": "Revelador para uso profissional",
+      "ativos": [],
+      "indicacao": null,
+      "precoPublico": null,
+      "precoStatus": "Preço público oficial não localizado para este item profissional.",
+      "moeda": "BRL",
+      "imageUrl": null,
+      "imagemFonte": {
+        "tipo": "pagina-catalogo",
+        "url": "https://usedalcotone.com/links/%5B%20DIGITAL%20%5D%20CAT%C3%81LOGO%20-%20DAL%20COTONE%202025-min.pdf#page=13",
+        "paginaImpressa": 12
+      },
+      "composicaoINCI": null,
+      "proveniencia": {
+        "tipo": "catalogo-oficial",
+        "ano": 2025,
+        "url": "https://usedalcotone.com/links/%5B%20DIGITAL%20%5D%20CAT%C3%81LOGO%20-%20DAL%20COTONE%202025-min.pdf",
+        "paginaImpressa": 12,
+        "consulta": "2026-11-06"
+      },
+      "modoUso": null,
+      "observacoes": [
+        "Ficha de consulta comercial; não inclui protocolo de aplicação química."
+      ]
+    },
+    {
+      "id": "bleached-ox-30",
+      "nome": "Emulsão Reveladora Cremosa Bleached 30 volumes",
+      "linhaId": "bleached",
+      "categorias": [
+        "Coloração e descoloração"
+      ],
+      "tamanho": "900 mL",
+      "funcao": "Revelador para uso profissional",
+      "ativos": [],
+      "indicacao": null,
+      "precoPublico": null,
+      "precoStatus": "Preço público oficial não localizado para este item profissional.",
+      "moeda": "BRL",
+      "imageUrl": null,
+      "imagemFonte": {
+        "tipo": "pagina-catalogo",
+        "url": "https://usedalcotone.com/links/%5B%20DIGITAL%20%5D%20CAT%C3%81LOGO%20-%20DAL%20COTONE%202025-min.pdf#page=13",
+        "paginaImpressa": 12
+      },
+      "composicaoINCI": null,
+      "proveniencia": {
+        "tipo": "catalogo-oficial",
+        "ano": 2025,
+        "url": "https://usedalcotone.com/links/%5B%20DIGITAL%20%5D%20CAT%C3%81LOGO%20-%20DAL%20COTONE%202025-min.pdf",
+        "paginaImpressa": 12,
+        "consulta": "2026-11-06"
+      },
+      "modoUso": null,
+      "observacoes": [
+        "Ficha de consulta comercial; não inclui protocolo de aplicação química."
+      ]
+    },
+    {
+      "id": "bleached-powder-white",
+      "nome": "Pó Descolorante Bleached White",
+      "linhaId": "bleached-powder",
+      "categorias": [
+        "Coloração e descoloração"
+      ],
+      "tamanho": "500 g",
+      "funcao": "Descoloração",
+      "ativos": [],
+      "indicacao": null,
+      "precoPublico": null,
+      "precoStatus": "Preço público oficial não localizado para este item profissional.",
+      "moeda": "BRL",
+      "imageUrl": null,
+      "imagemFonte": {
+        "tipo": "pagina-catalogo",
+        "url": "https://usedalcotone.com/links/%5B%20DIGITAL%20%5D%20CAT%C3%81LOGO%20-%20DAL%20COTONE%202025-min.pdf#page=14",
+        "paginaImpressa": 13
+      },
+      "composicaoINCI": null,
+      "proveniencia": {
+        "tipo": "catalogo-oficial",
+        "ano": 2025,
+        "url": "https://usedalcotone.com/links/%5B%20DIGITAL%20%5D%20CAT%C3%81LOGO%20-%20DAL%20COTONE%202025-min.pdf",
+        "paginaImpressa": 13,
+        "consulta": "2026-11-06"
+      },
+      "modoUso": null,
+      "observacoes": [
+        "Ficha de consulta comercial; não inclui protocolo de aplicação química."
+      ]
+    },
+    {
+      "id": "bleached-powder-blue",
+      "nome": "Pó Descolorante Bleached Blue",
+      "linhaId": "bleached-powder",
+      "categorias": [
+        "Coloração e descoloração"
+      ],
+      "tamanho": "500 g",
+      "funcao": "Descoloração com ação antiamarelamento",
+      "ativos": [],
+      "indicacao": null,
+      "precoPublico": null,
+      "precoStatus": "Preço público oficial não localizado para este item profissional.",
+      "moeda": "BRL",
+      "imageUrl": null,
+      "imagemFonte": {
+        "tipo": "pagina-catalogo",
+        "url": "https://usedalcotone.com/links/%5B%20DIGITAL%20%5D%20CAT%C3%81LOGO%20-%20DAL%20COTONE%202025-min.pdf#page=14",
+        "paginaImpressa": 13
+      },
+      "composicaoINCI": null,
+      "proveniencia": {
+        "tipo": "catalogo-oficial",
+        "ano": 2025,
+        "url": "https://usedalcotone.com/links/%5B%20DIGITAL%20%5D%20CAT%C3%81LOGO%20-%20DAL%20COTONE%202025-min.pdf",
+        "paginaImpressa": 13,
+        "consulta": "2026-11-06"
+      },
+      "modoUso": null,
+      "observacoes": [
+        "Ficha de consulta comercial; não inclui protocolo de aplicação química."
+      ]
+    },
+    {
+      "id": "max-force-professional-shampoo",
+      "nome": "Shampoo Max Force 1L",
+      "linhaId": "max-force-professional",
+      "categorias": [
+        "Reconstrução"
+      ],
+      "tamanho": "1 L",
+      "funcao": "Limpeza reconstrutora",
+      "ativos": [
+        "Óleo de argan",
+        "Vitamina A"
+      ],
+      "indicacao": "Fios danificados, porosos ou quebradiços.",
+      "precoPublico": 137,
+      "precoStatus": "Preço público confirmado na loja oficial indexada; sujeito a alteração.",
+      "moeda": "BRL",
+      "imageUrl": "https://dalcotone.com.br/cdn/shop/files/shampoo_max_force_1l_3349_1_92790697c10d2172a74832f205af3adc.png?v=1770119960&width=1946",
+      "imagemFonte": {
+        "tipo": "pagina-catalogo",
+        "url": "https://usedalcotone.com/links/%5B%20DIGITAL%20%5D%20CAT%C3%81LOGO%20-%20DAL%20COTONE%202025-min.pdf#page=15",
+        "paginaImpressa": 14
+      },
+      "composicaoINCI": null,
+      "proveniencia": {
+        "tipo": "catalogo-oficial",
+        "ano": 2025,
+        "url": "https://usedalcotone.com/links/%5B%20DIGITAL%20%5D%20CAT%C3%81LOGO%20-%20DAL%20COTONE%202025-min.pdf",
+        "paginaImpressa": 14,
+        "consulta": "2026-11-06"
+      },
+      "modoUso": null,
+      "observacoes": [
+        "Ficha de consulta comercial; não inclui protocolo de aplicação química."
+      ],
+      "url": "https://dalcotone.com.br/products/shampoo-max-repair-1l"
+    },
+    {
+      "id": "max-force-professional-condicionador",
+      "nome": "Condicionador Max Force 1L",
+      "linhaId": "max-force-professional",
+      "categorias": [
+        "Reconstrução"
+      ],
+      "tamanho": "1 L",
+      "funcao": "Condicionamento reconstrutor",
+      "ativos": [
+        "Óleo de argan",
+        "Vitamina A"
+      ],
+      "indicacao": "Fios danificados, porosos ou quebradiços.",
+      "precoPublico": 137,
+      "precoStatus": "Preço público confirmado na loja oficial indexada; sujeito a alteração.",
+      "moeda": "BRL",
+      "imageUrl": "https://dalcotone.com.br/cdn/shop/files/condicionador_max_force_1l_3355_1_978ed8e592b477f5b1b4b786eda298a8.png?v=1770119961&width=1946",
+      "imagemFonte": {
+        "tipo": "pagina-catalogo",
+        "url": "https://usedalcotone.com/links/%5B%20DIGITAL%20%5D%20CAT%C3%81LOGO%20-%20DAL%20COTONE%202025-min.pdf#page=15",
+        "paginaImpressa": 14
+      },
+      "composicaoINCI": null,
+      "proveniencia": {
+        "tipo": "catalogo-oficial",
+        "ano": 2025,
+        "url": "https://usedalcotone.com/links/%5B%20DIGITAL%20%5D%20CAT%C3%81LOGO%20-%20DAL%20COTONE%202025-min.pdf",
+        "paginaImpressa": 14,
+        "consulta": "2026-11-06"
+      },
+      "modoUso": null,
+      "observacoes": [
+        "Ficha de consulta comercial; não inclui protocolo de aplicação química."
+      ],
+      "url": "https://dalcotone.com.br/products/condicionador-max-repair-1l"
+    },
+    {
+      "id": "max-force-professional-mask",
+      "nome": "Máscara Max Force 1 kg",
+      "linhaId": "max-force-professional",
+      "categorias": [
+        "Reconstrução"
+      ],
+      "tamanho": "1 kg",
+      "funcao": "Reconstrução",
+      "ativos": [
+        "Óleo de argan",
+        "Vitamina A"
+      ],
+      "indicacao": "Fios danificados, porosos ou quebradiços.",
+      "precoPublico": 167.9,
+      "precoStatus": "Preço público confirmado na loja oficial indexada; sujeito a alteração.",
+      "moeda": "BRL",
+      "imageUrl": "https://dalcotone.com.br/cdn/shop/files/mascara_max_force_1kg_3353_1_4dbe5e9c7f0affbc794f7e77d2a41934.png?v=1770119977&width=1946",
+      "imagemFonte": {
+        "tipo": "pagina-catalogo",
+        "url": "https://usedalcotone.com/links/%5B%20DIGITAL%20%5D%20CAT%C3%81LOGO%20-%20DAL%20COTONE%202025-min.pdf#page=15",
+        "paginaImpressa": 14
+      },
+      "composicaoINCI": null,
+      "proveniencia": {
+        "tipo": "catalogo-oficial",
+        "ano": 2025,
+        "url": "https://usedalcotone.com/links/%5B%20DIGITAL%20%5D%20CAT%C3%81LOGO%20-%20DAL%20COTONE%202025-min.pdf",
+        "paginaImpressa": 14,
+        "consulta": "2026-11-06"
+      },
+      "modoUso": null,
+      "observacoes": [
+        "Ficha de consulta comercial; não inclui protocolo de aplicação química."
+      ],
+      "url": "https://dalcotone.com.br/collections/linha-max-force"
+    },
+    {
+      "id": "power-curls-professional-shampoo",
+      "nome": "Shampoo Power Curls 1 L",
+      "linhaId": "power-curls-professional",
+      "categorias": [
+        "Cachos",
+        "Hidratação",
+        "Definição"
+      ],
+      "tamanho": "1 L",
+      "funcao": "Limpeza de cachos",
+      "ativos": [],
+      "indicacao": null,
+      "precoPublico": 86.58,
+      "precoStatus": "Preço público confirmado na loja oficial indexada; sujeito a alteração.",
+      "moeda": "BRL",
+      "imageUrl": "https://dalcotone.com.br/cdn/shop/files/shampoo_cachos_power_curls_1l_3383_1_a34e89dec8e52b021da59cdb886105f4.png?v=1770119966&width=3840",
+      "imagemFonte": {
+        "tipo": "pagina-catalogo",
+        "url": "https://usedalcotone.com/links/%5B%20DIGITAL%20%5D%20CAT%C3%81LOGO%20-%20DAL%20COTONE%202025-min.pdf#page=18",
+        "paginaImpressa": 17
+      },
+      "composicaoINCI": null,
+      "proveniencia": {
+        "tipo": "catalogo-oficial",
+        "ano": 2025,
+        "url": "https://usedalcotone.com/links/%5B%20DIGITAL%20%5D%20CAT%C3%81LOGO%20-%20DAL%20COTONE%202025-min.pdf",
+        "paginaImpressa": 17,
+        "consulta": "2026-11-06"
+      },
+      "modoUso": null,
+      "observacoes": [
+        "Ficha de consulta comercial; não inclui protocolo de aplicação química."
+      ],
+      "url": "https://dalcotone.com.br/collections/linha-power-curls"
+    },
+    {
+      "id": "power-curls-professional-creme",
+      "nome": "Creme de Modelagem Power Curls 1 L",
+      "linhaId": "power-curls-professional",
+      "categorias": [
+        "Cachos",
+        "Hidratação",
+        "Definição"
+      ],
+      "tamanho": "1 L",
+      "funcao": "Modelagem",
+      "ativos": [],
+      "indicacao": null,
+      "precoPublico": 128.61,
+      "precoStatus": "Preço público confirmado na loja oficial indexada; sujeito a alteração.",
+      "moeda": "BRL",
+      "imageUrl": "https://dalcotone.com.br/cdn/shop/files/creme_de_modelagem_cachos_power_curls_1l_3385_1_e5ffb3a5e656e31a166ccfab4d875f45.png?v=1770119967&width=1946",
+      "imagemFonte": {
+        "tipo": "pagina-catalogo",
+        "url": "https://usedalcotone.com/links/%5B%20DIGITAL%20%5D%20CAT%C3%81LOGO%20-%20DAL%20COTONE%202025-min.pdf#page=18",
+        "paginaImpressa": 17
+      },
+      "composicaoINCI": null,
+      "proveniencia": {
+        "tipo": "catalogo-oficial",
+        "ano": 2025,
+        "url": "https://usedalcotone.com/links/%5B%20DIGITAL%20%5D%20CAT%C3%81LOGO%20-%20DAL%20COTONE%202025-min.pdf",
+        "paginaImpressa": 17,
+        "consulta": "2026-11-06"
+      },
+      "modoUso": null,
+      "observacoes": [
+        "Ficha de consulta comercial; não inclui protocolo de aplicação química."
+      ],
+      "url": "https://dalcotone.com.br/products/creme-de-modelagem-cachos-power-curls-1l"
+    },
+    {
+      "id": "power-curls-professional-mask",
+      "nome": "Máscara Power Curls 1 kg",
+      "linhaId": "power-curls-professional",
+      "categorias": [
+        "Cachos",
+        "Hidratação",
+        "Definição"
+      ],
+      "tamanho": "1 kg",
+      "funcao": "Tratamento de cachos",
+      "ativos": [],
+      "indicacao": null,
+      "precoPublico": 216.81,
+      "precoStatus": "Preço público confirmado na loja oficial indexada; sujeito a alteração.",
+      "moeda": "BRL",
+      "imageUrl": "https://dalcotone.com.br/cdn/shop/files/mascara_cachos_power_curls_1kg_3387_1_b05a259d3d4cf429638cb1e248d32685.png?v=1770119967&width=3840",
+      "imagemFonte": {
+        "tipo": "pagina-catalogo",
+        "url": "https://usedalcotone.com/links/%5B%20DIGITAL%20%5D%20CAT%C3%81LOGO%20-%20DAL%20COTONE%202025-min.pdf#page=18",
+        "paginaImpressa": 17
+      },
+      "composicaoINCI": null,
+      "proveniencia": {
+        "tipo": "catalogo-oficial",
+        "ano": 2025,
+        "url": "https://usedalcotone.com/links/%5B%20DIGITAL%20%5D%20CAT%C3%81LOGO%20-%20DAL%20COTONE%202025-min.pdf",
+        "paginaImpressa": 17,
+        "consulta": "2026-11-06"
+      },
+      "modoUso": null,
+      "observacoes": [
+        "Ficha de consulta comercial; não inclui protocolo de aplicação química."
+      ],
+      "url": "https://dalcotone.com.br/products/mascara-cachos-power-curls-1kg"
+    },
+    {
+      "id": "power-repair-professional-shampoo",
+      "nome": "Shampoo Power Repair 1L",
+      "linhaId": "power-repair-professional",
+      "categorias": [
+        "Hidratação",
+        "Proteção da cor"
+      ],
+      "tamanho": "1 L",
+      "funcao": "Limpeza hidratante",
+      "ativos": [
+        "Açaí",
+        "Ceramidas"
+      ],
+      "indicacao": null,
+      "precoPublico": 137,
+      "precoStatus": "Preço público confirmado na loja oficial indexada; sujeito a alteração.",
+      "moeda": "BRL",
+      "imageUrl": "https://dalcotone.com.br/cdn/shop/files/shampoo_power_repair_1l_3305_1_a0c817021686c55b2a2e848ea1ae67b1.png?v=1770120029&width=1946",
+      "imagemFonte": {
+        "tipo": "pagina-catalogo",
+        "url": "https://usedalcotone.com/links/%5B%20DIGITAL%20%5D%20CAT%C3%81LOGO%20-%20DAL%20COTONE%202025-min.pdf#page=21",
+        "paginaImpressa": 20
+      },
+      "composicaoINCI": null,
+      "proveniencia": {
+        "tipo": "catalogo-oficial",
+        "ano": 2025,
+        "url": "https://usedalcotone.com/links/%5B%20DIGITAL%20%5D%20CAT%C3%81LOGO%20-%20DAL%20COTONE%202025-min.pdf",
+        "paginaImpressa": 20,
+        "consulta": "2026-11-06"
+      },
+      "modoUso": null,
+      "observacoes": [
+        "Ficha de consulta comercial; não inclui protocolo de aplicação química."
+      ],
+      "url": "https://dalcotone.com.br/products/shampoo-power-repair-1l"
+    },
+    {
+      "id": "power-repair-professional-condicionador",
+      "nome": "Condicionador Power Repair 1 L",
+      "linhaId": "power-repair-professional",
+      "categorias": [
+        "Hidratação",
+        "Proteção da cor"
+      ],
+      "tamanho": "1 L",
+      "funcao": "Condicionamento hidratante",
+      "ativos": [
+        "Açaí",
+        "Ceramidas"
+      ],
+      "indicacao": null,
+      "precoPublico": 137,
+      "precoStatus": "Preço público confirmado na loja oficial indexada; sujeito a alteração.",
+      "moeda": "BRL",
+      "imageUrl": "https://dalcotone.com.br/cdn/shop/files/condicionador_power_repair_1l_3311_1_97c1115cc502419ccd1b43fd8ac7e8be.png?v=1770120018&width=1946",
+      "imagemFonte": {
+        "tipo": "pagina-catalogo",
+        "url": "https://usedalcotone.com/links/%5B%20DIGITAL%20%5D%20CAT%C3%81LOGO%20-%20DAL%20COTONE%202025-min.pdf#page=21",
+        "paginaImpressa": 20
+      },
+      "composicaoINCI": null,
+      "proveniencia": {
+        "tipo": "catalogo-oficial",
+        "ano": 2025,
+        "url": "https://usedalcotone.com/links/%5B%20DIGITAL%20%5D%20CAT%C3%81LOGO%20-%20DAL%20COTONE%202025-min.pdf",
+        "paginaImpressa": 20,
+        "consulta": "2026-11-06"
+      },
+      "modoUso": null,
+      "observacoes": [
+        "Ficha de consulta comercial; não inclui protocolo de aplicação química."
+      ],
+      "url": "https://dalcotone.com.br/collections/all"
+    },
+    {
+      "id": "power-repair-professional-mask",
+      "nome": "Máscara Power Repair 1Kg",
+      "linhaId": "power-repair-professional",
+      "categorias": [
+        "Hidratação",
+        "Proteção da cor"
+      ],
+      "tamanho": "1 kg",
+      "funcao": "Hidratação",
+      "ativos": [
+        "Açaí",
+        "Ceramidas"
+      ],
+      "indicacao": null,
+      "precoPublico": 167.9,
+      "precoStatus": "Preço público confirmado na loja oficial indexada; sujeito a alteração.",
+      "moeda": "BRL",
+      "imageUrl": "https://dalcotone.com.br/cdn/shop/files/mascara_power_repair_1kg_3307_1_a780d08ed7cd830780a69df95086efc8.png?v=1770119950&width=1946",
+      "imagemFonte": {
+        "tipo": "pagina-catalogo",
+        "url": "https://usedalcotone.com/links/%5B%20DIGITAL%20%5D%20CAT%C3%81LOGO%20-%20DAL%20COTONE%202025-min.pdf#page=21",
+        "paginaImpressa": 20
+      },
+      "composicaoINCI": null,
+      "proveniencia": {
+        "tipo": "catalogo-oficial",
+        "ano": 2025,
+        "url": "https://usedalcotone.com/links/%5B%20DIGITAL%20%5D%20CAT%C3%81LOGO%20-%20DAL%20COTONE%202025-min.pdf",
+        "paginaImpressa": 20,
+        "consulta": "2026-11-06"
+      },
+      "modoUso": null,
+      "observacoes": [
+        "Ficha de consulta comercial; não inclui protocolo de aplicação química."
+      ],
+      "url": "https://dalcotone.com.br/products/mascara-power-repair-500g"
+    },
+    {
+      "id": "sos-detox-professional-shampoo",
+      "nome": "Shampoo S.O.S Detox 1 L",
+      "linhaId": "sos-detox-professional",
+      "categorias": [
+        "Detox",
+        "Limpeza",
+        "Hidratação"
+      ],
+      "tamanho": "1 L",
+      "funcao": "Limpeza detoxificante",
+      "ativos": [
+        "Café verde",
+        "Fiber Detox",
+        "Óleo de cártamo"
+      ],
+      "indicacao": null,
+      "precoPublico": 148.41,
+      "precoStatus": "Preço público confirmado na loja oficial indexada; sujeito a alteração.",
+      "moeda": "BRL",
+      "imageUrl": "https://dalcotone.com.br/cdn/shop/files/shampoo_s_o_s_detox_1l_3295_1_4eef32a139f1c01596378768b364370e.png?v=1770119943&width=3840",
+      "imagemFonte": {
+        "tipo": "pagina-catalogo",
+        "url": "https://usedalcotone.com/links/%5B%20DIGITAL%20%5D%20CAT%C3%81LOGO%20-%20DAL%20COTONE%202025-min.pdf#page=24",
+        "paginaImpressa": 23
+      },
+      "composicaoINCI": null,
+      "proveniencia": {
+        "tipo": "catalogo-oficial",
+        "ano": 2025,
+        "url": "https://usedalcotone.com/links/%5B%20DIGITAL%20%5D%20CAT%C3%81LOGO%20-%20DAL%20COTONE%202025-min.pdf",
+        "paginaImpressa": 23,
+        "consulta": "2026-11-06"
+      },
+      "modoUso": null,
+      "observacoes": [
+        "Ficha de consulta comercial; não inclui protocolo de aplicação química."
+      ],
+      "url": "https://dalcotone.com.br/collections/desintoxicante"
+    },
+    {
+      "id": "sos-detox-professional-mask",
+      "nome": "Máscara S.O.S Detox 1kg",
+      "linhaId": "sos-detox-professional",
+      "categorias": [
+        "Detox",
+        "Limpeza",
+        "Hidratação"
+      ],
+      "tamanho": "1 kg",
+      "funcao": "Tratamento detoxificante",
+      "ativos": [
+        "Café verde",
+        "Fiber Detox",
+        "Óleo de cártamo"
+      ],
+      "indicacao": null,
+      "precoPublico": 204.21,
+      "precoStatus": "Preço público confirmado na loja oficial indexada; sujeito a alteração.",
+      "moeda": "BRL",
+      "imageUrl": "https://dalcotone.com.br/cdn/shop/files/mascara_s_o_s_detox_1kg_3297_1_49dfe1388afa07c1ef2a1ac156767455.png?v=1770119956&width=3840",
+      "imagemFonte": {
+        "tipo": "pagina-catalogo",
+        "url": "https://usedalcotone.com/links/%5B%20DIGITAL%20%5D%20CAT%C3%81LOGO%20-%20DAL%20COTONE%202025-min.pdf#page=24",
+        "paginaImpressa": 23
+      },
+      "composicaoINCI": null,
+      "proveniencia": {
+        "tipo": "catalogo-oficial",
+        "ano": 2025,
+        "url": "https://usedalcotone.com/links/%5B%20DIGITAL%20%5D%20CAT%C3%81LOGO%20-%20DAL%20COTONE%202025-min.pdf",
+        "paginaImpressa": 23,
+        "consulta": "2026-11-06"
+      },
+      "modoUso": null,
+      "observacoes": [
+        "Ficha de consulta comercial; não inclui protocolo de aplicação química."
+      ],
+      "url": "https://dalcotone.com.br/products/mascara-s-o-s-detox-1kg"
+    },
+    {
+      "id": "queratina-spray",
+      "nome": "Queratina Hidrolisada",
+      "linhaId": "queratina",
+      "categorias": [
+        "Reconstrução",
+        "Pré e pós-química"
+      ],
+      "tamanho": "250 mL",
+      "funcao": "Reconstrução / cauterização cosmética",
+      "ativos": [
+        "Queratina hidrolisada"
+      ],
+      "indicacao": "Fios danificados, quimicamente tratados ou fragilizados.",
+      "precoPublico": null,
+      "precoStatus": "Preço público oficial não localizado para este item profissional.",
+      "moeda": "BRL",
+      "imageUrl": null,
+      "imagemFonte": {
+        "tipo": "pagina-catalogo",
+        "url": "https://usedalcotone.com/links/%5B%20DIGITAL%20%5D%20CAT%C3%81LOGO%20-%20DAL%20COTONE%202025-min.pdf#page=36",
+        "paginaImpressa": 35
+      },
+      "composicaoINCI": null,
+      "proveniencia": {
+        "tipo": "catalogo-oficial",
+        "ano": 2025,
+        "url": "https://usedalcotone.com/links/%5B%20DIGITAL%20%5D%20CAT%C3%81LOGO%20-%20DAL%20COTONE%202025-min.pdf",
+        "paginaImpressa": 35,
+        "consulta": "2026-11-06"
+      },
+      "modoUso": null,
+      "observacoes": [
+        "Ficha de consulta comercial; não inclui protocolo de aplicação química."
+      ]
+    },
+    {
+      "id": "color-creams-coloracao",
+      "nome": "Color Creams — Coloração Permanente",
+      "linhaId": "color-creams",
+      "categorias": [
+        "Coloração e descoloração"
+      ],
+      "tamanho": "60 g",
+      "funcao": "Coloração profissional",
+      "ativos": [],
+      "indicacao": null,
+      "precoPublico": null,
+      "precoStatus": "Preço público oficial não localizado para este item profissional.",
+      "moeda": "BRL",
+      "imageUrl": null,
+      "imagemFonte": {
+        "tipo": "pagina-catalogo",
+        "url": "https://usedalcotone.com/links/%5B%20DIGITAL%20%5D%20CAT%C3%81LOGO%20-%20DAL%20COTONE%202025-min.pdf#page=45",
+        "paginaImpressa": 44
+      },
+      "composicaoINCI": null,
+      "proveniencia": {
+        "tipo": "catalogo-oficial",
+        "ano": 2025,
+        "url": "https://usedalcotone.com/links/%5B%20DIGITAL%20%5D%20CAT%C3%81LOGO%20-%20DAL%20COTONE%202025-min.pdf",
+        "paginaImpressa": 44,
+        "consulta": "2026-11-06"
+      },
+      "modoUso": null,
+      "observacoes": [
+        "Ficha de consulta comercial; não inclui protocolo de aplicação química."
+      ]
+    }
+  ],
+  "fontes": [
+    {
+      "tipo": "catalogo-oficial",
+      "url": "https://usedalcotone.com/links/%5B%20DIGITAL%20%5D%20CAT%C3%81LOGO%20-%20DAL%20COTONE%202025-min.pdf",
+      "titulo": "Catálogo Dal Cotone 2025",
+      "observacao": "PDF de 51 páginas físicas, conteúdo numerado 1–49. Página física = página impressa + 1 (capa). Capturas das páginas físicas 2, 4 e 6 requisitadas pela ferramenta web; preços não aparecem no PDF."
+    },
+    {
+      "tipo": "loja-oficial",
+      "url": "https://dalcotone.com.br/collections/profissionais",
+      "observacao": "A coleção profissional pública retorna 0 itens; isso não significa inexistência das linhas do catálogo."
+    }
+  ],
+  "limites": [
+    "Catálogo 2025 confirma identidade, não disponibilidade atual.",
+    "Não foram usados preços de revendedores.",
+    "Fotos avulsas não localizadas permanecem null; referência da página ilustrada do PDF preservada.",
+    "Não inclui protocolos químicos, tempos, temperaturas ou proporções de mistura.",
+    "Ativos destacados não equivalem à composição INCI.",
+    "Não se confirmou shampoo com rótulo 24K nem kit comercial de três peças nas fontes acessíveis."
+  ]
+}

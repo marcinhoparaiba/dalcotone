@@ -1,0 +1,8 @@
+export const normalize = value => String(value??'').normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLowerCase();
+export function safeUrl(value){if(typeof value==='string'&&/^\/assets\/products\/[a-z0-9-]+\.webp$/.test(value))return value;try{const url=new URL(value);return url.protocol==='https:'&&(['dalcotone.com.br','www.dalcotone.com.br','cdn.shopify.com','usedalcotone.com'].includes(url.hostname))?url.href:'';}catch{return '';}}
+export function money(value){return typeof value==='number'&&Number.isFinite(value)?value.toLocaleString('pt-BR',{style:'currency',currency:'BRL'}):'A confirmar';}
+export function filterProducts(products,{query='',need='',category='',line='',type='',sort='name',favorites=null}={}){
+ const tokens=normalize(query).trim().split(/\s+/).filter(Boolean);
+ const filtered=products.filter(p=>{const aromas=p.olfactoryNotes?Object.values(p.olfactoryNotes).flat():[];const haystack=normalize([p.name,p.line,p.type,p.indication,p.use,p.inci,...(p.actives||[]),...(p.benefits||[]),...(p.needs||[]),...(p.categories||[]),...(p.aliases||[]),...aromas].join(' '));return tokens.every(t=>haystack.includes(t))&&(!need||(p.needs||[]).includes(need))&&(!category||(p.categories||[]).includes(category))&&(!line||p.line===line)&&(!type||p.type===type)&&(!favorites||favorites.includes(p.id));});
+ return filtered.sort((a,b)=>{if(sort==='price-up'||sort==='price-down'){if(a.price===null&&b.price!==null)return 1;if(b.price===null&&a.price!==null)return -1;if(a.price!==null&&b.price!==null&&a.price!==b.price)return sort==='price-up'?a.price-b.price:b.price-a.price;}if(sort==='complete'&&a.detailLevel!==b.detailLevel)return a.detailLevel==='detailed'?-1:1;return a.name.localeCompare(b.name,'pt-BR');});
+}

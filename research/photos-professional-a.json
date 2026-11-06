@@ -1,0 +1,118 @@
+{
+  "queriedAt": "2026-11-06",
+  "images": [
+    {
+      "productId": "pro-bio-plastia-retexturizador",
+      "name": "Retexturizador Bio Plastia 1 L",
+      "imageUrl": "https://images.tcdn.com.br/img/img_prod/1363049/retexturizador_bioplastia_1_20250923211148_c3aec5c808ff.png",
+      "sourceUrl": "https://www.dalcotone.com.br/linha-profissional/alinhamento-capilar/retexturizador-bioplastia",
+      "sourceKind": "official",
+      "verifiedPresentation": "Frasco individual branco com pump; rótulo BIO PLASTIA, RETEXTURIZADOR, STEP 2, 1 L. Identificação retornada pela busca de imagens oficial.",
+      "notes": [
+        "Fonte é rota oficial anterior da loja. Confrontar com figura do catálogo 2025, impressa4/pageno4, antes de substituir imagem atual.",
+        "Não é foto do kit nem do shampoo."
+      ]
+    },
+    {
+      "productId": "consultor-ph-control",
+      "name": "pH Control",
+      "imageUrl": "https://images.tcdn.com.br/img/img_prod/1005566/neutralizador_ph_dal_cotone_500g_ref352_92862993_2_d73a08934962becd67498210b15e590e.jpg",
+      "sourceUrl": "https://www.dalcotone.com.br/",
+      "sourceKind": "official",
+      "verifiedPresentation": "Embalagem individual preta com tampa dourada, pH control, Lunamatrix + Nano Link; descrição visual da busca informa 500 mL.",
+      "notes": [
+        "Embalagem antiga, não confirmada como apresentação atual.",
+        "Nome do arquivo contém500g, mas descrição visual informa500mL: unidade precisa ser verificada no arquivo original antes de atribuir tamanho.",
+        "Utilizar apenas como referência visual histórica até conferência do PDF; não afirmar fotografia atual."
+      ]
+    }
+  ],
+  "unresolved": [
+    {
+      "productId": "pro-24k-premium-selagem",
+      "name": "Selagem 24K Premium 1 L",
+      "pdfSource": "https://usedalcotone.com/links/%5B%20DIGITAL%20%5D%20CAT%C3%81LOGO%20-%20DAL%20COTONE%202025-min.pdf",
+      "pdfPageno": 1,
+      "printedPage": 1,
+      "physicalPageNumber": 2,
+      "reason": "Produto identificado na página ilustrada do PDF; foto avulsa exata não localizada. Extrair fotografia do PDF local após conferência visual. Não atribuir imagem do kit a item individual."
+    },
+    {
+      "productId": "pro-24k-mask-mask",
+      "name": "Intensive Treatment Mask 24K Premium — Botox Reconstrutor 1 kg",
+      "pdfSource": "https://usedalcotone.com/links/%5B%20DIGITAL%20%5D%20CAT%C3%81LOGO%20-%20DAL%20COTONE%202025-min.pdf",
+      "pdfPageno": 3,
+      "printedPage": 3,
+      "physicalPageNumber": 4,
+      "reason": "Produto identificado na página ilustrada do PDF; foto avulsa exata não localizada. Extrair fotografia do PDF local após conferência visual. Não atribuir imagem do kit a item individual."
+    },
+    {
+      "productId": "pro-bio-plastia-shampoo",
+      "name": "Shampoo Pré-Tratamento Bio Plastia 1 L",
+      "pdfSource": "https://usedalcotone.com/links/%5B%20DIGITAL%20%5D%20CAT%C3%81LOGO%20-%20DAL%20COTONE%202025-min.pdf",
+      "pdfPageno": 4,
+      "printedPage": 4,
+      "physicalPageNumber": 5,
+      "reason": "Produto identificado na página ilustrada do PDF; foto avulsa exata não localizada. Extrair fotografia do PDF local após conferência visual. Não atribuir imagem do kit a item individual."
+    },
+    {
+      "productId": "pro-oxo-fusion-retexturizador",
+      "name": "Oxo Silk Fusion High Performance",
+      "pdfSource": "https://usedalcotone.com/links/%5B%20DIGITAL%20%5D%20CAT%C3%81LOGO%20-%20DAL%20COTONE%202025-min.pdf",
+      "pdfPageno": 5,
+      "printedPage": 5,
+      "physicalPageNumber": 6,
+      "reason": "Produto identificado na página ilustrada do PDF; foto avulsa exata não localizada. Extrair fotografia do PDF local após conferência visual. Não atribuir imagem do kit a item individual."
+    },
+    {
+      "productId": "pro-silk-fiber-regular",
+      "name": "Retexturizador Silk Fiber 1 kg",
+      "pdfSource": "https://usedalcotone.com/links/%5B%20DIGITAL%20%5D%20CAT%C3%81LOGO%20-%20DAL%20COTONE%202025-min.pdf",
+      "pdfPageno": 6,
+      "printedPage": 6,
+      "physicalPageNumber": 7,
+      "reason": "Produto identificado na página ilustrada do PDF; foto avulsa exata não localizada. Extrair fotografia do PDF local após conferência visual. Não atribuir imagem do kit a item individual."
+    },
+    {
+      "productId": "pro-silk-fiber-blond",
+      "name": "Retexturizador Silk Fiber Blond 1 kg",
+      "pdfSource": "https://usedalcotone.com/links/%5B%20DIGITAL%20%5D%20CAT%C3%81LOGO%20-%20DAL%20COTONE%202025-min.pdf",
+      "pdfPageno": 6,
+      "printedPage": 6,
+      "physicalPageNumber": 7,
+      "reason": "Produto identificado na página ilustrada do PDF; foto avulsa exata não localizada. Extrair fotografia do PDF local após conferência visual. Não atribuir imagem do kit a item individual."
+    },
+    {
+      "productId": "pro-clean-care-shampoo",
+      "name": "Shampoo Preparador Clean Care 1 L",
+      "pdfSource": "https://usedalcotone.com/links/%5B%20DIGITAL%20%5D%20CAT%C3%81LOGO%20-%20DAL%20COTONE%202025-min.pdf",
+      "pdfPageno": 8,
+      "printedPage": 8,
+      "physicalPageNumber": 9,
+      "reason": "Produto identificado na página ilustrada do PDF; foto avulsa exata não localizada. Extrair fotografia do PDF local após conferência visual. Não atribuir imagem do kit a item individual."
+    },
+    {
+      "productId": "2bce03643a5eb89e",
+      "name": "Condicionador Force Life 300 mL",
+      "pdfSource": "https://usedalcotone.com/links/%5B%20DIGITAL%20%5D%20CAT%C3%81LOGO%20-%20DAL%20COTONE%202025-min.pdf",
+      "pdfPageno": 27,
+      "printedPage": 27,
+      "physicalPageNumber": 28,
+      "reason": "Produto identificado na página ilustrada do PDF; foto avulsa exata não localizada. Extrair fotografia do PDF local após conferência visual. Não atribuir imagem do kit a item individual."
+    },
+    {
+      "productId": "consultor-ph-control",
+      "name": "pH Control — apresentação atual",
+      "pdfPageno": null,
+      "candidatePageno": 25,
+      "reason": "Página25 é candidata pelo intervalo numérico, não confirmada. Catálogo de distribuidor Araguaína só retorna fakeimg.pl. Imagem histórica separada em images requer conferência de apresentação."
+    }
+  ],
+  "pdfPageConvention": "PDF51p: pageno é0-based; para conteúdo numerado, pageno=impressa e página física=impressa+1, porque a capa é pageno0.",
+  "notes": [
+    "Nenhum preço de distribuidor incluído.",
+    "fakeimg.pl foi rejeitado como placeholder.",
+    "Não foram inventadas URLs de imagens.",
+    "Após a orientação mais recente, interrompidas buscas em distribuidores; mapa do PDF oficial priorizado."
+  ]
+}
