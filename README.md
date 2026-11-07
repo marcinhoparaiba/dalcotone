@@ -58,3 +58,7 @@ Animações discretas respeitam `prefers-reduced-motion`. Favoritos e notas ante
 Busca por situação descrita e resultado, cinco situações capilares, filtros múltiplos de cabelo e tipo de produto. Todos os componentes de kits permitem abrir a ficha individual ou escolher a apresentação quando o volume não está confirmado. Auditoria de navegador: 119 fichas, 859 abas, 99 caminhos de componente com retorno ao kit e 94 fotos locais decodificadas. Os 14 testes automatizados passaram.
 
 Pendências: 20 arquivos oficiais de fotos ainda inacessíveis pela política de rede; nenhum vídeo real de demonstração está empacotado. A biblioteca importa vídeos do usuário para reprodução offline. A imagem das situações capilares é uma ilustração de navegação gerada, não prova de resultado. A vinculação e o build Expo ainda não foram realizados.
+
+## Interface e navegação
+
+Menu móvel em cinco acessos (Início, Linhas, Kits, Buscar e Menu), painel completo com todas as seções e navegação preservada offline. Efeitos de toque, entrada de cartões e transições respeitam a preferência por redução de movimento. Verificações de navegador cobrem telas de 320, 390 e 680 pixels, fechamento do menu, resultados diretos, recarga offline e layout desktop.

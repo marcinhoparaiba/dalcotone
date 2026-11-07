@@ -1,4 +1,4 @@
-import {normalize} from './core.js?v=20261107-9';
+import {normalize} from './core.js?v=20261107-10';
 const e=value=>String(value??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 export const situations=[
  {id:'ressecamento',name:'Ressecamento',description:'Fios secos, ásperos e com toque pouco macio.',terms:['ressec','seco','seca','aspero','hidrat'],categories:['Hidratação','Nutrição']},

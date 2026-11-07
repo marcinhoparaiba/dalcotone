@@ -1,0 +1,12 @@
+const menu=document.getElementById('navigation-dialog');
+const opener=document.getElementById('open-menu');
+const reduced=matchMedia('(prefers-reduced-motion: reduce)');
+opener.addEventListener('click',()=>{if(!menu.open)menu.showModal();opener.setAttribute('aria-expanded','true');});
+document.getElementById('close-menu').addEventListener('click',()=>menu.close());
+menu.addEventListener('close',()=>opener.setAttribute('aria-expanded','false'));
+menu.addEventListener('click',event=>{if(event.target===menu||event.target.closest('a[href]'))menu.close();});
+function navigationFeedback(){const page=location.hash.slice(1).split(/[/?]/)[0]||'catalogo';opener.classList.toggle('active',!['catalogo','linhas','kits','pesquisa'].includes(page));if(reduced.matches)return;document.querySelector('main').animate([{opacity:.55,transform:'translateY(8px)'},{opacity:1,transform:'translateY(0)'}],{duration:240,easing:'ease-out'});window.scrollTo({top:0,behavior:'instant'});}
+window.addEventListener('hashchange',navigationFeedback);
+navigationFeedback();
+if('IntersectionObserver' in window){const seen=new WeakSet();const observer=new IntersectionObserver(entries=>{for(const entry of entries){if(!entry.isIntersecting)continue;observer.unobserve(entry.target);if(!reduced.matches)entry.target.animate([{opacity:.3,transform:'translateY(15px)'},{opacity:1,transform:'translateY(0)'}],{duration:380,easing:'cubic-bezier(.2,.7,.2,1)'});}}, {threshold:.08});const scan=()=>document.querySelectorAll('.product-card,.line-card,.situation-card,.outcome-card,.category-card').forEach(card=>{if(seen.has(card))return;seen.add(card);observer.observe(card);});let scheduled=false;new MutationObserver(()=>{if(scheduled)return;scheduled=true;requestAnimationFrame(()=>{scheduled=false;scan();});}).observe(document.getElementById('content'),{childList:true,subtree:true});scan();}
+document.addEventListener('pointerdown',event=>{if(reduced.matches)return;const target=event.target.closest('.button,.bottom-nav a,.bottom-nav button,.menu-grid a');if(!target)return;const pulse=document.createElement('span');pulse.className='touch-pulse';pulse.setAttribute('aria-hidden','true');target.append(pulse);const animation=pulse.animate([{transform:'translate(-50%,-50%) scale(.2)',opacity:.24},{transform:'translate(-50%,-50%) scale(2.8)',opacity:0}],{duration:460,easing:'ease-out'});animation.onfinish=()=>pulse.remove();});

@@ -19,7 +19,9 @@ try{
  await waitFor("navigator.serviceWorker.controller!==null");
  assert.equal(await evaluate("document.querySelectorAll('.situation-card').length"),5);
  assert.ok(await evaluate("document.querySelectorAll('.outcome-card').length>4"));
- await evaluate("document.querySelector('.situation-card[href*=ressecamento]').click()");await waitFor("document.getElementById('situation-form')!==null");
+ await evaluate("document.querySelector('.situation-card[href*=ressecamento]').click()");await waitFor("document.getElementById('page-title').textContent==='Ressecamento'");
+ assert.equal(await evaluate("document.getElementById('catalog-controls').hidden"),true);
+ await evaluate("location.hash='guia?situacao=ressecamento'");await waitFor("document.getElementById('situation-form')!==null");
  assert.ok(await evaluate("document.querySelectorAll('.product-card').length>4"));
  await evaluate("document.querySelector('[data-product-type=Shampoos]').click()");assert.ok(await evaluate("[...document.querySelectorAll('.card-category')].every(x=>x.textContent==='Shampoos')"));
  await evaluate("document.querySelector('[data-product-type=Máscaras]').click()");assert.ok(await evaluate("[...document.querySelectorAll('.card-category')].some(x=>x.textContent==='Máscaras')"));

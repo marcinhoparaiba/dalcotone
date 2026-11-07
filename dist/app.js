@@ -1,7 +1,7 @@
-import {situations,goals,homeSections,guideControls,facetPanel,discoveryFilter,inferSituations} from './discovery.js?v=20261107-9';
-import {renderMedia,disposeMedia} from './media.js?v=20261107-9';
-import { makeDeck, kitItemLabel } from './study.js?v=20261107-9';
-import { normalize, filterProducts, money, safeUrl } from './core.js?v=20261107-9';
+import {situations,goals,homeSections,guideControls,facetPanel,discoveryFilter,inferSituations} from './discovery.js?v=20261107-10';
+import {renderMedia,disposeMedia} from './media.js?v=20261107-10';
+import { makeDeck, kitItemLabel } from './study.js?v=20261107-10';
+import { normalize, filterProducts, money, safeUrl } from './core.js?v=20261107-10';
 const $ = id => document.getElementById(id);
 const html = value => String(value ?? '').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 let category='', studyIndex=0, studyRevealed=false;
