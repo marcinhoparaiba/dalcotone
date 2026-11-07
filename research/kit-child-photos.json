@@ -1,0 +1,73 @@
+{
+  "images": [
+    {
+      "productId": "pdf-ultra-magic-15",
+      "path": "/workspace/work/dalcotone-pdf/kit-child-assets/pdf-ultra-magic-15.webp",
+      "page": 42,
+      "name": "Ampola Ultra Magic 15 mL",
+      "verifiedPresentation": true,
+      "volume": "15 mL",
+      "xref": 570,
+      "notes": "Recorte da ampola15ml segurada pela modelo; partes da mão originais permanecem, sem reconstrução."
+    },
+    {
+      "productId": "pdf-vitaminica-15",
+      "path": "/workspace/work/dalcotone-pdf/kit-child-assets/pdf-vitaminica-15.webp",
+      "page": 43,
+      "name": "Ampola Vitamínica Premium 15 mL",
+      "verifiedPresentation": true,
+      "volume": "15 mL",
+      "xref": 576,
+      "notes": "Foto da ampola15ml com elemento decorativo original, sem repetição para representar kit."
+    },
+    {
+      "productId": "pdf-verniz-250",
+      "path": "/workspace/work/dalcotone-pdf/kit-child-assets/pdf-verniz-250.webp",
+      "page": 37,
+      "xref": 491,
+      "name": "Máscara Verniz Intense 250 g",
+      "verifiedPresentation": true,
+      "volume": "250 g",
+      "cropBox": [
+        28,
+        110,
+        292,
+        294
+      ],
+      "notes": "Recorte individual do pote na pilha original do kit3x250g; bordas/oclusões da foto preservadas sem reconstrução. Rótulo250gconferido nooriginal. Recorte semampliação, semmodificarletras/volume; usar protocolo daapresentação250g."
+    },
+    {
+      "productId": "pdf-nutri-protein-250",
+      "path": "/workspace/work/dalcotone-pdf/kit-child-assets/pdf-nutri-protein-250.webp",
+      "page": 37,
+      "xref": 491,
+      "name": "Máscara Nutri Protein 250 g",
+      "verifiedPresentation": true,
+      "volume": "250 g",
+      "cropBox": [
+        28,
+        288,
+        292,
+        459
+      ],
+      "notes": "Recorte individual do pote na pilha original do kit3x250g; bordas/oclusões da foto preservadas sem reconstrução. Rótulo250gconferido nooriginal. Recorte semampliação, semmodificarletras/volume; usar protocolo daapresentação250g."
+    },
+    {
+      "productId": "pdf-restore-250",
+      "path": "/workspace/work/dalcotone-pdf/kit-child-assets/pdf-restore-250.webp",
+      "page": 37,
+      "xref": 491,
+      "name": "Máscara Restore 250 g",
+      "verifiedPresentation": true,
+      "volume": "250 g",
+      "cropBox": [
+        28,
+        457,
+        293,
+        637
+      ],
+      "notes": "Recorte individual do pote na pilha original do kit3x250g; bordas/oclusões da foto preservadas sem reconstrução. Rótulo250gconferido nooriginal. Recorte semampliação, semmodificarletras/volume; usar protocolo daapresentação250g."
+    }
+  ],
+  "queriedAt": "2026-11-07"
+}

@@ -1,0 +1,597 @@
+{
+  "images": [
+    {
+      "productId": "2c6e8754eb2f4783",
+      "name": "Condicionador Max Force 1L",
+      "path": "/workspace/work/dalcotone-pdf/audit-assets-c/2c6e8754eb2f4783.webp",
+      "page": {
+        "pageno": 14,
+        "printedPage": 14,
+        "physicalPage": 15
+      },
+      "xref": 228,
+      "original": "/workspace/work/dalcotone-pdf/audit-assets-a/original-p14-x228.png",
+      "crop": null,
+      "polygon": [
+        [
+          335,
+          20
+        ],
+        [
+          610,
+          20
+        ],
+        [
+          610,
+          1020
+        ],
+        [
+          367,
+          1020
+        ],
+        [
+          367,
+          208
+        ],
+        [
+          335,
+          194
+        ]
+      ],
+      "verifiedSKU": true,
+      "verifiedVolume": "1 L",
+      "notes": [
+        "Extração dos pixels reais da fotografia oficial2025; rótulo preservado."
+      ]
+    },
+    {
+      "productId": "edb06c3e50bacae7",
+      "name": "Condicionador Max Force 300ml",
+      "path": "/workspace/work/dalcotone-pdf/audit-assets-c/edb06c3e50bacae7.webp",
+      "page": {
+        "pageno": 15,
+        "printedPage": 15,
+        "physicalPage": 16
+      },
+      "xref": 239,
+      "original": "/workspace/work/dalcotone-pdf/audit-assets-a/original-p15-x239.png",
+      "crop": [
+        248,
+        5,
+        466,
+        879
+      ],
+      "polygon": null,
+      "verifiedSKU": true,
+      "verifiedVolume": "300 mL",
+      "notes": [
+        "Extração dos pixels reais da fotografia oficial2025; rótulo preservado."
+      ]
+    },
+    {
+      "productId": "f3d38296a1255156",
+      "name": "Máscara Max Force 1 kg",
+      "path": "/workspace/work/dalcotone-pdf/audit-assets-c/f3d38296a1255156.webp",
+      "page": {
+        "pageno": 14,
+        "printedPage": 14,
+        "physicalPage": 15
+      },
+      "xref": 228,
+      "original": "/workspace/work/dalcotone-pdf/audit-assets-a/original-p14-x228.png",
+      "crop": [
+        610,
+        392,
+        945,
+        1015
+      ],
+      "polygon": null,
+      "verifiedSKU": true,
+      "verifiedVolume": "1 kg",
+      "notes": [
+        "Extração dos pixels reais da fotografia oficial2025; rótulo preservado."
+      ]
+    },
+    {
+      "productId": "37311a0d369ec871",
+      "name": "Máscara Max Force 300 g",
+      "path": "/workspace/work/dalcotone-pdf/audit-assets-c/37311a0d369ec871.webp",
+      "page": {
+        "pageno": 15,
+        "printedPage": 15,
+        "physicalPage": 16
+      },
+      "xref": 239,
+      "original": "/workspace/work/dalcotone-pdf/audit-assets-a/original-p15-x239.png",
+      "crop": [
+        468,
+        538,
+        965,
+        879
+      ],
+      "polygon": null,
+      "verifiedSKU": true,
+      "verifiedVolume": "300 g",
+      "notes": [
+        "Extração dos pixels reais da fotografia oficial2025; rótulo preservado."
+      ]
+    },
+    {
+      "productId": "71c7cce1c24bb205",
+      "name": "Shampoo Max Force 1L",
+      "path": "/workspace/work/dalcotone-pdf/audit-assets-c/71c7cce1c24bb205.webp",
+      "page": {
+        "pageno": 14,
+        "printedPage": 14,
+        "physicalPage": 15
+      },
+      "xref": 228,
+      "original": "/workspace/work/dalcotone-pdf/audit-assets-a/original-p14-x228.png",
+      "crop": null,
+      "polygon": [
+        [
+          70,
+          20
+        ],
+        [
+          330,
+          20
+        ],
+        [
+          330,
+          200
+        ],
+        [
+          367,
+          210
+        ],
+        [
+          367,
+          1020
+        ],
+        [
+          70,
+          1020
+        ]
+      ],
+      "verifiedSKU": true,
+      "verifiedVolume": "1 L",
+      "notes": [
+        "Extração dos pixels reais da fotografia oficial2025; rótulo preservado."
+      ]
+    },
+    {
+      "productId": "5c21d26621d6f0a6",
+      "name": "Shampoo Max Force 300ml",
+      "path": "/workspace/work/dalcotone-pdf/audit-assets-c/5c21d26621d6f0a6.webp",
+      "page": {
+        "pageno": 15,
+        "printedPage": 15,
+        "physicalPage": 16
+      },
+      "xref": 239,
+      "original": "/workspace/work/dalcotone-pdf/audit-assets-a/original-p15-x239.png",
+      "crop": [
+        28,
+        5,
+        248,
+        879
+      ],
+      "polygon": null,
+      "verifiedSKU": true,
+      "verifiedVolume": "300 mL",
+      "notes": [
+        "Extração dos pixels reais da fotografia oficial2025; rótulo preservado."
+      ]
+    },
+    {
+      "productId": "e95975619b537972",
+      "name": "Condicionador Power Repair 1 L",
+      "path": "/workspace/work/dalcotone-pdf/audit-assets-c/e95975619b537972.webp",
+      "page": {
+        "pageno": 20,
+        "printedPage": 20,
+        "physicalPage": 21
+      },
+      "xref": 286,
+      "original": "/workspace/work/dalcotone-pdf/audit-assets-a/original-p20-x286.png",
+      "crop": null,
+      "polygon": [
+        [
+          335,
+          20
+        ],
+        [
+          610,
+          20
+        ],
+        [
+          610,
+          1020
+        ],
+        [
+          367,
+          1020
+        ],
+        [
+          367,
+          208
+        ],
+        [
+          335,
+          194
+        ]
+      ],
+      "verifiedSKU": true,
+      "verifiedVolume": "1 L",
+      "notes": [
+        "Extração dos pixels reais da fotografia oficial2025; rótulo preservado."
+      ]
+    },
+    {
+      "productId": "c029fb47e0e973db",
+      "name": "Shampoo Power Repair 1L",
+      "path": "/workspace/work/dalcotone-pdf/audit-assets-c/c029fb47e0e973db.webp",
+      "page": {
+        "pageno": 20,
+        "printedPage": 20,
+        "physicalPage": 21
+      },
+      "xref": 286,
+      "original": "/workspace/work/dalcotone-pdf/audit-assets-a/original-p20-x286.png",
+      "crop": null,
+      "polygon": [
+        [
+          70,
+          20
+        ],
+        [
+          330,
+          20
+        ],
+        [
+          330,
+          200
+        ],
+        [
+          367,
+          210
+        ],
+        [
+          367,
+          1020
+        ],
+        [
+          70,
+          1020
+        ]
+      ],
+      "verifiedSKU": true,
+      "verifiedVolume": "1 L",
+      "notes": [
+        "Extração dos pixels reais da fotografia oficial2025; rótulo preservado."
+      ]
+    },
+    {
+      "productId": "ef5a017466c505e7",
+      "name": "Máscara Power Repair 1Kg",
+      "path": "/workspace/work/dalcotone-pdf/audit-assets-c/ef5a017466c505e7.webp",
+      "page": {
+        "pageno": 20,
+        "printedPage": 20,
+        "physicalPage": 21
+      },
+      "xref": 286,
+      "original": "/workspace/work/dalcotone-pdf/audit-assets-a/original-p20-x286.png",
+      "crop": [
+        610,
+        392,
+        945,
+        1015
+      ],
+      "polygon": null,
+      "verifiedSKU": true,
+      "verifiedVolume": "1 kg",
+      "notes": [
+        "Extração dos pixels reais da fotografia oficial2025; rótulo preservado."
+      ]
+    },
+    {
+      "productId": "cdb0b5f5eef8f0a9",
+      "name": "Creme de Modelagem Power Curls 1 L",
+      "path": "/workspace/work/dalcotone-pdf/audit-assets-c/cdb0b5f5eef8f0a9.webp",
+      "page": {
+        "pageno": 17,
+        "printedPage": 17,
+        "physicalPage": 18
+      },
+      "xref": 262,
+      "original": "/workspace/work/dalcotone-pdf/audit-assets-a/original-p17-x262.png",
+      "crop": null,
+      "polygon": [
+        [
+          325,
+          25
+        ],
+        [
+          597,
+          25
+        ],
+        [
+          597,
+          973
+        ],
+        [
+          350,
+          973
+        ],
+        [
+          350,
+          210
+        ],
+        [
+          325,
+          198
+        ]
+      ],
+      "verifiedSKU": true,
+      "verifiedVolume": "1 L",
+      "notes": [
+        "Extração dos pixels reais da fotografia oficial2025; rótulo preservado."
+      ]
+    },
+    {
+      "productId": "01183f9d468921d6",
+      "name": "Shampoo Power Curls 1 L",
+      "path": "/workspace/work/dalcotone-pdf/audit-assets-c/01183f9d468921d6.webp",
+      "page": {
+        "pageno": 17,
+        "printedPage": 17,
+        "physicalPage": 18
+      },
+      "xref": 262,
+      "original": "/workspace/work/dalcotone-pdf/audit-assets-a/original-p17-x262.png",
+      "crop": null,
+      "polygon": [
+        [
+          65,
+          25
+        ],
+        [
+          320,
+          25
+        ],
+        [
+          320,
+          198
+        ],
+        [
+          344,
+          208
+        ],
+        [
+          344,
+          973
+        ],
+        [
+          65,
+          973
+        ]
+      ],
+      "verifiedSKU": true,
+      "verifiedVolume": "1 L",
+      "notes": [
+        "Extração dos pixels reais da fotografia oficial2025; rótulo preservado."
+      ]
+    },
+    {
+      "productId": "3e6b73f994297918",
+      "name": "Máscara Power Curls 1 kg",
+      "path": "/workspace/work/dalcotone-pdf/audit-assets-c/3e6b73f994297918.webp",
+      "page": {
+        "pageno": 17,
+        "printedPage": 17,
+        "physicalPage": 18
+      },
+      "xref": 262,
+      "original": "/workspace/work/dalcotone-pdf/audit-assets-a/original-p17-x262.png",
+      "crop": [
+        598,
+        400,
+        934,
+        973
+      ],
+      "polygon": null,
+      "verifiedSKU": true,
+      "verifiedVolume": "1 kg",
+      "notes": [
+        "Extração dos pixels reais da fotografia oficial2025; rótulo preservado."
+      ]
+    },
+    {
+      "productId": "a9a848c44de789fb",
+      "name": "Máscara Blond Up Premium 1 kg",
+      "path": "/workspace/work/dalcotone-pdf/audit-assets-c/a9a848c44de789fb.webp",
+      "page": {
+        "pageno": 10,
+        "printedPage": 10,
+        "physicalPage": 11
+      },
+      "xref": 153,
+      "original": "/workspace/work/dalcotone-pdf/audit-assets-a/original-p10-x153.png",
+      "crop": [
+        110,
+        710,
+        475,
+        1190
+      ],
+      "polygon": null,
+      "verifiedSKU": true,
+      "verifiedVolume": "1 kg",
+      "notes": [
+        "Extração dos pixels reais da fotografia oficial2025; rótulo preservado.",
+        "Recorte de produto segurado por modelo; dedos e fundo fotográfico preservados, sem reconstrução de área encoberta."
+      ]
+    },
+    {
+      "productId": "82bcbdacdb562f8e",
+      "name": "Geleia Power Curls 1 kg",
+      "path": "/workspace/work/dalcotone-pdf/audit-assets-c/82bcbdacdb562f8e.webp",
+      "page": {
+        "pageno": 18,
+        "printedPage": 18,
+        "physicalPage": 19
+      },
+      "xref": 715,
+      "original": "/workspace/work/dalcotone-pdf/audit-assets-a/original-p18-x715.png",
+      "crop": [
+        797,
+        244,
+        1219,
+        821
+      ],
+      "polygon": null,
+      "verifiedSKU": true,
+      "verifiedVolume": "1 kg",
+      "notes": [
+        "Extração dos pixels reais da fotografia oficial2025; rótulo preservado.",
+        "Recorte de produto segurado por modelo; dedos e fundo fotográfico preservados, sem reconstrução de área encoberta."
+      ]
+    },
+    {
+      "productId": "c9cf1f6be6f34a0f",
+      "name": "Protetor Térmico Necessity Use 500ml",
+      "path": "/workspace/work/dalcotone-pdf/audit-assets-c/c9cf1f6be6f34a0f.webp",
+      "page": {
+        "pageno": 26,
+        "printedPage": 26,
+        "physicalPage": 27
+      },
+      "xref": 732,
+      "original": "/workspace/work/dalcotone-pdf/original-a/xref732.png",
+      "verifiedSKU": true,
+      "verifiedVolume": "500 mL",
+      "notes": [
+        "Exceção próxima ao intervalo: produtoisolado xref732 na página26; imagem foi tambémreferenciada fora daárea da página25."
+      ]
+    }
+  ],
+  "unresolved": [
+    {
+      "productId": "95ac184d2698139f",
+      "name": "Body Splash - Provoke Shimmer 200ml - 8% de essência.",
+      "reason": "Não localizado como apresentação exata isolável nas páginas físicas1–26; kit exige foto com componentes e volumes correspondentes, sem montagem de produtos separados."
+    },
+    {
+      "productId": "a319416672d1d7ec",
+      "name": "Body Splash Fresh Skin Shimmer 200ml - 8% de essência.",
+      "reason": "Não localizado como apresentação exata isolável nas páginas físicas1–26; kit exige foto com componentes e volumes correspondentes, sem montagem de produtos separados."
+    },
+    {
+      "productId": "367610b6c0d2e6ae",
+      "name": "Body Splash Luxy Shimmer 200ml - 8% de essência.",
+      "reason": "Não localizado como apresentação exata isolável nas páginas físicas1–26; kit exige foto com componentes e volumes correspondentes, sem montagem de produtos separados."
+    },
+    {
+      "productId": "03a95054ec272dd3",
+      "name": "Body Splash Masculino Auren Intense Dal Cotone 200ml",
+      "reason": "Não localizado como apresentação exata isolável nas páginas físicas1–26; kit exige foto com componentes e volumes correspondentes, sem montagem de produtos separados."
+    },
+    {
+      "productId": "1dbf9af98657271e",
+      "name": "Body Splash Masculino Iconi Pure Dal Cotone 200ml",
+      "reason": "Não localizado como apresentação exata isolável nas páginas físicas1–26; kit exige foto com componentes e volumes correspondentes, sem montagem de produtos separados."
+    },
+    {
+      "productId": "23b1481f6d874914",
+      "name": "Body Splash Sweet Crush Shimmer 200ml - 8% de essência.",
+      "reason": "Não localizado como apresentação exata isolável nas páginas físicas1–26; kit exige foto com componentes e volumes correspondentes, sem montagem de produtos separados."
+    },
+    {
+      "productId": "244136c3b5dfed21",
+      "name": "Cronograma Capilar em Ampolas - Crono Plus+",
+      "reason": "Não localizado como apresentação exata isolável nas páginas físicas1–26; kit exige foto com componentes e volumes correspondentes, sem montagem de produtos separados."
+    },
+    {
+      "productId": "4418a4ee99e8320b",
+      "name": "Eau de Parfum Kesia Carmo 100 mL",
+      "reason": "Não localizado como apresentação exata isolável nas páginas físicas1–26; kit exige foto com componentes e volumes correspondentes, sem montagem de produtos separados."
+    },
+    {
+      "productId": "60e03232e7b79d05",
+      "name": "Eau de Parfum Raphael Borba 100 mL",
+      "reason": "Não localizado como apresentação exata isolável nas páginas físicas1–26; kit exige foto com componentes e volumes correspondentes, sem montagem de produtos separados."
+    },
+    {
+      "productId": "008a07353d60761c",
+      "name": "Kit Blond Up Home Care",
+      "reason": "Não localizado como apresentação exata isolável nas páginas físicas1–26; kit exige foto com componentes e volumes correspondentes, sem montagem de produtos separados."
+    },
+    {
+      "productId": "eef86335c476b86a",
+      "name": "Kit Blond Up Profissional",
+      "reason": "Não localizado como apresentação exata isolável nas páginas físicas1–26; kit exige foto com componentes e volumes correspondentes, sem montagem de produtos separados."
+    },
+    {
+      "productId": "798eb9de5d73bf86",
+      "name": "Kit Body Splash Shimmer Dal Cotone - 4 Fragrâncias 200ml - 8% de essência.",
+      "reason": "Não localizado como apresentação exata isolável nas páginas físicas1–26; kit exige foto com componentes e volumes correspondentes, sem montagem de produtos separados."
+    },
+    {
+      "productId": "bb946e7d15bc1e95",
+      "name": "Kit de Ampolas Ultra Magic 4 x 15 mL",
+      "reason": "Não localizado como apresentação exata isolável nas páginas físicas1–26; kit exige foto com componentes e volumes correspondentes, sem montagem de produtos separados."
+    },
+    {
+      "productId": "cefb5c7098b88e45",
+      "name": "Kit de Ampolas Vitamínicas Nutritivas 4 x 15 mL",
+      "reason": "Não localizado como apresentação exata isolável nas páginas físicas1–26; kit exige foto com componentes e volumes correspondentes, sem montagem de produtos separados."
+    },
+    {
+      "productId": "a2d935f4e04f38b2",
+      "name": "Kit L'Amour Morango",
+      "reason": "Não localizado como apresentação exata isolável nas páginas físicas1–26; kit exige foto com componentes e volumes correspondentes, sem montagem de produtos separados."
+    },
+    {
+      "productId": "7be4a970a7f7164e",
+      "name": "Kit Max Force Home Care + Óleo de Argan",
+      "reason": "Não localizado como apresentação exata isolável nas páginas físicas1–26; kit exige foto com componentes e volumes correspondentes, sem montagem de produtos separados."
+    },
+    {
+      "productId": "060dbd1588f6e3af",
+      "name": "Kit Monovin + Woman Caps",
+      "reason": "Não localizado como apresentação exata isolável nas páginas físicas1–26; kit exige foto com componentes e volumes correspondentes, sem montagem de produtos separados."
+    },
+    {
+      "productId": "05cc99b387f5eb3c",
+      "name": "Kit Power Repair Home Care",
+      "reason": "Não localizado como apresentação exata isolável nas páginas físicas1–26; kit exige foto com componentes e volumes correspondentes, sem montagem de produtos separados."
+    },
+    {
+      "productId": "51b07845101579ec",
+      "name": "Kit Power Repair Home Care + Power Luminous Oil",
+      "reason": "Não localizado como apresentação exata isolável nas páginas físicas1–26; kit exige foto com componentes e volumes correspondentes, sem montagem de produtos separados."
+    },
+    {
+      "productId": "05a9d27f49a10fa2",
+      "name": "Kit S.O.S Detox Profissional",
+      "reason": "Não localizado como apresentação exata isolável nas páginas físicas1–26; kit exige foto com componentes e volumes correspondentes, sem montagem de produtos separados."
+    },
+    {
+      "productId": "c119cecd969a4b3a",
+      "name": "Máscara Nutri Protein 500g",
+      "reason": "Não localizado como apresentação exata isolável nas páginas físicas1–26; kit exige foto com componentes e volumes correspondentes, sem montagem de produtos separados."
+    },
+    {
+      "productId": "4b0b72183af62db7",
+      "name": "Máscara Restore 500g",
+      "reason": "Não localizado como apresentação exata isolável nas páginas físicas1–26; kit exige foto com componentes e volumes correspondentes, sem montagem de produtos separados."
+    },
+    {
+      "productId": "eb8400e4508c85c8",
+      "name": "Máscara Verniz Intense 500g",
+      "reason": "Não localizado como apresentação exata isolável nas páginas físicas1–26; kit exige foto com componentes e volumes correspondentes, sem montagem de produtos separados."
+    }
+  ],
+  "scope": "Páginasfísicas1–26; NecessityUsep26 comoexceção identificada."
+}

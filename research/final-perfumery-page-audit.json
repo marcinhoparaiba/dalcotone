@@ -1,0 +1,585 @@
+{
+  "checkedAt": "2026-11-07",
+  "products": [
+    {
+      "productId": "559fb7f1ea51cc24",
+      "name": "Kit L'Amour Home Care + Perfume Capilar L'Amour",
+      "sourceUrl": "https://dalcotone.com.br/products/kit-lamour-perfume-capilar-lamour-morango-nutricao-e-brilho-natural",
+      "canonicalUrlVerified": true,
+      "status": "read_current_official_page",
+      "fields": {
+        "description": "Rotina de nutrição e acabamento com perfume capilar.",
+        "contents": [
+          "Shampoo Nutritivo LAmour300ml",
+          "Máscara Nutritiva LAmour300g",
+          "Perfume Capilar LAmour100ml"
+        ],
+        "actives": [
+          "Vitamina A",
+          "Vitamina D",
+          "Pantenol",
+          "Extrato de Morango"
+        ],
+        "use": "Shampoo:aplicar nos fiosúmidos,massagear,enxaguar.Máscara:aplicar na extensão,pausar10–15min,enxaguar.Perfume:borrifar a15cm,evitando a raiz.Sem enxágue."
+      },
+      "fieldEvidence": {
+        "description": {
+          "sourceUrl": "https://dalcotone.com.br/products/kit-lamour-perfume-capilar-lamour-morango-nutricao-e-brilho-natural",
+          "evidence": "Seções descrição, indicação, composição e como usar da página oficial abertas em07/11/2026."
+        },
+        "contents": {
+          "sourceUrl": "https://dalcotone.com.br/products/kit-lamour-perfume-capilar-lamour-morango-nutricao-e-brilho-natural",
+          "evidence": "Seções descrição, indicação, composição e como usar da página oficial abertas em07/11/2026."
+        },
+        "actives": {
+          "sourceUrl": "https://dalcotone.com.br/products/kit-lamour-perfume-capilar-lamour-morango-nutricao-e-brilho-natural",
+          "evidence": "Seções descrição, indicação, composição e como usar da página oficial abertas em07/11/2026."
+        },
+        "use": {
+          "sourceUrl": "https://dalcotone.com.br/products/kit-lamour-perfume-capilar-lamour-morango-nutricao-e-brilho-natural",
+          "evidence": "Seções descrição, indicação, composição e como usar da página oficial abertas em07/11/2026."
+        }
+      },
+      "rawSiteComposition": "Shampoo300mL + máscara300g + perfume100mL; ativos da linha:VitaminaA,VitaminaD,Pantenol,ExtratoMorango.",
+      "compositionKind": "kit_contents_and_active_highlights",
+      "standardINCI": null,
+      "notes": []
+    },
+    {
+      "productId": "23b1481f6d874914",
+      "name": "Body Splash Sweet Crush Shimmer 200 mL - 8% de essência.",
+      "sourceUrl": "https://dalcotone.com.br/products/kit-body-splash-shimmer-dal-cotone-4-fragrancias-200ml",
+      "canonicalUrlVerified": false,
+      "status": "partial_official_kit_evidence",
+      "fields": {
+        "description": "Perfil doce cremoso com fundo amadeirado.",
+        "olfactoryNotes": {
+          "topo": [
+            "Tangerina verde",
+            "Jasmim aquático",
+            "Flor de gengibre"
+          ],
+          "coracao": [
+            "Baunilha salgada",
+            "Notas florais"
+          ],
+          "fundo": [
+            "Âmbar cinza",
+            "Madeira de cashmere",
+            "Sândalo"
+          ]
+        },
+        "use": "Borrifar no corpo a cerca de20cm da pele e reaplicar conforme desejar."
+      },
+      "fieldEvidence": {
+        "description": {
+          "sourceUrl": "https://dalcotone.com.br/products/kit-body-splash-shimmer-dal-cotone-4-fragrancias-200ml",
+          "evidence": "Página do kit identifica explicitamente a fragrância e suas notas; instrução corporal geral do conjunto."
+        },
+        "olfactoryNotes": {
+          "sourceUrl": "https://dalcotone.com.br/products/kit-body-splash-shimmer-dal-cotone-4-fragrancias-200ml",
+          "evidence": "Página do kit identifica explicitamente a fragrância e suas notas; instrução corporal geral do conjunto."
+        },
+        "use": {
+          "sourceUrl": "https://dalcotone.com.br/products/kit-body-splash-shimmer-dal-cotone-4-fragrancias-200ml",
+          "evidence": "Página do kit identifica explicitamente a fragrância e suas notas; instrução corporal geral do conjunto."
+        }
+      },
+      "rawSiteComposition": null,
+      "compositionKind": "olfactory_notes_from_named_kit_component",
+      "standardINCI": null,
+      "notes": [
+        "Página individual inacessível; não declarar ausência de ingredientes publicados pela marca. Notas confirmadas por componente nomeado no kit."
+      ]
+    },
+    {
+      "productId": "367610b6c0d2e6ae",
+      "name": "Body Splash Luxy Shimmer 200 mL - 8% de essência.",
+      "sourceUrl": "https://dalcotone.com.br/products/body-splash-luxy-shimmer-200ml",
+      "canonicalUrlVerified": true,
+      "status": "read_current_official_page",
+      "fields": {
+        "description": "Perfil cítrico,gourmand e adocicado com acabamento shimmer.",
+        "olfactoryNotes": {
+          "topo": [
+            "Limão cristalizado"
+          ],
+          "coracao": [
+            "Flor de laranjeira",
+            "Rum",
+            "Panacota"
+          ],
+          "fundo": [
+            "Baunilha de Madagascar"
+          ]
+        },
+        "use": "Borrifar no corpo a cerca de20cm da pele e reaplicar conforme desejar.",
+        "benefits": [
+          "Perfumação e desodorização",
+          "Brilho shimmer"
+        ]
+      },
+      "fieldEvidence": {
+        "description": {
+          "sourceUrl": "https://dalcotone.com.br/products/body-splash-luxy-shimmer-200ml",
+          "evidence": "Seções descrição, indicação, composição e como usar da página oficial abertas em07/11/2026."
+        },
+        "olfactoryNotes": {
+          "sourceUrl": "https://dalcotone.com.br/products/body-splash-luxy-shimmer-200ml",
+          "evidence": "Seções descrição, indicação, composição e como usar da página oficial abertas em07/11/2026."
+        },
+        "use": {
+          "sourceUrl": "https://dalcotone.com.br/products/body-splash-luxy-shimmer-200ml",
+          "evidence": "Seções descrição, indicação, composição e como usar da página oficial abertas em07/11/2026."
+        },
+        "benefits": {
+          "sourceUrl": "https://dalcotone.com.br/products/body-splash-luxy-shimmer-200ml",
+          "evidence": "Seções descrição, indicação, composição e como usar da página oficial abertas em07/11/2026."
+        }
+      },
+      "rawSiteComposition": "Notas de topo: limão cristalizado. Coração: flor de laranjeira, rum e panacota. Fundo: baunilha de Madagascar.",
+      "compositionKind": "olfactory_notes_only",
+      "standardINCI": null,
+      "notes": []
+    },
+    {
+      "productId": "798eb9de5d73bf86",
+      "name": "Kit Body Splash Shimmer Dal Cotone - 4 Fragrâncias 200 mL - 8% de essência.",
+      "sourceUrl": "https://dalcotone.com.br/products/kit-body-splash-shimmer-dal-cotone-4-fragrancias-200ml",
+      "canonicalUrlVerified": true,
+      "status": "read_current_official_page",
+      "fields": {
+        "description": "Quatro fragrâncias corporais com8%deessência e efeito shimmer.",
+        "contents": [
+          "Fresh Skin200ml",
+          "Luxy200ml",
+          "Provoke200ml",
+          "Sweet Crush200ml"
+        ],
+        "olfactoryNotesByProduct": {
+          "Fresh Skin": {
+            "topo": [
+              "Peônia",
+              "Lichia",
+              "Frésia"
+            ],
+            "coracao": [
+              "Rosa",
+              "Lírio-do-vale",
+              "Magnólia"
+            ],
+            "fundo": [
+              "Cedro da Virgínia",
+              "Âmbar"
+            ]
+          },
+          "Luxy": {
+            "topo": [
+              "Limão cristalizado"
+            ],
+            "coracao": [
+              "Flor de laranjeira",
+              "Rum",
+              "Panacota"
+            ],
+            "fundo": [
+              "Baunilha de Madagascar"
+            ]
+          },
+          "Provoke": {
+            "topo": [
+              "Flor de laranjeira do Egito",
+              "Laranja amarga"
+            ],
+            "coracao": [
+              "Tuberosa da Índia",
+              "Jasmim"
+            ],
+            "fundo": [
+              "Baunilha de Madagascar",
+              "Sândalo da Nova Caledônia"
+            ]
+          },
+          "Sweet Crush": {
+            "topo": [
+              "Tangerina verde",
+              "Jasmim aquático",
+              "Flor de gengibre"
+            ],
+            "coracao": [
+              "Baunilha salgada",
+              "Notas florais"
+            ],
+            "fundo": [
+              "Âmbar cinza",
+              "Madeira de cashmere",
+              "Sândalo"
+            ]
+          }
+        },
+        "use": "Borrifar no corpo a cerca de20cm da pele e reaplicar conforme desejar."
+      },
+      "fieldEvidence": {
+        "description": {
+          "sourceUrl": "https://dalcotone.com.br/products/kit-body-splash-shimmer-dal-cotone-4-fragrancias-200ml",
+          "evidence": "Seções descrição, indicação, composição e como usar da página oficial abertas em07/11/2026."
+        },
+        "contents": {
+          "sourceUrl": "https://dalcotone.com.br/products/kit-body-splash-shimmer-dal-cotone-4-fragrancias-200ml",
+          "evidence": "Seções descrição, indicação, composição e como usar da página oficial abertas em07/11/2026."
+        },
+        "olfactoryNotesByProduct": {
+          "sourceUrl": "https://dalcotone.com.br/products/kit-body-splash-shimmer-dal-cotone-4-fragrancias-200ml",
+          "evidence": "Seções descrição, indicação, composição e como usar da página oficial abertas em07/11/2026."
+        },
+        "use": {
+          "sourceUrl": "https://dalcotone.com.br/products/kit-body-splash-shimmer-dal-cotone-4-fragrancias-200ml",
+          "evidence": "Seções descrição, indicação, composição e como usar da página oficial abertas em07/11/2026."
+        }
+      },
+      "rawSiteComposition": "A seçãoComposição publica notas por fragrância; não uma lista de ingredientes.",
+      "compositionKind": "olfactory_notes_by_product",
+      "standardINCI": null,
+      "notes": []
+    },
+    {
+      "productId": "a319416672d1d7ec",
+      "name": "Body Splash Fresh Skin Shimmer 200 mL - 8% de essência.",
+      "sourceUrl": "https://dalcotone.com.br/products/kit-body-splash-shimmer-dal-cotone-4-fragrancias-200ml",
+      "canonicalUrlVerified": false,
+      "status": "partial_official_kit_evidence",
+      "fields": {
+        "description": "Perfil floral fresco.",
+        "olfactoryNotes": {
+          "topo": [
+            "Peônia",
+            "Lichia",
+            "Frésia"
+          ],
+          "coracao": [
+            "Rosa",
+            "Lírio-do-vale",
+            "Magnólia"
+          ],
+          "fundo": [
+            "Cedro da Virgínia",
+            "Âmbar"
+          ]
+        },
+        "use": "Borrifar no corpo a cerca de20cm da pele e reaplicar conforme desejar."
+      },
+      "fieldEvidence": {
+        "description": {
+          "sourceUrl": "https://dalcotone.com.br/products/kit-body-splash-shimmer-dal-cotone-4-fragrancias-200ml",
+          "evidence": "Página do kit identifica explicitamente a fragrância e suas notas; instrução corporal geral do conjunto."
+        },
+        "olfactoryNotes": {
+          "sourceUrl": "https://dalcotone.com.br/products/kit-body-splash-shimmer-dal-cotone-4-fragrancias-200ml",
+          "evidence": "Página do kit identifica explicitamente a fragrância e suas notas; instrução corporal geral do conjunto."
+        },
+        "use": {
+          "sourceUrl": "https://dalcotone.com.br/products/kit-body-splash-shimmer-dal-cotone-4-fragrancias-200ml",
+          "evidence": "Página do kit identifica explicitamente a fragrância e suas notas; instrução corporal geral do conjunto."
+        }
+      },
+      "rawSiteComposition": null,
+      "compositionKind": "olfactory_notes_from_named_kit_component",
+      "standardINCI": null,
+      "notes": [
+        "Página individual inacessível; não declarar ausência de ingredientes publicados pela marca. Notas confirmadas por componente nomeado no kit."
+      ]
+    },
+    {
+      "productId": "95ac184d2698139f",
+      "name": "Body Splash - Provoke Shimmer 200 mL - 8% de essência.",
+      "sourceUrl": "https://dalcotone.com.br/products/body-splash-provoke-shimmer-200ml-copia",
+      "canonicalUrlVerified": true,
+      "status": "read_current_official_page",
+      "fields": {
+        "description": "Perfil floral intenso com base cremosa.",
+        "olfactoryNotes": {
+          "topo": [
+            "Flor de laranjeira do Egito",
+            "Laranja amarga"
+          ],
+          "coracao": [
+            "Tuberosa da Índia",
+            "Jasmim"
+          ],
+          "fundo": [
+            "Baunilha de Madagascar",
+            "Sândalo da Nova Caledônia"
+          ]
+        },
+        "use": "Borrifar no corpo a cerca de20cm da pele e reaplicar conforme desejar.",
+        "benefits": [
+          "Perfumação e desodorização",
+          "Brilho shimmer"
+        ]
+      },
+      "fieldEvidence": {
+        "description": {
+          "sourceUrl": "https://dalcotone.com.br/products/body-splash-provoke-shimmer-200ml-copia",
+          "evidence": "Seções descrição, indicação, composição e como usar da página oficial abertas em07/11/2026."
+        },
+        "olfactoryNotes": {
+          "sourceUrl": "https://dalcotone.com.br/products/body-splash-provoke-shimmer-200ml-copia",
+          "evidence": "Seções descrição, indicação, composição e como usar da página oficial abertas em07/11/2026."
+        },
+        "use": {
+          "sourceUrl": "https://dalcotone.com.br/products/body-splash-provoke-shimmer-200ml-copia",
+          "evidence": "Seções descrição, indicação, composição e como usar da página oficial abertas em07/11/2026."
+        },
+        "benefits": {
+          "sourceUrl": "https://dalcotone.com.br/products/body-splash-provoke-shimmer-200ml-copia",
+          "evidence": "Seções descrição, indicação, composição e como usar da página oficial abertas em07/11/2026."
+        }
+      },
+      "rawSiteComposition": "Topo: flor de laranjeira do Egito e laranja amarga. Coração: tuberosa da Índia e jasmim. Fundo: baunilha de Madagascar e sândalo da Nova Caledônia.",
+      "compositionKind": "olfactory_notes_only",
+      "standardINCI": null,
+      "notes": []
+    },
+    {
+      "productId": "bc1e3e2b94dc6780",
+      "name": "Perfume Capilar L'amour Nutritivo 100 mL",
+      "sourceUrl": "https://dalcotone.com.br/products/perfume-capilar-l-amour",
+      "canonicalUrlVerified": true,
+      "status": "read_current_official_page",
+      "fields": {
+        "description": "Perfuma e complementa a finalização capilar com brilho e suavidade.",
+        "actives": [
+          "Extrato de Morango",
+          "Vitaminas não discriminadas",
+          "Nutrientes não discriminados"
+        ],
+        "use": "Borrifar a aproximadamente15cm dos cabelos,pela extensão dos fios,evitando a raiz.Sem enxágue.",
+        "indication": "Todos os tipos de cabelos,para fragrância,brilho e acabamento."
+      },
+      "fieldEvidence": {
+        "description": {
+          "sourceUrl": "https://dalcotone.com.br/products/perfume-capilar-l-amour",
+          "evidence": "Seções descrição, indicação, composição e como usar da página oficial abertas em07/11/2026."
+        },
+        "actives": {
+          "sourceUrl": "https://dalcotone.com.br/products/perfume-capilar-l-amour",
+          "evidence": "Seções descrição, indicação, composição e como usar da página oficial abertas em07/11/2026."
+        },
+        "use": {
+          "sourceUrl": "https://dalcotone.com.br/products/perfume-capilar-l-amour",
+          "evidence": "Seções descrição, indicação, composição e como usar da página oficial abertas em07/11/2026."
+        },
+        "indication": {
+          "sourceUrl": "https://dalcotone.com.br/products/perfume-capilar-l-amour",
+          "evidence": "Seções descrição, indicação, composição e como usar da página oficial abertas em07/11/2026."
+        }
+      },
+      "rawSiteComposition": "Extrato de Morango, vitaminas e nutrientes.",
+      "compositionKind": "active_highlights_only",
+      "standardINCI": null,
+      "notes": []
+    },
+    {
+      "productId": "1dbf9af98657271e",
+      "name": "Body Splash Masculino Iconi Pure Dal Cotone 200 mL",
+      "sourceUrl": "https://dalcotone.com.br/products/body-splash-masculino-auren-intense-dal-cotone-200ml-copia?variant=48319296864454",
+      "canonicalUrlVerified": true,
+      "status": "read_current_official_page",
+      "fields": {
+        "description": "Fragrância corporal masculina aromática fresca.",
+        "olfactoryNotes": {
+          "topo": [
+            "Bergamota da Calábria",
+            "Bergamota verde"
+          ],
+          "coracao": [
+            "Flor de laranjeira da Tunísia"
+          ],
+          "fundo": [
+            "Ambrofix™",
+            "Patchouli"
+          ]
+        },
+        "use": "Borrifar no corpo e reaplicar conforme desejar.",
+        "composition": "Alcohol, Aqua, Propylene Glycol, Parfum, Citral, Citronellol, Coumarin, D-Limonene, Geraniol, Linalool, Evernia Furfuracea Extract."
+      },
+      "fieldEvidence": {
+        "description": {
+          "sourceUrl": "https://dalcotone.com.br/products/body-splash-masculino-auren-intense-dal-cotone-200ml-copia?variant=48319296864454",
+          "evidence": "Seções descrição, indicação, composição e como usar da página oficial abertas em07/11/2026."
+        },
+        "olfactoryNotes": {
+          "sourceUrl": "https://dalcotone.com.br/products/body-splash-masculino-auren-intense-dal-cotone-200ml-copia?variant=48319296864454",
+          "evidence": "Seções descrição, indicação, composição e como usar da página oficial abertas em07/11/2026."
+        },
+        "use": {
+          "sourceUrl": "https://dalcotone.com.br/products/body-splash-masculino-auren-intense-dal-cotone-200ml-copia?variant=48319296864454",
+          "evidence": "Seções descrição, indicação, composição e como usar da página oficial abertas em07/11/2026."
+        },
+        "composition": {
+          "sourceUrl": "https://dalcotone.com.br/products/body-splash-masculino-auren-intense-dal-cotone-200ml-copia?variant=48319296864454",
+          "evidence": "Seções descrição, indicação, composição e como usar da página oficial abertas em07/11/2026."
+        }
+      },
+      "rawSiteComposition": "Alcohol, Aqua, Propylene Glycol, Parfum, Citral, Citronellol, Coumarin, D-Limonene, Geraniol, Linalool, Evernia Furfuracea Extract.",
+      "compositionKind": "ingredient_list_as_published",
+      "standardINCI": null,
+      "notes": []
+    },
+    {
+      "productId": "03a95054ec272dd3",
+      "name": "Body Splash Masculino Auren Intense Dal Cotone 200 mL",
+      "sourceUrl": "https://dalcotone.com.br/products/body-splash-provoke-shimmer-200ml-8-de-essencia-copia?variant=48319087313094",
+      "canonicalUrlVerified": true,
+      "status": "read_current_official_page",
+      "fields": {
+        "description": "Perfil corporal amadeirado aromático.",
+        "olfactoryNotes": {
+          "topo": [
+            "Raspas de limão",
+            "Bergamota",
+            "Hortelã"
+          ],
+          "coracao": [
+            "Lavanda",
+            "Gerânio",
+            "Notas verdes"
+          ],
+          "fundo": [
+            "Sândalo",
+            "Cedro",
+            "Fava tonka"
+          ]
+        },
+        "use": "Borrifar no corpo a cerca de20cm da pele e reaplicar conforme desejar.",
+        "composition": "Alcohol, Aqua, Propylene Glycol, Parfum, Citral, Citronellol, Coumarin, D-Limonene, Geraniol, Linalool, Evernia Furfuracea Extract."
+      },
+      "fieldEvidence": {
+        "description": {
+          "sourceUrl": "https://dalcotone.com.br/products/body-splash-provoke-shimmer-200ml-8-de-essencia-copia?variant=48319087313094",
+          "evidence": "Seções descrição, indicação, composição e como usar da página oficial abertas em07/11/2026."
+        },
+        "olfactoryNotes": {
+          "sourceUrl": "https://dalcotone.com.br/products/body-splash-provoke-shimmer-200ml-8-de-essencia-copia?variant=48319087313094",
+          "evidence": "Seções descrição, indicação, composição e como usar da página oficial abertas em07/11/2026."
+        },
+        "use": {
+          "sourceUrl": "https://dalcotone.com.br/products/body-splash-provoke-shimmer-200ml-8-de-essencia-copia?variant=48319087313094",
+          "evidence": "Seções descrição, indicação, composição e como usar da página oficial abertas em07/11/2026."
+        },
+        "composition": {
+          "sourceUrl": "https://dalcotone.com.br/products/body-splash-provoke-shimmer-200ml-8-de-essencia-copia?variant=48319087313094",
+          "evidence": "Seções descrição, indicação, composição e como usar da página oficial abertas em07/11/2026."
+        }
+      },
+      "rawSiteComposition": "Alcohol, Aqua, Propylene Glycol, Parfum, Citral, Citronellol, Coumarin, D-Limonene, Geraniol, Linalool, Evernia Furfuracea Extract.",
+      "compositionKind": "ingredient_list_as_published",
+      "standardINCI": null,
+      "notes": [
+        "CampoComoUsar do site repete referência a renovarbrilho, apesar deAuren não serShimmer. Preservar método/distança, não atribuirpartículas debrilho."
+      ]
+    },
+    {
+      "productId": "4418a4ee99e8320b",
+      "name": "Eau de Parfum Kesia Carmo 100 mL",
+      "sourceUrl": "https://dalcotone.com.br/collections/all",
+      "canonicalUrlVerified": false,
+      "status": "inaccessible",
+      "fields": {},
+      "fieldEvidence": {},
+      "rawSiteComposition": null,
+      "compositionKind": null,
+      "standardINCI": null,
+      "notes": [
+        "Páginaindividual e descrição/composição atuais inacessíveis à ferramenta; não significa que a marca não publica. Nenhum dado deRaphael transferido paraKesia."
+      ]
+    },
+    {
+      "productId": "60e03232e7b79d05",
+      "name": "Eau de Parfum Raphael Borba 100 mL",
+      "sourceUrl": "https://dalcotone.com.br/products/perfume-masculino-raphael-borba-dal-cotone",
+      "canonicalUrlVerified": true,
+      "status": "user_supplied_official_page_capture",
+      "fields": {
+        "description": "Fragrância masculina aromática. A abertura combina flor de laranjeira e limão; o coração reúne lavanda, noz-moscada, cardamomo, coentro, gerânio e alecrim. No fundo aparecem lichia, fava tonka, madeira de teca e vetiver.",
+        "indication": "Uso corporal.",
+        "benefits": [
+          "Perfuma o corpo",
+          "Fragrância aromática de presença marcante"
+        ],
+        "olfactoryNotes": {
+          "topo": [
+            "Flor de laranjeira",
+            "Limão"
+          ],
+          "coracao": [
+            "Lavanda",
+            "Noz-moscada",
+            "Cardamomo",
+            "Coentro",
+            "Gerânio",
+            "Alecrim"
+          ],
+          "fundo": [
+            "Lichia",
+            "Fava tonka",
+            "Madeira de teca",
+            "Vetiver"
+          ]
+        },
+        "inci": "Álcool Etílico, Propileno Glicol, Perfume, Citral, Citronelol, Cumarina, Dextrolimoneno, Geraniol, Hidroxicitronelal, Linalol.",
+        "compositionOrigin": "Composição declarada na página oficial, conforme captura enviada. Nomes preservados como publicados.",
+        "compositionIsINCI": false,
+        "use": "Borrifar sobre a pele conforme desejar, preferencialmente em pontos de pulsação, como pescoço e punhos. Evitar contato com os olhos."
+      },
+      "fieldEvidence": {
+        "description": {
+          "sourceUrl": "https://dalcotone.com.br/products/perfume-masculino-raphael-borba-dal-cotone",
+          "evidence": "Transcrição da captura oficial enviada pelo usuário; URL visível. Abertura pela ferramenta web falhou."
+        },
+        "indication": {
+          "sourceUrl": "https://dalcotone.com.br/products/perfume-masculino-raphael-borba-dal-cotone",
+          "evidence": "Transcrição da captura oficial enviada pelo usuário; URL visível. Abertura pela ferramenta web falhou."
+        },
+        "benefits": {
+          "sourceUrl": "https://dalcotone.com.br/products/perfume-masculino-raphael-borba-dal-cotone",
+          "evidence": "Transcrição da captura oficial enviada pelo usuário; URL visível. Abertura pela ferramenta web falhou."
+        },
+        "olfactoryNotes": {
+          "sourceUrl": "https://dalcotone.com.br/products/perfume-masculino-raphael-borba-dal-cotone",
+          "evidence": "Transcrição da captura oficial enviada pelo usuário; URL visível. Abertura pela ferramenta web falhou."
+        },
+        "inci": {
+          "sourceUrl": "https://dalcotone.com.br/products/perfume-masculino-raphael-borba-dal-cotone",
+          "evidence": "Transcrição da captura oficial enviada pelo usuário; URL visível. Abertura pela ferramenta web falhou."
+        },
+        "compositionOrigin": {
+          "sourceUrl": "https://dalcotone.com.br/products/perfume-masculino-raphael-borba-dal-cotone",
+          "evidence": "Transcrição da captura oficial enviada pelo usuário; URL visível. Abertura pela ferramenta web falhou."
+        },
+        "compositionIsINCI": {
+          "sourceUrl": "https://dalcotone.com.br/products/perfume-masculino-raphael-borba-dal-cotone",
+          "evidence": "Transcrição da captura oficial enviada pelo usuário; URL visível. Abertura pela ferramenta web falhou."
+        },
+        "use": {
+          "sourceUrl": "https://dalcotone.com.br/products/perfume-masculino-raphael-borba-dal-cotone",
+          "evidence": "Transcrição da captura oficial enviada pelo usuário; URL visível. Abertura pela ferramenta web falhou."
+        }
+      },
+      "rawSiteComposition": "Álcool Etílico, Propileno Glicol, Perfume, Citral, Citronelol, Cumarina, Dextrolimoneno, Geraniol, Hidroxicitronelal, Linalol.",
+      "compositionKind": "ingredient_list_in_portuguese_as_published",
+      "standardINCI": null,
+      "notes": [
+        "Não rotular a composição portuguesa como INCI padronizada. Captura do usuário comprova publicação apesar da inacessibilidade pela ferramenta."
+      ]
+    }
+  ],
+  "policy": "Composição publicada, notasolfativas e INCIpadronizada são categorias distintas. Indisponibilidade da pesquisa não é ausência de publicação.",
+  "coverage": {
+    "products": 11,
+    "currentPagesRead": 7,
+    "userOfficialCapture": 1,
+    "namedKitEvidence": 2,
+    "inaccessible": 1
+  }
+}

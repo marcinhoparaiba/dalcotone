@@ -1,0 +1,433 @@
+{
+  "24K": {
+    "discoveryQuestion": "No seu atendimento, a demanda maior é alinhamento por transformação, tratamento reconstrutor com controle de volume ou acabamento que prolongue o liso?",
+    "30secTalkTrack": "A 24K exige escolher a proposta antes de apresentar o produto. A Selagem é o procedimento de alinhamento; a Intensive Treatment Mask é o botox reconstrutor profissional; o Spray é a finalização termoativada com efeito memória. Eu parto do serviço que você quer atender e explico a apresentação correspondente, porque os três têm fórmulas e aplicações diferentes.",
+    "technicalReason": "Selagem: karité para hidratação, Tanino-Plus para alinhamento e queratina hidrolisada para resistência. Máscara: karité, Tanino-plus e queratina hidrolisada. Spray: Lisselini para alinhamento/antifrizz e Silsoft AX-E para brilho, toque e proteção térmica.",
+    "demonstrationPlan": "Selecionar uma das três fichas pelo serviço. Para transformação, apresentar o protocolo profissional e a avaliação da fibra; para acabamento, mostrar a aplicação do spray após lavar/condicionar, pausa de10–15min e ativação térmica, seguindo o rótulo atual.",
+    "realObjectionReply": "“Eu já tenho selagem.” Então a conversa começa pela função que ainda falta na sua rotina: procedimento, botox profissional ou manutenção do acabamento. Não faz sentido indicar os três para resolver a mesma demanda.",
+    "closingStep": "Definir uma apresentação, conferir o rótulo do lote e planejar sua avaliação em um atendimento compatível.",
+    "avoidClaims": "Não chamar o spray de selagem; não declarar os três como kit comercial confirmado; não prometer liso permanente ou compatibilidade universal.",
+    "sourcePages": [
+      1,
+      2,
+      3
+    ],
+    "sourceVersion": "Catálogo2025; conferir apresentação e rótulo atuais.",
+    "scope": "Roteiro de conversa para consultor com profissional de salão; demonstração não equivale a prova de eficácia.",
+    "products": [
+      {
+        "name": "Selagem24KPremium",
+        "position": "Alinhamento profissional",
+        "actives": "Karité,VitaminasA/E/F,aminoácidos,TaninoPlus,queratina hidrolisada;pantenol no rótulo.",
+        "sourcePage": 1
+      },
+      {
+        "name": "IntensiveTreatmentMask24K",
+        "position": "Botox reconstrutor profissional",
+        "actives": "Karité,Tanino-plus e queratina hidrolisada.",
+        "sourcePage": 3
+      },
+      {
+        "name": "Spray24KEfeitoMemória",
+        "position": "Finalizador termoativado",
+        "actives": "Lisselini e SilsoftAX-E.",
+        "sourcePage": 2
+      }
+    ]
+  },
+  "Ampolas": {
+    "discoveryQuestion": "Você procura uma etapa rápida para fios danificados ou uma recarga nutritiva para complementar a máscara?",
+    "30secTalkTrack": "Na ampola eu separo o objetivo: Ultra Magic foi descrita para restauração e hidratação de fios danificados; Vitamínica trabalha fortalecimento e revitalização com complexo de vitaminas e Capilmax no catálogo2025. A escolha depende da condição do fio e de como essa etapa entra no seu atendimento, não só do formato pequeno.",
+    "technicalReason": "Ultra Magic: reparação e hidratação declaradas, sem lista individual completa de ativos. Vitamínica: complexo vitamínico e Capilmax, descritos para nutrição e fortalecimento.",
+    "demonstrationPlan": "Comparar as duas propostas na ficha. Conferir a ampola em mãos: a Ultra Magic prevê3–5mL em água fria até mousse, aplicação direta ou adição à máscara; Vitamínica tem aplicação nos fios ou máscara, pausa de5min e enxágue.",
+    "realObjectionReply": "“Toda ampola faz a mesma coisa.” O formato é parecido; o objetivo e o preparo não são. Eu mostro a diferença de aplicação antes de você escolher.",
+    "closingStep": "Escolher a ampola por necessidade e registrar a apresentação e o protocolo que a equipe vai seguir.",
+    "avoidClaims": "Não inventar vitaminas individuais, concentração, rendimento ou resultados na primeira aplicação.",
+    "sourcePages": [
+      42,
+      43
+    ],
+    "sourceVersion": "Catálogo2025; conferir apresentação e rótulo atuais.",
+    "scope": "Roteiro de conversa para consultor com profissional de salão; demonstração não equivale a prova de eficácia."
+  },
+  "Argan Oil": {
+    "discoveryQuestion": "No acabamento, suas clientes reclamam mais de pontas ásperas, frizz ou falta de brilho?",
+    "30secTalkTrack": "O Argan Oil entra no acabamento das pontas. O fabricante associa o óleo de argan à hidratação, elasticidade e controle do frizz, com brilho e maciez. Minha proposta é avaliar onde esse acabamento faz falta no seu atendimento e mostrar a forma de distribuição, sem tratar óleo como substituto de uma reconstrução.",
+    "technicalReason": "Óleo de argan: hidratação, melhora de elasticidade, brilho, controle de frizz e proteção antioxidante, conforme PDF2025p16.",
+    "demonstrationPlan": "Na finalização de um cabelo indicado, distribuir algumas gotas nas mãos e nas pontas, antes ou depois da escova/prancha conforme rótulo. Observar com o profissional toque, distribuição e acabamento, sem alegar que isso comprova reparação interna.",
+    "realObjectionReply": "“Óleo pesa no cabelo.” Vamos conferir a necessidade das pontas e trabalhar a distribuição orientada, sem prometer que a mesma quantidade funciona para toda textura.",
+    "closingStep": "Combinar em qual tipo de finalização a equipe pretende avaliar o produto e conferir a orientação da embalagem.",
+    "avoidClaims": "Não atribuir proteção térmica só porque o uso antes da escova é permitido; não chamar de reparação definitiva de pontas duplas.",
+    "sourcePages": [
+      16
+    ],
+    "sourceVersion": "Catálogo2025; conferir apresentação e rótulo atuais.",
+    "scope": "Roteiro de conversa para consultor com profissional de salão; demonstração não equivale a prova de eficácia."
+  },
+  "Bio Plastia": {
+    "discoveryQuestion": "Na retexturização, você quer mais disciplina do fio, controle de frizz ou melhora de maleabilidade?",
+    "30secTalkTrack": "A Bio Plastia combina preparação e retexturização. A proteína da seda é apresentada pela marca para hidratação, fortalecimento, maciez e brilho; a linha busca alinhamento e controle de frizz. Para o salão, eu apresento o papel do shampoo e do retexturizador dentro do procedimento, com a análise da fibra conduzida pelo profissional.",
+    "technicalReason": "Proteína da seda declarada na linha e nos dois rótulos; shampoo prepara e retexturizador trabalha textura e alinhamento.",
+    "demonstrationPlan": "Abrir as duas etapas e conferir o rótulo atual. Mostrar onde entram limpeza, secagem e aplicação do retexturizador; se houver avaliação prática, seguir o protocolo completo e testes prescritos pelo fabricante.",
+    "realObjectionReply": "“Uso o mesmo shampoo em tudo.” Aqui vale conferir o preparo previsto especificamente para esse retexturizador, em vez de presumir que toda preparação é equivalente.",
+    "closingStep": "Validar com o responsável técnico a apresentação e o protocolo que será estudado pela equipe.",
+    "avoidClaims": "Não prometer compatibilidade com todas as químicas, efeito permanente ou segurança só pelo nome Bio.",
+    "sourcePages": [
+      4
+    ],
+    "sourceVersion": "Catálogo2025; conferir apresentação e rótulo atuais.",
+    "scope": "Roteiro de conversa para consultor com profissional de salão; demonstração não equivale a prova de eficácia."
+  },
+  "Bleached": {
+    "discoveryQuestion": "Em qual serviço você quer organizar melhor a escolha: coloração, tonalização ou descoloração?",
+    "30secTalkTrack": "Na Bleached, eu separo o revelador do pó e começo pelo serviço. As emulsões têm05,10,20 e30volumes; os pós têm versões White e Blue, com tecnologia Dust Free. A seleção vem do diagnóstico profissional e das instruções do produto associado. Meu papel é deixar essas opções claras, sem sugerir uma volumagem única para todo cabelo.",
+    "technicalReason": "Volumagens e textura cremosa são especificações do revelador. O pó tem proporção1:2 declarada e promessa de abertura de até9tons; isso é limite anunciado, não resultado garantido.",
+    "demonstrationPlan": "Comparar as embalagens e o protocolo do serviço planejado. Mostrar a proporção específica do pó, a escolha profissional da OX e os testes exigidos; não improvisar demonstração química para provar desempenho.",
+    "realObjectionReply": "“Qual clareia mais rápido?” Primeiro precisamos definir a base, o histórico e o objetivo. Só comparar velocidade isolada não sustenta uma indicação técnica.",
+    "closingStep": "Identificar o serviço e confirmar com o profissional responsável a versão e o protocolo apropriados.",
+    "avoidClaims": "Não garantir nove tons, tempo universal, ausência de dano ou intercambialidade de reveladores.",
+    "sourcePages": [
+      12,
+      13
+    ],
+    "sourceVersion": "Catálogo2025; conferir apresentação e rótulo atuais.",
+    "scope": "Roteiro de conversa para consultor com profissional de salão; demonstração não equivale a prova de eficácia."
+  },
+  "Blond Up": {
+    "discoveryQuestion": "Nos seus loiros, o problema que mais volta é amarelamento, toque ressecado ou perda de luminosidade?",
+    "30secTalkTrack": "A Blond Up conversa com loiros, grisalhos e mechas que precisam de controle do amarelado junto de cuidado. No catálogo, o pigmento violeta aparece com creatina, manteiga de abacate, silicones e quaternários. Eu separo o que é ajuste de tom do que é hidratação e acabamento, e confiro a apresentação profissional ou de manutenção antes de orientar o uso.",
+    "technicalReason": "Ácido Violeta43 no quadro do PDF para neutralização do amarelo; creatina para resistência e elasticidade; abacate para maciez. O rótulo profissional também usa o nome extrato de violeta; não tratar os nomes como INCI equivalente.",
+    "demonstrationPlan": "Conferir a tonalidade e a apresentação. Na Home Care, acompanhar o tempo conforme o tom: o PDF não fixa uma pausa universal. A versão1L/1kg requer seu próprio rótulo; observar tom e toque sem prometer uniformidade em áreas de porosidades diferentes.",
+    "realObjectionReply": "“Tenho receio de chumbar.” Por isso eu não vendo uma pausa padrão. A ficha precisa ser lida junto com o tom e a condição dos fios.",
+    "closingStep": "Escolher a apresentação e definir quem fará a avaliação de tom e do protocolo da embalagem.",
+    "avoidClaims": "Não prometer platinação, ausência de mancha ou corrigir qualquer tom; não importar tempos de uma embalagem para outra.",
+    "sourcePages": [
+      10,
+      11
+    ],
+    "sourceVersion": "Catálogo2025; conferir apresentação e rótulo atuais.",
+    "scope": "Roteiro de conversa para consultor com profissional de salão; demonstração não equivale a prova de eficácia."
+  },
+  "Clean Care": {
+    "discoveryQuestion": "Como você decide a preparação antes de uma transformação e quando usa limpeza profunda?",
+    "30secTalkTrack": "O Clean Care é a etapa de preparação: o catálogo descreve limpeza profunda, remoção de resíduos e abertura das cutículas para receber o tratamento. Ele traz proteína da seda, associada à maciez e penteabilidade. Eu o apresento dentro do protocolo que pede essa preparação, para a equipe entender a função dessa etapa antes de falar do produto de transformação.",
+    "technicalReason": "Limpeza e preparação são a proposta central; proteína da seda é um ativo declarado, sem tornar o shampoo um reconstrutor de procedimento completo.",
+    "demonstrationPlan": "Mostrar em qual protocolo da marca o shampoo é solicitado e conferir a orientação de lavagem atual. Distinguir o uso geral da embalagem das repetições e pausas prescritas por um procedimento específico.",
+    "realObjectionReply": "“Ele é só um shampoo?” A função aqui é preparar a fibra para uma etapa definida. O que precisamos avaliar é se esse preparo corresponde ao serviço que você vai executar.",
+    "closingStep": "Vincular a avaliação a um protocolo profissional específico e conferir o rótulo com a equipe.",
+    "avoidClaims": "Não recomendar limpeza profunda indiscriminada em toda lavagem nem garantir penetração de qualquer produto.",
+    "sourcePages": [
+      8
+    ],
+    "sourceVersion": "Catálogo2025; conferir apresentação e rótulo atuais.",
+    "scope": "Roteiro de conversa para consultor com profissional de salão; demonstração não equivale a prova de eficácia."
+  },
+  "Color Creams": {
+    "discoveryQuestion": "Você precisa ampliar cobertura de brancos, trabalhar reflexos ou organizar correção de cor?",
+    "30secTalkTrack": "Na Color Creams eu começo pela cartela e pelo objetivo do serviço. A marca apresenta coloração permanente cremosa com pigmentos e condicionamento; há nuances para morenas, ruivas, loiros, superclareadores e corretores. A conversa comercial fica mais útil quando o profissional identifica as nuances que precisa, sem transformar a cartela em uma fórmula pronta para qualquer base.",
+    "technicalReason": "PDF2025traz grupos e códigos de cor, mas não informa fórmula INCI, diluição ou pausa. Corretores têm funções específicas de ajuste, sem dispensar colorimetria profissional.",
+    "demonstrationPlan": "Abrir a cartela, localizar base e reflexo pretendidos e conferir a ficha e o rótulo para diluição/tempo. A seleção e a formulação ficam com o colorista responsável.",
+    "realObjectionReply": "“Você garante cobertura igual em todos os brancos?” A marca anuncia cobertura, mas o serviço depende da avaliação e da formulação. Eu não garanto o mesmo resultado em qualquer base.",
+    "closingStep": "Listar as nuances prioritárias do salão e conferir disponibilidade e instruções atuais de cada apresentação.",
+    "avoidClaims": "Não inventar proporção, pausa, compatibilidade com OX ou garantia de cor idêntica à tela.",
+    "sourcePages": [
+      44,
+      45,
+      46,
+      47,
+      48,
+      49
+    ],
+    "sourceVersion": "Catálogo2025; conferir apresentação e rótulo atuais.",
+    "scope": "Roteiro de conversa para consultor com profissional de salão; demonstração não equivale a prova de eficácia."
+  },
+  "Cronograma": {
+    "discoveryQuestion": "Quando a cliente volta para tratamento, o que você observa primeiro: toque seco, falta de maleabilidade ou fragilidade?",
+    "30secTalkTrack": "O cronograma permite separar três necessidades. Verniz Intense é a etapa de hidratação com proteína da seda e ácido hialurônico; Nutri Protein traz nano proteínas na proposta nutritiva; Restore usa Lumini System e queratina na reconstrução. Eu começo pela avaliação do cabelo e escolho a etapa, em vez de oferecer uma sequência igual para todas as clientes.",
+    "technicalReason": "As três máscaras têm propostas distintas; o kit250g e as apresentações500g devem conservar seus próprios modos de uso.",
+    "demonstrationPlan": "Comparar as três indicações com o diagnóstico do profissional. Apresentar a etapa selecionada e seguir a pausa da apresentação em mãos; usar observações de toque e manejo como avaliação cosmética, não como prova de reposição medida.",
+    "realObjectionReply": "“Preciso usar as três no mesmo dia?” A proposta é adequar a rotina à necessidade. Não há motivo para presumir que as três devem ser sobrepostas em todo atendimento.",
+    "closingStep": "Definir a etapa inicial, a apresentação e o acompanhamento da necessidade nas próximas visitas.",
+    "avoidClaims": "Não usar cronograma fixo como diagnóstico; não transferir a pausa do kit250g para500g.",
+    "sourcePages": [
+      36,
+      37
+    ],
+    "sourceVersion": "Catálogo2025; conferir apresentação e rótulo atuais.",
+    "scope": "Roteiro de conversa para consultor com profissional de salão; demonstração não equivale a prova de eficácia."
+  },
+  "Efeito Teia": {
+    "discoveryQuestion": "Entre suas clientes de tratamento, pesa mais o ressecamento, o dano por química ou a necessidade de resistência?",
+    "30secTalkTrack": "As máscaras Efeito Teia não têm uma proposta única. Banana e Mel trabalha hidratação e maciez; Full Recover traz proteínas e aminoácidos para reparação e elasticidade; Reconstrutor combina geleia real, amêndoas e ceramidas para força e cuidado da barreira. Eu apresento a escolha pelo estado do fio, não pelo efeito visual da textura da máscara.",
+    "technicalReason": "Full Recover e Reconstrutor têm ativos e indicações próprios. A textura teia não mede concentração nem comprova reconstrução.",
+    "demonstrationPlan": "Abrir as três fichas, selecionar pela necessidade e aplicar a máscara escolhida conforme embalagem. No PDF500g, a pausa indicada é10–15min com enxágue; conferir o rótulo atual.",
+    "realObjectionReply": "“A mais consistente trata mais?” A consistência não responde sozinha. Eu comparo indicação, ativos declarados e aplicação para escolher com você.",
+    "closingStep": "Selecionar uma máscara para uma necessidade recorrente do salão e planejar sua avaliação no atendimento.",
+    "avoidClaims": "Não usar elasticidade da textura como prova de qualidade ou prometer recuperação total de dano severo.",
+    "sourcePages": [
+      38,
+      39,
+      40
+    ],
+    "sourceVersion": "Catálogo2025; conferir apresentação e rótulo atuais.",
+    "scope": "Roteiro de conversa para consultor com profissional de salão; demonstração não equivale a prova de eficácia."
+  },
+  "Envelopamento dos Fios": {
+    "discoveryQuestion": "Você quer organizar uma rotina de reconstrução com preparação, tratamento e acabamento bem definidos?",
+    "30secTalkTrack": "O Envelopamento dos Fios apresenta três etapas: shampoo técnico, reconstrutor e finalizador. Creatina, cistina e elastina aparecem no catálogo para resistência, elasticidade e maleabilidade. Eu mostro o papel de cada etapa para reconstrução e acabamento, porque a proposta não é apenas entregar brilho no final da escova.",
+    "technicalReason": "Creatina: força e resistência à quebra; cistina: reconstrução e elasticidade; elastina: flexibilidade e maleabilidade, declaradas para a linha.",
+    "demonstrationPlan": "Mostrar a sequência do PDF: limpeza; reconstrutor20–30min com enxágue; leave-in10–15min e finalização prevista. Conferir a apresentação e o rótulo antes de uma avaliação prática.",
+    "realObjectionReply": "“Já tenho máscara reconstrutora.” Vamos comparar a função que você atende hoje com a proposta das três etapas. Não pressuponho que você precise substituir sua rotina inteira.",
+    "closingStep": "Identificar a etapa de interesse e conferir o protocolo completo com o profissional responsável.",
+    "avoidClaims": "Não chamar de blindagem permanente nem extrapolar os ativos de linha para INCI completo.",
+    "sourcePages": [
+      7
+    ],
+    "sourceVersion": "Catálogo2025; conferir apresentação e rótulo atuais.",
+    "scope": "Roteiro de conversa para consultor com profissional de salão; demonstração não equivale a prova de eficácia."
+  },
+  "Force Life": {
+    "discoveryQuestion": "Você atende clientes com oleosidade no couro cabeludo e fios que também precisam de hidratação?",
+    "30secTalkTrack": "A Force Life é uma conversa de equilíbrio entre limpeza e cuidado do comprimento. O shampoo é apresentado como esfoliante; máscara e condicionador trabalham hidratação, maciez e resistência. Capilmax, bambu e jaborandi aparecem como ativos da linha no catálogo. Eu separo essas etapas do Must Use e confiro os itens que realmente acompanham o kit atual.",
+    "technicalReason": "Bambu é relacionado à reposição de aminoácidos e sílica; os demais ativos são descritos para fortalecimento e textura. O Must Use tem uma ficha própria e não herda automaticamente esses ativos.",
+    "demonstrationPlan": "Conferir couro cabeludo, fios e embalagem. Apresentar primeiro a limpeza e depois a etapa de cuidado do comprimento. Comparar kit atual e ficha2025 sem acrescentar condicionador a um conjunto que não o inclua.",
+    "realObjectionReply": "“Tudo para cabelo oleoso resseca.” A proposta inclui limpeza e hidratação em etapas. Vamos avaliar a necessidade do couro cabeludo e do fio separadamente.",
+    "closingStep": "Escolher os produtos necessários e conferir composição comercial atual do conjunto antes do pedido.",
+    "avoidClaims": "Não prometer tratamento de queda, inflamação ou oleosidade clínica; não assumir composição fixa do kit.",
+    "sourcePages": [
+      27,
+      28
+    ],
+    "sourceVersion": "Catálogo2025; conferir apresentação e rótulo atuais.",
+    "scope": "Roteiro de conversa para consultor com profissional de salão; demonstração não equivale a prova de eficácia."
+  },
+  "Golden Premium": {
+    "discoveryQuestion": "No fim da escova, sua prioridade é brilho, toque ou controle do frizz visível?",
+    "30secTalkTrack": "O Golden Premium é uma opção de acabamento em spray, descrita para brilho, maciez e controle do frizz. O formato permite apresentar como distribuir ao longo dos fios sem confundir com um tratamento de reconstrução. Eu começo pela finalização que você já faz e vejo se essa proposta atende ao acabamento que deseja oferecer.",
+    "technicalReason": "O PDFconfirma benefícios cosméticos e aplicação; não publica ingredientes individuais suficientes para explicar um ativo específico.",
+    "demonstrationPlan": "Agitar e apresentar a borrifação a15–20cm conforme PDF/rótulo, antes ou após escova/prancha. Observar distribuição e acabamento numa finalização indicada, sem comparar durabilidade que não foi medida.",
+    "realObjectionReply": "“Isso é só brilho?” A proposta confirmada inclui brilho, maciez e controle de frizz. Se a necessidade é reconstrução, eu avalio outra etapa.",
+    "closingStep": "Definir o contexto de acabamento e conferir a aplicação da embalagem atual.",
+    "avoidClaims": "Não inventar ativos, proteção térmica, partículas de ouro ou tratamento por causa do nome Golden.",
+    "sourcePages": [
+      30
+    ],
+    "sourceVersion": "Catálogo2025; conferir apresentação e rótulo atuais.",
+    "scope": "Roteiro de conversa para consultor com profissional de salão; demonstração não equivale a prova de eficácia."
+  },
+  "Hydra Ceramides": {
+    "discoveryQuestion": "Quais fios chegam mais ásperos, ressecados ou com frizz e precisam de uma rotina de hidratação?",
+    "30secTalkTrack": "A Hydra Ceramides é apresentada para hidratação e cuidado de fios ressecados ou com frizz. A proposta das ceramidas é apoiar a barreira dos fios e a retenção de umidade. Há diferença entre os ativos do catálogo2025 e os descritos hoje pela loja; antes de explicar a fórmula ao salão, eu confiro a embalagem que está sendo oferecida.",
+    "technicalReason": "PDF2025: ceramidas, proteínas hidrolisadas e vitaminaE. Loja atual: alho e bioceramidas. Explicar as funções apenas com a fonte correspondente, sem juntar listas como uma fórmula única.",
+    "demonstrationPlan": "Conferir rótulo e versão, depois apresentar shampoo e máscara conforme sua orientação. Avaliar necessidade de hidratação e acabamento no atendimento; GoldenPremium, quando vendido junto, é outro produto.",
+    "realObjectionReply": "“Tem alho ou vitaminaE?” As fontes que consultei diferem. Vou usar a composição declarada na embalagem atual para te apresentar a versão certa.",
+    "closingStep": "Confirmar a versão fornecida e selecionar shampoo/máscara ou conjunto pelos itens reais.",
+    "avoidClaims": "Não fundir fórmulas de anos diferentes nem prometer reversão do envelhecimento dos fios.",
+    "sourcePages": [
+      29
+    ],
+    "sourceVersion": "Catálogo2025; conferir apresentação e rótulo atuais.",
+    "scope": "Roteiro de conversa para consultor com profissional de salão; demonstração não equivale a prova de eficácia."
+  },
+  "L’Amour": {
+    "discoveryQuestion": "Seu interesse é tratar fios opacos e ásperos ou oferecer uma finalização perfumada depois do serviço?",
+    "30secTalkTrack": "A L’Amour tem uma rotina de shampoo e máscara voltada a nutrição, maciez e cuidado de fios opacos. O perfume capilar é uma etapa separada de acabamento. No catálogo, vitaminaA, vitaminaD, pantenol e extrato de morango aparecem na linha; no perfume, a marca destaca morango, vitaminas e nutrientes. Eu separo cuidado e fragrância para a proposta ficar objetiva.",
+    "technicalReason": "Pantenol: hidratação e maciez; extrato de morango: suavidade e brilho. Vitaminas do perfume não são individualizadas, e não devem receber a composição da máscara.",
+    "demonstrationPlan": "Apresentar shampoo e máscara na rotina escolhida. Para o perfume, mostrar borrifação a15cm, evitando raiz, sem enxágue; avaliar a fragrância com concordância da cliente.",
+    "realObjectionReply": "“É só cheiro de morango?” O perfume tem função de acabamento; a rotina de shampoo e máscara tem outra aplicação. Eu apresento os dois interesses separadamente.",
+    "closingStep": "Definir se o salão precisa do tratamento, do perfume ou de ambos e confirmar os componentes do kit atual.",
+    "avoidClaims": "Não tratar nota olfativa como INCI nem garantir duração da fragrância.",
+    "sourcePages": [
+      31,
+      32
+    ],
+    "sourceVersion": "Catálogo2025; conferir apresentação e rótulo atuais.",
+    "scope": "Roteiro de conversa para consultor com profissional de salão; demonstração não equivale a prova de eficácia."
+  },
+  "Max Force": {
+    "discoveryQuestion": "Quais danos você encontra com mais frequência depois de química ou calor: porosidade, quebra ou perda de maleabilidade?",
+    "30secTalkTrack": "A Max Force é apresentada como rotina reconstrutora para fios danificados, porosos e quebradiços. Óleo de argan e vitaminaA são os ativos destacados na versão Home Care consultada. Eu começo pela condição do cabelo e mostro como shampoo, máscara e condicionador entram no cuidado, sem prometer que uma rotina cosmética devolva qualquer fio ao estado original.",
+    "technicalReason": "Argan para hidratação, brilho e proteção contra ressecamento; vitaminaA associada a fortalecimento e elasticidade no catálogo2025HomeCare. Não transferir a lista automaticamente à embalagem profissional sem fonte própria.",
+    "demonstrationPlan": "Selecionar a apresentação e mostrar a sequência: limpeza, máscara e condicionamento. Conferir pausas no rótulo. Óleo de argan, quando incluído no conjunto, é aplicado como etapa de acabamento nas pontas.",
+    "realObjectionReply": "“Reconstrução deixa meu cabelo rígido.” A indicação depende da condição do fio e da rotina. Vamos conferir a necessidade e o uso previsto, sem pressupor que mais aplicações entregam mais resultado.",
+    "closingStep": "Definir apresentação e etapa de avaliação para um perfil de cabelo que o salão atende.",
+    "avoidClaims": "Não prometer reversão de corte químico, compatibilidade universal ou ativos iguais em todos os tamanhos.",
+    "sourcePages": [
+      14,
+      15,
+      16
+    ],
+    "sourceVersion": "Catálogo2025; conferir apresentação e rótulo atuais.",
+    "scope": "Roteiro de conversa para consultor com profissional de salão; demonstração não equivale a prova de eficácia."
+  },
+  "Monovin": {
+    "discoveryQuestion": "Quando uma cliente fala de queda, você identifica se ela relata fios quebrando no comprimento ou perda desde a raiz?",
+    "30secTalkTrack": "A Monovin é apresentada para cuidado e fortalecimento de fios fragilizados. O catálogo destaca ProA e ProB5 na linha, com shampoo, máscara e tônico de aplicações distintas. Para o salão, eu mantenho a conversa no cuidado cosmético e na resistência do fio; queixas de queda não viram diagnóstico nem promessa de crescimento na apresentação comercial.",
+    "technicalReason": "ProB5 é associado à hidratação, elasticidade e redução da quebra. O tônico120mL não é a ampolaMonovin15mL do CronoPlus.",
+    "demonstrationPlan": "Mostrar as aplicações separadas: shampoo com enxágue; máscara com pausa da embalagem; tônico no couro cabeludo, sem enxágue conforme rótulo. Evitar demonstração que sugira resultado de crescimento instantâneo.",
+    "realObjectionReply": "“Vai nascer cabelo?” Eu não consigo prometer isso. O que apresento são a proposta cosmética do fabricante e as formas de uso; queda exige avaliação apropriada.",
+    "closingStep": "Confirmar se a necessidade é cuidado de fios fragilizados e selecionar a apresentação correta.",
+    "avoidClaims": "Não prometer tratar alopecia, acabar com queda ou gerar crescimento em prazo garantido.",
+    "sourcePages": [
+      33
+    ],
+    "sourceVersion": "Catálogo2025; conferir apresentação e rótulo atuais.",
+    "scope": "Roteiro de conversa para consultor com profissional de salão; demonstração não equivale a prova de eficácia."
+  },
+  "Necessity Use": {
+    "discoveryQuestion": "Na rotina de escova, seus fios precisam mais de desembaraço, controle do frizz ou proteção contra o calor?",
+    "30secTalkTrack": "O Necessity Use é um finalizador reconstrutor com proteção térmica declarada. A queratina hidrolisada aparece para resistência, o pantenol para hidratação e elasticidade e o óleo de girassol para nutrição e brilho. Eu o apresento como etapa de cuidado antes da finalização, com uma função técnica clara dentro do serviço de escova.",
+    "technicalReason": "Proteção térmica é alegação explícita deste produto; não foi inferida do uso do secador. Arginina é associada à resistência dos fios.",
+    "demonstrationPlan": "Conferir a embalagem500mL. Após lavar, mostrar a borrifação e distribuição conforme o rótulo, que admite uso sem enxágue. Não fazer teste caseiro de calor para simular prova de proteção.",
+    "realObjectionReply": "“Já uso óleo antes da escova.” Vamos comparar a função declarada e a etapa de aplicação. Este produto tem proteção térmica explícita; não presumo que qualquer óleo cumpra esse papel.",
+    "closingStep": "Verificar onde entra na finalização atual e planejar a avaliação da aplicação pela equipe.",
+    "avoidClaims": "Não prometer imunidade a dano térmico, dispensar temperatura adequada ou confundir com MustUse/pHControl.",
+    "sourcePages": [
+      26
+    ],
+    "sourceVersion": "Catálogo2025; conferir apresentação e rótulo atuais.",
+    "scope": "Roteiro de conversa para consultor com profissional de salão; demonstração não equivale a prova de eficácia."
+  },
+  "Oxo Fusion": {
+    "discoveryQuestion": "Na escolha de um retexturizador, sua prioridade é disciplina, controle de frizz ou toque sedoso no acabamento?",
+    "30secTalkTrack": "A Oxo Fusion é apresentada como retexturizador com B-Tex e proteína da seda, voltado a alinhamento, disciplina e cuidado da cutícula. O rótulo também declara colágeno. Eu apresento a proposta dentro do serviço de transformação que você executa, com avaliação da fibra e protocolo próprio, sem equiparar a fórmula à de outros produtos de alinhamento.",
+    "technicalReason": "B-Tex é associado a alinhamento e controle do frizz; proteína da seda a reparação da cutícula e brilho. O PDFnão detalha função individual do colágeno.",
+    "demonstrationPlan": "Conferir produto e protocolo do lote. Explicar preparo, aplicação e diferenças de pausa conforme resistência previstas na ficha; uma aplicação prática depende da avaliação e dos testes prescritos.",
+    "realObjectionReply": "“É igual à outra selagem?” O resultado pretendido pode se aproximar, mas fórmula e protocolo precisam ser comparados. Eu não uso o nome selagem como prova de equivalência.",
+    "closingStep": "Revisar a ficha com o responsável técnico e definir se corresponde ao serviço que o salão quer atender.",
+    "avoidClaims": "Não garantir química compatível, ausência de dano ou equivalência com24K/BioPlastia.",
+    "sourcePages": [
+      5
+    ],
+    "sourceVersion": "Catálogo2025; conferir apresentação e rótulo atuais.",
+    "scope": "Roteiro de conversa para consultor com profissional de salão; demonstração não equivale a prova de eficácia."
+  },
+  "Perfumaria": {
+    "discoveryQuestion": "O salão quer oferecer fragrância corporal na revenda ou você está buscando perfume para finalizar o cabelo?",
+    "30secTalkTrack": "Eu separo as duas categorias antes da apresentação. Body splash e eau de parfum são produtos corporais; perfume capilar tem aplicação própria e fica na linha correspondente. Para a revenda, a conversa começa pelo perfil de fragrância e pela apresentação disponível, sem usar uma lista de notas olfativas como se fosse uma lista de ativos de tratamento.",
+    "technicalReason": "Notas olfativas descrevem percepção aromática; não demonstram benefício capilar nem equivalem à composição completa.",
+    "demonstrationPlan": "Consultar a ficha da fragrância e sua aplicação corporal. Se houver avaliação olfativa, fazê-la com consentimento e seguindo o uso do produto; não aplicar fragrância corporal no cabelo como demonstração de tratamento.",
+    "realObjectionReply": "“Esse perfume também trata o cabelo?” Essa ficha é corporal. Para uma aplicação capilar, eu consulto um produto explicitamente formulado e orientado para os fios.",
+    "closingStep": "Selecionar a fragrância e a apresentação para avaliação, conferindo o preço público e a embalagem atuais.",
+    "avoidClaims": "Não garantir fixação por horas, uso capilar de perfume corporal ou função terapêutica.",
+    "sourcePages": [],
+    "sourceVersion": "Catálogo2025; conferir apresentação e rótulo atuais.",
+    "scope": "Roteiro de conversa para consultor com profissional de salão; demonstração não equivale a prova de eficácia."
+  },
+  "pH Control": {
+    "discoveryQuestion": "Você quer estudar uma etapa pré/pós-química ou um acabamento de blindagem para fios porosos e fragilizados?",
+    "30secTalkTrack": "O pH Control tem três contextos descritos no catálogo: antes da química, depois dela e na blindagem dos fios. NanoLink é associado a nutrição e resistência; LunaMatrix, a reposição de massa, penteabilidade e proteção. Eu começo escolhendo o contexto, porque a pausa e o enxágue do pré/pós não devem ser copiados automaticamente para a blindagem.",
+    "technicalReason": "Pré e pós-química:10min e enxágue no PDF2025. Blindagem: pequena quantidade depois de lavar e condicionar/hidratar, seguida de finalização; não há faixa numérica de pH declarada na página.",
+    "demonstrationPlan": "Abrir a ocasião de uso selecionada e conferir a orientação do lote. Se for pós-química, respeitar a remoção da química reagente antes da aplicação; não simular neutralização com um teste que o fabricante não forneceu.",
+    "realObjectionReply": "“Serve para neutralizar qualquer química?” O catálogo declara equilíbrio do pH e resíduos, mas isso não autoriza substituir o neutralizante específico de qualquer procedimento.",
+    "closingStep": "Definir o contexto e revisar compatibilidade e protocolo com o profissional responsável.",
+    "avoidClaims": "Não inventar pHnumérico, prometer compatibilidade universal ou substituir neutralizante técnico.",
+    "sourcePages": [
+      25
+    ],
+    "sourceVersion": "Catálogo2025; conferir apresentação e rótulo atuais.",
+    "scope": "Roteiro de conversa para consultor com profissional de salão; demonstração não equivale a prova de eficácia."
+  },
+  "Power Curls": {
+    "discoveryQuestion": "Na finalização dos seus cachos, a demanda maior é definição, fixação ou reativar a forma entre lavagens?",
+    "30secTalkTrack": "A Power Curls permite separar funções que costumam ficar misturadas: máscara para o cuidado, creme para modelagem, geleia para fixação e ativador para reativar a forma entre lavagens. Coco é associado a nutrição e controle do frizz; D-pantenol, a hidratação e resistência. Eu escolho a etapa com você pelo resultado de acabamento que a cliente procura.",
+    "technicalReason": "Creme, geleia e ativador têm propostas diferentes; não são automaticamente substitutos. Os shampoos1L/300mL têm seus próprios usos confirmados no PDF.",
+    "demonstrationPlan": "Identificar o objetivo e mostrar a aplicação do finalizador escolhido no comprimento, com amassamento e secagem previstas. O ativador é apresentado no contexto entre lavagens; não sobrepor todos os produtos como regra.",
+    "realObjectionReply": "“Preciso comprar todos para definir?” Não. Primeiro escolhemos a função que falta: modelar, fixar ou reativar. O conjunto depende da rotina que você quer montar.",
+    "closingStep": "Selecionar uma etapa e definir como a equipe avaliará aplicação e acabamento em um perfil de cacho atendido.",
+    "avoidClaims": "Não garantir um padrão de cacho, duração fixa ou quantidades iguais para toda textura.",
+    "sourcePages": [
+      17,
+      18,
+      19
+    ],
+    "sourceVersion": "Catálogo2025; conferir apresentação e rótulo atuais.",
+    "scope": "Roteiro de conversa para consultor com profissional de salão; demonstração não equivale a prova de eficácia."
+  },
+  "Power Luminous Oil": {
+    "discoveryQuestion": "Você quer um óleo para o acabamento das pontas ou para complementar um tratamento conforme a orientação do fabricante?",
+    "30secTalkTrack": "O Power Luminous Oil é o óleo de açaí da linha, com proposta de brilho, maciez e hidratação, além de ação antioxidante declarada. Ele pode entrar nas pontas antes ou depois da escova e, conforme o catálogo, ser adicionado a máscaras, condicionadores e cremes. Eu começo pelo contexto de uso para não oferecer óleo onde falta outra etapa de tratamento.",
+    "technicalReason": "Óleo de açaí é associado a antioxidantes, hidratação, brilho e controle de frizz. Isso não torna a composição igual ao Frulix de açaí das máscaras.",
+    "demonstrationPlan": "Mostrar algumas gotas distribuídas nas mãos e pontas, seguindo o rótulo. Se o interesse for adição a tratamento, confirmar a orientação atual; não inventar dosagem universal de mistura.",
+    "realObjectionReply": "“É o mesmo açaí do shampoo?” O óleo é outra apresentação. Eu não afirmo equivalência entre óleo de açaí e Frulix de açaí.",
+    "closingStep": "Escolher entre acabamento e complemento de tratamento e conferir a orientação correspondente.",
+    "avoidClaims": "Não declarar proteção térmica, dose universal ou equivalência química entre extrato e óleo.",
+    "sourcePages": [
+      22
+    ],
+    "sourceVersion": "Catálogo2025; conferir apresentação e rótulo atuais.",
+    "scope": "Roteiro de conversa para consultor com profissional de salão; demonstração não equivale a prova de eficácia."
+  },
+  "Power Repair": {
+    "discoveryQuestion": "Os seus atendimentos de hidratação envolvem mais fios ressecados, frizz ou manutenção de cabelos com coloração?",
+    "30secTalkTrack": "A Power Repair é uma rotina de hidratação e cuidado de fios secos e com frizz, com proteção da cor na proposta da marca. A versão HomeCare destaca Frulix de açaí e ceramidas: nutrição e antioxidantes de um lado, cuidado da barreira de outro. Eu separo a apresentação de salão da manutenção para explicar apenas os ativos e o uso que estão confirmados em cada uma.",
+    "technicalReason": "PDF2025p21/HomeCare: Frulix de açaí e ceramidas. P20profissional confirma uso e indicação, mas não lista ativos individuais; não preencher por suposição.",
+    "demonstrationPlan": "Selecionar a embalagem. Mostrar limpeza, máscara e condicionamento conforme rótulo; no PDFprofissional, o condicionador1L tem cerca de3min com enxágue. Óleo é etapa separada quando incluído.",
+    "realObjectionReply": "“Já faço reconstrução; por que hidratação?” São necessidades que precisam ser avaliadas no fio. Esta proposta trabalha ressecamento e maleabilidade; não a apresento como substituta automática de qualquer reconstrução.",
+    "closingStep": "Definir a apresentação e a necessidade principal, depois conferir os itens do kit atual.",
+    "avoidClaims": "Não prometer manter cor indefinidamente nem transferir fórmula300mLpara1L sem fonte específica.",
+    "sourcePages": [
+      20,
+      21
+    ],
+    "sourceVersion": "Catálogo2025; conferir apresentação e rótulo atuais.",
+    "scope": "Roteiro de conversa para consultor com profissional de salão; demonstração não equivale a prova de eficácia."
+  },
+  "Queratina": {
+    "discoveryQuestion": "Você procura uma etapa específica para fios fragilizados por química ou para apoiar a resistência do comprimento?",
+    "30secTalkTrack": "A Queratina Hidrolisada250mL é apresentada como tratamento de reconstrução para fios danificados e fragilizados. A proposta é reposição de aminoácidos, resistência e cuidado das pontas. Eu a posiciono como uma etapa com aplicação definida, sem pressupor que todo cabelo precise de mais proteína em toda visita.",
+    "technicalReason": "O PDF2025descreve aplicação após lavar, pausa de aproximadamente5min e finalização sem necessidade de enxágue.",
+    "demonstrationPlan": "Conferir a condição do fio e a embalagem. Mostrar agitação, distribuição na extensão, pausa e finalização conforme rótulo; não usar teste de tração como prova de reconstrução.",
+    "realObjectionReply": "“Queratina sempre enrijece?” A necessidade e a rotina precisam ser avaliadas. Não proponho uso indiscriminado nem uma frequência igual para todos.",
+    "closingStep": "Definir com o profissional onde essa etapa cabe e acompanhar a condição cosmética dos fios.",
+    "avoidClaims": "Não garantir restauração total, frequência universal ou tratar resistência manual como medição de reposição proteica.",
+    "sourcePages": [
+      35
+    ],
+    "sourceVersion": "Catálogo2025; conferir apresentação e rótulo atuais.",
+    "scope": "Roteiro de conversa para consultor com profissional de salão; demonstração não equivale a prova de eficácia."
+  },
+  "S.O.S Detox": {
+    "discoveryQuestion": "Você encontra mais acúmulo de resíduos no couro cabeludo, oleosidade ou fios que precisam de limpeza com cuidado de comprimento?",
+    "30secTalkTrack": "A S.O.S Detox tem proposta de limpeza e revitalização, com etapas seguintes de hidratação e acabamento. Na HomeCare, o catálogo destaca café verde, FiberDetox e óleo de cártamo; no profissional, confirmamos limpeza e modo de uso, sem presumir uma lista individual de ativos que não está naquela página. Eu começo pelo tipo de limpeza necessário e escolho a apresentação.",
+    "technicalReason": "HomeCare: FiberDetox para purificação e cártamo para nutrição e proteção. A versão1L tem fonte própria e não herda automaticamente a fórmula300mL.",
+    "demonstrationPlan": "Conferir a apresentação e o protocolo atual. Mostrar a limpeza e depois o cuidado do comprimento. Há divergências de pausas/finalização entrePDF e loja; seguir o rótulo fornecido, sem combinar instruções diferentes.",
+    "realObjectionReply": "“Detox resolve qualquer resíduo químico?” A proposta é cosmética de limpeza. Não afirmo neutralização universal nem substituição do procedimento específico.",
+    "closingStep": "Escolher a embalagem e registrar a instrução atual que será usada pela equipe.",
+    "avoidClaims": "Não prometer desintoxicação médica, remoção comprovada de qualquer metal ou compatibilidade universal pré-química.",
+    "sourcePages": [
+      23,
+      24
+    ],
+    "sourceVersion": "Catálogo2025; conferir apresentação e rótulo atuais.",
+    "scope": "Roteiro de conversa para consultor com profissional de salão; demonstração não equivale a prova de eficácia."
+  },
+  "Silk Fiber": {
+    "discoveryQuestion": "Você quer avaliar controle de volume em fios danificados ou uma versão voltada a loiros, descoloridos e grisalhos?",
+    "30secTalkTrack": "A Silk Fiber tem versão regular e Blond. Ambas são apresentadas como retexturizadores para alinhamento e controle do volume; a Blond acrescenta a proposta de controle do amarelamento em fios claros. Eu separo as duas versões pelo perfil do atendimento e reviso o protocolo profissional antes de comparar com outro botox.",
+    "technicalReason": "O PDFp6não publica uma lista de ativos individuais. A diferença de indicação e benefícios das versões está confirmada; não inventar queratina ou pigmentos específicos.",
+    "demonstrationPlan": "Abrir a versão apropriada, conferir condição do fio e rótulo atual. Apresentar o procedimento completo e os testes exigidos antes de qualquer avaliação prática.",
+    "realObjectionReply": "“A Blond serve em qualquer cabelo?” A indicação publicada é para loiros, descoloridos e grisalhos; isso não autoriza equivalência universal com a regular.",
+    "closingStep": "Escolher versão e serviço para revisão técnica pelo responsável do salão.",
+    "avoidClaims": "Não garantir ausência de amarelamento, inventar ativos ou dispensar diagnóstico por ser chamado botox.",
+    "sourcePages": [
+      6
+    ],
+    "sourceVersion": "Catálogo2025; conferir apresentação e rótulo atuais.",
+    "scope": "Roteiro de conversa para consultor com profissional de salão; demonstração não equivale a prova de eficácia."
+  },
+  "Washing": {
+    "discoveryQuestion": "Na lavagem de rotina do salão, você busca organizar a limpeza diária e o desembaraço sem recorrer sempre a um shampoo de preparação?",
+    "30secTalkTrack": "A Washing é a dupla de shampoo e condicionador em2,5L para a rotina de salão. O shampoo é descrito para limpeza controlada e remoção de resíduos do dia a dia; o condicionador, para hidratação e desembaraço. Eu a apresento como rotina de lavagem e cuidado, separada da função de preparação profunda do CleanCare.",
+    "technicalReason": "O PDFpublica funções e modos de uso, mas não lista ativos individuais. O volume da embalagem não determina rendimento ou custo por atendimento.",
+    "demonstrationPlan": "Mostrar as aplicações separadas: shampoo em fios úmidos, massagear e enxaguar; condicionador no comprimento, com atenção às pontas, pausa de alguns minutos conforme embalagem e enxágue completo.",
+    "realObjectionReply": "“Qual o custo por lavagem?” Podemos calcular quando houver preço de compra e consumo real do salão; eu não transformo2,5L em um número inventado de aplicações.",
+    "closingStep": "Conferir o preço atual e planejar o acompanhamento do consumo real se o salão decidir avaliar a dupla.",
+    "avoidClaims": "Não inventar rendimento, economia garantida ou lista de ingredientes.",
+    "sourcePages": [
+      9
+    ],
+    "sourceVersion": "Catálogo2025; conferir apresentação e rótulo atuais.",
+    "scope": "Roteiro de conversa para consultor com profissional de salão; demonstração não equivale a prova de eficácia."
+  }
+}

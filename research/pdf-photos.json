@@ -497,16 +497,6 @@
       ]
     },
     {
-      "productId": "9297bd616196f4df",
-      "imageUrl": "/assets/products/9297bd616196f4df.webp",
-      "page": 27,
-      "verifiedPresentation": true,
-      "name": "Kit Force Life",
-      "notes": [
-        "Foto e apresentação conferidas no catálogo oficial2025; embalagem pode diferir da edição atual."
-      ]
-    },
-    {
       "productId": "48678d0216074934",
       "imageUrl": "/assets/products/48678d0216074934.webp",
       "page": 29,
@@ -684,6 +674,306 @@
       "verifiedPresentation": true,
       "notes": [
         "Fotooriginal mostra frasco60cápsulas/500mg nas mãosdamodelo. Recorte preserva dedos e fundo reais; não houve remoção/reconstrução de regiões encobertas."
+      ]
+    },
+    {
+      "productId": "54ec09cb400b6388",
+      "name": "Spray Efeito Memória 24K 300 mL",
+      "imageUrl": "/assets/products/54ec09cb400b6388.webp",
+      "page": 2,
+      "verifiedPresentation": true,
+      "notes": [
+        "Rótulo300mL conferido noPDFp2; xref14,alpha15; extração em fundo branco e recorte(380,25,635,990)."
+      ]
+    },
+    {
+      "productId": "2c6e8754eb2f4783",
+      "name": "Condicionador Max Force 1L",
+      "imageUrl": "/assets/products/2c6e8754eb2f4783.webp",
+      "page": {
+        "pageno": 14,
+        "printedPage": 14,
+        "physicalPage": 15
+      },
+      "verifiedPresentation": true,
+      "notes": [
+        "Rótulo e volume conferidos no catálogo2025; recorte de fotografia real, sem montagem de conjunto."
+      ]
+    },
+    {
+      "productId": "edb06c3e50bacae7",
+      "name": "Condicionador Max Force 300ml",
+      "imageUrl": "/assets/products/edb06c3e50bacae7.webp",
+      "page": {
+        "pageno": 15,
+        "printedPage": 15,
+        "physicalPage": 16
+      },
+      "verifiedPresentation": true,
+      "notes": [
+        "Rótulo e volume conferidos no catálogo2025; recorte de fotografia real, sem montagem de conjunto."
+      ]
+    },
+    {
+      "productId": "f3d38296a1255156",
+      "name": "Máscara Max Force 1 kg",
+      "imageUrl": "/assets/products/f3d38296a1255156.webp",
+      "page": {
+        "pageno": 14,
+        "printedPage": 14,
+        "physicalPage": 15
+      },
+      "verifiedPresentation": true,
+      "notes": [
+        "Rótulo e volume conferidos no catálogo2025; recorte de fotografia real, sem montagem de conjunto."
+      ]
+    },
+    {
+      "productId": "37311a0d369ec871",
+      "name": "Máscara Max Force 300 g",
+      "imageUrl": "/assets/products/37311a0d369ec871.webp",
+      "page": {
+        "pageno": 15,
+        "printedPage": 15,
+        "physicalPage": 16
+      },
+      "verifiedPresentation": true,
+      "notes": [
+        "Rótulo e volume conferidos no catálogo2025; recorte de fotografia real, sem montagem de conjunto."
+      ]
+    },
+    {
+      "productId": "71c7cce1c24bb205",
+      "name": "Shampoo Max Force 1L",
+      "imageUrl": "/assets/products/71c7cce1c24bb205.webp",
+      "page": {
+        "pageno": 14,
+        "printedPage": 14,
+        "physicalPage": 15
+      },
+      "verifiedPresentation": true,
+      "notes": [
+        "Rótulo e volume conferidos no catálogo2025; recorte de fotografia real, sem montagem de conjunto."
+      ]
+    },
+    {
+      "productId": "5c21d26621d6f0a6",
+      "name": "Shampoo Max Force 300ml",
+      "imageUrl": "/assets/products/5c21d26621d6f0a6.webp",
+      "page": {
+        "pageno": 15,
+        "printedPage": 15,
+        "physicalPage": 16
+      },
+      "verifiedPresentation": true,
+      "notes": [
+        "Rótulo e volume conferidos no catálogo2025; recorte de fotografia real, sem montagem de conjunto."
+      ]
+    },
+    {
+      "productId": "e95975619b537972",
+      "name": "Condicionador Power Repair 1 L",
+      "imageUrl": "/assets/products/e95975619b537972.webp",
+      "page": {
+        "pageno": 20,
+        "printedPage": 20,
+        "physicalPage": 21
+      },
+      "verifiedPresentation": true,
+      "notes": [
+        "Rótulo e volume conferidos no catálogo2025; recorte de fotografia real, sem montagem de conjunto."
+      ]
+    },
+    {
+      "productId": "c029fb47e0e973db",
+      "name": "Shampoo Power Repair 1L",
+      "imageUrl": "/assets/products/c029fb47e0e973db.webp",
+      "page": {
+        "pageno": 20,
+        "printedPage": 20,
+        "physicalPage": 21
+      },
+      "verifiedPresentation": true,
+      "notes": [
+        "Rótulo e volume conferidos no catálogo2025; recorte de fotografia real, sem montagem de conjunto."
+      ]
+    },
+    {
+      "productId": "ef5a017466c505e7",
+      "name": "Máscara Power Repair 1Kg",
+      "imageUrl": "/assets/products/ef5a017466c505e7.webp",
+      "page": {
+        "pageno": 20,
+        "printedPage": 20,
+        "physicalPage": 21
+      },
+      "verifiedPresentation": true,
+      "notes": [
+        "Rótulo e volume conferidos no catálogo2025; recorte de fotografia real, sem montagem de conjunto."
+      ]
+    },
+    {
+      "productId": "cdb0b5f5eef8f0a9",
+      "name": "Creme de Modelagem Power Curls 1 L",
+      "imageUrl": "/assets/products/cdb0b5f5eef8f0a9.webp",
+      "page": {
+        "pageno": 17,
+        "printedPage": 17,
+        "physicalPage": 18
+      },
+      "verifiedPresentation": true,
+      "notes": [
+        "Rótulo e volume conferidos no catálogo2025; recorte de fotografia real, sem montagem de conjunto."
+      ]
+    },
+    {
+      "productId": "01183f9d468921d6",
+      "name": "Shampoo Power Curls 1 L",
+      "imageUrl": "/assets/products/01183f9d468921d6.webp",
+      "page": {
+        "pageno": 17,
+        "printedPage": 17,
+        "physicalPage": 18
+      },
+      "verifiedPresentation": true,
+      "notes": [
+        "Rótulo e volume conferidos no catálogo2025; recorte de fotografia real, sem montagem de conjunto."
+      ]
+    },
+    {
+      "productId": "3e6b73f994297918",
+      "name": "Máscara Power Curls 1 kg",
+      "imageUrl": "/assets/products/3e6b73f994297918.webp",
+      "page": {
+        "pageno": 17,
+        "printedPage": 17,
+        "physicalPage": 18
+      },
+      "verifiedPresentation": true,
+      "notes": [
+        "Rótulo e volume conferidos no catálogo2025; recorte de fotografia real, sem montagem de conjunto."
+      ]
+    },
+    {
+      "productId": "a9a848c44de789fb",
+      "name": "Máscara Blond Up Premium 1 kg",
+      "imageUrl": "/assets/products/a9a848c44de789fb.webp",
+      "page": {
+        "pageno": 10,
+        "printedPage": 10,
+        "physicalPage": 11
+      },
+      "verifiedPresentation": true,
+      "notes": [
+        "Rótulo e volume conferidos no catálogo2025; recorte de fotografia real, sem montagem de conjunto."
+      ]
+    },
+    {
+      "productId": "82bcbdacdb562f8e",
+      "name": "Geleia Power Curls 1 kg",
+      "imageUrl": "/assets/products/82bcbdacdb562f8e.webp",
+      "page": {
+        "pageno": 18,
+        "printedPage": 18,
+        "physicalPage": 19
+      },
+      "verifiedPresentation": true,
+      "notes": [
+        "Rótulo e volume conferidos no catálogo2025; recorte de fotografia real, sem montagem de conjunto."
+      ]
+    },
+    {
+      "productId": "c9cf1f6be6f34a0f",
+      "name": "Protetor Térmico Necessity Use 500ml",
+      "imageUrl": "/assets/products/c9cf1f6be6f34a0f.webp",
+      "page": {
+        "pageno": 26,
+        "printedPage": 26,
+        "physicalPage": 27
+      },
+      "verifiedPresentation": true,
+      "notes": [
+        "Rótulo e volume conferidos no catálogo2025; recorte de fotografia real, sem montagem de conjunto."
+      ]
+    },
+    {
+      "productId": "4b0b72183af62db7",
+      "name": "Máscara Restore 500g",
+      "imageUrl": "/assets/products/4b0b72183af62db7.webp",
+      "page": 36,
+      "verifiedPresentation": true,
+      "notes": [
+        "Rótulo e volume conferidos no catálogo2025; recorte de fotografia real, sem montagem de conjunto."
+      ]
+    },
+    {
+      "productId": "c119cecd969a4b3a",
+      "name": "Máscara Nutri Protein 500g",
+      "imageUrl": "/assets/products/c119cecd969a4b3a.webp",
+      "page": 36,
+      "verifiedPresentation": true,
+      "notes": [
+        "Rótulo e volume conferidos no catálogo2025; recorte de fotografia real, sem montagem de conjunto."
+      ]
+    },
+    {
+      "productId": "eb8400e4508c85c8",
+      "name": "Máscara Verniz Intense 500g",
+      "imageUrl": "/assets/products/eb8400e4508c85c8.webp",
+      "page": 36,
+      "verifiedPresentation": true,
+      "notes": [
+        "Rótulo e volume conferidos no catálogo2025; recorte de fotografia real, sem montagem de conjunto."
+      ]
+    },
+    {
+      "productId": "pdf-ultra-magic-15",
+      "name": "Ampola Ultra Magic 15 mL",
+      "imageUrl": "/assets/products/pdf-ultra-magic-15.webp",
+      "page": 42,
+      "verifiedPresentation": true,
+      "notes": [
+        "Recorte da ampola15ml segurada pela modelo; partes da mão originais permanecem, sem reconstrução."
+      ]
+    },
+    {
+      "productId": "pdf-vitaminica-15",
+      "name": "Ampola Vitamínica Premium 15 mL",
+      "imageUrl": "/assets/products/pdf-vitaminica-15.webp",
+      "page": 43,
+      "verifiedPresentation": true,
+      "notes": [
+        "Foto da ampola15ml com elemento decorativo original, sem repetição para representar kit."
+      ]
+    },
+    {
+      "productId": "pdf-verniz-250",
+      "name": "Máscara Verniz Intense 250 g",
+      "imageUrl": "/assets/products/pdf-verniz-250.webp",
+      "page": 37,
+      "verifiedPresentation": true,
+      "notes": [
+        "Recorte individual do pote na pilha original do kit3x250g; bordas/oclusões da foto preservadas sem reconstrução. Rótulo250gconferido nooriginal. Recorte semampliação, semmodificarletras/volume; usar protocolo daapresentação250g."
+      ]
+    },
+    {
+      "productId": "pdf-nutri-protein-250",
+      "name": "Máscara Nutri Protein 250 g",
+      "imageUrl": "/assets/products/pdf-nutri-protein-250.webp",
+      "page": 37,
+      "verifiedPresentation": true,
+      "notes": [
+        "Recorte individual do pote na pilha original do kit3x250g; bordas/oclusões da foto preservadas sem reconstrução. Rótulo250gconferido nooriginal. Recorte semampliação, semmodificarletras/volume; usar protocolo daapresentação250g."
+      ]
+    },
+    {
+      "productId": "pdf-restore-250",
+      "name": "Máscara Restore 250 g",
+      "imageUrl": "/assets/products/pdf-restore-250.webp",
+      "page": 37,
+      "verifiedPresentation": true,
+      "notes": [
+        "Recorte individual do pote na pilha original do kit3x250g; bordas/oclusões da foto preservadas sem reconstrução. Rótulo250gconferido nooriginal. Recorte semampliação, semmodificarletras/volume; usar protocolo daapresentação250g."
       ]
     }
   ]

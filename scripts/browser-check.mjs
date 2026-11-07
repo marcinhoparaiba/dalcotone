@@ -17,6 +17,15 @@ try{
  await cdp('Network.setBlockedURLs',{urls:['https://dalcotone.com.br/*','https://cdn.shopify.com/*']});
  await cdp('Page.navigate',{url:'http://127.0.0.1:31900/'});await waitFor("document.querySelectorAll('.category-card').length>=10");
  await waitFor("navigator.serviceWorker.controller!==null");
+ assert.equal(await evaluate("document.querySelectorAll('.situation-card').length"),5);
+ assert.ok(await evaluate("document.querySelectorAll('.outcome-card').length>4"));
+ await evaluate("document.querySelector('.situation-card[href*=ressecamento]').click()");await waitFor("document.getElementById('situation-form')!==null");
+ assert.ok(await evaluate("document.querySelectorAll('.product-card').length>4"));
+ await evaluate("document.querySelector('[data-product-type=Shampoos]').click()");assert.ok(await evaluate("[...document.querySelectorAll('.card-category')].every(x=>x.textContent==='Shampoos')"));
+ await evaluate("document.querySelector('[data-product-type=Máscaras]').click()");assert.ok(await evaluate("[...document.querySelectorAll('.card-category')].some(x=>x.textContent==='Máscaras')"));
+ await evaluate("document.getElementById('clear-facets').click();document.getElementById('situation-description').value='raiz oleosa e pontas ressecadas';document.getElementById('situation-form').requestSubmit()");
+ assert.ok(await evaluate("document.querySelectorAll('.product-card').length>4"));
+ await evaluate("location.hash='catalogo'");await waitFor("document.querySelector('.category-card')!==null");
  await evaluate("document.querySelector('a[href=\"#catalogo/Selagem\"]').click()");await waitFor("document.getElementById('page-title').textContent==='Selagem'");
  await evaluate("document.querySelector('.line-card[href*=\"/24K\"]').click()");await waitFor("document.getElementById('page-title').textContent==='Linha 24K'");
  assert.equal(await evaluate("[...document.querySelectorAll('.card-title')].some(x=>x.textContent.includes('Spray'))"),false); await evaluate("document.querySelector('.line-presentation summary').click()");assert.ok(await evaluate("document.getElementById('line-script').innerText.includes('Lisselini')"));assert.ok(await evaluate("document.querySelector('[data-copy-script=line-script]')!==null"));
@@ -45,7 +54,7 @@ try{
  await evaluate("document.querySelector('[data-tab=notes]').click();const n=document.getElementById('product-note');n.value='<script>window.BAD=true</script> Nota local de teste';n.dispatchEvent(new Event('input',{bubbles:true}))");
  assert.equal(await evaluate("document.getElementById('note-state').textContent"),'Salvo neste aparelho.'); await evaluate("document.querySelector('[data-tab=presentation]').click()");assert.ok(await evaluate("document.getElementById('product-script').textContent.includes('Banana')"));
 
- await evaluate("document.querySelector('[data-tab=composition]').click()");assert.ok(await evaluate("document.querySelector('.detail-section').textContent.includes('não foi encontrada')"));
+ await evaluate("document.querySelector('[data-tab=composition]').click()");assert.ok(await evaluate("document.querySelector('.detail-section').textContent.includes('INCI')&&document.querySelector('.detail-section').textContent.includes('Banana')"));
  await evaluate("document.getElementById('product-dialog').close();document.getElementById('reset-filters').click()");
  await evaluate("const inputs=[...document.querySelectorAll('[data-compare]')].slice(0,2);inputs.forEach(i=>i.click());document.getElementById('open-compare').click()");
  assert.equal(await evaluate("document.querySelectorAll('.compare-table thead th').length"),3);
@@ -70,6 +79,7 @@ try{
  await evaluate("document.querySelector('.video-card video').muted=true;document.querySelector('.video-card video').play()");await waitFor("document.querySelector('.video-card video').currentTime>.2");
  await evaluate("document.querySelector('.video-card video').currentTime=1");await waitFor("document.querySelector('.video-card video').currentTime>=1");
  await evaluate("document.querySelector('[data-remove-video]').click()");await waitFor("document.querySelector('.video-card')===null");
+ assert.ok(await evaluate("fetch('assets/guide/hair-conditions.png').then(r=>r.ok)"));
  assert.deepEqual(exceptions,[]);
  console.log('PASS categories/lines/kit contents, pH Control as regular entry, study cards, technical/source details, responsive 1440/390/320, search, favorites, comparison, notes, offline persistence and imported video playback/seeking/deletion after offline reload. Official external photo downloads were not verified in this restricted network.');
 }finally{socket?.close();browser.kill('SIGTERM');await new Promise(r=>setTimeout(r,300));await rm(directory,{recursive:true,force:true});}

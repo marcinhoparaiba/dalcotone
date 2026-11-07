@@ -1,0 +1,1534 @@
+{
+  "queriedAt": "2026-11-07",
+  "scope": "Revisão direta de páginas capilares em details.json; 64URLs de produto recuperadas, coleções não equivalem a ficha individual.",
+  "corrections": [
+    {
+      "productId": "011793544db6c402",
+      "name": "Máscara Banana e Mel Efeito Teia 500 g",
+      "url": "https://dalcotone.com.br/products/mascara-banana-e-mel-efeito-teia-500g",
+      "queriedAt": "2026-11-07",
+      "sourceType": "official_product_page",
+      "retrieval": "recovered_text",
+      "compositionStatement": "Rica em Banana e Mel, Vitaminas, Lipídios e Potássio.",
+      "compositionKind": "highlighted_actives_or_technology",
+      "fullINCI": null,
+      "descriptionExcerpt": "Uma máscara efeito teia para quando o cabelo está áspero, opaco e pedindo nutrição de verdade. Banana, Mel, vitaminas, aminoácidos",
+      "indicationExcerpt": "Para cabelos ressecados, quebradiços e opacos.",
+      "use": "Após lavar, aplique em toda a extensão. Massageie e deixe agir de 10 a 15 min. Enxágue bem. Máscaras que transformam sua rotina! As Máscaras Efeito Teia Dal Cotone foram desenvolvidas para recuperar a saúde, o brilho e a maciez dos seus cabelos com resultados visíveis desde as primeiras aplicações. Com alta concentração de ativos que penetram profundamente na fibra capilar, tratam os fios de dentro para fora, promovendo hidratação, reparação e fortalecimento. Escolha o tratamento ideal para cada necessidade: Full Recover para reparação intensa, Banana & Mel para hidratação e nutrição, ou Reconstrutor para reposição de massa e força. Alterne o uso durante a semana e transforme seus fios com uma rotina prática, eficaz",
+      "truncated": {
+        "use": true,
+        "composition": false,
+        "description": true,
+        "indication": false
+      },
+      "webReference": "turn562913view0",
+      "notes": [
+        "Trecho de modo de uso truncado; não apresentar como protocolo completo."
+      ]
+    },
+    {
+      "productId": "0942eb44018494cd",
+      "name": "Máscara Full Recover Efeito Teia 500 g",
+      "url": "https://dalcotone.com.br/products/mascara-capilar-profissional-recovery-500g",
+      "queriedAt": "2026-11-07",
+      "sourceType": "official_product_page",
+      "retrieval": "recovered_text",
+      "compositionStatement": "Proteínas e aminoácidos compatíveis com a fibra capilar.",
+      "compositionKind": "highlighted_actives_or_technology",
+      "fullINCI": null,
+      "descriptionExcerpt": "Para quando o cabelo pós-química perde resistência, elasticidade e movimento. A Full Recover Efeito Teia combina proteínas e aminoácidos compatíveis",
+      "indicationExcerpt": "Para cabelos fragilizados ou quimicamente tratados que precisam de cuidado reconstrutor intenso.",
+      "use": "Após lavar, aplique em toda a extensão. Massageie e deixe agir de 10 a 15 min. Enxágue bem. Máscaras que transformam sua rotina! As Máscaras Efeito Teia Dal Cotone foram desenvolvidas para recuperar a saúde, o brilho e a maciez dos seus cabelos com resultados visíveis desde as primeiras aplicações. Com alta concentração de ativos que penetram profundamente na fibra capilar, tratam os fios de dentro para fora, promovendo hidratação, reparação e fortalecimento. Escolha o tratamento ideal para cada necessidade: Full Recover para reparação intensa, Banana & Mel para hidratação e nutrição, ou Reconstrutor para reposição de massa e força. Alterne o uso durante a semana e transforme seus fios com uma rotina prática, eficaz",
+      "truncated": {
+        "use": true,
+        "composition": false,
+        "description": true,
+        "indication": false
+      },
+      "webReference": "turn562913view1",
+      "notes": [
+        "Trecho de modo de uso truncado; não apresentar como protocolo completo."
+      ]
+    },
+    {
+      "productId": "893194e3fcaf8648",
+      "name": "Máscara Reconstrutor Efeito Teia 500 g",
+      "url": "https://dalcotone.com.br/products/mascara-reconstrutor-efeito-teia-500g",
+      "queriedAt": "2026-11-07",
+      "sourceType": "official_product_page",
+      "retrieval": "recovered_text",
+      "compositionStatement": "Geleia Real, Amêndoas e Ceramidas.",
+      "compositionKind": "highlighted_actives_or_technology",
+      "fullINCI": null,
+      "descriptionExcerpt": "Reconstrução efeito teia para cabelos danificados ou pós-química que perderam resistência e elasticidade. Geleia Real, Amêndoas e Ceramidas entram no",
+      "indicationExcerpt": "Para cabelos danificados pós quimícas.",
+      "use": "Após lavar, aplique em toda a extensão. Massageie e deixe agir de 10 a 15 min. Enxágue bem. Máscaras que transformam sua rotina! As Máscaras Efeito Teia Dal Cotone foram desenvolvidas para recuperar a saúde, o brilho e a maciez dos seus cabelos com resultados visíveis desde as primeiras aplicações. Com alta concentração de ativos que penetram profundamente na fibra capilar, tratam os fios de dentro para fora, promovendo hidratação, reparação e fortalecimento. Escolha o tratamento ideal para cada necessidade: Full Recover para reparação intensa, Banana & Mel para hidratação e nutrição, ou Reconstrutor para reposição de massa e força. Alterne o uso durante a semana e transforme seus fios com uma rotina prática, eficaz",
+      "truncated": {
+        "use": true,
+        "composition": false,
+        "description": true,
+        "indication": false
+      },
+      "webReference": "turn562913view2",
+      "notes": [
+        "Trecho de modo de uso truncado; não apresentar como protocolo completo."
+      ]
+    },
+    {
+      "productId": "f3d38296a1255156",
+      "name": "Máscara Max Force 1 kg",
+      "url": "https://dalcotone.com.br/products/mascara-max-repair-1l",
+      "queriedAt": "2026-11-07",
+      "sourceType": "official_product_page",
+      "retrieval": "recovered_text",
+      "compositionStatement": "Óleo de argan e Vitamina A",
+      "compositionKind": "highlighted_actives_or_technology",
+      "fullINCI": null,
+      "descriptionExcerpt": "Máscara de reconstrução profunda desenvolvida para recuperar e fortalecer cabelos extremamente danificados.",
+      "indicationExcerpt": null,
+      "use": "Após lavar os cabelos, aplique o produto sobre toda a extensão dos fios. Massageie e deixe agir por aproximadamente 10 a 15 minutos. Enxágue bem.",
+      "truncated": {
+        "use": false,
+        "composition": false,
+        "description": false,
+        "indication": false
+      },
+      "webReference": "turn562913view3"
+    },
+    {
+      "productId": "37311a0d369ec871",
+      "name": "Máscara Max Force 300 g",
+      "url": "https://dalcotone.com.br/products/mascara-max-repair-300ml",
+      "queriedAt": "2026-11-07",
+      "sourceType": "official_product_page",
+      "retrieval": "recovered_text",
+      "compositionStatement": "Óleo de argan e Vitamina A",
+      "compositionKind": "highlighted_actives_or_technology",
+      "fullINCI": null,
+      "descriptionExcerpt": "Tratamento reconstrutor em tamanho prático para recuperar fios extremamente danificados e sem vida.",
+      "indicationExcerpt": null,
+      "use": "Após lavar o cabelo com shampoo Max Force, retire o excesso de água. Aplique a máscara capilar mecha por mecha, concentrando nas pontas e no comprimento dos fios. Massageie suavemente e deixe agir de 10 a 15 minutos, conforme a necessidade do seu cabelo. Enxágue bem até remover todo o produto.",
+      "truncated": {
+        "use": false,
+        "composition": false,
+        "description": false,
+        "indication": false
+      },
+      "webReference": "turn607711view0"
+    },
+    {
+      "productId": "ef5a017466c505e7",
+      "name": "Máscara Power Repair 1 kg",
+      "url": "https://dalcotone.com.br/products/mascara-power-repair-500g",
+      "queriedAt": "2026-11-07",
+      "sourceType": "official_product_page",
+      "retrieval": "recovered_text",
+      "compositionStatement": "Frulix de Açaí e Ceramidas",
+      "compositionKind": "highlighted_actives_or_technology",
+      "fullINCI": null,
+      "descriptionExcerpt": "Tratamento intensivo que promove hidratação profunda e força, devolvendo o aspecto saudável aos fios.",
+      "indicationExcerpt": null,
+      "use": "Após lavar os cabelos, aplique o produto sobre toda a extensão dos fios, mantendo uma distância de 2 cm da raiz. Massageie e deixe agir por aproximadamente 10 a 15 minutos. Enxágue bem.",
+      "truncated": {
+        "use": false,
+        "composition": false,
+        "description": false,
+        "indication": false
+      },
+      "webReference": "turn607711view1"
+    },
+    {
+      "productId": "c1104649da13708c",
+      "name": "Máscara Power Repair 300 g",
+      "url": "https://dalcotone.com.br/products/mascara-power-repair-300g",
+      "queriedAt": "2026-11-07",
+      "sourceType": "official_product_page",
+      "retrieval": "recovered_text",
+      "compositionStatement": "Frulix de Açaí e Ceramidas",
+      "compositionKind": "highlighted_actives_or_technology",
+      "fullINCI": null,
+      "descriptionExcerpt": "Tratamento intensivo em tamanho prático para hidratação profunda, força e brilho dos fios.",
+      "indicationExcerpt": null,
+      "use": "Após lavar os cabelos, aplique o produto sobre toda a extensão dos fios, mantendo uma distância de 2 cm da raiz. Massageie e deixe agir por aproximadamente 10 a 15 minutos. Enxágue bem.",
+      "truncated": {
+        "use": false,
+        "composition": false,
+        "description": false,
+        "indication": false
+      },
+      "webReference": "turn607711view2"
+    },
+    {
+      "productId": "48678d0216074934",
+      "name": "Shampoo Hydra Ceramides 300 ml",
+      "url": "https://dalcotone.com.br/products/shampoo-ceramidas-300ml",
+      "queriedAt": "2026-11-07",
+      "sourceType": "official_product_page",
+      "retrieval": "recovered_text",
+      "compositionStatement": "Alho e Ceramidas.",
+      "compositionKind": "highlighted_actives_or_technology",
+      "fullINCI": null,
+      "descriptionExcerpt": "Shampoo antioxidante que limpa suavemente, combate o envelhecimento dos fios e controla o frizz.",
+      "indicationExcerpt": null,
+      "use": "Aplique sobre os cabelos molhados, massageando o couro cabeludo até o comprimento dos fios, formando uma espuma abundante. Deixe agir por 3 minutos e enxágue bem. Se necessário, repita a aplicação.",
+      "truncated": {
+        "use": false,
+        "composition": false,
+        "description": false,
+        "indication": false
+      },
+      "webReference": "turn607711view3"
+    },
+    {
+      "productId": "28860487c0334cd1",
+      "name": "Máscara Hydra Ceramides 300 g",
+      "url": "https://dalcotone.com.br/products/mascara-ceramidas-300g",
+      "queriedAt": "2026-11-07",
+      "sourceType": "official_product_page",
+      "retrieval": "recovered_text",
+      "compositionStatement": "Alho e Ceramidas.",
+      "compositionKind": "highlighted_actives_or_technology",
+      "fullINCI": null,
+      "descriptionExcerpt": "Máscara hidratante e antioxidante que combate o envelhecimento dos fios e controla o frizz.",
+      "indicationExcerpt": null,
+      "use": "Após lavar o cabelo com shampoo Hydra Ceramides , retire o excesso de água. Aplique a máscara capilar mecha por mecha, concentrando nas pontas e no comprimento dos fios. Massageie suavemente e deixe agir de 10 a 15 minutos, conforme a necessidade do seu cabelo. Enxágue bem até remover todo o produto.",
+      "truncated": {
+        "use": false,
+        "composition": false,
+        "description": false,
+        "indication": false
+      },
+      "webReference": "turn595271view0"
+    },
+    {
+      "productId": "54ec09cb400b6388",
+      "name": "Spray 24K com Efeito Memória 300 ml",
+      "url": "https://dalcotone.com.br/products/spray-24k-300ml",
+      "queriedAt": "2026-11-07",
+      "sourceType": "official_product_page",
+      "retrieval": "recovered_text",
+      "compositionStatement": "Lisselini: ativo tecnológico que combina fibras bioadesivas, proteínas ricas em arginina e biopolímeros, promovendo alinhamento imediato, ação antifrizz e proteção térmica aos fios. Silsoft AX-E: silicone de alta performance que proporciona efeito liso natural, brilho intenso e toque sedoso, garantindo maciez e proteção térmica sem pesar ou deixar resíduos.",
+      "compositionKind": "highlighted_actives_or_technology",
+      "fullINCI": null,
+      "descriptionExcerpt": "Finalizador termoativado para quem busca mais alinhamento, controle de frizz e brilho na etapa de secagem. A tecnologia de efeito",
+      "indicationExcerpt": "Para cabelos com frizz ou difíceis de alinhar, especialmente em rotinas com secador, escova ou",
+      "use": "Aplique nos fios úmidos, deixe agir de 10 a 15 min. Escove e pranche para ativar o efeito memória. O liso perfeito sem química e sem frizz Sua rotina merece a liberdade de um cabelo sempre alinhado. O Spray 24K Dal Cotone é um finalizador termoativado que precisa do calor do secador para ativar seu efeito liso com memória. Ao ser ativado, cria uma selagem térmica inteligente que protege contra a umidade e controla o frizz, mantendo os fios alinhados por muito mais tempo. Sua fórmula avançada proporciona redução no tempo de secagem, brilho intenso e toque sedoso, além de ajudar na reparação das pontas e na proteção da fibra capilar. Diferente de finalizadores comuns,",
+      "truncated": {
+        "use": true,
+        "composition": false,
+        "description": true,
+        "indication": true
+      },
+      "webReference": "turn595271view1",
+      "notes": [
+        "Trecho de modo de uso truncado; não apresentar como protocolo completo."
+      ]
+    },
+    {
+      "productId": "2c7828de22074cce",
+      "name": "Shampoo S.O.S Detox 300 ml",
+      "url": "https://dalcotone.com.br/products/shampoo-s-o-s-detox-300ml",
+      "queriedAt": "2026-11-07",
+      "sourceType": "official_product_page",
+      "retrieval": "recovered_text",
+      "compositionStatement": "Rico em Ácido Clorogênico e Vitamina E através dos ativos Café Verde, Cártamo e Fiber Detox.",
+      "compositionKind": "highlighted_actives_or_technology",
+      "fullINCI": null,
+      "descriptionExcerpt": "Shampoo purificante com ação antioxidante que combate radicais livres e revigora o couro cabeludo.",
+      "indicationExcerpt": "Para cabelos com sensação de acúmulo, raiz oleosa ou pesada, quando a rotina pede limpeza,",
+      "use": "Aplique o Shampoo Detoxificante S.O.S Detox nos cabelos molhados, massageie suavemente e deixe agir de 5 a 10 minutos. Enxágue bem e, se necessário, repita a aplicação.",
+      "truncated": {
+        "use": false,
+        "composition": false,
+        "description": false,
+        "indication": true
+      },
+      "webReference": "turn595271view2"
+    },
+    {
+      "productId": "a30244f1f975388f",
+      "name": "Condicionador S.O.S Detox 300 ml",
+      "url": "https://dalcotone.com.br/products/condicionador-s-o-s-detox-300ml",
+      "queriedAt": "2026-11-07",
+      "sourceType": "official_product_page",
+      "retrieval": "recovered_text",
+      "compositionStatement": "Ação conjunta de Café Verde, Fiber Detox e Óleo de Cártamo para purificar e proteger a fibra.",
+      "compositionKind": "highlighted_actives_or_technology",
+      "fullINCI": null,
+      "descriptionExcerpt": "Condicionador para fechar a rotina S.O.S Detox com maciez e desembaraço. Depois da limpeza e do tratamento, ajuda a deixar",
+      "indicationExcerpt": "Para cabelos com sensação de acúmulo, raiz oleosa ou pesada, quando a rotina pede limpeza,",
+      "use": "Após a máscara, aplique o Condicionador Detoxificante S.O.S Detox no comprimento e pontas. Massageie, deixe agir por aproximadamente 3 minutos e enxágue bem.",
+      "truncated": {
+        "use": false,
+        "composition": false,
+        "description": true,
+        "indication": true
+      },
+      "webReference": "turn595271view3"
+    },
+    {
+      "productId": "14a70da8ea635cd6",
+      "name": "Máscara S.O.S Detox 1 kg",
+      "url": "https://dalcotone.com.br/products/mascara-s-o-s-detox-1kg",
+      "queriedAt": "2026-11-07",
+      "sourceType": "official_product_page",
+      "retrieval": "recovered_text",
+      "compositionStatement": "Café Verde, Fiber Detox e Cártamo",
+      "compositionKind": "highlighted_actives_or_technology",
+      "fullINCI": null,
+      "descriptionExcerpt": "Máscara de nutrição e purificação profunda que fortalece os fios e estimula o crescimento saudável.",
+      "indicationExcerpt": null,
+      "use": "Após lavar os cabelos com o shampoo, aplique o produto ao longo de toda a extensão dos fios, evitando a raiz do cabelo. Massageie e deixe agir por 10 a 15 minutos. Enxágue bem.",
+      "truncated": {
+        "use": false,
+        "composition": false,
+        "description": false,
+        "indication": false
+      },
+      "webReference": "turn650814view0"
+    },
+    {
+      "productId": "964fb3151dc16665",
+      "name": "Máscara S.O.S Detox 300 g",
+      "url": "https://dalcotone.com.br/products/mascara-s-o-s-detox-300g",
+      "queriedAt": "2026-11-07",
+      "sourceType": "official_product_page",
+      "retrieval": "recovered_text",
+      "compositionStatement": "Café verde, Óleo de cártamo e Fiber detox.",
+      "compositionKind": "highlighted_actives_or_technology",
+      "fullINCI": null,
+      "descriptionExcerpt": "Tratamento nutritivo e purificante em tamanho prático para fortalecer e estimular o crescimento saudável.",
+      "indicationExcerpt": null,
+      "use": "Após lavar os cabelos com o shampoo detoxifiicante, aplique o produto ao longo de toda a extensão dos fios, evitando a raiz do cabelo. Massageie e deixe agir por 10 a 15 minutos. Enxágue bem.",
+      "truncated": {
+        "use": false,
+        "composition": false,
+        "description": false,
+        "indication": false
+      },
+      "webReference": "turn650814view1"
+    },
+    {
+      "productId": "b72901db8710aa58",
+      "name": "Finalizador S.O.S Detox 300 ml",
+      "url": "https://dalcotone.com.br/products/finalizador-s-o-s-detox-300ml",
+      "queriedAt": "2026-11-07",
+      "sourceType": "official_product_page",
+      "retrieval": "recovered_text",
+      "compositionStatement": "Café verde, Óleo de cártamo e Fiber detox.",
+      "compositionKind": "highlighted_actives_or_technology",
+      "fullINCI": null,
+      "descriptionExcerpt": "Finalizador revitalizante que sela as cutículas, protege contra danos e garante brilho radiante.",
+      "indicationExcerpt": null,
+      "use": "Retire a umidade dos cabelos com o auxílio de uma toalha e aplique o produto mecha a mecha sobre toda a extensão dos fios, mantendo uma distância de 2 cm do couro cabeludo. Escove e pranche bem. Se desejar, enxágue.",
+      "truncated": {
+        "use": false,
+        "composition": false,
+        "description": false,
+        "indication": false
+      },
+      "webReference": "turn650814view2"
+    },
+    {
+      "productId": "cdb0b5f5eef8f0a9",
+      "name": "Creme de Modelagem Cachos Power Curls 1 L",
+      "url": "https://dalcotone.com.br/products/creme-de-modelagem-cachos-power-curls-1l",
+      "queriedAt": "2026-11-07",
+      "sourceType": "official_product_page",
+      "retrieval": "recovered_text",
+      "compositionStatement": "Óleo de Coco e D-Pantenol",
+      "compositionKind": "highlighted_actives_or_technology",
+      "fullINCI": null,
+      "descriptionExcerpt": "Finalizador hidratante que modela os cachos, desembaraça os fios e controla o frizz com leveza.",
+      "indicationExcerpt": null,
+      "use": "Com os cabelos úmidos ou secos, aplique uma pequena quantidade do creme de modelagem em todo o comprimento dos fios, evitando a raiz. Distribua uniformemente, amassando os cachos para definir sua forma. Não enxágue. Finalize como de costume.",
+      "truncated": {
+        "use": false,
+        "composition": false,
+        "description": false,
+        "indication": false
+      },
+      "webReference": "turn650814view3"
+    },
+    {
+      "productId": "4a924f8c36b7f317",
+      "name": "Creme de Modelagem Cachos Power Curls 300 ml",
+      "url": "https://dalcotone.com.br/products/creme-de-modelagem-cachos-power-curls-300ml",
+      "queriedAt": "2026-11-07",
+      "sourceType": "official_product_page",
+      "retrieval": "recovered_text",
+      "compositionStatement": "Óleo de Coco e D-Pantenol",
+      "compositionKind": "highlighted_actives_or_technology",
+      "fullINCI": null,
+      "descriptionExcerpt": "Finalizador hidratante que modela os cachos, desembaraça e controla o frizz com leveza e praticidade.",
+      "indicationExcerpt": null,
+      "use": "Com os cabelos úmidos ou secos, aplique uma pequena quantidade do creme de modelagem em todo o comprimento dos fios, evitando a raiz. Distribua uniformemente, amassando os cachos para definir sua forma. Não enxágue. Finalize como de costume.",
+      "truncated": {
+        "use": false,
+        "composition": false,
+        "description": false,
+        "indication": false
+      },
+      "webReference": "turn624059view0"
+    },
+    {
+      "productId": "82bcbdacdb562f8e",
+      "name": "Geleia Cachos Power Curls 1 kg",
+      "url": "https://dalcotone.com.br/products/geleia-cachos-power-curls-1kg",
+      "queriedAt": "2026-11-07",
+      "sourceType": "official_product_page",
+      "retrieval": "recovered_text",
+      "compositionStatement": "Óleo de Coco e D-Pantenol",
+      "compositionKind": "highlighted_actives_or_technology",
+      "fullINCI": null,
+      "descriptionExcerpt": "Geleia de alta fixação que define cachos e crespos, mantendo o movimento natural e brilho saudável.",
+      "indicationExcerpt": null,
+      "use": "Com os cabelos úmidos ou secos, aplique uma quantidade adequada da geleia ativadora nas mãos e distribua uniformemente por todo o comprimento dos fios, evitando a raiz. Amasse os cachos com as mãos para ativar sua forma e deixe secar naturalmente ou use um difusor para definição máxima. Reaplique conforme necessário para reforçar a fixação e manter os cachos definidos ao longo do dia.",
+      "truncated": {
+        "use": false,
+        "composition": false,
+        "description": false,
+        "indication": false
+      },
+      "webReference": "turn624059view1"
+    },
+    {
+      "productId": "3e6b73f994297918",
+      "name": "Máscara Cachos Power Curls 1 kg",
+      "url": "https://dalcotone.com.br/products/mascara-cachos-power-curls-1kg",
+      "queriedAt": "2026-11-07",
+      "sourceType": "official_product_page",
+      "retrieval": "recovered_text",
+      "compositionStatement": "Óleo de Coco e D-Pantenol",
+      "compositionKind": "highlighted_actives_or_technology",
+      "fullINCI": null,
+      "descriptionExcerpt": "Máscara de nutrição e reconstrução que modela os cachos, previne a quebra e devolve o brilho intenso.",
+      "indicationExcerpt": null,
+      "use": "Após lavar os cabelos, aplique o produto em toda a extensão dos fios. Massageie e deixe agir por aproximadamente 10 a 15 minutos. Enxágue bem.",
+      "truncated": {
+        "use": false,
+        "composition": false,
+        "description": false,
+        "indication": false
+      },
+      "webReference": "turn624059view2"
+    },
+    {
+      "productId": "0362c5b04fc5ffb5",
+      "name": "Force Life Must Use 250 ml",
+      "url": "https://dalcotone.com.br/products/indispensavel-finalizador-250ml",
+      "queriedAt": "2026-11-07",
+      "sourceType": "official_product_page",
+      "retrieval": "recovered_text",
+      "compositionStatement": "Fórmula com tecnologia avançada para hidratação leve e reparação estratégica sem pesar os fios.",
+      "compositionKind": "highlighted_actives_or_technology",
+      "fullINCI": null,
+      "descriptionExcerpt": "O Fluido Capilar Must Use Dal Cotone utiliza tecnologia avançada de mapeamento dos fios, oferecendo resultados imediatos. Facilita o desembaraço,",
+      "indicationExcerpt": null,
+      "use": "Borrife o produto no comprimento do fio e pontas, evitando a raiz. Use após o Shampoo e antes de condicionador ou máscara. Massageie e enxague para efeito condicionante. Também pode ser usado como protetor térmico sem enxágue. Finalize como desejar.",
+      "truncated": {
+        "use": false,
+        "composition": false,
+        "description": true,
+        "indication": false
+      },
+      "webReference": "turn624059view3"
+    },
+    {
+      "productId": "9297bd616196f4df",
+      "name": "Kit Force Life Controle de Oleosidade e Hidratação",
+      "url": "https://dalcotone.com.br/products/kit-force-life-controle-de-oleosidade-e-hidratacao-dal-cotone",
+      "queriedAt": "2026-11-07",
+      "sourceType": "official_product_page",
+      "retrieval": "recovered_text",
+      "compositionStatement": "Shampoo Esfoliante Force Life 300 mL + Máscara Revitalizante Force Life 300 g. Principais ativos: Capilmax, Bambu e Jaborandi.",
+      "compositionKind": "kit_components_and_highlights",
+      "fullINCI": null,
+      "descriptionExcerpt": "Para quem convive com raiz oleosa, mas não quer tratar o cabelo inteiro como se ele fosse oleoso. O Shampoo",
+      "indicationExcerpt": "Para cabelos com raiz oleosa ou mista e fios fragilizados que também precisam de hidratação",
+      "use": "Shampoo Esfoliante Force Life: aplique nos cabelos molhados, massageando suavemente o couro cabeludo. Deixe agir de 5 a 10 minutos, enxágue e repita se necessário. Máscara Revitalizante Force Life: aplique ao longo dos fios, deixe agir de 10 a 15 minutos e enxágue completamente.",
+      "truncated": {
+        "use": false,
+        "composition": false,
+        "description": true,
+        "indication": true
+      },
+      "webReference": "turn303742view0"
+    },
+    {
+      "productId": "c80795eeb384b531",
+      "name": "Óleo Spray Golden Premium Doador de Brilho 60 ml",
+      "url": "https://dalcotone.com.br/products/doador-de-brilho-45ml",
+      "queriedAt": "2026-11-07",
+      "sourceType": "official_product_page",
+      "retrieval": "recovered_text",
+      "compositionStatement": "Fórmula líquida premium com agentes doadores de brilho e fragrância de alta fixação.",
+      "compositionKind": "highlighted_actives_or_technology",
+      "fullINCI": null,
+      "descriptionExcerpt": "O Golden Premium Dal Cotone, é um óleo capilar líquido que proporciona brilho instantâneo e um perfume delicado aos fios,",
+      "indicationExcerpt": null,
+      "use": "Agite bem antes de usar. Aplique a uma distância de 15 a 20 cm sobre toda a extensão dos fios. Pode ser usado antes ou após a secagem com escova ou prancha.",
+      "truncated": {
+        "use": false,
+        "composition": false,
+        "description": true,
+        "indication": false
+      },
+      "webReference": "turn303742view1"
+    },
+    {
+      "productId": "cefb5c7098b88e45",
+      "name": "Kit Ampolas Vitamínica Nutritiva 4 x 15 ml",
+      "url": "https://dalcotone.com.br/products/caixa-crono-ampola-vitaminica",
+      "queriedAt": "2026-11-07",
+      "sourceType": "official_product_page",
+      "retrieval": "recovered_text",
+      "compositionStatement": "Complexo de Vitaminas e Capilmax.",
+      "compositionKind": "kit_components_and_highlights",
+      "fullINCI": null,
+      "descriptionExcerpt": "Uma ampola de 15 mL para dar um reforço de nutrição e vitalidade quando o cabelo está opaco, ressecado ou",
+      "indicationExcerpt": "Para cabelos opacos, ressecados ou sem maleabilidade que precisam de um cuidado nutritivo complementar.",
+      "use": "Com os cabelos limpos, aplique diretamente nos fios da raiz às pontas ou adicione à máscara de tratamento. Deixe agir por 5 minutos e enxágue.",
+      "truncated": {
+        "use": false,
+        "composition": false,
+        "description": true,
+        "indication": false
+      },
+      "webReference": "turn303742view2"
+    },
+    {
+      "productId": "b4c4b56b01afe954",
+      "name": "Shampoo Power Repair 300 ml",
+      "url": "https://dalcotone.com.br/products/shampoo-power-repair-300ml",
+      "queriedAt": "2026-11-07",
+      "sourceType": "official_product_page",
+      "retrieval": "recovered_text",
+      "compositionStatement": "Frulix de Açaí e Ceramidas",
+      "compositionKind": "highlighted_actives_or_technology",
+      "fullINCI": null,
+      "descriptionExcerpt": "Shampoo de limpeza suave que promove luminosidade intensa e prepara os fios para a hidratação.",
+      "indicationExcerpt": null,
+      "use": "Aplique sobre os cabelos molhados, massageando bem até formar espuma. Enxágue e, se necessário, repita a aplicação.",
+      "truncated": {
+        "use": false,
+        "composition": false,
+        "description": false,
+        "indication": false
+      },
+      "webReference": "turn303742view3"
+    },
+    {
+      "productId": "c029fb47e0e973db",
+      "name": "Shampoo Power Repair 1 L",
+      "url": "https://dalcotone.com.br/products/shampoo-power-repair-1l",
+      "queriedAt": "2026-11-07",
+      "sourceType": "official_product_page",
+      "retrieval": "recovered_text",
+      "compositionStatement": "Ativos de Frulix de Açaí e Ceramidas para proteção antioxidante e integridade capilar.",
+      "compositionKind": "highlighted_actives_or_technology",
+      "fullINCI": null,
+      "descriptionExcerpt": "O Shampoo Power Repair Dal Cotone proporciona uma limpeza suave fio a fio, deixando os cabelos com luminosidade intensa, resultado",
+      "indicationExcerpt": "Para cabelos secos, ressecados ou com frizz que precisam de hidratação, maciez e melhor acabamento.",
+      "use": "Aplique o Shampoo Hidratante Power Repair nos cabelos molhados, massageie até formar espuma e enxágue. Repita a aplicação, se necessário.",
+      "truncated": {
+        "use": false,
+        "composition": false,
+        "description": true,
+        "indication": false
+      },
+      "webReference": "turn777945view0"
+    },
+    {
+      "productId": "430708f89a10e318",
+      "name": "Condicionador Power Repair 300 ml",
+      "url": "https://dalcotone.com.br/products/condicionador-power-repair-300ml",
+      "queriedAt": "2026-11-07",
+      "sourceType": "official_product_page",
+      "retrieval": "recovered_text",
+      "compositionStatement": "Frulix de Açaí e Ceramidas",
+      "compositionKind": "highlighted_actives_or_technology",
+      "fullINCI": null,
+      "descriptionExcerpt": "Condicionador de hidratação diária que desembaraça e revitaliza os fios com brilho e maciez.",
+      "indicationExcerpt": null,
+      "use": "Após lavar os cabelos, aplique o produto em toda a extensão dos fios. Massageie e deixe agir por aproximadamente 3 minutos. Enxágue bem.",
+      "truncated": {
+        "use": false,
+        "composition": false,
+        "description": false,
+        "indication": false
+      },
+      "webReference": "turn777945view1"
+    },
+    {
+      "productId": "5c21d26621d6f0a6",
+      "name": "Shampoo Max Force 300 ml",
+      "url": "https://dalcotone.com.br/products/shampoo-max-repair-300ml",
+      "queriedAt": "2026-11-07",
+      "sourceType": "official_product_page",
+      "retrieval": "recovered_text",
+      "compositionStatement": "Óleo de argan e Vitamina A",
+      "compositionKind": "highlighted_actives_or_technology",
+      "fullINCI": null,
+      "descriptionExcerpt": "Shampoo reparador que promove limpeza suave e prepara a fibra para uma reconstrução profunda.",
+      "indicationExcerpt": null,
+      "use": "Aplique sobre os cabelos molhados, massageando o couro cabeludo até o comprimento dos fios, formando uma espuma abundante. Deixe agir por 3 minutos e enxágue bem. Se necessário, repita a aplicação.",
+      "truncated": {
+        "use": false,
+        "composition": false,
+        "description": false,
+        "indication": false
+      },
+      "webReference": "turn777945view2"
+    },
+    {
+      "productId": "71c7cce1c24bb205",
+      "name": "Shampoo Max Force 1 L",
+      "url": "https://dalcotone.com.br/products/shampoo-max-repair-1l",
+      "queriedAt": "2026-11-07",
+      "sourceType": "official_product_page",
+      "retrieval": "recovered_text",
+      "compositionStatement": "Óleo de argan e Vitamina A",
+      "compositionKind": "highlighted_actives_or_technology",
+      "fullINCI": null,
+      "descriptionExcerpt": "Shampoo reparador que limpa suavemente enquanto inicia o processo de reconstrução dos fios.",
+      "indicationExcerpt": null,
+      "use": "Aplique sobre os cabelos molhados, massageando bem até formar espuma. Enxágue e, se necessário, repita a aplicação.",
+      "truncated": {
+        "use": false,
+        "composition": false,
+        "description": false,
+        "indication": false
+      },
+      "webReference": "turn777945view3"
+    },
+    {
+      "productId": "edb06c3e50bacae7",
+      "name": "Condicionador Max Force 300 ml",
+      "url": "https://dalcotone.com.br/products/condicionador-max-repair-300ml",
+      "queriedAt": "2026-11-07",
+      "sourceType": "official_product_page",
+      "retrieval": "recovered_text",
+      "compositionStatement": "Óleo de argan e Vitamina A",
+      "compositionKind": "highlighted_actives_or_technology",
+      "fullINCI": null,
+      "descriptionExcerpt": "Condicionador reconstrutor de uso diário que nutre, revigora e sela as cutículas dos fios.",
+      "indicationExcerpt": null,
+      "use": "Após retirar a máscara, aplique o produto em toda a extensão dos fios. Massageie e deixe agir por aproximadamente 3 minutos. Enxágue bem.",
+      "truncated": {
+        "use": false,
+        "composition": false,
+        "description": false,
+        "indication": false
+      },
+      "webReference": "turn107269view0"
+    },
+    {
+      "productId": "2c6e8754eb2f4783",
+      "name": "Condicionador Max Force 1 L",
+      "url": "https://dalcotone.com.br/products/condicionador-max-repair-1l",
+      "queriedAt": "2026-11-07",
+      "sourceType": "official_product_page",
+      "retrieval": "recovered_text",
+      "compositionStatement": "Óleo de argan e Vitamina A",
+      "compositionKind": "highlighted_actives_or_technology",
+      "fullINCI": null,
+      "descriptionExcerpt": "O Condicionador Max Force Dal Cotone proporciona nutrição e condicionamento necessários para um cabelo saudável e revigorado, resultado de seus",
+      "indicationExcerpt": null,
+      "use": "Após retirar a máscara, aplique o produto em toda a extensão dos fios. Massageie e deixe agir por aproximadamente 3 minutos. Enxágue bem.",
+      "truncated": {
+        "use": false,
+        "composition": false,
+        "description": true,
+        "indication": false
+      },
+      "webReference": "turn107269view1"
+    },
+    {
+      "productId": "fb1b2105ce6e43c0",
+      "name": "Kit Max Force Home Care",
+      "url": "https://dalcotone.com.br/products/kit-max-force-home-care-completo-reconstrucao-capilar-pos-quimica",
+      "queriedAt": "2026-11-07",
+      "sourceType": "official_product_page",
+      "retrieval": "recovered_text",
+      "compositionStatement": "Shampoo Reconstrutor Max Force 300 mL + Máscara Reconstrutora Max Force 300 g + Condicionador Reconstrutor Max Force 300 mL. Principais ativos: Óleo de Argan e Vitamina A.",
+      "compositionKind": "kit_components_and_highlights",
+      "fullINCI": null,
+      "descriptionExcerpt": "Rotina home care para manter o cuidado reconstrutor entre procedimentos e depois de processos químicos ou uso frequente de calor.",
+      "indicationExcerpt": "Cabelos danificados, porosos, quebradiços e que passaram por processos químicos.",
+      "use": "Shampoo Reconstrutor Max Force: aplique nos cabelos molhados, massageie até formar espuma e enxágue. Repita se necessário. Máscara Reconstrutora Max Force: aplique em toda a extensão dos fios, deixe agir de 10 a 15 minutos e enxágue. Condicionador Reconstrutor Max Force: aplique no comprimento e pontas, deixe agir por aproximadamente 3 minutos e enxágue bem.",
+      "truncated": {
+        "use": false,
+        "composition": false,
+        "description": true,
+        "indication": false
+      },
+      "webReference": "turn107269view2"
+    },
+    {
+      "productId": "7a947ed4065e018c",
+      "name": "Kit Max Force Profissional",
+      "url": "https://dalcotone.com.br/products/kit-max-force-profissional-3-em-1-reconstrucao-pos-quimica-completa-1l",
+      "queriedAt": "2026-11-07",
+      "sourceType": "official_product_page",
+      "retrieval": "recovered_text",
+      "compositionStatement": "Shampoo Reconstrutor Max Force 1 L + Máscara Reconstrutora Max Force 1 kg + Condicionador Reconstrutor Max Force 1 L. Principais ativos: Óleo de Argan e Vitamina A.",
+      "compositionKind": "kit_components_and_highlights",
+      "fullINCI": null,
+      "descriptionExcerpt": "Rotina reconstrutora de alto rendimento para cabelos danificados, porosos ou fragilizados por processos químicos. Shampoo, máscara e condicionador Max Force",
+      "indicationExcerpt": "Para cabelos danificados, porosos ou fragilizados por processos químicos que precisam de cuidado reconstrutor.",
+      "use": "Shampoo Reconstrutor Max Force: aplique nos cabelos molhados, massageie até formar espuma e enxágue. Repita se necessário. Máscara Reconstrutora Max Force: aplique em toda a extensão dos fios, deixe agir de 10 a 15 minutos e enxágue. Condicionador Reconstrutor Max Force: aplique no comprimento e pontas, deixe agir por aproximadamente 3 minutos e enxágue bem.",
+      "truncated": {
+        "use": false,
+        "composition": false,
+        "description": true,
+        "indication": false
+      },
+      "webReference": "turn107269view3"
+    },
+    {
+      "productId": "7be4a970a7f7164e",
+      "name": "Kit Max Force Home Care + Óleo de Argan",
+      "url": "https://dalcotone.com.br/products/kit-max-force-home-care-argan-oil-premium-reconstrucao-anti-frizz",
+      "queriedAt": "2026-11-07",
+      "sourceType": "official_product_page",
+      "retrieval": "recovered_text",
+      "compositionStatement": "Shampoo Reconstrutor Max Force 300 mL + Máscara Reconstrutora Max Force 300 g + Condicionador Reconstrutor Max Force 300 mL + Reparador de Pontas Argan Oil Premium 30 mL. Max Force: Óleo de Argan e Vitamina A.",
+      "compositionKind": "kit_components_and_highlights",
+      "fullINCI": null,
+      "descriptionExcerpt": "Uma rotina reconstrutora para cabelos danificados, porosos ou fragilizados por processos químicos. O trio Max Force cuida da limpeza, tratamento",
+      "indicationExcerpt": "Para cabelos danificados, porosos ou fragilizados por processos químicos que precisam de cuidado reconstrutor.",
+      "use": "Shampoo Reconstrutor Max Force: aplique nos cabelos molhados, massageie e enxágue. Máscara Reconstrutora Max Force: aplique ao longo dos fios, deixe agir de 10 a 15 minutos e enxágue. Condicionador Reconstrutor Max Force: aplique no comprimento e pontas, deixe agir por aproximadamente 3 minutos e enxágue. Reparador de Pontas Argan Oil Premium: aplique algumas gotas nas mãos e distribua nas pontas. Pode ser usado antes ou após escova ou prancha.",
+      "truncated": {
+        "use": false,
+        "composition": false,
+        "description": true,
+        "indication": false
+      },
+      "webReference": "turn905541view0"
+    },
+    {
+      "productId": "db5efd967f8e7dfe",
+      "name": "Kit Power Repair Profissional",
+      "url": "https://dalcotone.com.br/products/kit-power-repair-profissional-3-em-1-hidratacao-e-protecao-da-cor-1l",
+      "queriedAt": "2026-11-07",
+      "sourceType": "official_product_page",
+      "retrieval": "recovered_text",
+      "compositionStatement": "Shampoo Hidratante Power Repair 1 L + Máscara Hidratante Power Repair 1 kg + Condicionador Hidratante Power Repair 1 L. Principais ativos: Frulix de Açaí e Ceramidas.",
+      "compositionKind": "kit_components_and_highlights",
+      "fullINCI": null,
+      "descriptionExcerpt": "Rotina profissional de hidratação para cabelos secos, ressecados ou com frizz. Shampoo, máscara e condicionador Power Repair trabalham em sequência",
+      "indicationExcerpt": "Para cabelos secos, ressecados ou com frizz que precisam de hidratação, maciez e melhor acabamento.",
+      "use": "Shampoo Hidratante Power Repair: aplique nos cabelos molhados, massageie e enxágue. Repita se necessário. Máscara Hidratante Power Repair: aplique no comprimento, deixe agir de 10 a 15 minutos e enxágue. Condicionador Hidratante Power Repair: aplique em toda a extensão dos fios, deixe agir por aproximadamente 3 minutos e enxágue bem.",
+      "truncated": {
+        "use": false,
+        "composition": false,
+        "description": true,
+        "indication": false
+      },
+      "webReference": "turn905541view1"
+    },
+    {
+      "productId": "05cc99b387f5eb3c",
+      "name": "Kit Power Repair Home Care",
+      "url": "https://dalcotone.com.br/products/kit-power-repair-home-care-hidratacao-e-protecao-da-cor",
+      "queriedAt": "2026-11-07",
+      "sourceType": "official_product_page",
+      "retrieval": "recovered_text",
+      "compositionStatement": "Shampoo Hidratante Power Repair 300 mL + Máscara Hidratante Power Repair 300 g + Condicionador Hidratante Power Repair 300 mL. Principais ativos: Frulix de Açaí e Ceramidas.",
+      "compositionKind": "kit_components_and_highlights",
+      "fullINCI": null,
+      "descriptionExcerpt": "Uma rotina completa de hidratação para cabelos secos, ressecados ou com frizz. Shampoo, máscara e condicionador Power Repair trabalham em",
+      "indicationExcerpt": "Para cabelos secos, ressecados, com frizz e com coloração que precisa de proteção.",
+      "use": "Shampoo Hidratante Power Repair: aplique nos cabelos molhados, massageie até formar espuma e enxágue. Repita se necessário. Máscara Hidratante Power Repair: aplique no comprimento, mantendo distância da raiz, deixe agir de 10 a 15 minutos e enxágue. Condicionador Hidratante Power Repair: aplique em toda a extensão dos fios, deixe agir por aproximadamente 3 minutos e enxágue bem.",
+      "truncated": {
+        "use": false,
+        "composition": false,
+        "description": true,
+        "indication": false
+      },
+      "webReference": "turn905541view2"
+    },
+    {
+      "productId": "51b07845101579ec",
+      "name": "Kit Power Repair Home Care + Power Luminous Oil",
+      "url": "https://dalcotone.com.br/products/kit-power-repair-home-care-c-power-luminous-oil",
+      "queriedAt": "2026-11-07",
+      "sourceType": "official_product_page",
+      "retrieval": "recovered_text",
+      "compositionStatement": "Shampoo Hidratante Power Repair 300 mL + Máscara Hidratante Power Repair 300 g + Condicionador Hidratante Power Repair 300 mL + Power Luminous Oil 30 mL. Power Repair: Frulix de Açaí e Ceramidas. Power Luminous Oil: Óleo de Açaí.",
+      "compositionKind": "kit_components_and_highlights",
+      "fullINCI": null,
+      "descriptionExcerpt": "Uma rotina completa para cabelos secos, ressecados ou com frizz. O trio Power Repair cuida da limpeza, hidratação e condicionamento,",
+      "indicationExcerpt": "Para cabelos secos, ressecados e com frizz que precisam de hidratação intensa e brilho extra.",
+      "use": "Shampoo Hidratante Power Repair: aplique nos cabelos molhados, massageie e enxágue. Máscara Hidratante Power Repair: aplique no comprimento, deixe agir de 10 a 15 minutos e enxágue. Condicionador Hidratante Power Repair: aplique nos fios, deixe agir por aproximadamente 3 minutos e enxágue. Power Luminous Oil: aplique algumas gotas do comprimento às pontas para finalizar; também pode ser usado antes ou após escova ou prancha. A Linha Power Repair Dal Cotone foi desenvolvida para tratar cabelos secos, ressecados e com frizz, promovendo hidratação profunda e recuperação dos fios. Sua fórmula avançada combina Frulix de Açaí e Ceramidas, ativos que atuam diretamente na fibra capilar. O Frulix de Açaí, rico em antioxidantes e nutrientes, ajuda a revitalizar",
+      "truncated": {
+        "use": true,
+        "composition": false,
+        "description": true,
+        "indication": false
+      },
+      "webReference": "turn905541view3",
+      "notes": [
+        "Trecho de modo de uso truncado; não apresentar como protocolo completo."
+      ]
+    },
+    {
+      "productId": "af2c90a0e5bb3e69",
+      "name": "Kit Power Curls Profissional",
+      "url": "https://dalcotone.com.br/products/kit-power-curls-profissional-definicao-volume-e-hidratacao-1kg",
+      "queriedAt": "2026-11-07",
+      "sourceType": "official_product_page",
+      "retrieval": "recovered_text",
+      "compositionStatement": "Shampoo para Cachos Power Curls 1 L + Máscara para Cachos Power Curls 1 kg + Creme de Modelagem Power Curls 1 L. Principais ativos: Coco e D'Pantenol (Provitamina B5).",
+      "compositionKind": "kit_components_and_highlights",
+      "fullINCI": null,
+      "descriptionExcerpt": "Rotina Power Curls de alto rendimento para uso profissional: shampoo para limpeza, máscara para tratamento e creme de modelagem para",
+      "indicationExcerpt": "Para cabelos ondulados, cacheados ou crespos que precisam de hidratação, definição e movimento.",
+      "use": "Shampoo para Cachos Power Curls: aplique nos cabelos molhados, massageie e enxágue. Repita se necessário. Máscara para Cachos Power Curls: aplique nos fios, deixe agir de 10 a 15 minutos e enxágue. Creme de Modelagem Power Curls: aplique nos cabelos úmidos ou secos, distribua no comprimento e amasse os cachos para definir. Não enxágue.",
+      "truncated": {
+        "use": false,
+        "composition": false,
+        "description": true,
+        "indication": false
+      },
+      "webReference": "turn854271view0"
+    },
+    {
+      "productId": "a36ced1725166917",
+      "name": "Kit Power Curls Home Care",
+      "url": "https://dalcotone.com.br/products/kit-power-curls-home-care-definicao-volume-e-hidratacao",
+      "queriedAt": "2026-11-07",
+      "sourceType": "official_product_page",
+      "retrieval": "recovered_text",
+      "compositionStatement": "Shampoo para Cachos Power Curls 300 mL + Máscara para Cachos Power Curls 300 g + Creme de Modelagem Power Curls 300 mL. Principais ativos: Coco e D'Pantenol (Provitamina B5).",
+      "compositionKind": "kit_components_and_highlights",
+      "fullINCI": null,
+      "descriptionExcerpt": "Uma rotina completa para cuidar dos cachos da lavagem à finalização. O shampoo limpa, a máscara hidrata e o creme",
+      "indicationExcerpt": "Para cabelos ondulados, cacheados ou crespos que precisam de hidratação, definição e movimento.",
+      "use": "Shampoo para Cachos Power Curls: aplique nos cabelos molhados, massageie e enxágue. Repita se necessário. Máscara para Cachos Power Curls: aplique nos fios, deixe agir de 10 a 15 minutos e enxágue. Creme de Modelagem Power Curls: aplique nos cabelos úmidos ou secos, distribua no comprimento e amasse os cachos para definir. Não enxágue.",
+      "truncated": {
+        "use": false,
+        "composition": false,
+        "description": true,
+        "indication": false
+      },
+      "webReference": "turn854271view1"
+    },
+    {
+      "productId": "7c8bb0613125da45",
+      "name": "Kit Power Curls Home Care + Ativador de Cachos",
+      "url": "https://dalcotone.com.br/products/kit-power-curls-spray-ativador-de-cachos-definicao-volume-e-hidratacao",
+      "queriedAt": "2026-11-07",
+      "sourceType": "official_product_page",
+      "retrieval": "recovered_text",
+      "compositionStatement": "Shampoo para Cachos Power Curls 300 mL + Máscara para Cachos Power Curls 300 g + Creme de Modelagem Power Curls 300 mL + Ativador de Cachos Power Curls 250 mL. Principais ativos: Coco e D'Pantenol (Provitamina B5).",
+      "compositionKind": "kit_components_and_highlights",
+      "fullINCI": null,
+      "descriptionExcerpt": "Um kit para cuidar dos cachos da lavagem ao day after. Shampoo, máscara e creme constroem a rotina; o Ativador",
+      "indicationExcerpt": "Para cabelos cacheados, ondulados ou crespos.",
+      "use": "Shampoo para Cachos Power Curls: aplique nos cabelos molhados, massageie e enxágue. Máscara para Cachos Power Curls: aplique nos fios, deixe agir de 10 a 15 minutos e enxágue. Creme de Modelagem Power Curls: distribua nos cabelos úmidos ou secos e amasse para definir. Ativador de Cachos Power Curls: borrife ao longo do dia em fios secos ou úmidos e amasse para reativar os cachos. Os finalizadores não precisam de enxágue. A Linha Power Curls Dal Cotone foi desenvolvida para definir, hidratar e realçar a beleza natural dos cabelos cacheados e ondulados. Sua fórmula avançada com D’Pantenol, Pró-Vitamina B e Coco proporciona hidratação profunda, nutrição intensa e fortalecimento da fibra capilar, respeitando a curvatura dos",
+      "truncated": {
+        "use": true,
+        "composition": false,
+        "description": true,
+        "indication": false
+      },
+      "webReference": "turn854271view2",
+      "notes": [
+        "Trecho de modo de uso truncado; não apresentar como protocolo completo."
+      ]
+    },
+    {
+      "productId": "eef86335c476b86a",
+      "name": "Kit Blond Up Profissional",
+      "url": "https://dalcotone.com.br/products/kit-blond-up-professional-matizacao-hidratante-para-loiros-e-platinados",
+      "queriedAt": "2026-11-07",
+      "sourceType": "official_product_page",
+      "retrieval": "recovered_text",
+      "compositionStatement": "Shampoo Iluminador Blond Up Premium 1 L + Máscara Iluminadora Blond Up Premium 1 kg. Principais ativos: Creatina, Ácido Violeta 43, Manteiga de Abacate, Silicone e Quaternários.",
+      "compositionKind": "kit_components_and_highlights",
+      "fullINCI": null,
+      "descriptionExcerpt": "O Kit Blond Up Dal Cotone foi desenvolvido para cuidar e preservar a cor dos cabelos loiros, grisalhos e descoloridos.",
+      "indicationExcerpt": "Para cabelos loiros, grisalhos, platinados e descoloridos com tons amarelados indesejados",
+      "use": "Shampoo Iluminador Blond Up Premium: aplique nos cabelos molhados, massageie até formar espuma e acompanhe a neutralização conforme a necessidade dos fios. Enxágue bem. Máscara Iluminadora Blond Up Premium: aplique ao longo dos fios e acompanhe visualmente o tom durante a ação. Enxágue completamente.",
+      "truncated": {
+        "use": false,
+        "composition": false,
+        "description": true,
+        "indication": false
+      },
+      "webReference": "turn854271view3"
+    },
+    {
+      "productId": "6ecaab3b560f58fd",
+      "name": "Kit Hydra Ceramides",
+      "url": "https://dalcotone.com.br/products/kit-hydra-ceramides-hidratacao-antioxidante-dal-cotone",
+      "queriedAt": "2026-11-07",
+      "sourceType": "official_product_page",
+      "retrieval": "recovered_text",
+      "compositionStatement": "Shampoo Antioxidante Hydra Ceramides 300 mL + Máscara Antioxidante Hydra Ceramides 300 g. Principais ativos: Ceramidas, Proteínas Hidrolisadas e Vitamina E.",
+      "compositionKind": "kit_components_and_highlights",
+      "fullINCI": null,
+      "descriptionExcerpt": "Uma dupla de hidratação para cabelos ressecados, com frizz ou quimicamente tratados. Shampoo e máscara Hydra Ceramides combinam Ceramidas, Proteínas",
+      "indicationExcerpt": "Para cabelos ressecados, com frizz ou quimicamente tratados que precisam de hidratação, maciez e disciplina.",
+      "use": "Shampoo Antioxidante Hydra Ceramides: aplique nos cabelos úmidos, massageie até formar espuma e enxágue. Repita se necessário. Máscara Antioxidante Hydra Ceramides: aplique ao longo dos fios, mantendo cerca de 2 cm de distância do couro cabeludo, deixe agir de 10 a 15 minutos e enxágue bem.",
+      "truncated": {
+        "use": false,
+        "composition": false,
+        "description": true,
+        "indication": false
+      },
+      "webReference": "turn910173view0"
+    },
+    {
+      "productId": "fdf9be752a8c216a",
+      "name": "Kit Hydra Ceramides + Óleo Spray Golden Premium",
+      "url": "https://dalcotone.com.br/products/kit-hydra-ceramides-spray-oleo-golden-premium-hidratacao-e-brilho",
+      "queriedAt": "2026-11-07",
+      "sourceType": "official_product_page",
+      "retrieval": "recovered_text",
+      "compositionStatement": "Shampoo Antioxidante Hydra Ceramides 300 mL + Máscara Antioxidante Hydra Ceramides 300 g + Óleo Spray Golden Premium 60 mL. Hydra Ceramides: Ceramidas, Proteínas Hidrolisadas e Vitamina E.",
+      "compositionKind": "kit_components_and_highlights",
+      "fullINCI": null,
+      "descriptionExcerpt": "Hidratação no tratamento e brilho na finalização. O duo Hydra Ceramides cuida de cabelos ressecados, com frizz ou quimicamente tratados;",
+      "indicationExcerpt": "Cabelos ressecados, com frizz e que necessitam de hidratação profunda e proteção antioxidante.",
+      "use": "Lave os cabelos com o Shampoo Antioxidante Hydra Ceramides e enxágue. Aplique a Máscara Antioxidante Hydra Ceramides ao longo dos fios, mantendo cerca de 2 cm de distância do couro cabeludo, deixe agir de 10 a 15 minutos e enxágue bem. Finalize com o Óleo Spray Golden Premium, borrifando a uma distância de 15 a 20 cm dos fios. Pode ser usado antes ou após escova ou prancha.",
+      "truncated": {
+        "use": false,
+        "composition": false,
+        "description": true,
+        "indication": false
+      },
+      "webReference": "turn910173view1"
+    },
+    {
+      "productId": "c9cf1f6be6f34a0f",
+      "name": "Protetor Térmico Necessity Use 500 ml",
+      "url": "https://dalcotone.com.br/products/finalizador-uso-obrigratorio-500ml",
+      "queriedAt": "2026-11-07",
+      "sourceType": "official_product_page",
+      "retrieval": "recovered_text",
+      "compositionStatement": "Rico em Queratina Hidrolisada, Pantenol, Arginina e Óleo de Semente de Girassol para saúde capilar.",
+      "compositionKind": "highlighted_actives_or_technology",
+      "fullINCI": null,
+      "descriptionExcerpt": "O Finalizador Necessity Use Dal Cotone, é um produto reconstrutor que nutre os fios e elimina o frizz, proporcionando um",
+      "indicationExcerpt": null,
+      "use": "Para tratamento diário, após lavar os cabelos com shampoo borrife o Finalizador Necessity Use, massageando da raiz até as pontas. Se preferir, utilize sem enxágue.",
+      "truncated": {
+        "use": false,
+        "composition": false,
+        "description": true,
+        "indication": false
+      },
+      "webReference": "turn910173view2"
+    },
+    {
+      "productId": "82ac5f089100e9e1",
+      "name": "Kit S.O.S Detox Home Care",
+      "url": "https://dalcotone.com.br/products/kit-sos-detox-home-care-purificacao-revitalizante-com-controle-da-oleosidade",
+      "queriedAt": "2026-11-07",
+      "sourceType": "official_product_page",
+      "retrieval": "recovered_text",
+      "compositionStatement": "Shampoo Detoxificante S.O.S Detox 300 mL + Máscara Detoxificante S.O.S Detox 300 g + Condicionador Detoxificante S.O.S Detox 300 mL + Finalizador S.O.S Detox 300 mL. Principais ativos: Café Verde, Fiber Detox e Óleo de Cártamo.",
+      "compositionKind": "kit_components_and_highlights",
+      "fullINCI": null,
+      "descriptionExcerpt": "Uma rotina para quando o cabelo está com sensação de acúmulo, raiz pesada ou pedindo mais leveza. O shampoo limpa,",
+      "indicationExcerpt": "Para cabelos com sensação de acúmulo, raiz oleosa ou pesada e comprimento que também precisa",
+      "use": "Shampoo Detoxificante S.O.S Detox: aplique nos cabelos molhados, massageie e deixe agir de 5 a 10 minutos. Enxágue. Máscara Detoxificante S.O.S Detox: aplique no comprimento, evitando a raiz, deixe agir de 10 a 15 minutos e enxágue. Condicionador Detoxificante S.O.S Detox: aplique no comprimento, deixe agir por aproximadamente 3 minutos e enxágue. Finalizador S.O.S Detox: aplique mecha a mecha nos fios úmidos, escove e pranche. Enxágue, se necessário.",
+      "truncated": {
+        "use": false,
+        "composition": false,
+        "description": true,
+        "indication": true
+      },
+      "webReference": "turn910173view3"
+    },
+    {
+      "productId": "05a9d27f49a10fa2",
+      "name": "Kit S.O.S Detox Profissional",
+      "url": "https://dalcotone.com.br/products/kit-sos-detox-profissional-purificacao-e-controle-da-oleosidade",
+      "queriedAt": "2026-11-07",
+      "sourceType": "official_product_page",
+      "retrieval": "recovered_text",
+      "compositionStatement": "Shampoo Detoxificante S.O.S Detox 1 L + Máscara Detoxificante S.O.S Detox 1 kg. Principais ativos: Café Verde, Fiber Detox e Óleo de Cártamo.",
+      "compositionKind": "kit_components_and_highlights",
+      "fullINCI": null,
+      "descriptionExcerpt": "Dupla profissional de alto rendimento para rotinas de limpeza e revitalização. O Shampoo S.O.S Detox ajuda a remover o acúmulo",
+      "indicationExcerpt": "Para cabelos com sensação de acúmulo, excesso de oleosidade ou necessidade de uma rotina de",
+      "use": "Shampoo Detoxificante S.O.S Detox: aplique nos cabelos molhados, massageie suavemente e enxágue. Repita se necessário. Máscara Detoxificante S.O.S Detox: aplique ao longo dos fios, evitando a raiz, deixe agir de 10 a 15 minutos e enxágue completamente.",
+      "truncated": {
+        "use": false,
+        "composition": false,
+        "description": true,
+        "indication": true
+      },
+      "webReference": "turn419512view0"
+    },
+    {
+      "productId": "c119cecd969a4b3a",
+      "name": "Máscara Nutri Protein 500 g",
+      "url": "https://dalcotone.com.br/products/mascara-capilar-profissional-nutri-protein-500g",
+      "queriedAt": "2026-11-07",
+      "sourceType": "official_product_page",
+      "retrieval": "recovered_text",
+      "compositionStatement": "Complexo de Nano Proteínas",
+      "compositionKind": "highlighted_actives_or_technology",
+      "fullINCI": null,
+      "descriptionExcerpt": "A Máscara Capilar Nutri Protein Dal Cotone oferece uma nutrição profunda e intensa aos cabelos. Enriquecida com proteínas poderosas, ela",
+      "indicationExcerpt": null,
+      "use": "Após lavar os cabelos, aplique o produto sobre toda a extensão dos fios. Massageie e deixe agir por aproximadamente 7 minutos. Enxágue bem.",
+      "truncated": {
+        "use": false,
+        "composition": false,
+        "description": true,
+        "indication": false
+      },
+      "webReference": "turn419512view1"
+    },
+    {
+      "productId": "4b0b72183af62db7",
+      "name": "Máscara Restore 500 g",
+      "url": "https://dalcotone.com.br/products/mascara-capilar-profissional-restore-500g",
+      "queriedAt": "2026-11-07",
+      "sourceType": "official_product_page",
+      "retrieval": "recovered_text",
+      "compositionStatement": "Lumini System e Queratina",
+      "compositionKind": "highlighted_actives_or_technology",
+      "fullINCI": null,
+      "descriptionExcerpt": "A Máscara Capilar Restore Dal Cotone é ideal para cabelos secos e volumosos. Sua fórmula avançada com Lumini System reestrutura",
+      "indicationExcerpt": null,
+      "use": "Após lavar os cabelos, aplique o produto sobre toda a extensão dos fios. Massageie e deixe agir por aproximadamente 7 minutos. Enxágue bem.",
+      "truncated": {
+        "use": false,
+        "composition": false,
+        "description": true,
+        "indication": false
+      },
+      "webReference": "turn419512view2"
+    },
+    {
+      "productId": "eb8400e4508c85c8",
+      "name": "Máscara Verniz Intense 500 g",
+      "url": "https://dalcotone.com.br/products/mascara-capilar-profissional-verniz-intense-500g",
+      "queriedAt": "2026-11-07",
+      "sourceType": "official_product_page",
+      "retrieval": "recovered_text",
+      "compositionStatement": "Proteína da Seda e Ácido Hialurônico.",
+      "compositionKind": "highlighted_actives_or_technology",
+      "fullINCI": null,
+      "descriptionExcerpt": "A Máscara Verniz Intense Dal Cotone é a solução perfeita para cabelos secos, ressecados e com frizz. Sua fórmula enriquecida",
+      "indicationExcerpt": null,
+      "use": "Após lavar os cabelos, aplique o produto uniformemente ao longo de toda a extensão dos fios, mantendo uma distância de 2 cm do couro cabeludo. Massageie suavemente e deixe agir por aproximadamente 10 a 15 minutos. Enxágue bem.",
+      "truncated": {
+        "use": false,
+        "composition": false,
+        "description": true,
+        "indication": false
+      },
+      "webReference": "turn419512view3"
+    },
+    {
+      "productId": "f663762decc4c6b9",
+      "name": "Máscara L'Amour 300 g",
+      "url": "https://dalcotone.com.br/products/mascara-l-amour-300g",
+      "queriedAt": "2026-11-07",
+      "sourceType": "official_product_page",
+      "retrieval": "recovered_text",
+      "compositionStatement": "Fórmula rica em Vitamina A, Vitamina D, Pantenol e Extrato de Morango para vitalidade capilar",
+      "compositionKind": "highlighted_actives_or_technology",
+      "fullINCI": null,
+      "descriptionExcerpt": "A Máscara L’amour foi desenvolvida com uma fórmula que contém Vitamina A, Vitamina D, Pantenol e Extrato de Morango. Esses",
+      "indicationExcerpt": "Para cabelos opacos ou sem vida que precisam de cuidado, maciez e brilho.",
+      "use": "Após o shampoo, aplique a Máscara Nutritiva L'Amour uniformemente ao longo dos fios. Massageie, deixe agir de 10 a 15 minutos e enxágue bem.",
+      "truncated": {
+        "use": false,
+        "composition": false,
+        "description": true,
+        "indication": false
+      },
+      "webReference": "turn236478view0"
+    },
+    {
+      "productId": "6ca53b03e0ce780a",
+      "name": "Power Luminous Oil 30 ml",
+      "url": "https://dalcotone.com.br/products/argan-oil-premium-30ml",
+      "queriedAt": "2026-11-07",
+      "sourceType": "official_product_page",
+      "retrieval": "recovered_text",
+      "compositionStatement": "Base de óleo de açaí, rico em nutrientes que combatem o envelhecimento precoce da fibra.",
+      "compositionKind": "highlighted_actives_or_technology",
+      "fullINCI": null,
+      "descriptionExcerpt": "Óleo de açaí com ação antioxidante que garante brilho radiante e maciez imediata às pontas.",
+      "indicationExcerpt": null,
+      "use": "Aplique algumas gotas na palma das mãos e espalhe uniformemente nas pontas dos fios. Pode ser usado antes ou após a escova ou a prancha, ou adicionado a máscaras, condicionadores e cremes para tratamento capilar.",
+      "truncated": {
+        "use": false,
+        "composition": false,
+        "description": false,
+        "indication": false
+      },
+      "webReference": "turn236478view1"
+    },
+    {
+      "productId": "bb946e7d15bc1e95",
+      "name": "Kit de Ampolas Ultra Magic 4 x 15 ml",
+      "url": "https://dalcotone.com.br/products/caixa-crono-ultra-magic-3411",
+      "queriedAt": "2026-11-07",
+      "sourceType": "official_product_page",
+      "retrieval": "recovered_text",
+      "compositionStatement": "Tecnologia exclusiva Magic Fusion para ação restauradora e selagem instantânea das cutículas.",
+      "compositionKind": "kit_components_and_highlights",
+      "fullINCI": null,
+      "descriptionExcerpt": "Ampola restauradora de 15 mL para cabelos danificados ou fragilizados que precisam de um cuidado rápido entre os tratamentos da",
+      "indicationExcerpt": "Para cabelos opacos ou quimicamente tratados que precisam de um tratamento complementar na rotina.",
+      "use": "Use de 3 a 5 mL em água fria e misture até formar uma mousse, ou aplique diretamente nos cabelos limpos e molhados. Também pode ser adicionada à máscara. Deixe agir por cerca de 5 minutos e enxágue.",
+      "truncated": {
+        "use": false,
+        "composition": false,
+        "description": true,
+        "indication": false
+      },
+      "webReference": "turn236478view2"
+    },
+    {
+      "productId": "244136c3b5dfed21",
+      "name": "Cronograma Capilar em Ampolas - Crono Plus+",
+      "url": "https://dalcotone.com.br/products/ampolas-capilares-crono-snapshot",
+      "queriedAt": "2026-11-07",
+      "sourceType": "official_product_page",
+      "retrieval": "recovered_text",
+      "compositionStatement": "Kit com quatro ampolas potencializadoras: Nutrição, Fortalecimento, Hidratação e Reconstrução.",
+      "compositionKind": "kit_components_and_highlights",
+      "fullINCI": null,
+      "descriptionExcerpt": "Quatro ampolas, quatro funções diferentes: nutrição, fortalecimento, hidratação e reconstrução. O Crono Plus+ foi pensado para encaixar cuidados concentrados na",
+      "indicationExcerpt": "Para cabelos danificados, opacos ou fragilizados que precisam de um tratamento complementar na rotina.",
+      "use": "Ampola de fortalecimento: aplique no couro cabeludo limpo, massageie e não enxágue; pode ser usada até 2 vezes ao dia. Demais ampolas: use de 3 a 5 mL em água fria até formar uma mousse, aplique diretamente nos cabelos limpos e molhados ou adicione à máscara. Deixe agir por cerca de 5 minutos e enxágue.",
+      "truncated": {
+        "use": false,
+        "composition": false,
+        "description": true,
+        "indication": false
+      },
+      "webReference": "turn236478view3"
+    },
+    {
+      "productId": "4d656c72af8742ad",
+      "name": "Kit Cronograma Capilar – 3 Máscaras de 250 g",
+      "url": "https://dalcotone.com.br/products/kit-cronograma-capilar-mascaras-capilares-250g",
+      "queriedAt": "2026-11-07",
+      "sourceType": "official_product_page",
+      "retrieval": "recovered_text",
+      "compositionStatement": "Verniz Intense: proteína da seda e ácido hialurônico. Nutri Protein: nano proteínas. Restore: queratina hidrolisada e Lumini System.",
+      "compositionKind": "kit_components_and_highlights",
+      "fullINCI": null,
+      "descriptionExcerpt": "Três máscaras, três cuidados diferentes. O Kit Cronograma Capilar Dal Cotone reúne tratamentos para cuidar do ressecamento, melhorar a maleabilidade",
+      "indicationExcerpt": "Para cabelos ressecados, opacos, com frizz, porosidade ou fragilizados. As etapas e a frequência devem",
+      "use": "Após o shampoo, aplique uma das máscaras nos cabelos úmidos, do comprimento às pontas. Deixe agir de 10 a 15 minutos e enxágue bem. Alterne hidratação, nutrição e reconstrução conforme a necessidade dos fios, respeitando a frequência indicada para cada tratamento. NEM TODA LAVAGEM PEDE A MESMA MÁSCARA. Tem dia que o cabelo precisa de mais maciez. Em outros, de nutrição ou reconstrução. O Kit Cronograma Dal Cotone reúne três máscaras para você alternar os cuidados conforme a necessidade dos seus fios. 3 Máscaras de 250g • Hidratação, Nutrição e Reconstrução HIDRATAÇÃO Quando o cabelo está áspero, ressecado ou sem brilho. A Máscara Verniz Intense, promove hidratação profunda, melhorando a elasticidade natural dos fios e",
+      "truncated": {
+        "use": true,
+        "composition": false,
+        "description": true,
+        "indication": true
+      },
+      "webReference": "turn369956view0",
+      "notes": [
+        "Trecho de modo de uso truncado; não apresentar como protocolo completo."
+      ]
+    },
+    {
+      "productId": "daff3cb1e87f8b2f",
+      "name": "Shampoo Monovin 300 ml",
+      "url": "https://dalcotone.com.br/products/shampoo-monovin-300ml",
+      "queriedAt": "2026-11-07",
+      "sourceType": "official_product_page",
+      "retrieval": "recovered_text",
+      "compositionStatement": "Complexo Pro A e Vitamina B5 para nutrição do couro cabeludo e resistência da fibra capilar.",
+      "compositionKind": "highlighted_actives_or_technology",
+      "fullINCI": null,
+      "descriptionExcerpt": "Shampoo para uma limpeza equilibrada dentro da rotina Monovin. Remove as impurezas do dia a dia enquanto prepara os fios",
+      "indicationExcerpt": "Para fios fragilizados e para quem deseja uma rotina de cuidado da raiz e do",
+      "use": "Com os cabelos úmidos, aplique o Shampoo Fortificante Monovin, massageie suavemente e enxágue. Repita a aplicação, se necessário.",
+      "truncated": {
+        "use": false,
+        "composition": false,
+        "description": true,
+        "indication": true
+      },
+      "webReference": "turn369956view1"
+    },
+    {
+      "productId": "288400afe5f54ed1",
+      "name": "Máscara Monovin 300 g",
+      "url": "https://dalcotone.com.br/products/mascara-monovin-300ml",
+      "queriedAt": "2026-11-07",
+      "sourceType": "official_product_page",
+      "retrieval": "recovered_text",
+      "compositionStatement": "Vitamina Pro A e Vitamina Pro B5.",
+      "compositionKind": "highlighted_actives_or_technology",
+      "fullINCI": null,
+      "descriptionExcerpt": "Máscara fortificante para fios fragilizados que precisam de hidratação, flexibilidade e um toque mais resistente. Dentro da rotina Monovin, ela",
+      "indicationExcerpt": "Para fios fragilizados e para quem deseja uma rotina de cuidado da raiz e do",
+      "use": "Após lavar, aplique a Máscara Fortificante Monovin no comprimento e pontas. Deixe agir de 10 a 15 minutos e enxágue completamente. Use duas vezes por semana ou sempre que necessário.",
+      "truncated": {
+        "use": false,
+        "composition": false,
+        "description": true,
+        "indication": true
+      },
+      "webReference": "turn369956view2"
+    },
+    {
+      "productId": "e5f603736ab7da3a",
+      "name": "Tônico Capilar Monovin 120 ml",
+      "url": "https://dalcotone.com.br/products/tonico-monovin",
+      "queriedAt": "2026-11-07",
+      "sourceType": "official_product_page",
+      "retrieval": "recovered_text",
+      "compositionStatement": "Complexo de Vitamina A, Biotina, D’Pantenol, Queratina e Óleos de Argan, Coco e Rícino.",
+      "compositionKind": "highlighted_actives_or_technology",
+      "fullINCI": null,
+      "descriptionExcerpt": "O Tônico Monovin Dal Cotone foi desenvolvido especialmente para ajudar na prevenção e no combate à queda de cabelo, fortalecendo",
+      "indicationExcerpt": null,
+      "use": "Agite antes de usar. Com os cabelos limpos, secos ou úmidos, aplique o tônico diretamente no couro cabeludo, separando os cabelos com os dedos para facilitar o acesso. Massageie delicadamente o couro cabeludo para melhorar a absorção. Não enxágue. Utilize o Tônico 2x ao dia (manhã e noite). Para melhores resultados, use sempre os produtos Dal Cotone Cosméticos.",
+      "truncated": {
+        "use": false,
+        "composition": false,
+        "description": true,
+        "indication": false
+      },
+      "webReference": "turn369956view3"
+    },
+    {
+      "productId": "4d9dff105dbdfa72",
+      "name": "Ativador de Cachos Power Curls 250 ml",
+      "url": "https://dalcotone.com.br/products/ativador-de-cachos-perfect-curls-300ml",
+      "queriedAt": "2026-11-07",
+      "sourceType": "official_product_page",
+      "retrieval": "recovered_text",
+      "compositionStatement": "Óleo de Coco e D-Pantenol",
+      "compositionKind": "highlighted_actives_or_technology",
+      "fullINCI": null,
+      "descriptionExcerpt": "Ativador em spray que redefine os cachos, devolve o volume natural e controla o frizz entre lavagens.",
+      "indicationExcerpt": null,
+      "use": "Aplique o ativador de cachos nos cabelos úmidos ou secos, borrifando uniformemente por todo o comprimento. Amasse os fios com as mãos para reativar a forma dos cachos. Deixe secar naturalmente ou use o difusor para melhores resultados. Reaplique sempre que necessário ao longo do dia.",
+      "truncated": {
+        "use": false,
+        "composition": false,
+        "description": false,
+        "indication": false
+      },
+      "webReference": "turn625783view0"
+    },
+    {
+      "productId": "f26481e02a5cf2af",
+      "name": "Máscara Power Curls 300 g",
+      "url": "https://dalcotone.com.br/products/mascara-cachos-perfect-curls-300g",
+      "queriedAt": "2026-11-07",
+      "sourceType": "official_product_page",
+      "retrieval": "recovered_text",
+      "compositionStatement": "Óleo de Coco e D-Pantenol",
+      "compositionKind": "highlighted_actives_or_technology",
+      "fullINCI": null,
+      "descriptionExcerpt": "Tratamento nutritivo que modela os cachos, reconstrói a fibra e previne a quebra com brilho intenso.",
+      "indicationExcerpt": null,
+      "use": "Após lavar os cabelos, aplique o produto em toda a extensão dos fios. Massageie e deixe agir por aproximadamente 10 a 15 minutos. Enxágue bem.",
+      "truncated": {
+        "use": false,
+        "composition": false,
+        "description": false,
+        "indication": false
+      },
+      "webReference": "turn625783view1"
+    },
+    {
+      "productId": "847ff96acdc5f26b",
+      "name": "Shampoo Blond Up 300 ml",
+      "url": "https://dalcotone.com.br/products/shampoo-blond-up-300ml",
+      "queriedAt": "2026-11-07",
+      "sourceType": "official_product_page",
+      "retrieval": "recovered_text",
+      "compositionStatement": "Creatina, Ácido Violeta 43, Manteiga de Abacate, Silicone e Quaternários.",
+      "compositionKind": "highlighted_actives_or_technology",
+      "fullINCI": null,
+      "descriptionExcerpt": "Shampoo iluminador para loiros, grisalhos e cabelos com mechas. Faz a limpeza da rotina enquanto ajuda a neutralizar gradualmente o",
+      "indicationExcerpt": "Para cabelos loiros, com mechas, descoloridos ou grisalhos que precisam de manutenção do tom, maciez",
+      "use": "Aplique o Shampoo Iluminador Blond Up nos cabelos molhados e massageie até formar espuma. Ajuste o tempo de ação conforme a necessidade de neutralização e enxágue bem. Repita, se necessário.",
+      "truncated": {
+        "use": false,
+        "composition": false,
+        "description": true,
+        "indication": true
+      },
+      "webReference": "turn625783view2"
+    },
+    {
+      "productId": "a9a848c44de789fb",
+      "name": "Máscara Blond Up Premium 1 kg",
+      "url": "https://dalcotone.com.br/products/mascara-iluminadora-blond-up-premium",
+      "queriedAt": "2026-11-07",
+      "sourceType": "official_product_page",
+      "retrieval": "recovered_text",
+      "compositionStatement": "Creatina, Ácido Violeta 43, Manteiga de Abacate, Silicone e Quaternários.",
+      "compositionKind": "highlighted_actives_or_technology",
+      "fullINCI": null,
+      "descriptionExcerpt": "Máscara iluminadora de alto rendimento para loiros, grisalhos e cabelos com mechas. Ajuda a neutralizar gradualmente tons amarelados enquanto entrega",
+      "indicationExcerpt": "Para cabelos loiros, com mechas, descoloridos ou grisalhos que precisam de manutenção do tom, maciez",
+      "use": "Após o shampoo, aplique a Máscara Iluminadora Blond Up Premium ao longo dos fios. Acompanhe visualmente o tom durante a ação e enxágue completamente.",
+      "truncated": {
+        "use": false,
+        "composition": false,
+        "description": true,
+        "indication": true
+      },
+      "webReference": "turn625783view3"
+    },
+    {
+      "productId": "99b3b3196433752a",
+      "name": "Kit Monovin",
+      "url": "https://dalcotone.com.br/products/kit-monovin-fortalecimento-capilar-e-estimulo-ao-crescimento-dos-fios",
+      "queriedAt": "2026-11-07",
+      "sourceType": "official_product_page",
+      "retrieval": "recovered_text",
+      "compositionStatement": "Shampoo Fortificante Monovin 300 mL + Máscara Fortificante Monovin 300 g + Tônico Capilar Monovin 120 mL.",
+      "compositionKind": "kit_components_and_highlights",
+      "fullINCI": null,
+      "descriptionExcerpt": "Uma rotina completa para fios fragilizados, com shampoo, máscara e tônico atuando em momentos diferentes do cuidado. O shampoo limpa,",
+      "indicationExcerpt": "Para fios fragilizados e para quem deseja uma rotina contínua de cuidado da raiz, couro",
+      "use": "Shampoo Fortificante Monovin: aplique nos cabelos úmidos, massageie e enxágue. Repita se necessário. Máscara Fortificante Monovin: aplique no comprimento e pontas, deixe agir de 10 a 15 minutos e enxágue; use duas vezes por semana ou sempre que necessário. Tônico Capilar Monovin: aplique diretamente no couro cabeludo limpo, seco ou úmido, massageie e não enxágue. Utilize duas vezes ao dia.",
+      "truncated": {
+        "use": false,
+        "composition": false,
+        "description": true,
+        "indication": true
+      },
+      "webReference": "turn587267view0"
+    },
+    {
+      "productId": "060dbd1588f6e3af",
+      "name": "Kit Monovin + Woman Caps",
+      "url": "https://dalcotone.com.br/products/kit-monovin-woman-caps-auxilio-no-crescimento-capilar-e-fortalecimento",
+      "queriedAt": "2026-11-07",
+      "sourceType": "official_product_page",
+      "retrieval": "recovered_text",
+      "compositionStatement": "Shampoo Fortificante Monovin 300 mL + Máscara Fortificante Monovin 300 g + Tônico Capilar Monovin 120 mL + Woman Caps Ácido Pantotênico 60 cápsulas.",
+      "compositionKind": "kit_components_and_highlights",
+      "fullINCI": null,
+      "descriptionExcerpt": "Uma rotina completa de cuidado para fios fragilizados, reunindo Shampoo Monovin, Máscara Monovin, Tônico Monovin e Woman Caps. O kit",
+      "indicationExcerpt": "Para fios fragilizados e para quem busca organizar uma rotina de cuidado capilar de dentro",
+      "use": "Shampoo Fortificante Monovin: aplique nos cabelos úmidos, massageie e enxágue. Máscara Fortificante Monovin: aplique no comprimento e pontas, deixe agir de 10 a 15 minutos e enxágue; use duas vezes por semana ou sempre que necessário. Tônico Capilar Monovin: aplique no couro cabeludo, massageie e não enxágue; utilize duas vezes ao dia. Woman Caps: ingerir 1 cápsula ao dia, conforme orientação da embalagem.",
+      "truncated": {
+        "use": false,
+        "composition": false,
+        "description": true,
+        "indication": true
+      },
+      "webReference": "turn587267view1"
+    },
+    {
+      "productId": "3e67b66612b7f633",
+      "name": "Kit Force Life + Must Use",
+      "url": "https://dalcotone.com.br/products/kit-force-life-finalizador-must-use-controle-de-oleosidade-e-reconstrucao-300g",
+      "queriedAt": "2026-11-07",
+      "sourceType": "official_product_page",
+      "retrieval": "recovered_text",
+      "compositionStatement": "Shampoo Esfoliante Force Life 300 mL + Máscara Revitalizante Force Life 300 g + Fluido Reconstrutor Must Use 250 mL. Force Life: Capilmax, Bambu e Jaborandi. Must Use: Pantenol, Ômegas 3, 5 e 6, Queratina, Nano Link, Semi Di Lino e Silicones Especiais.",
+      "compositionKind": "kit_components_and_highlights",
+      "fullINCI": null,
+      "descriptionExcerpt": "Uma rotina que separa o cuidado da raiz do acabamento do comprimento. Force Life ajuda na limpeza da raiz oleosa",
+      "indicationExcerpt": "Para cabelos com raiz oleosa ou mista e fios que precisam de hidratação, fortalecimento e",
+      "use": "Shampoo Esfoliante Force Life: aplique no couro cabeludo molhado, massageie e deixe agir de 5 a 10 minutos. Enxágue. Máscara Revitalizante Force Life: aplique no comprimento e pontas, deixe agir de 10 a 15 minutos e enxágue. Fluido Reconstrutor Must Use: borrife nos fios após a lavagem e distribua. Pode ser usado com ou sem enxágue.",
+      "truncated": {
+        "use": false,
+        "composition": false,
+        "description": true,
+        "indication": true
+      },
+      "webReference": "turn587267view2"
+    },
+    {
+      "productId": "6f9f4653036c50d2",
+      "name": "Shampoo Blond Up Premium 1 L",
+      "url": "https://dalcotone.com.br/products/shampoo-iluminador-blond-up-premium",
+      "queriedAt": "2026-11-07",
+      "sourceType": "official_product_page",
+      "retrieval": "recovered_text",
+      "compositionStatement": "Creatina, Ácido Violeta 43, Manteiga de Abacate, Silicone e Quaternários.",
+      "compositionKind": "highlighted_actives_or_technology",
+      "fullINCI": null,
+      "descriptionExcerpt": "Shampoo iluminador de alto rendimento para loiros, grisalhos e cabelos com mechas. Limpa enquanto ajuda a neutralizar gradualmente o amarelado",
+      "indicationExcerpt": "Para cabelos loiros, com mechas, descoloridos ou grisalhos que precisam de manutenção do tom, maciez",
+      "use": "Aplique o Shampoo Iluminador Blond Up Premium nos cabelos molhados e massageie até formar espuma. Acompanhe a neutralização conforme a necessidade dos fios e enxágue bem.",
+      "truncated": {
+        "use": false,
+        "composition": false,
+        "description": true,
+        "indication": true
+      },
+      "webReference": "turn587267view3"
+    }
+  ],
+  "unresolvedUrls": [
+    {
+      "name": "Kit Blond Up Home Care",
+      "url": "https://dalcotone.com.br/collections/kits",
+      "reason": "URL original é coleção, não ficha individual; composição/uso individuais não concluídos por essaURL.",
+      "resolution": "Localizar e abrirURLcanônica individual. Não interpretar falha de acesso como ausência da informação no site."
+    },
+    {
+      "name": "Shampoo Force Life 300 mL",
+      "url": "https://dalcotone.com.br/collections/kits",
+      "reason": "URL original é coleção, não ficha individual; composição/uso individuais não concluídos por essaURL.",
+      "resolution": "Localizar e abrirURLcanônica individual. Não interpretar falha de acesso como ausência da informação no site."
+    },
+    {
+      "name": "Kit L'Amour Morango",
+      "url": "https://dalcotone.com.br/collections/kits",
+      "reason": "URL original é coleção, não ficha individual; composição/uso individuais não concluídos por essaURL.",
+      "resolution": "Localizar e abrirURLcanônica individual. Não interpretar falha de acesso como ausência da informação no site."
+    },
+    {
+      "name": "Reparador de Pontas Argan Oil Premium 30 mL",
+      "url": "https://dalcotone.com.br/collections/finalizacao-1",
+      "reason": "URL original é coleção, não ficha individual; composição/uso individuais não concluídos por essaURL.",
+      "resolution": "Localizar e abrirURLcanônica individual. Não interpretar falha de acesso como ausência da informação no site."
+    },
+    {
+      "name": "Shampoo Power Curls 1 L",
+      "url": "https://dalcotone.com.br/collections/linha-power-curls",
+      "reason": "URL original é coleção, não ficha individual; composição/uso individuais não concluídos por essaURL.",
+      "resolution": "Localizar e abrirURLcanônica individual. Não interpretar falha de acesso como ausência da informação no site."
+    },
+    {
+      "name": "Shampoo Power Curls 300 mL",
+      "url": "https://dalcotone.com.br/collections/linha-power-curls",
+      "reason": "URL original é coleção, não ficha individual; composição/uso individuais não concluídos por essaURL.",
+      "resolution": "Localizar e abrirURLcanônica individual. Não interpretar falha de acesso como ausência da informação no site."
+    },
+    {
+      "name": "Condicionador Power Repair 1 L",
+      "url": "https://dalcotone.com.br/collections/all",
+      "reason": "URL original é coleção, não ficha individual; composição/uso individuais não concluídos por essaURL.",
+      "resolution": "Localizar e abrirURLcanônica individual. Não interpretar falha de acesso como ausência da informação no site."
+    },
+    {
+      "name": "Máscara Force Life 300 g",
+      "url": "https://dalcotone.com.br/collections/linha-force-life",
+      "reason": "URL original é coleção, não ficha individual; composição/uso individuais não concluídos por essaURL.",
+      "resolution": "Localizar e abrirURLcanônica individual. Não interpretar falha de acesso como ausência da informação no site."
+    },
+    {
+      "name": "Condicionador Force Life 300 mL",
+      "url": "https://dalcotone.com.br/collections/linha-force-life",
+      "reason": "URL original é coleção, não ficha individual; composição/uso individuais não concluídos por essaURL.",
+      "resolution": "Localizar e abrirURLcanônica individual. Não interpretar falha de acesso como ausência da informação no site."
+    },
+    {
+      "name": "Máscara Blond Up 300 g",
+      "url": "https://dalcotone.com.br/collections/linha-blond-up",
+      "reason": "URL original é coleção, não ficha individual; composição/uso individuais não concluídos por essaURL.",
+      "resolution": "Localizar e abrirURLcanônica individual. Não interpretar falha de acesso como ausência da informação no site."
+    },
+    {
+      "name": "Shampoo S.O.S Detox 1 L",
+      "url": "https://dalcotone.com.br/collections/desintoxicante",
+      "reason": "URL original é coleção, não ficha individual; composição/uso individuais não concluídos por essaURL.",
+      "resolution": "Localizar e abrirURLcanônica individual. Não interpretar falha de acesso como ausência da informação no site."
+    },
+    {
+      "name": "shampoo-cachos-power-curls-1l",
+      "url": "https://dalcotone.com.br/products/shampoo-cachos-power-curls-1l",
+      "reason": "Tentativa deURLcandidata retornou erro de ferramenta; canonicalização e conteúdo não confirmados.",
+      "candidateUrl": true
+    },
+    {
+      "name": "shampoo-cachos-power-curls-300ml",
+      "url": "https://dalcotone.com.br/products/shampoo-cachos-power-curls-300ml",
+      "reason": "Tentativa deURLcandidata retornou erro de ferramenta; canonicalização e conteúdo não confirmados.",
+      "candidateUrl": true
+    },
+    {
+      "name": "shampoo-force-life-300ml",
+      "url": "https://dalcotone.com.br/products/shampoo-force-life-300ml",
+      "reason": "Tentativa deURLcandidata retornou erro de ferramenta; canonicalização e conteúdo não confirmados.",
+      "candidateUrl": true
+    },
+    {
+      "name": "mascara-force-life-300g",
+      "url": "https://dalcotone.com.br/products/mascara-force-life-300g",
+      "reason": "Tentativa deURLcandidata retornou erro de ferramenta; canonicalização e conteúdo não confirmados.",
+      "candidateUrl": true
+    },
+    {
+      "name": "condicionador-power-repair-1l",
+      "url": "https://dalcotone.com.br/products/condicionador-power-repair-1l",
+      "reason": "Tentativa deURLcandidata retornou erro de ferramenta; canonicalização e conteúdo não confirmados.",
+      "candidateUrl": true
+    },
+    {
+      "name": "mascara-blond-up-300g",
+      "url": "https://dalcotone.com.br/products/mascara-blond-up-300g",
+      "reason": "Tentativa deURLcandidata retornou erro de ferramenta; canonicalização e conteúdo não confirmados.",
+      "candidateUrl": true
+    },
+    {
+      "name": "shampoo-s-o-s-detox-1l",
+      "url": "https://dalcotone.com.br/products/shampoo-s-o-s-detox-1l",
+      "reason": "Tentativa deURLcandidata retornou erro de ferramenta; canonicalização e conteúdo não confirmados.",
+      "candidateUrl": true
+    },
+    {
+      "name": "argan-oil-premium",
+      "url": "https://dalcotone.com.br/products/argan-oil-premium",
+      "reason": "Tentativa deURLcandidata retornou erro de ferramenta; canonicalização e conteúdo não confirmados.",
+      "candidateUrl": true
+    },
+    {
+      "name": "kit-blond-up-home-care",
+      "url": "https://dalcotone.com.br/products/kit-blond-up-home-care",
+      "reason": "Tentativa deURLcandidata retornou erro de ferramenta; canonicalização e conteúdo não confirmados.",
+      "candidateUrl": true
+    },
+    {
+      "name": "kit-l-amour-morango",
+      "url": "https://dalcotone.com.br/products/kit-l-amour-morango",
+      "reason": "Tentativa deURLcandidata retornou erro de ferramenta; canonicalização e conteúdo não confirmados.",
+      "candidateUrl": true
+    }
+  ],
+  "fullCompositionFound": [],
+  "notes": [
+    "Nenhuma lista INCI completa foi encontrada no texto recuperado destas64páginas. Isso não afirma ausência no site inteiro, imagens, accordion não exposto ou versões inacessíveis.",
+    "Composição no título de seção pode significar ativos destacados, tecnologia ou conteúdo de kit; preservada separadamente de INCI.",
+    "Páginas recuperadas podem ter caches/layouts de datas diferentes. A data de consulta não prova atualização da fórmula.",
+    "Trechos têm limites de tamanho; trecho truncado não deve substituir instrução completa. ConsultarURL.",
+    "Descrição, indicação e uso foram capturados da página individual correspondente, sem transferência de variantes."
+  ],
+  "priorityFindings": [
+    {
+      "productId": "0362c5b04fc5ffb5",
+      "url": "https://dalcotone.com.br/products/indispensavel-finalizador-250ml",
+      "issue": "Modo deuso da página individual mandaevitarraiz, aplicarnocomprimento/pontas, após shampooantesmáscara/condicionador comenxágue ouproteçãotérmica semenxágue. ConflitacomPDF2025raizàspontas. Preservarversões."
+    },
+    {
+      "productId": "daff3cb1e87f8b2f",
+      "url": "https://dalcotone.com.br/products/shampoo-monovin-300ml",
+      "issue": "Página nova nãodetermina3min; massagear suavementeeenxaguar,repetirs enecessário."
+    },
+    {
+      "productId": "6f9f4653036c50d2",
+      "url": "https://dalcotone.com.br/products/shampoo-iluminador-blond-up-premium",
+      "issue": "Composição de destaques euso recuperadosagora:Creatina,ÁcidoVioleta43,Abacate,Silicone,Quaternários;acompanharneutralização conforme necessidade,enxaguar."
+    },
+    {
+      "productId": "288400afe5f54ed1",
+      "url": "https://dalcotone.com.br/products/mascara-monovin-300ml",
+      "issue": "VitaminaProA/ProB5 euso10–15min,2vezes/semanaousemprequenecessário confirmadosna página."
+    },
+    {
+      "productId": "6ecaab3b560f58fd",
+      "url": "https://dalcotone.com.br/products/kit-hydra-ceramides-hidratacao-antioxidante-dal-cotone",
+      "issue": "KitHydraemlayoutnovo declaraCeramidas/ProteínasHidrolisadas/VitE; páginasindividuaisrecuperadas emlayoutantigodeclaramAlho/Bioceramidas. Divergênciatambémentre páginasdomesmosite,nãoapenasPDF."
+    }
+  ]
+}

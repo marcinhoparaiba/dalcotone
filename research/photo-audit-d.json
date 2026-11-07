@@ -1,0 +1,182 @@
+{
+  "queriedAt": "2026-11-07",
+  "images": [
+    {
+      "productId": "c9cf1f6be6f34a0f",
+      "name": "Protetor Térmico Necessity Use 500ml",
+      "path": "/workspace/work/dalcotone-pdf/audit-assets-d/c9cf1f6be6f34a0f.webp",
+      "page": 26,
+      "xref": 732,
+      "verifiedSKU": true,
+      "verifiedVolume": "500 ml",
+      "cropBox": null,
+      "sourceKind": "official_pdf",
+      "notes": "Rótulo e volume conferidos na foto original. Apenas extração, recorte e redimensionamento; sem imagem gerada."
+    },
+    {
+      "productId": "4b0b72183af62db7",
+      "name": "Máscara Restore 500g",
+      "path": "/workspace/work/dalcotone-pdf/audit-assets-d/4b0b72183af62db7.webp",
+      "page": 36,
+      "xref": 469,
+      "verifiedSKU": true,
+      "verifiedVolume": "500 g",
+      "cropBox": [
+        35,
+        35,
+        560,
+        575
+      ],
+      "sourceKind": "official_pdf",
+      "notes": "Recorte da fotografia original do pote Restore500g. Fundo salmão e sombra originais preservados."
+    },
+    {
+      "productId": "c119cecd969a4b3a",
+      "name": "Máscara Nutri Protein 500g",
+      "path": "/workspace/work/dalcotone-pdf/audit-assets-d/c119cecd969a4b3a.webp",
+      "page": 36,
+      "xref": 469,
+      "verifiedSKU": true,
+      "verifiedVolume": "500 g",
+      "cropBox": [
+        665,
+        600,
+        1170,
+        1120
+      ],
+      "sourceKind": "official_pdf",
+      "notes": "Recorte da fotografia original do pote NutriProtein500g. Fundo lavanda e sombra originais preservados."
+    },
+    {
+      "productId": "eb8400e4508c85c8",
+      "name": "Máscara Verniz Intense 500g",
+      "path": "/workspace/work/dalcotone-pdf/audit-assets-d/eb8400e4508c85c8.webp",
+      "page": 36,
+      "xref": 469,
+      "verifiedSKU": true,
+      "verifiedVolume": "500 g",
+      "cropBox": [
+        35,
+        1140,
+        560,
+        1670
+      ],
+      "sourceKind": "official_pdf",
+      "notes": "Recorte da fotografia original do pote VernizIntense500g. Fundo rosa e sombra originais preservados."
+    }
+  ],
+  "unresolved": [
+    {
+      "productId": "bb946e7d15bc1e95",
+      "name": "Kit de Ampolas Ultra Magic 4 x 15 mL",
+      "page": 42,
+      "reason": "Página42 apresenta apenas ampola individual nas mãos da modelo; não mostra embalagem/kit com4ampolas15ml. Não usar foto de1unidade como confirmação visual do kit4x15."
+    },
+    {
+      "productId": "cefb5c7098b88e45",
+      "name": "Kit de Ampolas Vitamínicas Nutritivas 4 x 15 mL",
+      "page": 43,
+      "reason": "Página43 apresenta ampolaVitamínica15ml individual, sem kit4x15ml. Não fabricar conjunto de4repetindo a mesma foto."
+    },
+    {
+      "productId": "a2d935f4e04f38b2",
+      "name": "Kit L'Amour Morango",
+      "page": 31,
+      "reason": "Página31 mostra famíliaLAmour(shampoo300ml,máscara300g,perfume100ml). A composição da ofertaKitMorango atual não foi confirmada; foto dekitexato pendente."
+    },
+    {
+      "productId": "060dbd1588f6e3af",
+      "name": "Kit Monovin + Woman Caps",
+      "page": 34,
+      "reason": "Página34 mostra frascoWomanCapsindividual; página33mostraMonovinsemWomanCaps. Não existe fotografia do combo real nestePDF; não montar collage."
+    },
+    {
+      "productId": "244136c3b5dfed21",
+      "name": "Cronograma Capilar em Ampolas - Crono Plus+",
+      "page": 41,
+      "reason": "FrascosCronoPlusnoPDF dizem15ml; SKUweb atual anteriormente18ml. Não trocar apresentação sem confirmação."
+    },
+    {
+      "productId": "95ac184d2698139f",
+      "name": "Body Splash - Provoke Shimmer 200ml - 8% de essência.",
+      "page": null,
+      "reason": "Produto/fragrância2026não presente noPDF2025. Fotooficialremotaconfirmada existe nocatálogo mas download depende de acessoHTTP; não substituir por frasco diferente."
+    },
+    {
+      "productId": "a319416672d1d7ec",
+      "name": "Body Splash Fresh Skin Shimmer 200ml - 8% de essência.",
+      "page": null,
+      "reason": "Produto/fragrância2026não presente noPDF2025. Fotooficialremotaconfirmada existe nocatálogo mas download depende de acessoHTTP; não substituir por frasco diferente."
+    },
+    {
+      "productId": "367610b6c0d2e6ae",
+      "name": "Body Splash Luxy Shimmer 200ml - 8% de essência.",
+      "page": null,
+      "reason": "Produto/fragrância2026não presente noPDF2025. Fotooficialremotaconfirmada existe nocatálogo mas download depende de acessoHTTP; não substituir por frasco diferente."
+    },
+    {
+      "productId": "03a95054ec272dd3",
+      "name": "Body Splash Masculino Auren Intense Dal Cotone 200ml",
+      "page": null,
+      "reason": "Produto/fragrância2026não presente noPDF2025. Fotooficialremotaconfirmada existe nocatálogo mas download depende de acessoHTTP; não substituir por frasco diferente."
+    },
+    {
+      "productId": "1dbf9af98657271e",
+      "name": "Body Splash Masculino Iconi Pure Dal Cotone 200ml",
+      "page": null,
+      "reason": "Produto/fragrância2026não presente noPDF2025. Fotooficialremotaconfirmada existe nocatálogo mas download depende de acessoHTTP; não substituir por frasco diferente."
+    },
+    {
+      "productId": "23b1481f6d874914",
+      "name": "Body Splash Sweet Crush Shimmer 200ml - 8% de essência.",
+      "page": null,
+      "reason": "Produto/fragrância2026não presente noPDF2025. Fotooficialremotaconfirmada existe nocatálogo mas download depende de acessoHTTP; não substituir por frasco diferente."
+    },
+    {
+      "productId": "4418a4ee99e8320b",
+      "name": "Eau de Parfum Kesia Carmo 100 mL",
+      "page": null,
+      "reason": "Produto/fragrância2026não presente noPDF2025. Fotooficialremotaconfirmada existe nocatálogo mas download depende de acessoHTTP; não substituir por frasco diferente."
+    },
+    {
+      "productId": "60e03232e7b79d05",
+      "name": "Eau de Parfum Raphael Borba 100 mL",
+      "page": null,
+      "reason": "Produto/fragrância2026não presente noPDF2025. Fotooficialremotaconfirmada existe nocatálogo mas download depende de acessoHTTP; não substituir por frasco diferente."
+    },
+    {
+      "productId": "798eb9de5d73bf86",
+      "name": "Kit Body Splash Shimmer Dal Cotone - 4 Fragrâncias 200ml - 8% de essência.",
+      "page": null,
+      "reason": "Produto/fragrância2026não presente noPDF2025. Fotooficialremotaconfirmada existe nocatálogo mas download depende de acessoHTTP; não substituir por frasco diferente."
+    }
+  ],
+  "checkedPages": [
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42,
+    43,
+    44,
+    45,
+    46,
+    47,
+    48,
+    49,
+    50
+  ],
+  "checkoutModified": false
+}

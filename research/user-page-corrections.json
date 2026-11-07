@@ -1,0 +1,42 @@
+{
+  "checkedAt": "2026-11-07",
+  "evidence": "Captura da página oficial enviada pelo usuário; URL visível na imagem.",
+  "products": [
+    {
+      "productId": "60e03232e7b79d05",
+      "sourceUrl": "https://dalcotone.com.br/products/perfume-masculino-raphael-borba-dal-cotone",
+      "fields": {
+        "description": "Fragrância masculina aromática. A abertura combina flor de laranjeira e limão; o coração reúne lavanda, noz-moscada, cardamomo, coentro, gerânio e alecrim. No fundo aparecem lichia, fava tonka, madeira de teca e vetiver.",
+        "indication": "Uso corporal.",
+        "benefits": [
+          "Perfuma o corpo",
+          "Fragrância aromática de presença marcante"
+        ],
+        "olfactoryNotes": {
+          "topo": [
+            "Flor de laranjeira",
+            "Limão"
+          ],
+          "coracao": [
+            "Lavanda",
+            "Noz-moscada",
+            "Cardamomo",
+            "Coentro",
+            "Gerânio",
+            "Alecrim"
+          ],
+          "fundo": [
+            "Lichia",
+            "Fava tonka",
+            "Madeira de teca",
+            "Vetiver"
+          ]
+        },
+        "inci": "Álcool Etílico, Propileno Glicol, Perfume, Citral, Citronelol, Cumarina, Dextrolimoneno, Geraniol, Hidroxicitronelal, Linalol.",
+        "compositionOrigin": "Composição declarada na página oficial, conforme captura enviada. Nomes preservados como publicados.",
+        "compositionIsINCI": false,
+        "use": "Borrifar sobre a pele conforme desejar, preferencialmente em pontos de pulsação, como pescoço e punhos. Evitar contato com os olhos."
+      }
+    }
+  ]
+}

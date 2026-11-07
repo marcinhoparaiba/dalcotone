@@ -1,3 +1,6 @@
+from final_enrichment import enrich_current
+from salon_presentations import presentation,polish
+from kit_catalog import add_children,link_components
 """Organize reviewed products for study; keep unsupported fields explicit."""
 import hashlib,json,re,unicodedata
 from pathlib import Path
@@ -64,9 +67,11 @@ def enrich(snapshot,research):
     for entry in audit['missingProducts']:
         fields=entry['fields'];supplement=entry['productId']=='pdf-woman-caps'
         products.append({'id':entry['productId'],'name':('Woman Caps — suplemento alimentar 60 cápsulas' if supplement else 'Shampoo L’Amour Strawberry 300 mL'),'url':pdf_url,'priceSource':pdf_url,'price':None,'regularPrice':None,'priceNote':'Preço público oficial não localizado para esta apresentação.','imageUrl':None,'actives':fields.get('actives',[]),'activeDetails':[{'name':a,'role':None} for a in fields.get('actives',[])],'benefits':[],'indication':fields.get('indication'),'use':fields.get('use'),'inci':None,'contents':None,'notes':entry['notes'],'detailLevel':'partial','type':'Suplementos' if supplement else 'Shampoos','line':'Monovin' if supplement else "L’Amour",'primaryCategory':'Cuidados complementares' if supplement else 'Nutrição','categories':['Cuidados complementares'] if supplement else ['Nutrição'],'needs':['Cuidados complementares'] if supplement else ['Nutrição'],'sourceKind':'official-catalog','sourcePage':entry['page']})
+    products=add_children(products,pdf_url)
     pdf_technical={item['productId']:item for item in load(research/'pdf-technical.json')['products']} if (research/'pdf-technical.json').exists() else {}
     pdf_photos={item['productId']:item for item in load(research/'pdf-photos.json')['images']} if (research/'pdf-photos.json').exists() else {}
     audited_functions=load(research/'audited-active-functions.json')
+    user_corrections={x['productId']:x for x in load(research/'user-page-corrections.json')['products']}
     web_corrections={x['productId']:x for x in load(research/'current-web-corrections.json')['products']}
     for p in products:
         review=pdf_technical.get(p['id'])
@@ -83,17 +88,23 @@ def enrich(snapshot,research):
         if web:
             p['fieldSources']={key:{'label':'Página oficial · consulta06/11/2026','url':web['sourceUrl']} for key in web['fields']}
             p.update(web['fields'])
-            if 'actives' in web['fields']:p['activeDetails']=[{'name':a,'role':None,'sourceUrl':web['sourceUrl']} for a in p['actives']]
+            if 'actives' in web['fields']:p['activeDetails']=web['fields'].get('activeDetails') or [{'name':a,'role':None,'sourceUrl':web['sourceUrl']} for a in p['actives']]
             if web.get('kitItems'):
                 p['kitItems']=web['kitItems'];p['kitReview']={'status':'confirmed','sourceUrls':[web['sourceUrl']],'notes':['Componentes e volumes conferidos na descrição atual da página oficial.']}
+        supplied=user_corrections.get(p['id'])
+        if supplied:
+            p.update(supplied['fields']);p['url']=supplied['sourceUrl'];p['sourceKind']='official-page-capture'
+            p['fieldSources']={key:{'label':'Página oficial · captura fornecida07/11/2026','url':supplied['sourceUrl']} for key in supplied['fields']}
         if p['id'] in pdf_photos:
             photo=pdf_photos[p['id']];p['imageUrl']=photo['imageUrl'];p['imageSource']=p['url'];p['imageOrigin']='Foto extraída do catálogo oficial 2025';p['imagePage']=photo['page']
-        if p['id'] in audited_functions:
-            roles={norm(x['name']):x for x in audited_functions[p['id']]}
+        function_key={'pdf-vitaminica-15':'cefb5c7098b88e45','pdf-ultra-magic-15':'bb946e7d15bc1e95'}.get(p['id'],p['id'])
+        if function_key in audited_functions:
+            roles={norm(x['name']):x for x in audited_functions[function_key]}
             for active in p.get('activeDetails',[]):
                 match=roles.get(norm(active['name']))
                 if match:
                     active.update({'role':match['role'],'scope':'blend' if match.get('scope') in ['collective','blend'] else 'manufacturer-claim','sourceUrl':pdf_url,'sourcePage':match['sourcePage']})
+        if not p.get('occasions') and p.get('indication'):p['occasions']=[p['indication']]
         sizes=re.findall(r'\b\d+(?:[.,]\d+)?\s*(?:kg|ml|mL|g|L|l)\b',p['name'])
         extra=next((x for x in audit['missingProducts'] if x['productId']==p['id']),None)
         p['technical']={'line':p['line'],'productType':p['type'],'presentation':', '.join(sizes) or None,'declaredPH':review.get('declaredPH') if review else extra['fields'].get('declaredPH') if extra else None,'concentrations':review.get('concentrations') if review else None,'fullFormulaAvailable':bool(p.get('inci')),'sourceKind':p.get('sourceKind'),'sourcePage':p.get('sourcePage')}
@@ -125,13 +136,19 @@ def enrich(snapshot,research):
             p['differentials'].insert(0,{'title':'Tecnologia termoativada de efeito memória','text':'A marca descreve Lisselini e Silsoft AX-E para alinhamento e acabamento antifrizz com ativação por calor. É um finalizador; não é a Selagem 24K.','evidence':'Descrição técnica da página oficial do Spray 24K.','sourceUrl':p['url']})
         p['commercialSummary']='Proposta descrita pela marca: '+ '; '.join(p['benefits'][:3])+'.' if p.get('benefits') else None
         p['competitiveEvidence']=None
+    products=enrich_current(products,research)
+    products=link_components(products)
     order=['Reconstrução','Selagem','Botox','Detox','Hidratação','Nutrição','Controle de pH','Cachos','Matização','Fortalecimento','Controle de oleosidade','Finalização','Cronograma capilar','Ampolas','Preparação','Limpeza profunda','Limpeza','Condicionamento','Coloração / Descoloração','Perfumaria','Cuidados complementares']
     all_categories=list(dict.fromkeys(order+[c for p in products for c in p['categories']]))
     snapshot['categories']=[{'name':c,'count':sum(c in p['categories'] for p in products)} for c in all_categories if any(c in p['categories'] for p in products)]
     approaches=load(research/'approaches.json')
     snapshot['lines']=[{'name':name,'categories':list(dict.fromkeys(c for p in products if p['line']==name for c in p['categories'])),'productIds':[p['id'] for p in products if p['line']==name],'kitIds':[p['id'] for p in products if p['line']==name and p['type']=='Kits'],'approach':approaches['lines'][name]} for name in sorted(set(p['line'] for p in products),key=norm)]
-    snapshot['kitAudit']={'total':len(reviews),'confirmed':sum(r['status']=='confirmed' for r in reviews),'partial':sum(r['status']=='partial' for r in reviews),'unavailable':sum(r['status']=='unavailable' for r in reviews),'consultorAssemblies':0}
+    kit_statuses=[p.get('kitReview',{}).get('status') for p in products if p['type']=='Kits']
+    snapshot['kitAudit']={'total':len(kit_statuses),'confirmed':kit_statuses.count('confirmed'),'partial':kit_statuses.count('partial'),'unavailable':kit_statuses.count('unavailable'),'consultorAssemblies':0}
     snapshot['company']=load(research/'company.json');snapshot['company']['brandApproach']=approaches['brand'];snapshot['company']['pitch']=approaches['brand']['short']
+    salon=load(research/'salon-approaches.json')
+    for line in snapshot['lines']:
+        line['salonApproach']=polish(salon[line['name']])
     for p in products:
         approach=approaches['lines'][p['line']]
         if p.get('benefits'):
@@ -140,6 +157,18 @@ def enrich(snapshot,research):
         if p.get('actives'):opening+=' Entre os ativos divulgados estão '+', '.join(p['actives'])+'.'
         p['presentation']={'question':approach['question'],'opening':opening,'nextStep':'Posso mostrar a ficha e conferir se essa proposta faz sentido para a necessidade que você me contou?','scope':'Sugestão de fala baseada nos campos catalogados; não é um depoimento ou garantia de resultado.'}
         if p['type']=='Suplementos':p['presentation']={'question':'Você procura informações sobre este suplemento e já conferiu a composição e as recomendações do rótulo?','opening':'Woman Caps é um suplemento alimentar para adultos, apresentado pela marca com vitamina B5. A tabela nutricional completa não está disponível no catálogo consultado.','nextStep':'Vamos conferir o rótulo atual e as orientações do profissional de saúde antes de qualquer recomendação de consumo.','scope':'Suplemento não é tratamento capilar tópico nem medicamento; não prometer crescimento ou tratamento de doenças.'}
-    snapshot['activeLibrary']=guide['actives'];snapshot['version']='2026-11-06.3';snapshot['coverageNote']='Catálogo de estudo reunindo páginas oficiais e o catálogo profissional 2025. Disponibilidade, preços e campos sem fonte atual estão sinalizados; não é uma lista de estoque.'
+    for p in products:p['presentation']=presentation(p,salon[p['line']],products)
+    by_id={p['id']:p for p in products}
+    for p in products:
+        if p['type']=='Kits':
+            p['presentation']['components']=[]
+            for item in p.get('kitItems',[]):
+                ids=[item['productId']] if item.get('productId') else item.get('candidateProductIds',[])
+                p['presentation']['components'].append({'name':item['name'],'volume':item.get('volume'),'confirmedPresentation':bool(item.get('productId')),'choices':[{'id':identifier,'name':by_id[identifier]['name'],'stage':by_id[identifier]['type'],'actives':by_id[identifier]['actives'],'activeDetails':by_id[identifier].get('activeDetails',[]),'function':'; '.join(by_id[identifier]['benefits'][:3]) or by_id[identifier].get('indication'),'use':by_id[identifier].get('use')} for identifier in ids]})
+    for p in products:p['presentation']=polish(p['presentation']);p['name']=polish(p['name'])
+    for p in products:
+        for field in ['name','description','use','indication','contents','notes','occasions','benefits','actives']:
+            if field in p:p[field]=polish(p[field])
+    snapshot['activeLibrary']=guide['actives'];snapshot['version']='2026-11-07.1';snapshot['coverageNote']='Catálogo de estudo reunindo páginas oficiais e o catálogo profissional 2025. Disponibilidade, preços e campos sem fonte atual estão sinalizados; não é uma lista de estoque.'
     snapshot['products']=sorted(products,key=lambda p:norm(p['name']))
     return snapshot

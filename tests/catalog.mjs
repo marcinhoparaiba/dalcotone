@@ -67,9 +67,22 @@ test('full PDF audit covers every page, removes example kit and preserves confli
  assert.deepEqual(audit.pageCoverage.map(p=>p.page),Array.from({length:51},(_,i)=>i));
  assert.equal(catalog.products.some(p=>p.id==='consultor-kit-24k'),false);
  assert.ok(catalog.products.find(p=>p.id==='pdf-lamour-shampoo-300').imageUrl.startsWith('/assets/'));
- assert.ok(catalog.products.find(p=>p.id==='pdf-woman-caps').presentation.scope.includes('não é'));
+ assert.ok(catalog.products.find(p=>p.id==='pdf-woman-caps').presentation.opening.includes('não é um tratamento'));
  for(const id of ['01183f9d468921d6','d7d4d08e9715ef3e','ad696ecbb8523b00','d6c72aac411c5ca5']){const p=catalog.products.find(p=>p.id===id);assert.ok(p.use);assert.ok(p.indication);assert.ok(p.actives.length);}
  const hydra=catalog.products.find(p=>p.id==='48678d0216074934');assert.ok(hydra.historicalFields[0].fields.actives.includes('Vitamina E'));assert.ok(hydra.sourceDifferences.length);
  const kit=catalog.products.find(p=>p.id==='3e67b66612b7f633');assert.equal(kit.kitItems.length,3);assert.deepEqual(kit.kitItems.map(p=>p.volume),['300 mL','300 g','250 mL']);
  const color=catalog.products.find(p=>p.id==='pro-color-creams-coloracao');assert.equal(color.variants.length,5);assert.ok(color.variants.some(g=>g.group==='Corretores'));assert.equal(color.use,null);
+});
+
+test('each kit component opens a documented individual presentation and each item has a technical sales brief',()=>{
+ const by=new Map(catalog.products.map(p=>[p.id,p]));
+ for(const kit of catalog.products.filter(p=>p.type==='Kits')){
+  assert.ok(kit.kitItems.length,kit.id+' missing component list');
+  for(const item of kit.kitItems){const ids=item.productId?[item.productId]:item.candidateProductIds;assert.ok(ids?.length,kit.id+' '+item.name+' missing navigation');for(const id of ids){assert.ok(by.has(id));assert.notEqual(by.get(id).type,'Kits');}}
+  assert.equal(kit.presentation.components.length,kit.kitItems.length);
+ }
+ for(const p of catalog.products){assert.ok(p.presentation.technicalReason?.length>30,p.id);assert.equal(p.presentation.discoveryQuestions.length,2);assert.ok(p.presentation.objections.length>=2);assert.ok(p.presentation.demonstration.watchFor);assert.ok(p.presentation.nextStep.includes(p.name));}
+ assert.ok(by.get('pdf-restore-250').use.includes('10–15'));assert.ok(by.get('pdf-restore-250').actives.includes('Lumini System'));
+ assert.equal(by.get('crono-plus-tonico-18').type,'Ampolas');assert.ok(by.get('crono-plus-tonico-18').use.includes('não enxaguar'));
+ assert.equal(by.get('pro-bleached-ox-20').presentation.kind,'lightener');assert.equal(by.get('pro-color-creams-coloracao').presentation.kind,'color');
 });

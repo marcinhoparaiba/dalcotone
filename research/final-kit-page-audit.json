@@ -1,0 +1,642 @@
+{
+  "consultedAt": "2026-11-07",
+  "records": [
+    {
+      "productId": "244136c3b5dfed21",
+      "name": "Cronograma Capilar em Ampolas - Crono Plus+",
+      "url": "https://dalcotone.com.br/products/ampolas-capilares-crono-snapshot",
+      "pageAccessed": true,
+      "crawlStatus": "today",
+      "compositionSummary": "Kit com quatro ampolas potencializadoras: Nutrição, Fortalecimento, Hidratação e Reconstrução.",
+      "fullINCI": null,
+      "fullINCIStatus": "Lista completa não localizada no trecho acessível consultado; não equivale a afirmar que não foi publicada.",
+      "consultedAt": "2026-11-07",
+      "unresolved": [],
+      "components": [
+        {
+          "name": "Nutrição",
+          "quantity": 1,
+          "volume": null,
+          "volumeSource": "Texto atual acessível sem volume confirmado. PDF oficial2025p41:rótulos15mL; capturaantigadaloja:4x18mL. Não mesclar apresentações."
+        },
+        {
+          "name": "Fortalecimento",
+          "quantity": 1,
+          "volume": null,
+          "volumeSource": "Texto atual acessível sem volume confirmado. PDF oficial2025p41:rótulos15mL; capturaantigadaloja:4x18mL. Não mesclar apresentações."
+        },
+        {
+          "name": "Hidratação",
+          "quantity": 1,
+          "volume": null,
+          "volumeSource": "Texto atual acessível sem volume confirmado. PDF oficial2025p41:rótulos15mL; capturaantigadaloja:4x18mL. Não mesclar apresentações."
+        },
+        {
+          "name": "Reconstrução",
+          "quantity": 1,
+          "volume": null,
+          "volumeSource": "Texto atual acessível sem volume confirmado. PDF oficial2025p41:rótulos15mL; capturaantigadaloja:4x18mL. Não mesclar apresentações."
+        }
+      ],
+      "versionHistory": [
+        {
+          "sourceKind": "official-current-page-capture",
+          "sourceUrl": "https://dalcotone.com.br/products/ampolas-capilares-crono-snapshot",
+          "consultedAt": "2026-11-07",
+          "volume": null,
+          "functions": [
+            "Nutrição",
+            "Fortalecimento",
+            "Hidratação",
+            "Reconstrução"
+          ],
+          "notes": [
+            "A página atual acessível apresenta quatro funções, sem volume por ampola no texto."
+          ]
+        },
+        {
+          "sourceKind": "official-pdf-2025",
+          "printedPage": 41,
+          "pageno": 41,
+          "volumePerAmpoule": "15 mL",
+          "notes": [
+            "Rótulos15mL conferidos no PDF pelo agente principal; este dado corrige atribuiçãoanterior equivocada18mLaoPDF."
+          ]
+        },
+        {
+          "sourceKind": "older-official-store-capture",
+          "volumePerAmpoule": "18 mL",
+          "notes": [
+            "Textoantigo4x18mL recuperado emrodadaanterior pelo agente principal; manter comoapresentação/capturahistórica, nãoPDF."
+          ]
+        }
+      ],
+      "currentSections": {
+        "description": {
+          "sourceRef": "turn194941view0:L237-L238",
+          "summary": "Quatro funções concentradas, escolhidas pela necessidade dos fios, sem sequência única obrigatória."
+        },
+        "indication": {
+          "sourceRef": "turn194941view0:L240-L242",
+          "summary": "Complemento da rotina para fios danificados, opacos ou fragilizados."
+        },
+        "benefits": {
+          "sourceRef": "turn194941view0:L244-L248",
+          "summary": "Nutrição com maciez/brilho; hidratação de fios secos; reconstrução/fortalecimento de fios frágeis."
+        },
+        "composition": {
+          "sourceRef": "turn194941view0:L250-L252",
+          "summary": "Uma ampola para cada função: Nutrição, Fortalecimento, Hidratação e Reconstrução. Ativos específicos não identificados no trecho."
+        },
+        "use": {
+          "sourceRef": "turn194941view0:L254-L255",
+          "exactText": "Ampola de fortalecimento: aplique no couro cabeludo limpo, massageie e não enxágue; pode ser usada até 2 vezes ao dia. Demais ampolas: use de 3 a 5 mL em água fria até formar uma mousse, aplique diretamente nos cabelos limpos e molhados ou adicione à máscara. Deixe agir por cerca de 5 minutos e enxágue."
+        }
+      },
+      "functionProfiles": [
+        {
+          "name": "Nutrição",
+          "activeHighlights": null,
+          "activeStatus": "Não identificados individualmente no conteúdo atual acessível.",
+          "useSection": "currentSections.use",
+          "useGroup": "demais ampolas",
+          "equivalentToHistoricalTonic": null
+        },
+        {
+          "name": "Fortalecimento",
+          "activeHighlights": null,
+          "activeStatus": "Não identificados individualmente no conteúdo atual acessível.",
+          "useSection": "currentSections.use",
+          "useGroup": "fortalecimento",
+          "equivalentToHistoricalTonic": null
+        },
+        {
+          "name": "Hidratação",
+          "activeHighlights": null,
+          "activeStatus": "Não identificados individualmente no conteúdo atual acessível.",
+          "useSection": "currentSections.use",
+          "useGroup": "demais ampolas",
+          "equivalentToHistoricalTonic": null
+        },
+        {
+          "name": "Reconstrução",
+          "activeHighlights": null,
+          "activeStatus": "Não identificados individualmente no conteúdo atual acessível.",
+          "useSection": "currentSections.use",
+          "useGroup": "demais ampolas",
+          "equivalentToHistoricalTonic": null
+        }
+      ],
+      "equivalenceCaution": "Fortalecimento e antigoTônico não foram declarados equivalentes. Não transportar formulação/INCI/nome deum paraoutro semconfirmação."
+    },
+    {
+      "productId": "008a07353d60761c",
+      "name": "Kit Blond Up Home Care",
+      "url": "https://usedalcotone.com/links/%5B%20DIGITAL%20%5D%20CAT%C3%81LOGO%20-%20DAL%20COTONE%202025-min.pdf",
+      "pageAccessed": false,
+      "crawlStatus": null,
+      "compositionSummary": null,
+      "fullINCI": null,
+      "fullINCIStatus": "Lista completa não localizada no trecho acessível consultado; não equivale a afirmar que não foi publicada.",
+      "consultedAt": "2026-11-07",
+      "unresolved": [
+        "Página individual não validada nesta rodada; URL atual usa coleção/PDF ou acesso não resolvido."
+      ]
+    },
+    {
+      "productId": "eef86335c476b86a",
+      "name": "Kit Blond Up Profissional",
+      "url": "https://dalcotone.com.br/products/kit-blond-up-professional-matizacao-hidratante-para-loiros-e-platinados",
+      "pageAccessed": true,
+      "crawlStatus": "2 weeks ago",
+      "compositionSummary": "Shampoo Iluminador Blond Up Premium 1L + Máscara Iluminadora Blond Up Premium",
+      "fullINCI": null,
+      "fullINCIStatus": "Lista completa não localizada no trecho acessível consultado; não equivale a afirmar que não foi publicada.",
+      "consultedAt": "2026-11-07",
+      "unresolved": []
+    },
+    {
+      "productId": "798eb9de5d73bf86",
+      "name": "Kit Body Splash Shimmer Dal Cotone - 4 Fragrâncias 200 mL - 8% de essência.",
+      "url": "https://dalcotone.com.br/products/kit-body-splash-shimmer-dal-cotone-4-fragrancias-200ml",
+      "pageAccessed": true,
+      "crawlStatus": "today",
+      "compositionSummary": "Fresh Skin: peônia, lichia e frésia; rosa, lírio-do-vale e magnólia; cedro da Virgínia e âmbar. Luxy: limão cristalizado; flor de laranjeira, rum e panacota; baunilha de Madagascar. Provoke: flor de laranjeira do Egito e laranja amarga; tuberosa da Índia e jasmim; baunilha de Madagascar e sândalo da Nova Caledônia. Sweet Crush: tangerina verde, jasmim aquático e flor de gengibre; baunilha salgada e notas florais; âmbar cinza, madeira de cashmere e sândalo.",
+      "fullINCI": null,
+      "fullINCIStatus": "Lista completa não localizada no trecho acessível consultado; não equivale a afirmar que não foi publicada.",
+      "consultedAt": "2026-11-07",
+      "unresolved": [],
+      "components": [
+        {
+          "name": "Body Splash Shimmer Fresh Skin",
+          "quantity": 1,
+          "volume": "200 mL"
+        },
+        {
+          "name": "Body Splash Shimmer Luxy",
+          "quantity": 1,
+          "volume": "200 mL"
+        },
+        {
+          "name": "Body Splash Shimmer Provoke",
+          "quantity": 1,
+          "volume": "200 mL"
+        },
+        {
+          "name": "Body Splash Shimmer Sweet Crush",
+          "quantity": 1,
+          "volume": "200 mL"
+        }
+      ]
+    },
+    {
+      "productId": "4d656c72af8742ad",
+      "name": "Kit Cronograma Capilar – 3 Máscaras de 250 g",
+      "url": "https://dalcotone.com.br/products/kit-cronograma-capilar-mascaras-capilares-250g",
+      "pageAccessed": true,
+      "crawlStatus": "today",
+      "compositionSummary": "Verniz Intense: proteína da seda e ácido hialurônico. Nutri Protein: nano proteínas. Restore: queratina hidrolisada e Lumini System.",
+      "fullINCI": null,
+      "fullINCIStatus": "Lista completa não localizada no trecho acessível consultado; não equivale a afirmar que não foi publicada.",
+      "consultedAt": "2026-11-07",
+      "unresolved": [],
+      "components": [
+        {
+          "name": "Verniz Intense",
+          "quantity": 1,
+          "volume": "250 g"
+        },
+        {
+          "name": "Nutri Protein",
+          "quantity": 1,
+          "volume": "250 g"
+        },
+        {
+          "name": "Restore",
+          "quantity": 1,
+          "volume": "250 g"
+        }
+      ],
+      "variantsObserved": [
+        {
+          "label": "250g cada",
+          "total": "750 g"
+        },
+        {
+          "label": "500g cada — não acompanha caixa",
+          "total": null,
+          "notes": "Variante de quantidade na mesma página; não contar automaticamente como novo produto."
+        }
+      ]
+    },
+    {
+      "productId": "bb946e7d15bc1e95",
+      "name": "Kit de Ampolas Ultra Magic 4 x 15 mL",
+      "url": "https://dalcotone.com.br/products/caixa-crono-ultra-magic-3411",
+      "pageAccessed": true,
+      "crawlStatus": "today",
+      "compositionSummary": "Tecnologia exclusiva Magic Fusion para ação restauradora e selagem instantânea das cutículas.",
+      "fullINCI": null,
+      "fullINCIStatus": "Lista completa não localizada no trecho acessível consultado; não equivale a afirmar que não foi publicada.",
+      "consultedAt": "2026-11-07",
+      "unresolved": [],
+      "components": [
+        {
+          "name": "Ampola Ultra Magic",
+          "quantity": 4,
+          "volume": "15 mL"
+        }
+      ]
+    },
+    {
+      "productId": "cefb5c7098b88e45",
+      "name": "Kit de Ampolas Vitamínicas Nutritivas 4 x 15 mL",
+      "url": "https://dalcotone.com.br/products/caixa-crono-ampola-vitaminica",
+      "pageAccessed": true,
+      "crawlStatus": "today",
+      "compositionSummary": "Quatro ampolas de 15 mL (título oficial); destaques: Complexo de Vitaminas e Capilmax.",
+      "fullINCI": null,
+      "fullINCIStatus": "Lista completa não localizada no trecho acessível consultado; não equivale a afirmar que não foi publicada.",
+      "consultedAt": "2026-11-07",
+      "unresolved": [],
+      "components": [
+        {
+          "name": "Ampola Vitamínica Nutritiva",
+          "quantity": 4,
+          "volume": "15 mL"
+        }
+      ]
+    },
+    {
+      "productId": "9297bd616196f4df",
+      "name": "Kit Force Life",
+      "url": "https://dalcotone.com.br/products/kit-force-life-controle-de-oleosidade-e-hidratacao-dal-cotone",
+      "pageAccessed": true,
+      "crawlStatus": "today",
+      "compositionSummary": "Shampoo Esfoliante Force Life 300 mL + Máscara Revitalizante Force Life 300 g. Principais ativos: Capilmax, Bambu e Jaborandi.",
+      "fullINCI": null,
+      "fullINCIStatus": "Lista completa não localizada no trecho acessível consultado; não equivale a afirmar que não foi publicada.",
+      "consultedAt": "2026-11-07",
+      "unresolved": [],
+      "components": [
+        {
+          "name": "Shampoo Esfoliante Force Life",
+          "quantity": 1,
+          "volume": "300 mL"
+        },
+        {
+          "name": "Máscara Revitalizante Force Life",
+          "quantity": 1,
+          "volume": "300 g"
+        }
+      ],
+      "currentCaptureSections": {
+        "description": {
+          "sourceRef": "turn194941view1:L237-L238",
+          "summary": "Shampoo atua na raiz/couro cabeludo; máscara cuida do comprimento."
+        },
+        "composition": {
+          "sourceRef": "turn194941view1:L250-L252",
+          "components": [
+            {
+              "name": "Shampoo Esfoliante Force Life",
+              "volume": "300 mL"
+            },
+            {
+              "name": "Máscara Revitalizante Force Life",
+              "volume": "300 g"
+            }
+          ],
+          "highlights": [
+            "Capilmax",
+            "Bambu",
+            "Jaborandi"
+          ]
+        },
+        "use": {
+          "sourceRef": "turn194941view1:L254-L255",
+          "summary": "Shampoo no cabelo molhado e couro cabeludo, pausa5–10min, enxaguar. Máscara nosfios, pausa10–15min, enxaguar."
+        }
+      },
+      "formulaVersionConflict": {
+        "currentWebToolCapture": "Capilmax/Bambu/Jaborandi",
+        "newerSourceReportedByMainAgent": [
+          "Aminoácidos",
+          "PCA",
+          "Sodium Lactate",
+          "Sílica"
+        ],
+        "newerSourceUrl": null,
+        "status": "Divergência de versões/fontes; grupo maisnovo não apareceu na captura recuperada por esta ferramenta. Não substituí dadosverificados pelo agente principal.",
+        "pdf2025Highlights": [
+          "Capilmax",
+          "Bambu",
+          "Jaborandi"
+        ],
+        "fullINCI": null,
+        "note": "Nome do ativo comercial não equivale aINCI; só registrar composição integral a partir de lista integral verificada."
+      }
+    },
+    {
+      "productId": "3e67b66612b7f633",
+      "name": "Kit Force Life + Must Use",
+      "url": "https://dalcotone.com.br/products/kit-force-life-finalizador-must-use-controle-de-oleosidade-e-reconstrucao-300g",
+      "pageAccessed": true,
+      "crawlStatus": "today",
+      "compositionSummary": "Shampoo Esfoliante Force Life 300 mL + Máscara Revitalizante Force Life 300 g + Fluido Reconstrutor Must Use 250 mL. Force Life: Capilmax, Bambu e Jaborandi. Must Use: Pantenol, Ômegas 3, 5 e 6, Queratina, Nano Link, Semi Di Lino e Silicones Especiais.",
+      "fullINCI": null,
+      "fullINCIStatus": "Lista completa não localizada no trecho acessível consultado; não equivale a afirmar que não foi publicada.",
+      "consultedAt": "2026-11-07",
+      "unresolved": [],
+      "components": [
+        {
+          "name": "Shampoo Esfoliante Force Life",
+          "quantity": 1,
+          "volume": "300 mL"
+        },
+        {
+          "name": "Máscara Revitalizante Force Life",
+          "quantity": 1,
+          "volume": "300 g"
+        },
+        {
+          "name": "Fluido Reconstrutor Must Use",
+          "quantity": 1,
+          "volume": "250 mL"
+        }
+      ]
+    },
+    {
+      "productId": "6ecaab3b560f58fd",
+      "name": "Kit Hydra Ceramides",
+      "url": "https://dalcotone.com.br/products/kit-hydra-ceramides-hidratacao-antioxidante-dal-cotone",
+      "pageAccessed": true,
+      "crawlStatus": "last month",
+      "compositionSummary": "Shampoo Hydra Ceramides Antioxidante 300ml + Máscara Capilar Hydra Ceramides Antioxidante 300g — Ativos: Alho e Ceramidas",
+      "fullINCI": null,
+      "fullINCIStatus": "Lista completa não localizada no trecho acessível consultado; não equivale a afirmar que não foi publicada.",
+      "consultedAt": "2026-11-07",
+      "unresolved": []
+    },
+    {
+      "productId": "fdf9be752a8c216a",
+      "name": "Kit Hydra Ceramides + Óleo Spray Golden Premium",
+      "url": "https://dalcotone.com.br/products/kit-hydra-ceramides-spray-oleo-golden-premium-hidratacao-e-brilho",
+      "pageAccessed": true,
+      "crawlStatus": "today",
+      "compositionSummary": "Shampoo Antioxidante Hydra Ceramides 300 mL + Máscara Antioxidante Hydra Ceramides 300 g + Óleo Spray Golden Premium 60 mL. Hydra Ceramides: Ceramidas, Proteínas Hidrolisadas e Vitamina E.",
+      "fullINCI": null,
+      "fullINCIStatus": "Lista completa não localizada no trecho acessível consultado; não equivale a afirmar que não foi publicada.",
+      "consultedAt": "2026-11-07",
+      "unresolved": []
+    },
+    {
+      "productId": "559fb7f1ea51cc24",
+      "name": "Kit L'Amour Home Care + Perfume Capilar L'Amour",
+      "url": "https://dalcotone.com.br/products/kit-lamour-perfume-capilar-lamour-morango-nutricao-e-brilho-natural",
+      "pageAccessed": true,
+      "crawlStatus": "today",
+      "compositionSummary": "Shampoo Nutritivo L'Amour 300 mL + Máscara Nutritiva L'Amour 300 g + Perfume Capilar L'Amour 100 mL. Principais ativos da linha: Vitamina A, Vitamina D, Pantenol e Extrato de Morango.",
+      "fullINCI": null,
+      "fullINCIStatus": "Lista completa não localizada no trecho acessível consultado; não equivale a afirmar que não foi publicada.",
+      "consultedAt": "2026-11-07",
+      "unresolved": []
+    },
+    {
+      "productId": "a2d935f4e04f38b2",
+      "name": "Kit L'Amour Morango",
+      "url": "https://dalcotone.com.br/collections/kits",
+      "pageAccessed": false,
+      "crawlStatus": "today",
+      "compositionSummary": null,
+      "fullINCI": null,
+      "fullINCIStatus": "Lista completa não localizada no trecho acessível consultado; não equivale a afirmar que não foi publicada.",
+      "consultedAt": "2026-11-07",
+      "unresolved": [
+        "Ficha individual atual não resolvida; coleção confirma nome, sem composição."
+      ]
+    },
+    {
+      "productId": "fb1b2105ce6e43c0",
+      "name": "Kit Max Force Home Care",
+      "url": "https://dalcotone.com.br/products/kit-max-force-home-care-completo-reconstrucao-capilar-pos-quimica",
+      "pageAccessed": true,
+      "crawlStatus": "6 days ago",
+      "compositionSummary": "Shampoo Reconstrutor Max Force 300 mL + Máscara Reconstrutora Max Force 300 g + Condicionador Reconstrutor Max Force 300 mL. Principais ativos: Óleo de Argan e Vitamina A.",
+      "fullINCI": null,
+      "fullINCIStatus": "Lista completa não localizada no trecho acessível consultado; não equivale a afirmar que não foi publicada.",
+      "consultedAt": "2026-11-07",
+      "unresolved": []
+    },
+    {
+      "productId": "7be4a970a7f7164e",
+      "name": "Kit Max Force Home Care + Óleo de Argan",
+      "url": "https://dalcotone.com.br/products/kit-max-force-home-care-argan-oil-premium-reconstrucao-anti-frizz",
+      "pageAccessed": true,
+      "crawlStatus": "today",
+      "compositionSummary": "Shampoo Reconstrutor Max Force 300 mL + Máscara Reconstrutora Max Force 300 g + Condicionador Reconstrutor Max Force 300 mL + Reparador de Pontas Argan Oil Premium 30 mL. Max Force: Óleo de Argan e Vitamina A.",
+      "fullINCI": null,
+      "fullINCIStatus": "Lista completa não localizada no trecho acessível consultado; não equivale a afirmar que não foi publicada.",
+      "consultedAt": "2026-11-07",
+      "unresolved": []
+    },
+    {
+      "productId": "7a947ed4065e018c",
+      "name": "Kit Max Force Profissional",
+      "url": "https://dalcotone.com.br/products/kit-max-force-profissional-3-em-1-reconstrucao-pos-quimica-completa-1l",
+      "pageAccessed": true,
+      "crawlStatus": "6 days ago",
+      "compositionSummary": "Shampoo Reconstrutor Max Force 1 L + Máscara Reconstrutora Max Force 1 kg + Condicionador Reconstrutor Max Force 1 L. Principais ativos: Óleo de Argan e Vitamina A.",
+      "fullINCI": null,
+      "fullINCIStatus": "Lista completa não localizada no trecho acessível consultado; não equivale a afirmar que não foi publicada.",
+      "consultedAt": "2026-11-07",
+      "unresolved": []
+    },
+    {
+      "productId": "99b3b3196433752a",
+      "name": "Kit Monovin",
+      "url": "https://dalcotone.com.br/products/kit-monovin-fortalecimento-capilar-e-estimulo-ao-crescimento-dos-fios",
+      "pageAccessed": true,
+      "crawlStatus": "2 weeks ago",
+      "compositionSummary": "Shampoo Monovin 300ml + Máscara Monovin + Tônico Capilar Monovin",
+      "fullINCI": null,
+      "fullINCIStatus": "Lista completa não localizada no trecho acessível consultado; não equivale a afirmar que não foi publicada.",
+      "consultedAt": "2026-11-07",
+      "unresolved": []
+    },
+    {
+      "productId": "060dbd1588f6e3af",
+      "name": "Kit Monovin + Woman Caps",
+      "url": "https://dalcotone.com.br/products/kit-monovin-woman-caps-auxilio-no-crescimento-capilar-e-fortalecimento",
+      "pageAccessed": true,
+      "crawlStatus": "last month",
+      "compositionSummary": "Shampoo Monovin 300 mL, Máscara Monovin (tamanho não especificado no trecho), Tônico Monovin (volume não especificado no trecho) e Woman Caps (60 cápsulas).",
+      "fullINCI": null,
+      "fullINCIStatus": "Lista completa não localizada no trecho acessível consultado; não equivale a afirmar que não foi publicada.",
+      "consultedAt": "2026-11-07",
+      "unresolved": []
+    },
+    {
+      "productId": "a36ced1725166917",
+      "name": "Kit Power Curls Home Care",
+      "url": "https://dalcotone.com.br/products/kit-power-curls-home-care-definicao-volume-e-hidratacao",
+      "pageAccessed": true,
+      "crawlStatus": "6 days ago",
+      "compositionSummary": "Shampoo para Cachos Power Curls 300 mL + Máscara para Cachos Power Curls 300 g + Creme de Modelagem Power Curls 300 mL. Principais ativos: Coco e D'Pantenol (Provitamina B5).",
+      "fullINCI": null,
+      "fullINCIStatus": "Lista completa não localizada no trecho acessível consultado; não equivale a afirmar que não foi publicada.",
+      "consultedAt": "2026-11-07",
+      "unresolved": []
+    },
+    {
+      "productId": "7c8bb0613125da45",
+      "name": "Kit Power Curls Home Care + Ativador de Cachos",
+      "url": "https://dalcotone.com.br/products/kit-power-curls-spray-ativador-de-cachos-definicao-volume-e-hidratacao",
+      "pageAccessed": true,
+      "crawlStatus": "2 weeks ago",
+      "compositionSummary": "Modo de uso confirma Shampoo, Máscara, Creme de Modelagem e Ativador de Cachos Power Curls. Volumes não verificados no trecho atual dessa ficha.",
+      "fullINCI": null,
+      "fullINCIStatus": "Lista completa não localizada no trecho acessível consultado; não equivale a afirmar que não foi publicada.",
+      "consultedAt": "2026-11-07",
+      "unresolved": [
+        "Validar volumes no rótulo/foto atual; não preencher com suposição."
+      ]
+    },
+    {
+      "productId": "af2c90a0e5bb3e69",
+      "name": "Kit Power Curls Profissional",
+      "url": "https://dalcotone.com.br/products/kit-power-curls-profissional-definicao-volume-e-hidratacao-1kg",
+      "pageAccessed": true,
+      "crawlStatus": "6 days ago",
+      "compositionSummary": "Shampoo para Cachos Power Curls 1 L + Máscara para Cachos Power Curls 1 kg + Creme de Modelagem Power Curls 1 L. Principais ativos: Coco e D'Pantenol (Provitamina B5).",
+      "fullINCI": null,
+      "fullINCIStatus": "Lista completa não localizada no trecho acessível consultado; não equivale a afirmar que não foi publicada.",
+      "consultedAt": "2026-11-07",
+      "unresolved": []
+    },
+    {
+      "productId": "05cc99b387f5eb3c",
+      "name": "Kit Power Repair Home Care",
+      "url": "https://dalcotone.com.br/products/kit-power-repair-home-care-hidratacao-e-protecao-da-cor",
+      "pageAccessed": true,
+      "crawlStatus": "6 days ago",
+      "compositionSummary": "Shampoo Hidratante Power Repair 300 mL + Máscara Hidratante Power Repair 300 g + Condicionador Hidratante Power Repair 300 mL. Principais ativos: Frulix de Açaí e Ceramidas.",
+      "fullINCI": null,
+      "fullINCIStatus": "Lista completa não localizada no trecho acessível consultado; não equivale a afirmar que não foi publicada.",
+      "consultedAt": "2026-11-07",
+      "unresolved": []
+    },
+    {
+      "productId": "51b07845101579ec",
+      "name": "Kit Power Repair Home Care + Power Luminous Oil",
+      "url": "https://dalcotone.com.br/products/kit-power-repair-home-care-c-power-luminous-oil",
+      "pageAccessed": true,
+      "crawlStatus": "today",
+      "compositionSummary": "Shampoo Hidratante Power Repair 300 mL + Máscara Hidratante Power Repair 300 g + Condicionador Hidratante Power Repair 300 mL + Power Luminous Oil 30 mL. Power Repair: Frulix de Açaí e Ceramidas. Power Luminous Oil: Óleo de Açaí.",
+      "fullINCI": null,
+      "fullINCIStatus": "Lista completa não localizada no trecho acessível consultado; não equivale a afirmar que não foi publicada.",
+      "consultedAt": "2026-11-07",
+      "unresolved": []
+    },
+    {
+      "productId": "db5efd967f8e7dfe",
+      "name": "Kit Power Repair Profissional",
+      "url": "https://dalcotone.com.br/products/kit-power-repair-profissional-3-em-1-hidratacao-e-protecao-da-cor-1l",
+      "pageAccessed": true,
+      "crawlStatus": "6 days ago",
+      "compositionSummary": "Shampoo Hidratante Power Repair 1 L + Máscara Hidratante Power Repair 1 kg + Condicionador Hidratante Power Repair 1 L. Principais ativos: Frulix de Açaí e Ceramidas.",
+      "fullINCI": null,
+      "fullINCIStatus": "Lista completa não localizada no trecho acessível consultado; não equivale a afirmar que não foi publicada.",
+      "consultedAt": "2026-11-07",
+      "unresolved": []
+    },
+    {
+      "productId": "82ac5f089100e9e1",
+      "name": "Kit S.O.S Detox Home Care",
+      "url": "https://dalcotone.com.br/products/kit-sos-detox-home-care-purificacao-revitalizante-com-controle-da-oleosidade",
+      "pageAccessed": true,
+      "crawlStatus": "6 days ago",
+      "compositionSummary": "Shampoo Detoxificante S.O.S Detox 300 mL + Máscara Detoxificante S.O.S Detox 300 g + Condicionador Detoxificante S.O.S Detox 300 mL + Finalizador S.O.S Detox 300 mL. Principais ativos: Café Verde, Fiber Detox e Óleo de Cártamo.",
+      "fullINCI": null,
+      "fullINCIStatus": "Lista completa não localizada no trecho acessível consultado; não equivale a afirmar que não foi publicada.",
+      "consultedAt": "2026-11-07",
+      "unresolved": []
+    },
+    {
+      "productId": "05a9d27f49a10fa2",
+      "name": "Kit S.O.S Detox Profissional",
+      "url": "https://dalcotone.com.br/products/kit-sos-detox-profissional-purificacao-e-controle-da-oleosidade",
+      "pageAccessed": true,
+      "crawlStatus": "6 days ago",
+      "compositionSummary": "Shampoo Detoxificante S.O.S Detox 1 L + Máscara Detoxificante S.O.S Detox 1 kg. Principais ativos: Café Verde, Fiber Detox e Óleo de Cártamo.",
+      "fullINCI": null,
+      "fullINCIStatus": "Lista completa não localizada no trecho acessível consultado; não equivale a afirmar que não foi publicada.",
+      "consultedAt": "2026-11-07",
+      "unresolved": []
+    }
+  ],
+  "criticalCorrections": [
+    {
+      "productId": "9297bd616196f4df",
+      "correction": "Kit ForceLife atual contém2itens, shampoo300mL+mask300g; remover condicionador do kit atual.",
+      "provenance": "Página oficial capturada hoje; composição e descrição concordam."
+    },
+    {
+      "productId": "3e67b66612b7f633",
+      "correction": "Kit ForceLife+MustUse atual contém3itens: shampoo300mL+mask300g+MustUse250mL; não inclui condicionador.",
+      "provenance": "Página oficial capturada hoje."
+    },
+    {
+      "productId": "244136c3b5dfed21",
+      "correction": "CronoPlus atual: Nutrição/Fortalecimento/Hidratação/Reconstrução; volumeausente no texto. PDF2025p41rótulos15mL. Textoantigodaloja4x18mL. Não assumirFortalecimento=Tônico."
+    },
+    {
+      "productId": "6ecaab3b560f58fd",
+      "correction": "KitHydra simples ficha capturada mêsanterior mencionaAlho+Ceramidas; KitHydra+Golden atual dizCeramidas/ProteínasHidrolisadas/VitaminaE. Mantercapturasproveniência separadas, semmisturarfórmulas."
+    },
+    {
+      "productId": "798eb9de5d73bf86",
+      "correction": "Páginaatual do kitBodySplash detalha4pirâmides olfativas, substituindo conteúdoantigo que sórepetiaProvoke. Não confundir notas comINCI."
+    }
+  ],
+  "catalogCoverage": {
+    "allReportedCount": 89,
+    "initialResearchCount": 85,
+    "identifiedMissingInitial": [
+      {
+        "name": "Máscara Reconstrutor Efeito Teia 500 g",
+        "url": "https://dalcotone.com.br/products/mascara-reconstrutor-efeito-teia-500g",
+        "status": "Confirmada na loja; ausente da lista inicial85, já incorporada ao app em rodada anterior."
+      }
+    ],
+    "unidentifiedRemainingCount": null,
+    "remainingStatus": "Uma ausência inicial confirmada (Reconstrutor500g). Demais diferenças ainda não conciliadas SKU por SKU; não concluir automaticamente três produtos novos, pois mudanças de disponibilidade, variantes e duplicatas exigem comparação integral. Paginação não acessível nesta rodada.",
+    "collectionKitsReportedCount": 26,
+    "warning": "Coleção Kits também inclui produtos individuais (ShampooForceLife300mL eMustUse250mL); quantidade26 não significa26kits distintos.",
+    "page2": {
+      "url": "https://dalcotone.com.br/collections/kits?page=2",
+      "status": "access-unresolved",
+      "note": "Duas tentativas da ferramenta retornaram URLnãoacessível, não conteúdo da página."
+    },
+    "nominalDifference": 4
+  },
+  "pdf2025Separation": {
+    "url": "https://usedalcotone.com/links/%5B%20DIGITAL%20%5D%20CAT%C3%81LOGO%20-%20DAL%20COTONE%202025-min.pdf",
+    "note": "PDF de linha não define necessariamente conteúdo do kit comercial atual. ForceLifePDF mostra4produtos da linha, enquanto kit atual2itens.",
+    "cronoVolumeCorrection": "PDF2025p41 é15mL. A informação18mL veio detextoantigodaloja, não doPDF."
+  },
+  "featuredKits": {
+    "note": "Quatrokits destacados nohomepage não limitam os demais elegíveis. Outros kits confirmados nas fichas podem ser exibidos por categoria/necessidade sem inventar novosagrupamentos.",
+    "currentFeaturedIds": [
+      "9297bd616196f4df",
+      "51b07845101579ec",
+      "7be4a970a7f7164e",
+      "fdf9be752a8c216a"
+    ]
+  },
+  "limitations": [
+    "Acesso da ferramenta pode entregar capturas de datas diferentes; crawlStatus preservado porregistro.",
+    "Não se inferiu composição química completa a partir de ativos destacados.",
+    "Volumes ausentes da ficha acessível permanecemsemconfirmação, não 'não publicados'."
+  ]
+}

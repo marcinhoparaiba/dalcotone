@@ -13,15 +13,38 @@
       "productId": "3e67b66612b7f633",
       "sourceUrl": "https://dalcotone.com.br/products/kit-force-life-finalizador-must-use-controle-de-oleosidade-e-reconstrucao-300g",
       "fields": {
-        "actives": ["Force Life: Capilmax, bambu e jaborandi", "Must Use: pantenol, ômegas 3, 5 e 6, queratina, Nano Link, Semi di Lino e silicones especiais"],
-        "benefits": ["Controle da oleosidade na raiz", "Hidratação e fortalecimento do comprimento", "Desembaraço e controle do frizz", "Proteção térmica na finalização"],
+        "actives": [
+          "Force Life: Capilmax, bambu e jaborandi",
+          "Must Use: pantenol, ômegas 3, 5 e 6, queratina, Nano Link, Semi di Lino e silicones especiais"
+        ],
+        "benefits": [
+          "Controle da oleosidade na raiz",
+          "Hidratação e fortalecimento do comprimento",
+          "Desembaraço e controle do frizz",
+          "Proteção térmica na finalização"
+        ],
         "indication": "Raiz oleosa ou mista e comprimento que precisa de hidratação, fortalecimento e proteção ao finalizar.",
         "use": "Shampoo: massagear no couro cabeludo molhado, aguardar 5–10 minutos e enxaguar. Máscara: distribuir no comprimento e pontas, aguardar 10–15 minutos e enxaguar. Must Use: borrifar e distribuir após a lavagem; a página admite uso com ou sem enxágue."
       },
       "kitItems": [
-        {"name": "Shampoo Esfoliante Force Life", "quantity": 1, "volume": "300 mL", "productId": "85e6ca2844f6803d"},
-        {"name": "Máscara Revitalizante Force Life", "quantity": 1, "volume": "300 g", "productId": "23691f31ecfc8833"},
-        {"name": "Fluido Reconstrutor Must Use", "quantity": 1, "volume": "250 mL", "productId": "0362c5b04fc5ffb5"}
+        {
+          "name": "Shampoo Esfoliante Force Life",
+          "quantity": 1,
+          "volume": "300 mL",
+          "productId": "85e6ca2844f6803d"
+        },
+        {
+          "name": "Máscara Revitalizante Force Life",
+          "quantity": 1,
+          "volume": "300 g",
+          "productId": "23691f31ecfc8833"
+        },
+        {
+          "name": "Fluido Reconstrutor Must Use",
+          "quantity": 1,
+          "volume": "250 mL",
+          "productId": "0362c5b04fc5ffb5"
+        }
       ]
     },
     {
@@ -29,6 +52,83 @@
       "sourceUrl": "https://dalcotone.com.br/products/shampoo-iluminador-blond-up-premium",
       "fields": {
         "use": "Aplicar nos cabelos molhados e massagear até espumar. Acompanhar a neutralização conforme a necessidade dos fios e enxaguar completamente."
+      }
+    },
+    {
+      "productId": "pdf-verniz-250",
+      "sourceUrl": "https://dalcotone.com.br/products/kit-cronograma-capilar-mascaras-capilares-250g",
+      "fields": {
+        "actives": [
+          "Proteína da seda",
+          "Ácido hialurônico"
+        ],
+        "activeDetails": [
+          {
+            "name": "Proteína da seda",
+            "role": "Maciez e fortalecimento da fibra.",
+            "scope": "manufacturer-claim",
+            "sourceUrl": "https://dalcotone.com.br/products/kit-cronograma-capilar-mascaras-capilares-250g"
+          },
+          {
+            "name": "Ácido hialurônico",
+            "role": "Manutenção da hidratação e brilho.",
+            "scope": "manufacturer-claim",
+            "sourceUrl": "https://dalcotone.com.br/products/kit-cronograma-capilar-mascaras-capilares-250g"
+          }
+        ],
+        "benefits": [
+          "Hidratação",
+          "Maciez e brilho"
+        ]
+      }
+    },
+    {
+      "productId": "pdf-nutri-protein-250",
+      "sourceUrl": "https://dalcotone.com.br/products/kit-cronograma-capilar-mascaras-capilares-250g",
+      "fields": {
+        "actives": [
+          "Nano proteínas"
+        ],
+        "activeDetails": [
+          {
+            "name": "Nano proteínas",
+            "role": "Nutrição, maleabilidade e toque sedoso na proposta da fórmula.",
+            "scope": "manufacturer-claim",
+            "sourceUrl": "https://dalcotone.com.br/products/kit-cronograma-capilar-mascaras-capilares-250g"
+          }
+        ],
+        "benefits": [
+          "Nutrição",
+          "Maleabilidade e toque sedoso"
+        ]
+      }
+    },
+    {
+      "productId": "pdf-restore-250",
+      "sourceUrl": "https://dalcotone.com.br/products/kit-cronograma-capilar-mascaras-capilares-250g",
+      "fields": {
+        "actives": [
+          "Queratina hidrolisada",
+          "Lumini System"
+        ],
+        "activeDetails": [
+          {
+            "name": "Queratina hidrolisada",
+            "role": "Fortalecimento e resistência da fibra.",
+            "scope": "manufacturer-claim",
+            "sourceUrl": "https://dalcotone.com.br/products/kit-cronograma-capilar-mascaras-capilares-250g"
+          },
+          {
+            "name": "Lumini System",
+            "role": "Brilho e acabamento antifrizz.",
+            "scope": "manufacturer-claim",
+            "sourceUrl": "https://dalcotone.com.br/products/kit-cronograma-capilar-mascaras-capilares-250g"
+          }
+        ],
+        "benefits": [
+          "Reconstrução cosmética",
+          "Controle de frizz"
+        ]
       }
     }
   ]
